@@ -39,8 +39,8 @@ td .miss { color: #999; }
 td.social a { display: inline-block; margin-right: 2px; opacity: .8; }
 td.social a:hover { opacity: 1; }
 td.social img { width: 16px; height: 16px; border-radius: 0; background: transparent; vertical-align: middle; }
-td.social, td.works, td.birth, td.threesize, td.cup { text-align: center; }
-th.col-birth, th.col-social, th.col-works, th.col-threesize, th.col-cup { text-align: center; }
+td.social, td.works, td.birth, td.threesize, td.cup, td.blood { text-align: center; }
+th.col-birth, th.col-social, th.col-works, th.col-threesize, th.col-cup, th.col-blood { text-align: center; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
 .tag-active { background: #e6fffb; color: #13c2c2; }
 .tag-retired { background: #fff1f0; color: #ff4d4f; }
@@ -58,7 +58,7 @@ tr.hidden { display: none; }
 <div class="header">
   <div class="title-row">
     <h1>女优信息总表</h1>
-    <span class="update-time">数据更新: 2026-08-05<br>21:51</span>
+    <span class="update-time">数据更新: 2026-08-05<br>22:01</span>
   </div>
   <div class="controls">
     <input type="text" id="search" placeholder="搜索女优(中/日/曾用名)" autocomplete="off">
@@ -69,6 +69,9 @@ tr.hidden { display: none; }
     </select>
     <select id="filterCup">
       <option value="">全部罩杯</option>
+    </select>
+    <select id="filterBlood">
+      <option value="">全部血型</option>
     </select>
     <select id="filterAgency">
       <option value="">全部公司</option>
@@ -96,6 +99,7 @@ tr.hidden { display: none; }
         <th data-sort="nameZh">名字 <span class="arrow">▲</span></th>
         <th class="col-birth" data-sort="birth">出生 <span class="arrow">▲</span></th>
         <th data-sort="age">年龄 <span class="arrow">▲</span></th>
+        <th class="col-blood" data-sort="bloodType">血型 <span class="arrow">▲</span></th>
         <th data-sort="height">身高 <span class="arrow">▲</span></th>
         <th data-sort="weight">体重 <span class="arrow">▲</span></th>
         <th class="col-threesize" data-sort="threeSize">三围 <span class="arrow">▲</span></th>
@@ -112,12 +116,13 @@ tr.hidden { display: none; }
   <div class="no-result hidden" id="noResult">没有找到匹配的结果</div>
 </div>
 <script>
-const DATA = [{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200","nameZh":"三上悠亞","nameJa":"三上悠亜","aliases":["鬼頭桃菜"],"birth":"1993.08.16","age":"32","height":"159","weight":"40kg","threeSize":"88 - 57 - 83","cup":"G","status":"引退","career":"2015.06.01 - 2023.08.15","agency":"S1 NO.1 STYLE","social":{"x":"yua_mikami","instagram":"yua_mikami","tiktok":"yua_mikami"},"works":""},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200","nameZh":"明日花綺羅","nameJa":"明日花キララ","aliases":[],"birth":"1988.10.02","age":"37","height":"162","weight":"44kg","threeSize":"90 - 58 - 85","cup":"G","status":"引退","career":"2007.12.21 - 2018","agency":"キラティス","social":{"x":"asukakiraran","instagram":"asukakiraran","tiktok":"asuka.kirara"},"works":""},{"avatar":"","nameZh":"枫花恋","nameJa":"楓カレン","aliases":["田中レモン","楓可憐"],"birth":"1999.08.25","age":"26","height":"162","weight":"","threeSize":"82 - 56 - 81","cup":"D","status":"引退","career":"2018.04.20 - 2022","agency":"FALENO","social":{"x":"honmononokaren","instagram":"kaedekaren0825","tiktok":""},"works":""},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200","nameZh":"新有菜","nameJa":"橋本ありな","aliases":["橋本有菜"],"birth":"1996.12.15","age":"29","height":"167","weight":"44kg","threeSize":"84 - 58 - 84","cup":"C-65","status":"引退","career":"2016.10.03 - 2025","agency":"","social":{"x":"","instagram":"","tiktok":""},"works":""},{"avatar":"","nameZh":"示例女优","nameJa":"示例女優","aliases":[],"birth":"1993.08.16","age":"32","height":"159","weight":"45kg","threeSize":"88 - 58 - 86","cup":"G-80","status":"现役","career":"","agency":"","social":{"x":"","instagram":"","tiktok":""},"works":""}];
+const DATA = [{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200","nameZh":"三上悠亞","nameJa":"三上悠亜","aliases":["鬼頭桃菜"],"birth":"1993.08.16","age":"32","bloodType":"A型","height":"159","weight":"40kg","threeSize":"88 - 57 - 83","cup":"G","status":"引退","career":"2015.06.01 - 2023.08.15","agency":"S1 NO.1 STYLE","social":{"x":"yua_mikami","instagram":"yua_mikami","tiktok":"yua_mikami"},"works":""},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200","nameZh":"明日花綺羅","nameJa":"明日花キララ","aliases":[],"birth":"1988.10.02","age":"37","bloodType":"A型","height":"162","weight":"44kg","threeSize":"90 - 58 - 85","cup":"G","status":"引退","career":"2007.12.21 - 2018","agency":"キラティス","social":{"x":"asukakiraran","instagram":"asukakiraran","tiktok":"asuka.kirara"},"works":""},{"avatar":"","nameZh":"枫花恋","nameJa":"楓カレン","aliases":["田中レモン","楓可憐"],"birth":"1999.08.25","age":"26","bloodType":"O型","height":"162","weight":"","threeSize":"82 - 56 - 81","cup":"D","status":"引退","career":"2018.04.20 - 2022","agency":"FALENO","social":{"x":"honmononokaren","instagram":"kaedekaren0825","tiktok":""},"works":""},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200","nameZh":"新有菜","nameJa":"橋本ありな","aliases":["橋本有菜"],"birth":"1996.12.15","age":"29","bloodType":"A型","height":"167","weight":"44kg","threeSize":"84 - 58 - 84","cup":"C-65","status":"引退","career":"2016.10.03 - 2025","agency":"","social":{"x":"","instagram":"","tiktok":""},"works":""},{"avatar":"","nameZh":"示例女优","nameJa":"示例女優","aliases":[],"birth":"1993.08.16","age":"32","bloodType":"","height":"159","weight":"45kg","threeSize":"88 - 58 - 86","cup":"G-80","status":"现役","career":"","agency":"","social":{"x":"","instagram":"","tiktok":""},"works":""}];
 
 const tbody = document.getElementById('tbody');
 const searchInput = document.getElementById('search');
 const filterStatus = document.getElementById('filterStatus');
 const filterCup = document.getElementById('filterCup');
+const filterBlood = document.getElementById('filterBlood');
 const filterAgency = document.getElementById('filterAgency');
 const filterBust = document.getElementById('filterBust');
 const filterSocial = document.getElementById('filterSocial');
@@ -145,6 +150,14 @@ cups.forEach(c => {
   const opt = document.createElement('option');
   opt.value = c; opt.textContent = c;
   filterCup.appendChild(opt);
+});
+
+// 构建血型筛选选项
+const bloods = [...new Set(DATA.map(d => d.bloodType).filter(Boolean))].sort();
+bloods.forEach(b => {
+  const opt = document.createElement('option');
+  opt.value = b; opt.textContent = b;
+  filterBlood.appendChild(opt);
 });
 
 // 构建公司筛选选项
@@ -197,6 +210,7 @@ function renderRow(d, idx) {
     + '<td class="name"><div class="zh">' + (d.nameZh || DASH) + '</div><div class="ja">' + (d.nameJa || '') + '</div>' + aliasLine + '</td>'
     + '<td class="birth">' + cell(d.birth) + '</td>'
     + '<td>' + (d.age ? d.age + '岁' : DASH) + '</td>'
+    + '<td class="blood">' + cell(d.bloodType) + '</td>'
     + '<td>' + (d.height ? d.height + 'cm' : DASH) + '</td>'
     + '<td>' + cell(d.weight) + '</td>'
     + '<td class="threesize">' + cell(d.threeSize) + '</td>'
@@ -213,6 +227,7 @@ function render() {
   const q = searchInput.value.trim().toLowerCase();
   const st = filterStatus.value;
   const cp = filterCup.value;
+  const bl = filterBlood.value;
   const ag = filterAgency.value;
   const bust = filterBust.value;
   const soc = filterSocial.value;
@@ -224,6 +239,7 @@ function render() {
     const matchName = !q || haystack.includes(q);
     const matchStatus = !st || d.status === st;
     const matchCup = !cp || d.cup === cp;
+    const matchBlood = !bl || d.bloodType === bl;
     const matchAgency = !ag || d.agency === ag;
     // 胸围分段筛选
     let matchBust = true;
@@ -241,7 +257,7 @@ function render() {
       else if (soc === 'none') matchSocial = !hasAny;
       else matchSocial = !!s[soc];
     }
-    const show = matchName && matchStatus && matchCup && matchAgency && matchBust && matchSocial;
+    const show = matchName && matchStatus && matchCup && matchBlood && matchAgency && matchBust && matchSocial;
     if (!show) return '';
     seq++;
     return renderRow(d, seq);
@@ -290,6 +306,7 @@ document.querySelectorAll('th[data-sort]').forEach(th => {
 searchInput.addEventListener('input', render);
 filterStatus.addEventListener('change', render);
 filterCup.addEventListener('change', render);
+filterBlood.addEventListener('change', render);
 filterAgency.addEventListener('change', render);
 filterBust.addEventListener('change', render);
 filterSocial.addEventListener('change', render);

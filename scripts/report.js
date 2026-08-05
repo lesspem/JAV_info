@@ -137,15 +137,15 @@ function buildMarkdown(records, incompleteCount) {
   );
   lines.push('');
   lines.push(
-    '| # | 头像 | 名字 | 出生 | 年龄 | 身高 | 体重 | 三围 | 罩杯 | 职业生涯 | 所在公司 | 社交媒体 | 状态 | 作品 |'
+    '| # | 头像 | 名字 | 出生 | 年龄 | 血型 | 身高 | 体重 | 三围 | 罩杯 | 职业生涯 | 所在公司 | 社交媒体 | 状态 | 作品 |'
   );
-  lines.push('| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |');
+  lines.push('| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |');
 
   records.forEach((r, i) => {
     const status = r.retired ? '引退' : '现役';
     lines.push(
       `| ${i + 1} | ${fmtAvatar(r)} | ${fmtName(r)} | ${cell(fmtBirth(r.birth))} | ${cellSuffix(calcAge(r.birth), '岁')} | ` +
-        `${cellSuffix(r.height, 'cm')} | ${cell(r.weight)} | ${cell(r.threeSize)} | ${cell(r.cup)} | ` +
+        `${cell(r.bloodType)} | ${cellSuffix(r.height, 'cm')} | ${cell(r.weight)} | ${cell(r.threeSize)} | ${cell(r.cup)} | ` +
         `${cell(calcCareer(r))} | ${cell(r.agency)} | ${fmtSocial(r)} | ${status} | ${cell(r.works)} |`
     );
   });

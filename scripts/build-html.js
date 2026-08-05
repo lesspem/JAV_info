@@ -36,6 +36,7 @@ function main() {
     aliases: (r.aliases || []).filter((a) => a && a !== r.nameZh && a !== r.nameJa),
     birth: fmtBirth(r.birth),
     age: calcAge(r.birth),
+    bloodType: r.bloodType || '',
     height: r.height || '',
     weight: r.weight || '',
     threeSize: r.threeSize || '',
@@ -95,8 +96,8 @@ td .miss { color: #999; }
 td.social a { display: inline-block; margin-right: 2px; opacity: .8; }
 td.social a:hover { opacity: 1; }
 td.social img { width: 16px; height: 16px; border-radius: 0; background: transparent; vertical-align: middle; }
-td.social, td.works, td.birth, td.threesize, td.cup { text-align: center; }
-th.col-birth, th.col-social, th.col-works, th.col-threesize, th.col-cup { text-align: center; }
+td.social, td.works, td.birth, td.threesize, td.cup, td.blood { text-align: center; }
+th.col-birth, th.col-social, th.col-works, th.col-threesize, th.col-cup, th.col-blood { text-align: center; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
 .tag-active { background: #e6fffb; color: #13c2c2; }
 .tag-retired { background: #fff1f0; color: #ff4d4f; }
@@ -126,6 +127,9 @@ tr.hidden { display: none; }
     <select id="filterCup">
       <option value="">全部罩杯</option>
     </select>
+    <select id="filterBlood">
+      <option value="">全部血型</option>
+    </select>
     <select id="filterAgency">
       <option value="">全部公司</option>
     </select>
@@ -152,6 +156,7 @@ tr.hidden { display: none; }
         <th data-sort="nameZh">名字 <span class="arrow">▲</span></th>
         <th class="col-birth" data-sort="birth">出生 <span class="arrow">▲</span></th>
         <th data-sort="age">年龄 <span class="arrow">▲</span></th>
+        <th class="col-blood" data-sort="bloodType">血型 <span class="arrow">▲</span></th>
         <th data-sort="height">身高 <span class="arrow">▲</span></th>
         <th data-sort="weight">体重 <span class="arrow">▲</span></th>
         <th class="col-threesize" data-sort="threeSize">三围 <span class="arrow">▲</span></th>
@@ -174,6 +179,7 @@ const tbody = document.getElementById('tbody');
 const searchInput = document.getElementById('search');
 const filterStatus = document.getElementById('filterStatus');
 const filterCup = document.getElementById('filterCup');
+const filterBlood = document.getElementById('filterBlood');
 const filterAgency = document.getElementById('filterAgency');
 const filterBust = document.getElementById('filterBust');
 const filterSocial = document.getElementById('filterSocial');
@@ -201,6 +207,14 @@ cups.forEach(c => {
   const opt = document.createElement('option');
   opt.value = c; opt.textContent = c;
   filterCup.appendChild(opt);
+});
+
+// 构建血型筛选选项
+const bloods = [...new Set(DATA.map(d => d.bloodType).filter(Boolean))].sort();
+bloods.forEach(b => {
+  const opt = document.createElement('option');
+  opt.value = b; opt.textContent = b;
+  filterBlood.appendChild(opt);
 });
 
 // 构建公司筛选选项
@@ -253,6 +267,7 @@ function renderRow(d, idx) {
     + '<td class="name"><div class="zh">' + (d.nameZh || DASH) + '</div><div class="ja">' + (d.nameJa || '') + '</div>' + aliasLine + '</td>'
     + '<td class="birth">' + cell(d.birth) + '</td>'
     + '<td>' + (d.age ? d.age + '岁' : DASH) + '</td>'
+    + '<td class="blood">' + cell(d.bloodType) + '</td>'
     + '<td>' + (d.height ? d.height + 'cm' : DASH) + '</td>'
     + '<td>' + cell(d.weight) + '</td>'
     + '<td class="threesize">' + cell(d.threeSize) + '</td>'
@@ -269,6 +284,7 @@ function render() {
   const q = searchInput.value.trim().toLowerCase();
   const st = filterStatus.value;
   const cp = filterCup.value;
+  const bl = filterBlood.value;
   const ag = filterAgency.value;
   const bust = filterBust.value;
   const soc = filterSocial.value;
@@ -280,6 +296,7 @@ function render() {
     const matchName = !q || haystack.includes(q);
     const matchStatus = !st || d.status === st;
     const matchCup = !cp || d.cup === cp;
+    const matchBlood = !bl || d.bloodType === bl;
     const matchAgency = !ag || d.agency === ag;
     // 胸围分段筛选
     let matchBust = true;
@@ -297,7 +314,7 @@ function render() {
       else if (soc === 'none') matchSocial = !hasAny;
       else matchSocial = !!s[soc];
     }
-    const show = matchName && matchStatus && matchCup && matchAgency && matchBust && matchSocial;
+    const show = matchName && matchStatus && matchCup && matchBlood && matchAgency && matchBust && matchSocial;
     if (!show) return '';
     seq++;
     return renderRow(d, seq);
@@ -346,6 +363,7 @@ document.querySelectorAll('th[data-sort]').forEach(th => {
 searchInput.addEventListener('input', render);
 filterStatus.addEventListener('change', render);
 filterCup.addEventListener('change', render);
+filterBlood.addEventListener('change', render);
 filterAgency.addEventListener('change', render);
 filterBust.addEventListener('change', render);
 filterSocial.addEventListener('change', render);

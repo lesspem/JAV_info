@@ -81,6 +81,7 @@ function emptyRecord() {
     aliases: [],
     avatar: '',
     birth: '',
+    bloodType: '',
     height: '',
     weight: '',
     threeSize: '',
@@ -156,6 +157,14 @@ function parseWikitext(wikitext) {
   if (h) {
     const hm = /\d+(\.\d+)?/.exec(h);
     if (hm) r.height = hm[0].split('.')[0];
+  }
+
+  // ---- 血型 ----
+  const bt = pickParam(wikitext, ['血液型', '血型']);
+  if (bt) {
+    // 提取 A/B/O/AB 型，形如「A型」「[[ABO式血液型|A型]]」清洗后为 "A型"
+    const btm = /(AB|A|B|O)\s*型/i.exec(bt);
+    if (btm) r.bloodType = btm[1].toUpperCase() + '型';
   }
 
   // ---- 体重（很多条目为空）----
@@ -396,6 +405,7 @@ function mergeRecord(base, extra) {
     'nameZh',
     'avatar',
     'birth',
+    'bloodType',
     'height',
     'weight',
     'threeSize',
