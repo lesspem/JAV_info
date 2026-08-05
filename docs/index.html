@@ -40,6 +40,7 @@ td.social a { display: inline-block; margin-right: 2px; opacity: .8; }
 td.social a:hover { opacity: 1; }
 td.social img { width: 16px; height: 16px; border-radius: 0; background: transparent; vertical-align: middle; }
 td.social, td.works, td.birth { text-align: center; }
+th.col-birth, th.col-social, th.col-works { text-align: center; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
 .tag-active { background: #e6fffb; color: #13c2c2; }
 .tag-retired { background: #fff1f0; color: #ff4d4f; }
@@ -56,7 +57,7 @@ tr.hidden { display: none; }
 <div class="header">
   <div class="title-row">
     <h1>女优信息总表</h1>
-    <span class="update-time">数据更新: 2026-08-05<br>21:36</span>
+    <span class="update-time">数据更新: 2026-08-05<br>21:42</span>
   </div>
   <div class="controls">
     <input type="text" id="search" placeholder="搜索女优(中/日/曾用名)" autocomplete="off">
@@ -92,7 +93,7 @@ tr.hidden { display: none; }
         <th>#</th>
         <th class="col-avatar">头像</th>
         <th data-sort="nameZh">名字 <span class="arrow">▲</span></th>
-        <th data-sort="birth">出生 <span class="arrow">▲</span></th>
+        <th class="col-birth" data-sort="birth">出生 <span class="arrow">▲</span></th>
         <th data-sort="age">年龄 <span class="arrow">▲</span></th>
         <th data-sort="height">身高 <span class="arrow">▲</span></th>
         <th data-sort="weight">体重 <span class="arrow">▲</span></th>
@@ -100,9 +101,9 @@ tr.hidden { display: none; }
         <th data-sort="cup">罩杯 <span class="arrow">▲</span></th>
         <th data-sort="career">职业生涯 <span class="arrow">▲</span></th>
         <th data-sort="agency">所在公司 <span class="arrow">▲</span></th>
-        <th>社交媒体</th>
+        <th class="col-social">社交媒体</th>
         <th data-sort="status">状态 <span class="arrow">▲</span></th>
-        <th>作品</th>
+        <th class="col-works">作品</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
