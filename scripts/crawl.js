@@ -171,6 +171,14 @@ async function crawlOne(name) {
   return merged;
 }
 
+/** 标注文本：抓不到数据时追加到 seeds 名字后面 */
+const NO_DATA_MARK = '  # 未抓到数据';
+
+/** 从 seeds 一行里剥离已有的「# 未抓到数据」标注，返回纯名字 */
+function stripMark(line) {
+  return line.replace(/\s*#\s*未抓到数据\s*$/, '').trim();
+}
+
 function readSeeds() {
   if (!fs.existsSync(SEEDS_FILE)) {
     console.error(`seeds 文件不存在：${SEEDS_FILE}`);
@@ -181,7 +189,32 @@ function readSeeds() {
     .readFileSync(SEEDS_FILE, 'utf8')
     .split(/\r?\n/)
     .map((s) => s.trim())
-    .filter((s) => s && !s.startsWith('#'));
+    // 整行是注释（纯说明行）才跳过；带「# 未抓到数据」标注的名字行要保留
+    .filter((s) => s && !(s.startsWith('#') && !/未抓到数据/.test(s)))
+    .map(stripMark)
+    .filter(Boolean);
+}
+
+/**
+ * 抓取结束后回写 seeds/names.txt：
+ * 对「全空」的名字在行尾追加「# 未抓到数据」，成功抓到的则移除该标注。
+ * 保留纯注释行、空行和原有顺序。
+ * @param {Set<string>} emptyNames 本次抓取判定为全空的名字集合
+ */
+function annotateSeeds(emptyNames) {
+  const raw = fs.readFileSync(SEEDS_FILE, 'utf8').split(/\r?\n/);
+  const out = raw.map((line) => {
+    const trimmed = line.trim();
+    // 空行、纯说明注释行原样保留
+    if (!trimmed || (trimmed.startsWith('#') && !/未抓到数据/.test(trimmed))) {
+      return line;
+    }
+    const name = stripMark(trimmed);
+    if (!name) return line;
+    if (emptyNames.has(name)) return name + NO_DATA_MARK;
+    return name; // 抓到数据 → 去掉可能存在的旧标注
+  });
+  fs.writeFileSync(SEEDS_FILE, out.join('\n'), 'utf8');
 }
 
 /** 需要检查完整性的字段 */
@@ -202,12 +235,20 @@ async function main() {
   let partial = 0;
   let empty = 0;
   let skip = 0;
+  const emptyNames = new Set();
 
   for (let i = 0; i < names.length; i++) {
     const name = names[i];
     const outFile = path.join(AUTO_DIR, safeFileName(name) + '.json');
     if (!FORCE && fs.existsSync(outFile)) {
       skip++;
+      // 跳过的记录也要判断是否为空，以便正确维护 seeds 标注
+      try {
+        const old = JSON.parse(fs.readFileSync(outFile, 'utf8'));
+        if (!hasData(old)) emptyNames.add(name);
+      } catch (e) {
+        /* 文件损坏就当作有数据，避免误标 */
+      }
       continue;
     }
     process.stdout.write(`[${i + 1}/${names.length}] ${name} ... `);
@@ -237,12 +278,20 @@ async function main() {
     } else {
       console.log('EMPTY 全部缺失');
       empty++;
+      emptyNames.add(name);
     }
 
     await sleep(500); // 温柔一点
   }
 
   console.log(`\n完成：完整=${full} 部分缺失=${partial} 全空=${empty} 跳过=${skip}`);
+
+  // 回写 seeds：标注未抓到数据的名字
+  annotateSeeds(emptyNames);
+  if (emptyNames.size) {
+    console.log(`已在 seeds/names.txt 中标注 ${emptyNames.size} 个未抓到数据的名字`);
+  }
+
   console.log(`接下来运行 node scripts/report.js 查看待补清单`);
 }
 
