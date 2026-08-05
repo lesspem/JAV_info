@@ -81,7 +81,7 @@ dist/                  # 合并后的最终数据（供脚本消费）
   非空字段会覆盖 auto 里的对应字段，为空字符串则不覆盖（会保留 auto 的值）。
 
 ### 2. 删出演员
-1.打开JAV_info内顶部Actions
+```1.打开JAV_info内顶部Actions
 2。左侧点 remove-actor
 3.右上角 Run workflow
 4.弹出框里填名字（多个用空格分隔，seeds/names.txt，大小写要一致）
@@ -89,7 +89,7 @@ dist/                  # 合并后的最终数据（供脚本消费）
 约 30 秒后完成，自动提交推送。刷新页面就能看到删除的提交，网页也会自动更新。
 6.终端命令把远程改动拉本地：cd ~/ComateProjects/JAV_info && git pull
 7拉完后本地的 docs/index.html 就是最新的了，刷新浏览器即可看到删除效果。
-
+```
 ### 3. 消费端（用户脚本）
 
 **方案 A：jsDelivr CDN（推荐，国内速度好）**
