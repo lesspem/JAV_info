@@ -9,7 +9,10 @@
     "report": "node scripts/report.js",
     "merge": "node scripts/merge.js",
     "build": "node scripts/report.js && node scripts/build-html.js && node scripts/merge.js",
-    "remove": "node scripts/remove.js"
+    "remove": "node scripts/remove.js",
+    "export": "node scripts/export-csv.js",
+    "import": "node scripts/import-csv.js",
+    "import:dry": "node scripts/import-csv.js --dry"
   },
   "engines": {
     "node": ">=18"
