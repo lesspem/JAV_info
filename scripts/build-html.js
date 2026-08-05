@@ -64,15 +64,15 @@ function buildHTML(data) {
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; color: #333; padding: 20px; }
 .header { max-width: 1200px; margin: 0 auto 20px; }
-.title-row { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 12px; }
+.title-row { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 12px; }
 .header h1 { font-size: 24px; }
-.update-time { font-size: 13px; color: #999; }
+.update-time { font-size: 13px; color: #999; text-align: right; line-height: 1.5; }
 .controls { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
 .controls input, .controls select {
   padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px;
   font-size: 14px; background: #fff;
 }
-.controls input { width: 160px; text-align: center; }
+.controls input { width: 168px; text-align: center; }
 .controls select { min-width: 100px; }
 .stats { font-size: 13px; color: #888; margin-left: auto; }
 .table-wrap { max-width: 1200px; margin: 0 auto; overflow-x: auto; }
@@ -114,7 +114,7 @@ tr.hidden { display: none; }
 <div class="header">
   <div class="title-row">
     <h1>女优信息总表</h1>
-    <span class="update-time">数据更新: ${new Date().toISOString().slice(0, 10)}</span>
+    <span class="update-time">数据更新: ${new Date().toISOString().slice(0, 10)}<br>${new Date().toTimeString().slice(0, 5)}</span>
   </div>
   <div class="controls">
     <input type="text" id="search" placeholder="搜索女优(中/日/曾用名)" autocomplete="off">
@@ -181,8 +181,9 @@ const stats = document.getElementById('stats');
 const noResult = document.getElementById('noResult');
 
 // 从三围字符串取胸围（第一个数字）
+// 注意：本文件用模板字符串输出，正则里的反斜杠必须写成 \\\\d 才能在生成的 HTML 里得到 \\d
 function getBust(threeSize) {
-  const m = /(\d+)/.exec(threeSize || '');
+  const m = /(\\d+)/.exec(threeSize || '');
   return m ? parseInt(m[1], 10) : 0;
 }
 // 胸围分段（label 不能含 < > 等字符，否则会破坏 HTML 解析）
