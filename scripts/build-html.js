@@ -84,7 +84,7 @@ th { font-weight: 600; color: #555; cursor: pointer; user-select: none; }
 th:hover { color: #000; }
 th .arrow { font-size: 10px; margin-left: 4px; opacity: .4; }
 th.sorted .arrow { opacity: 1; color: #1890ff; }
-td.name { white-space: normal; min-width: 110px; }
+td.name { white-space: normal; min-width: 80px; }
 td.idx { color: #aaa; font-size: 12px; text-align: center; width: 36px; }
 th.col-avatar, td.avatar { text-align: center; }
 td.avatar { width: 70px; }
