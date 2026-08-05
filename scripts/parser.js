@@ -12,9 +12,15 @@
 /** 从 wikitext 中提取模板参数，按 keys 顺序取第一个有值的 */
 function pickParam(txt, keys) {
   for (const key of keys) {
-    const m = new RegExp('\\|\\s*' + key + '\\s*=\\s*([^\\n|}{]*)').exec(txt);
+    // 匹配 |key = value（值不含换行，不含下一个 | 参数起始）
+    const re = new RegExp('\\|\\s*' + key + '\\s*=\\s*([^\\n|]*(?:\\|(?![\\w\\s]*=))*[^\\n]*)');
+    const m = re.exec(txt);
     if (m) {
-      const v = m[1]
+      // 只取第一个 | 之前的内容（防止越界到下一个参数）
+      let raw = m[1];
+      // 如果值里有嵌套 [[ ... | ... ]]，先保护再切分
+      const cleaned = raw.split('\n')[0]; // 只取第一行
+      const v = cleaned
         .replace(/<!--[\s\S]*?-->/g, '')
         .replace(/\[\[(?:[^|\]]*\|)?([^\]]+)\]\]/g, '$1')
         .replace(/\{\{[^}]*\}\}/g, '')
@@ -35,6 +41,12 @@ function isClosedPeriod(s) {
 /** 从闭区间字符串中取出结束年份，如「2015年 - 2023年」=> "2023" */
 function closedPeriodEnd(s) {
   const m = /\d{4}\s*年?\s*[-–—~〜]\s*(\d{4})\s*年/.exec(s || '');
+  return m ? m[1] : '';
+}
+
+/** 从期间字符串中取出起始年份，如「2015年 - 2023年」=> "2015" */
+function periodStart(s) {
+  const m = /(\d{4})\s*年/.exec(s || '');
   return m ? m[1] : '';
 }
 
@@ -70,6 +82,7 @@ function emptyRecord() {
   return {
     nameJa: '',
     nameZh: '',
+    aliases: [],
     avatar: '',
     birth: '',
     height: '',
@@ -78,8 +91,29 @@ function emptyRecord() {
     cup: '',
     retired: false,
     retiredAt: '',
+    debut: '',
+    agency: '',
+    social: { x: '', instagram: '', tiktok: '' },
     sources: [],
   };
+}
+
+/**
+ * 生成"职业生涯"展示字符串
+ *   引退：debut - retiredAt   （若 retiredAt 只有年份则不带月日）
+ *   现役：debut - 至今
+ *   无 debut 时返回空
+ * 日期分隔符统一用 '.'
+ */
+function fmtDate(v) {
+  return v ? String(v).replace(/-/g, '.') : '';
+}
+function calcCareer(rec) {
+  const debut = fmtDate(rec.debut);
+  if (!debut && !rec.retired) return '';
+  const from = debut || '?';
+  const to = rec.retired ? fmtDate(rec.retiredAt) || '?' : '至今';
+  return `${from} - ${to}`;
 }
 
 /**
@@ -216,6 +250,69 @@ function parseWikitext(wikitext) {
     if (retireRe.test(cleaned)) r.retired = true;
   }
 
+  // ---- 曾用名 / 别名 ----
+  // 別名字段形如「鬼頭桃菜（本名）」，可能有多个用 、/，或空格分隔
+  const alias = pickParam(wikitext, ['別名', '別名義', '旧芸名', '曾用名']);
+  if (alias) {
+    const raw = alias
+      // 常见分隔符：中文顿号、日文顿号、逗号、斜杠、多空白
+      .split(/[、,，/／]|\s{2,}|\s/)
+      .map((s) => s.replace(/[（(][^）)]*[）)]/g, '').trim())
+      // 过滤：空值、过长、纯 ASCII（多为误抓的 URL 片段）
+      .filter((s) => s && s.length <= 12 && !/^[\w.\-]+$/.test(s));
+    // 去重 + 剔除与 nameJa/nameZh 相同的项（后面 report/html 层还会二次过滤，但这里先净化存储）
+    const dedup = [...new Set(raw)].filter((a) => a !== r.nameJa && a !== r.nameZh);
+    r.aliases = dedup;
+  }
+
+  // ---- 所在公司 / 事务所 ----
+  const agency = pickParam(wikitext, [
+    '専属契約',
+    '所属事務所',
+    '事務所',
+    '所属',
+    'レーベル',
+    '經紀公司',
+    '经纪公司',
+  ]);
+  if (agency) r.agency = agency.trim();
+
+  // ---- 出道日期 ----
+  // 思路：先从 AV出演期間 取起始年份，再在正文中找该年的「M月D日 ... デビュー」
+  const debutYear = periodStart(period || pickParam(wikitext, ['活動期間']));
+  if (debutYear) {
+    const clean2 = wikitext
+      .replace(/<ref[^>]*>[\s\S]*?<\/ref>/g, '')
+      .replace(/<ref[^/]*\/>/g, '');
+    // 模式：「YYYY年M月D日 ... デビュー」或紧邻 AVデビュー 的「M月D日」
+    const dPatterns = [
+      new RegExp(`${debutYear}年\\s*(\\d{1,2})月\\s*(\\d{1,2})日[^。\\n]{0,80}(?:AVデビュー|デビュー作|AV出演開始)`),
+      /(\d{1,2})月\s*(\d{1,2})日[^。\n]{0,80}(?:AVデビュー|でAVデビュー|デビュー作品)/,
+      /(\d{1,2})月\s*(\d{1,2})日[^。\n]{0,60}デビュー/,
+    ];
+    for (const p of dPatterns) {
+      const m = p.exec(clean2);
+      if (m) {
+        r.debut = `${debutYear}-${String(m[1]).padStart(2, '0')}-${String(m[2]).padStart(2, '0')}`;
+        break;
+      }
+    }
+    // 找不到精确日期就只留年份
+    if (!r.debut) r.debut = debutYear;
+  }
+
+  // ---- 社交媒体 ----
+  // 只从维基官方账户模板抽取，避免误抓正文引用里其他人的账户。
+  // 三大平台的官方模板：{{Twitter|user}} / {{X|user}} / {{Instagram|user}} / {{TikTok|user}}
+  const twT = /\{\{\s*(?:Twitter|X)\s*\|\s*([A-Za-z0-9_]{2,20})\s*[|}]/i.exec(wikitext);
+  if (twT) r.social.x = twT[1];
+
+  const igT = /\{\{\s*Instagram\s*\|\s*([A-Za-z0-9_.]{2,30})\s*[|}]/i.exec(wikitext);
+  if (igT) r.social.instagram = igT[1];
+
+  const ttT = /\{\{\s*TikTok\s*\|\s*([A-Za-z0-9_.]{2,30})\s*[|}]/i.exec(wikitext);
+  if (ttT) r.social.tiktok = ttT[1];
+
   return r;
 }
 
@@ -291,10 +388,24 @@ function mergeRecord(base, extra) {
     'threeSize',
     'cup',
     'retiredAt',
+    'debut',
+    'agency',
   ]) {
     if (!base[key] && extra[key]) base[key] = extra[key];
   }
   if (!base.retired && extra.retired) base.retired = true;
+  // 别名数组：合并去重
+  if (extra.aliases && extra.aliases.length) {
+    const set = new Set([...(base.aliases || []), ...extra.aliases]);
+    base.aliases = [...set];
+  }
+  // 社交媒体：逐个补空
+  if (extra.social) {
+    base.social = base.social || { x: '', instagram: '', tiktok: '' };
+    for (const k of ['x', 'instagram', 'tiktok']) {
+      if (!base.social[k] && extra.social[k]) base.social[k] = extra.social[k];
+    }
+  }
   return base;
 }
 
@@ -307,8 +418,11 @@ module.exports = {
   pickParam,
   isClosedPeriod,
   closedPeriodEnd,
+  periodStart,
   toISOBirth,
   calcAge,
+  calcCareer,
+  fmtDate,
   emptyRecord,
   parseWikitext,
   parseXslistText,

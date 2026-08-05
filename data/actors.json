@@ -2,6 +2,9 @@
   {
     "nameJa": "三上悠亜",
     "nameZh": "三上悠亞",
+    "aliases": [
+      "鬼頭桃菜"
+    ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200",
     "birth": "1993-08-16",
     "height": "159",
@@ -10,6 +13,13 @@
     "cup": "G",
     "retired": true,
     "retiredAt": "2023-08-15",
+    "debut": "2015-06-01",
+    "agency": "S1 NO.1 STYLE",
+    "social": {
+      "x": "yua_mikami",
+      "instagram": "yua_mikami",
+      "tiktok": "yua_mikami"
+    },
     "sources": [
       "ja.wikipedia"
     ],
@@ -19,6 +29,7 @@
   {
     "nameJa": "明日花キララ",
     "nameZh": "明日花綺羅",
+    "aliases": [],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200",
     "birth": "1988-10-02",
     "height": "162",
@@ -27,6 +38,13 @@
     "cup": "G",
     "retired": true,
     "retiredAt": "2018",
+    "debut": "2007-12-21",
+    "agency": "キラティス",
+    "social": {
+      "x": "asukakiraran",
+      "instagram": "asukakiraran",
+      "tiktok": "asuka.kirara"
+    },
     "sources": [
       "ja.wikipedia"
     ],
@@ -36,6 +54,11 @@
   {
     "nameJa": "橋本ありな",
     "nameZh": "新有菜",
+    "aliases": [
+      "新有菜",
+      "橋本ありな",
+      "橋本有菜"
+    ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200",
     "birth": "1996-12-15",
     "height": "167",
@@ -44,6 +67,13 @@
     "cup": "C-65",
     "retired": true,
     "retiredAt": "2025",
+    "debut": "2016-10-03",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
     "sources": [
       "ja.wikipedia"
     ],

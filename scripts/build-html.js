@@ -10,7 +10,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { calcAge } = require('./parser');
+const { calcAge, calcCareer } = require('./parser');
 
 const ROOT = path.resolve(__dirname, '..');
 const JSON_FILE = path.join(ROOT, 'data', 'actors.json');
@@ -18,9 +18,6 @@ const HTML_FILE = path.join(ROOT, 'docs', 'index.html');
 
 function fmtBirth(birth) {
   return birth ? birth.replace(/-/g, '.') : '';
-}
-function fmtRetiredAt(v) {
-  return v ? String(v).replace(/-/g, '.') : '';
 }
 
 function main() {
@@ -36,6 +33,7 @@ function main() {
     avatar: r.avatar || '',
     nameZh: r.nameZh || '',
     nameJa: r.nameJa || r.name || '',
+    aliases: (r.aliases || []).filter((a) => a && a !== r.nameZh && a !== r.nameJa),
     birth: fmtBirth(r.birth),
     age: calcAge(r.birth),
     height: r.height || '',
@@ -43,7 +41,9 @@ function main() {
     threeSize: r.threeSize || '',
     cup: r.cup || '',
     status: r.retired ? '引退' : '现役',
-    retiredAt: r.retired ? fmtRetiredAt(r.retiredAt) : '',
+    career: calcCareer(r),
+    agency: r.agency || '',
+    social: r.social || { x: '', instagram: '', tiktok: '' },
   }));
 
   const html = buildHTML(data);
@@ -80,11 +80,14 @@ th { font-weight: 600; color: #555; cursor: pointer; user-select: none; }
 th:hover { color: #000; }
 th .arrow { font-size: 10px; margin-left: 4px; opacity: .4; }
 th.sorted .arrow { opacity: 1; color: #1890ff; }
-td.name { white-space: normal; min-width: 100px; }
+td.name { white-space: normal; min-width: 110px; }
 td.name .zh { font-weight: 600; }
 td.name .ja { color: #888; font-size: 12px; }
+td.name .alias { color: #bbb; font-size: 11px; margin-top: 2px; }
 td img { width: 50px; height: 50px; object-fit: cover; border-radius: 4px; background: #eee; }
 td .miss { color: #ff4d4f; }
+td.social a { text-decoration: none; margin-right: 6px; font-size: 15px; }
+td.social a:hover { opacity: .7; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
 .tag-active { background: #e6fffb; color: #13c2c2; }
 .tag-retired { background: #fff1f0; color: #ff4d4f; }
@@ -101,7 +104,7 @@ tr.hidden { display: none; }
 <div class="header">
   <h1>女优信息总表</h1>
   <div class="controls">
-    <input type="text" id="search" placeholder="搜索名字（中文/日文）..." autocomplete="off">
+    <input type="text" id="search" placeholder="搜索名字（中文/日文/曾用名）..." autocomplete="off">
     <select id="filterStatus">
       <option value="">全部状态</option>
       <option value="现役">现役</option>
@@ -109,6 +112,9 @@ tr.hidden { display: none; }
     </select>
     <select id="filterCup">
       <option value="">全部罩杯</option>
+    </select>
+    <select id="filterAgency">
+      <option value="">全部公司</option>
     </select>
     <span class="stats" id="stats"></span>
   </div>
@@ -118,7 +124,7 @@ tr.hidden { display: none; }
     <thead>
       <tr>
         <th>头像</th>
-        <th data-sort="name">名字 <span class="arrow">▲</span></th>
+        <th data-sort="nameZh">名字 <span class="arrow">▲</span></th>
         <th data-sort="birth">出生 <span class="arrow">▲</span></th>
         <th data-sort="age">年龄 <span class="arrow">▲</span></th>
         <th data-sort="height">身高 <span class="arrow">▲</span></th>
@@ -126,7 +132,9 @@ tr.hidden { display: none; }
         <th>三围</th>
         <th data-sort="cup">罩杯 <span class="arrow">▲</span></th>
         <th data-sort="status">状态 <span class="arrow">▲</span></th>
-        <th data-sort="retiredAt">退役时间 <span class="arrow">▲</span></th>
+        <th data-sort="career">职业生涯 <span class="arrow">▲</span></th>
+        <th data-sort="agency">所在公司 <span class="arrow">▲</span></th>
+        <th>社交媒体</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -140,6 +148,7 @@ const tbody = document.getElementById('tbody');
 const searchInput = document.getElementById('search');
 const filterStatus = document.getElementById('filterStatus');
 const filterCup = document.getElementById('filterCup');
+const filterAgency = document.getElementById('filterAgency');
 const stats = document.getElementById('stats');
 const noResult = document.getElementById('noResult');
 
@@ -151,7 +160,25 @@ cups.forEach(c => {
   filterCup.appendChild(opt);
 });
 
+// 构建公司筛选选项
+const agencies = [...new Set(DATA.map(d => d.agency).filter(Boolean))].sort();
+agencies.forEach(a => {
+  const opt = document.createElement('option');
+  opt.value = a; opt.textContent = a;
+  filterAgency.appendChild(opt);
+});
+
 function cell(v) { return v || '<span class="miss">❌</span>'; }
+
+// 社交媒体图标链接
+function socialCell(s) {
+  if (!s) return '—';
+  const links = [];
+  if (s.x) links.push('<a href="https://x.com/' + s.x + '" target="_blank" rel="noopener" title="X / Twitter">𝕏</a>');
+  if (s.instagram) links.push('<a href="https://instagram.com/' + s.instagram + '" target="_blank" rel="noopener" title="Instagram">📷</a>');
+  if (s.tiktok) links.push('<a href="https://tiktok.com/@' + s.tiktok + '" target="_blank" rel="noopener" title="TikTok">🎵</a>');
+  return links.length ? links.join('') : '—';
+}
 
 function renderRow(d) {
   const avatar = d.avatar
@@ -160,9 +187,12 @@ function renderRow(d) {
   const statusTag = d.status === '现役'
     ? '<span class="tag tag-active">现役</span>'
     : '<span class="tag tag-retired">引退</span>';
+  const aliasLine = (d.aliases && d.aliases.length)
+    ? '<div class="alias">曾用名: ' + d.aliases.join('、') + '</div>'
+    : '';
   return '<tr>'
     + '<td>' + avatar + '</td>'
-    + '<td class="name"><div class="zh">' + (d.nameZh || '—') + '</div><div class="ja">' + (d.nameJa || '') + '</div></td>'
+    + '<td class="name"><div class="zh">' + (d.nameZh || '—') + '</div><div class="ja">' + (d.nameJa || '') + '</div>' + aliasLine + '</td>'
     + '<td>' + cell(d.birth) + '</td>'
     + '<td>' + cell(d.age) + '</td>'
     + '<td>' + cell(d.height) + '</td>'
@@ -170,7 +200,9 @@ function renderRow(d) {
     + '<td>' + cell(d.threeSize) + '</td>'
     + '<td>' + cell(d.cup) + '</td>'
     + '<td>' + statusTag + '</td>'
-    + '<td>' + (d.retiredAt || '—') + '</td>'
+    + '<td>' + cell(d.career) + '</td>'
+    + '<td>' + cell(d.agency) + '</td>'
+    + '<td class="social">' + socialCell(d.social) + '</td>'
     + '</tr>';
 }
 
@@ -178,13 +210,17 @@ function render() {
   const q = searchInput.value.trim().toLowerCase();
   const st = filterStatus.value;
   const cp = filterCup.value;
+  const ag = filterAgency.value;
 
   let visible = 0;
   const rows = DATA.map(d => {
-    const matchName = !q || (d.nameZh + d.nameJa).toLowerCase().includes(q);
+    // 搜索范围：中文名 + 日文名 + 曾用名
+    const haystack = (d.nameZh + d.nameJa + (d.aliases || []).join('')).toLowerCase();
+    const matchName = !q || haystack.includes(q);
     const matchStatus = !st || d.status === st;
     const matchCup = !cp || d.cup === cp;
-    const show = matchName && matchStatus && matchCup;
+    const matchAgency = !ag || d.agency === ag;
+    const show = matchName && matchStatus && matchCup && matchAgency;
     if (show) visible++;
     return show ? renderRow(d) : '';
   });
@@ -227,6 +263,7 @@ document.querySelectorAll('th[data-sort]').forEach(th => {
 searchInput.addEventListener('input', render);
 filterStatus.addEventListener('change', render);
 filterCup.addEventListener('change', render);
+filterAgency.addEventListener('change', render);
 
 render();
 </script>

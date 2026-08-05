@@ -13,7 +13,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { calcAge } = require('./parser');
+const { calcAge, calcCareer } = require('./parser');
 
 const ROOT = path.resolve(__dirname, '..');
 const AUTO_DIR = path.join(ROOT, 'auto');
@@ -75,11 +75,6 @@ function fmtBirth(birth) {
   return birth ? birth.replace(/-/g, '.') : '';
 }
 
-/** 退役时间 "2023-08-15" -> "2023.08.15"；只有年份时原样返回 */
-function fmtRetiredAt(v) {
-  return v ? String(v).replace(/-/g, '.') : '';
-}
-
 /** 头像单元格：优先本地上传 > auto/manual 的 URL > ❌ */
 function fmtAvatar(rec) {
   // 优先级：本地文件 > manual 覆盖的 avatar > auto 抓的 avatar
@@ -92,13 +87,31 @@ function fmtAvatar(rec) {
   return `<img src="${href}" width="60" alt="${alt}">`;
 }
 
-/** 名字单元格：中文名 / 日文名 两行显示（Markdown 表格用 <br> 换行） */
+/**
+ * 名字单元格：中文名（加粗）/ 日文名 / 曾用名
+ * Markdown 表格用 <br> 换行
+ */
 function fmtName(rec) {
   const ja = rec.nameJa || rec.name || '';
   const zh = rec.nameZh || '';
-  if (zh && ja && zh !== ja) return `**${zh}**<br>${ja}`;
-  if (zh) return `**${zh}**`;
-  return ja || MISS;
+  const lines = [];
+  if (zh) lines.push(`**${zh}**`);
+  if (ja && ja !== zh) lines.push(ja);
+  if (!lines.length) lines.push(MISS);
+  // 曾用名
+  const aliases = (rec.aliases || []).filter((a) => a && a !== zh && a !== ja);
+  if (aliases.length) lines.push(`<sub>曾用名: ${aliases.join('、')}</sub>`);
+  return lines.join('<br>');
+}
+
+/** 社交媒体单元格：图标链接，没有则显示 — */
+function fmtSocial(rec) {
+  const s = rec.social || {};
+  const links = [];
+  if (s.x) links.push(`[𝕏](https://x.com/${s.x})`);
+  if (s.instagram) links.push(`[IG](https://instagram.com/${s.instagram})`);
+  if (s.tiktok) links.push(`[TT](https://tiktok.com/@${s.tiktok})`);
+  return links.length ? links.join(' ') : '—';
 }
 
 /** 单元格取值，空则显示 ❌ */
@@ -115,23 +128,25 @@ function buildMarkdown(records, incompleteCount) {
   );
   lines.push('>');
   lines.push(`> ${MISS} 表示该字段缺失，需要人工补充。补充方式：在 \`manual/<名字>.json\` 中填入对应字段。`);
-  lines.push('> 名字列上行为中文名、下行为日文名。年龄按当前日期实时计算，不入库。');
+  lines.push('> 名字列：加粗中文名 / 日文名 / 曾用名。年龄按当前日期实时计算，不入库。');
+  lines.push('> 职业生涯：出道日期 - 引退日期（现役显示「至今」）。');
+  lines.push('> 社交媒体：𝕏 = X/Twitter，IG = Instagram，TT = TikTok。');
   lines.push('>');
   lines.push(
     '> 头像优先级：`assets/avatars/<名字>.jpg` 本地上传 > `manual` 指定的 URL > 维基自动抓取。'
   );
   lines.push('');
-  lines.push('| 头像 | 名字 | 出生 | 年龄 | 身高 | 体重 | 三围 | 罩杯 | 状态 | 退役时间 |');
-  lines.push('| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |');
+  lines.push(
+    '| 头像 | 名字 | 出生 | 年龄 | 身高 | 体重 | 三围 | 罩杯 | 状态 | 职业生涯 | 所在公司 | 社交媒体 |'
+  );
+  lines.push('| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |');
 
   for (const r of records) {
     const status = r.retired ? '引退' : '现役';
-    // 现役无退役时间属正常，用 — 而非 ❌
-    const retiredAt = r.retired ? cell(fmtRetiredAt(r.retiredAt)) : '—';
     lines.push(
       `| ${fmtAvatar(r)} | ${fmtName(r)} | ${cell(fmtBirth(r.birth))} | ${cell(calcAge(r.birth))} | ` +
         `${cell(r.height)} | ${cell(r.weight)} | ${cell(r.threeSize)} | ${cell(r.cup)} | ` +
-        `${status} | ${retiredAt} |`
+        `${status} | ${cell(calcCareer(r))} | ${cell(r.agency)} | ${fmtSocial(r)} |`
     );
   }
 

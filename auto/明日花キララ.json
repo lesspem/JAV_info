@@ -1,6 +1,7 @@
 {
   "nameJa": "明日花キララ",
   "nameZh": "明日花綺羅",
+  "aliases": [],
   "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200",
   "birth": "1988-10-02",
   "height": "162",
@@ -9,6 +10,13 @@
   "cup": "G",
   "retired": true,
   "retiredAt": "2018",
+  "debut": "2007-12-21",
+  "agency": "キラティス",
+  "social": {
+    "x": "asukakiraran",
+    "instagram": "asukakiraran",
+    "tiktok": "asuka.kirara"
+  },
   "sources": [
     "ja.wikipedia"
   ],
