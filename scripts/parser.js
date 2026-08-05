@@ -12,15 +12,11 @@
 /** 从 wikitext 中提取模板参数，按 keys 顺序取第一个有值的 */
 function pickParam(txt, keys) {
   for (const key of keys) {
-    // 匹配 |key = value（值不含换行，不含下一个 | 参数起始）
-    const re = new RegExp('\\|\\s*' + key + '\\s*=\\s*([^\\n|]*(?:\\|(?![\\w\\s]*=))*[^\\n]*)');
+    // 匹配 |key = <same-line-value>，值不能跨行也不能吃掉后续参数
+    const re = new RegExp('\\|\\s*' + key + '\\s*=([^\\n]*)');
     const m = re.exec(txt);
     if (m) {
-      // 只取第一个 | 之前的内容（防止越界到下一个参数）
-      let raw = m[1];
-      // 如果值里有嵌套 [[ ... | ... ]]，先保护再切分
-      const cleaned = raw.split('\n')[0]; // 只取第一行
-      const v = cleaned
+      const v = m[1]
         .replace(/<!--[\s\S]*?-->/g, '')
         .replace(/\[\[(?:[^|\]]*\|)?([^\]]+)\]\]/g, '$1')
         .replace(/\{\{[^}]*\}\}/g, '')
@@ -266,7 +262,7 @@ function parseWikitext(wikitext) {
   }
 
   // ---- 所在公司 / 事务所 ----
-  const agency = pickParam(wikitext, [
+  const agencyRaw = pickParam(wikitext, [
     '専属契約',
     '所属事務所',
     '事務所',
@@ -275,7 +271,13 @@ function parseWikitext(wikitext) {
     '經紀公司',
     '经纪公司',
   ]);
-  if (agency) r.agency = agency.trim();
+  if (agencyRaw) {
+    // 剥除 File:xxx.png / Image:xxx.jpg 图片引用（匹配到图片扩展名为止），只保留公司名
+    r.agency = agencyRaw
+      .replace(/(?:File|Image|ファイル|画像)\s*[:：].*?\.(?:png|jpe?g|gif|svg|webp)/gi, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
 
   // ---- 出道日期 ----
   // 思路：先从 AV出演期間 取起始年份，再在正文中找该年的「M月D日 ... デビュー」

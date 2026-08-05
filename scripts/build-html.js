@@ -69,7 +69,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
   padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px;
   font-size: 14px; background: #fff;
 }
-.controls input { width: 260px; }
+.controls input { width: 200px; }
 .controls select { min-width: 100px; }
 .stats { font-size: 13px; color: #888; margin-left: auto; }
 .table-wrap { max-width: 1200px; margin: 0 auto; overflow-x: auto; }
@@ -81,6 +81,7 @@ th:hover { color: #000; }
 th .arrow { font-size: 10px; margin-left: 4px; opacity: .4; }
 th.sorted .arrow { opacity: 1; color: #1890ff; }
 td.name { white-space: normal; min-width: 110px; }
+td.idx { color: #aaa; font-size: 12px; text-align: center; width: 36px; }
 td.name .zh { font-weight: 600; }
 td.name .ja { color: #888; font-size: 12px; }
 td.name .alias { color: #bbb; font-size: 11px; margin-top: 2px; }
@@ -105,7 +106,7 @@ tr.hidden { display: none; }
 <div class="header">
   <h1>女优信息总表</h1>
   <div class="controls">
-    <input type="text" id="search" placeholder="搜索名字（中文/日文/曾用名）..." autocomplete="off">
+    <input type="text" id="search" placeholder="搜索名字" autocomplete="off">
     <select id="filterStatus">
       <option value="">全部状态</option>
       <option value="现役">现役</option>
@@ -135,6 +136,7 @@ tr.hidden { display: none; }
   <table>
     <thead>
       <tr>
+        <th>#</th>
         <th>头像</th>
         <th data-sort="nameZh">名字 <span class="arrow">▲</span></th>
         <th data-sort="birth">出生 <span class="arrow">▲</span></th>
@@ -171,13 +173,13 @@ function getBust(threeSize) {
   const m = /(\d+)/.exec(threeSize || '');
   return m ? parseInt(m[1], 10) : 0;
 }
-// 胸围分段
+// 胸围分段（label 不能含 < > 等字符，否则会破坏 HTML 解析）
 const BUST_BUCKETS = [
-  { label: '<80', min: 0, max: 79 },
+  { label: '80以下', min: 0, max: 79 },
   { label: '80-84', min: 80, max: 84 },
   { label: '85-89', min: 85, max: 89 },
   { label: '90-94', min: 90, max: 94 },
-  { label: '≥95', min: 95, max: 999 },
+  { label: '95以上', min: 95, max: 999 },
 ];
 
 // 构建罩杯筛选选项
@@ -215,7 +217,7 @@ function socialCell(s) {
   return links.length ? links.join(' ') : '—';
 }
 
-function renderRow(d) {
+function renderRow(d, idx) {
   const avatar = d.avatar
     ? '<img src="' + d.avatar + '" alt="' + (d.nameZh || d.nameJa) + '" loading="lazy">'
     : '—';
@@ -226,6 +228,7 @@ function renderRow(d) {
     ? '<div class="alias">' + d.aliases.join('、') + '</div>'
     : '';
   return '<tr>'
+    + '<td class="idx">' + idx + '</td>'
     + '<td>' + avatar + '</td>'
     + '<td class="name"><div class="zh">' + (d.nameZh || '—') + '</div><div class="ja">' + (d.nameJa || '') + '</div>' + aliasLine + '</td>'
     + '<td>' + cell(d.birth) + '</td>'
@@ -249,7 +252,7 @@ function render() {
   const bust = filterBust.value;
   const soc = filterSocial.value;
 
-  let visible = 0;
+  let seq = 0;
   const rows = DATA.map(d => {
     // 搜索范围：中文名 + 日文名 + 曾用名
     const haystack = (d.nameZh + d.nameJa + (d.aliases || []).join('')).toLowerCase();
@@ -274,13 +277,14 @@ function render() {
       else matchSocial = !!s[soc];
     }
     const show = matchName && matchStatus && matchCup && matchAgency && matchBust && matchSocial;
-    if (show) visible++;
-    return show ? renderRow(d) : '';
+    if (!show) return '';
+    seq++;
+    return renderRow(d, seq);
   });
 
   tbody.innerHTML = rows.join('');
-  stats.textContent = '显示 ' + visible + ' / ' + DATA.length + ' 人';
-  noResult.classList.toggle('hidden', visible > 0);
+  stats.textContent = '显示 ' + seq + ' / ' + DATA.length + ' 人';
+  noResult.classList.toggle('hidden', seq > 0);
 }
 
 // 排序

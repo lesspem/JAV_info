@@ -14,7 +14,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
   padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px;
   font-size: 14px; background: #fff;
 }
-.controls input { width: 260px; }
+.controls input { width: 200px; }
 .controls select { min-width: 100px; }
 .stats { font-size: 13px; color: #888; margin-left: auto; }
 .table-wrap { max-width: 1200px; margin: 0 auto; overflow-x: auto; }
@@ -26,6 +26,7 @@ th:hover { color: #000; }
 th .arrow { font-size: 10px; margin-left: 4px; opacity: .4; }
 th.sorted .arrow { opacity: 1; color: #1890ff; }
 td.name { white-space: normal; min-width: 110px; }
+td.idx { color: #aaa; font-size: 12px; text-align: center; width: 36px; }
 td.name .zh { font-weight: 600; }
 td.name .ja { color: #888; font-size: 12px; }
 td.name .alias { color: #bbb; font-size: 11px; margin-top: 2px; }
@@ -50,7 +51,7 @@ tr.hidden { display: none; }
 <div class="header">
   <h1>女优信息总表</h1>
   <div class="controls">
-    <input type="text" id="search" placeholder="搜索名字（中文/日文/曾用名）..." autocomplete="off">
+    <input type="text" id="search" placeholder="搜索名字" autocomplete="off">
     <select id="filterStatus">
       <option value="">全部状态</option>
       <option value="现役">现役</option>
@@ -80,6 +81,7 @@ tr.hidden { display: none; }
   <table>
     <thead>
       <tr>
+        <th>#</th>
         <th>头像</th>
         <th data-sort="nameZh">名字 <span class="arrow">▲</span></th>
         <th data-sort="birth">出生 <span class="arrow">▲</span></th>
@@ -99,7 +101,7 @@ tr.hidden { display: none; }
   <div class="no-result hidden" id="noResult">没有找到匹配的结果</div>
 </div>
 <script>
-const DATA = [{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200","nameZh":"三上悠亞","nameJa":"三上悠亜","aliases":["鬼頭桃菜"],"birth":"1993.08.16","age":"32","height":"159","weight":"40kg","threeSize":"88 - 57 - 83","cup":"G","status":"引退","career":"2015.06.01 - 2023.08.15","agency":"S1 NO.1 STYLE","social":{"x":"yua_mikami","instagram":"yua_mikami","tiktok":"yua_mikami"}},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200","nameZh":"明日花綺羅","nameJa":"明日花キララ","aliases":[],"birth":"1988.10.02","age":"37","height":"162","weight":"44kg","threeSize":"90 - 58 - 85","cup":"G","status":"引退","career":"2007.12.21 - 2018","agency":"キラティス","social":{"x":"asukakiraran","instagram":"asukakiraran","tiktok":"asuka.kirara"}},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200","nameZh":"新有菜","nameJa":"橋本ありな","aliases":["橋本有菜"],"birth":"1996.12.15","age":"29","height":"167","weight":"44kg","threeSize":"84 - 58 - 84","cup":"C-65","status":"引退","career":"2016.10.03 - 2025","agency":"","social":{"x":"","instagram":"","tiktok":""}},{"avatar":"","nameZh":"示例女优","nameJa":"示例女優","aliases":[],"birth":"1993.08.16","age":"32","height":"159","weight":"45kg","threeSize":"88 - 58 - 86","cup":"G-80","status":"现役","career":"","agency":"","social":{"x":"","instagram":"","tiktok":""}}];
+const DATA = [{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200","nameZh":"三上悠亞","nameJa":"三上悠亜","aliases":["鬼頭桃菜"],"birth":"1993.08.16","age":"32","height":"159","weight":"40kg","threeSize":"88 - 57 - 83","cup":"G","status":"引退","career":"2015.06.01 - 2023.08.15","agency":"S1 NO.1 STYLE","social":{"x":"yua_mikami","instagram":"yua_mikami","tiktok":"yua_mikami"}},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200","nameZh":"明日花綺羅","nameJa":"明日花キララ","aliases":[],"birth":"1988.10.02","age":"37","height":"162","weight":"44kg","threeSize":"90 - 58 - 85","cup":"G","status":"引退","career":"2007.12.21 - 2018","agency":"キラティス","social":{"x":"asukakiraran","instagram":"asukakiraran","tiktok":"asuka.kirara"}},{"avatar":"","nameZh":"田中柠檬","nameJa":"楓カレン","aliases":[],"birth":"1999.08.25","age":"26","height":"162","weight":"","threeSize":"82 - 56 - 81","cup":"D","status":"引退","career":"2018.04.20 - 2022","agency":"アイデアポケット(楓カレン時代) FALENO","social":{"x":"honmononokaren","instagram":"kaedekaren0825","tiktok":""}},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200","nameZh":"新有菜","nameJa":"橋本ありな","aliases":["橋本有菜"],"birth":"1996.12.15","age":"29","height":"167","weight":"44kg","threeSize":"84 - 58 - 84","cup":"C-65","status":"引退","career":"2016.10.03 - 2025","agency":"","social":{"x":"","instagram":"","tiktok":""}},{"avatar":"","nameZh":"示例女优","nameJa":"示例女優","aliases":[],"birth":"1993.08.16","age":"32","height":"159","weight":"45kg","threeSize":"88 - 58 - 86","cup":"G-80","status":"现役","career":"","agency":"","social":{"x":"","instagram":"","tiktok":""}}];
 
 const tbody = document.getElementById('tbody');
 const searchInput = document.getElementById('search');
@@ -116,13 +118,13 @@ function getBust(threeSize) {
   const m = /(d+)/.exec(threeSize || '');
   return m ? parseInt(m[1], 10) : 0;
 }
-// 胸围分段
+// 胸围分段（label 不能含 < > 等字符，否则会破坏 HTML 解析）
 const BUST_BUCKETS = [
-  { label: '<80', min: 0, max: 79 },
+  { label: '80以下', min: 0, max: 79 },
   { label: '80-84', min: 80, max: 84 },
   { label: '85-89', min: 85, max: 89 },
   { label: '90-94', min: 90, max: 94 },
-  { label: '≥95', min: 95, max: 999 },
+  { label: '95以上', min: 95, max: 999 },
 ];
 
 // 构建罩杯筛选选项
@@ -160,7 +162,7 @@ function socialCell(s) {
   return links.length ? links.join(' ') : '—';
 }
 
-function renderRow(d) {
+function renderRow(d, idx) {
   const avatar = d.avatar
     ? '<img src="' + d.avatar + '" alt="' + (d.nameZh || d.nameJa) + '" loading="lazy">'
     : '—';
@@ -171,6 +173,7 @@ function renderRow(d) {
     ? '<div class="alias">' + d.aliases.join('、') + '</div>'
     : '';
   return '<tr>'
+    + '<td class="idx">' + idx + '</td>'
     + '<td>' + avatar + '</td>'
     + '<td class="name"><div class="zh">' + (d.nameZh || '—') + '</div><div class="ja">' + (d.nameJa || '') + '</div>' + aliasLine + '</td>'
     + '<td>' + cell(d.birth) + '</td>'
@@ -194,7 +197,7 @@ function render() {
   const bust = filterBust.value;
   const soc = filterSocial.value;
 
-  let visible = 0;
+  let seq = 0;
   const rows = DATA.map(d => {
     // 搜索范围：中文名 + 日文名 + 曾用名
     const haystack = (d.nameZh + d.nameJa + (d.aliases || []).join('')).toLowerCase();
@@ -219,13 +222,14 @@ function render() {
       else matchSocial = !!s[soc];
     }
     const show = matchName && matchStatus && matchCup && matchAgency && matchBust && matchSocial;
-    if (show) visible++;
-    return show ? renderRow(d) : '';
+    if (!show) return '';
+    seq++;
+    return renderRow(d, seq);
   });
 
   tbody.innerHTML = rows.join('');
-  stats.textContent = '显示 ' + visible + ' / ' + DATA.length + ' 人';
-  noResult.classList.toggle('hidden', visible > 0);
+  stats.textContent = '显示 ' + seq + ' / ' + DATA.length + ' 人';
+  noResult.classList.toggle('hidden', seq > 0);
 }
 
 // 排序
