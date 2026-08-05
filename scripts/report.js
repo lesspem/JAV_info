@@ -98,9 +98,9 @@ function fmtName(rec) {
   if (zh) lines.push(`**${zh}**`);
   if (ja && ja !== zh) lines.push(ja);
   if (!lines.length) lines.push(MISS);
-  // 曾用名（不加"曾用名:"前缀，直接列出）
+  // 曾用名（每个名字一行显示）
   const aliases = (rec.aliases || []).filter((a) => a && a !== zh && a !== ja);
-  if (aliases.length) lines.push(`<sub>${aliases.join('、')}</sub>`);
+  if (aliases.length) lines.push(`<sub>${aliases.join('<br>')}</sub>`);
   return lines.join('<br>');
 }
 

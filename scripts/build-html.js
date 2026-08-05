@@ -259,7 +259,7 @@ function renderRow(d, idx) {
     ? '<span class="tag tag-active">现役</span>'
     : '<span class="tag tag-retired">引退</span>';
   const aliasLine = (d.aliases && d.aliases.length)
-    ? '<div class="alias">' + d.aliases.join('、') + '</div>'
+    ? '<div class="alias">' + d.aliases.join('<br>') + '</div>'
     : '';
   return '<tr>'
     + '<td class="idx">' + idx + '</td>'
