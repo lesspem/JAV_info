@@ -1,7 +1,6 @@
 {
   "shardCount": 16,
   "actors": {
-    "JULIA": 9,
     "RION": 6,
     "Tia": 12,
     "Yua": 5,
