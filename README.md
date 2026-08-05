@@ -81,7 +81,8 @@ dist/                  # 合并后的最终数据（供脚本消费）
   非空字段会覆盖 auto 里的对应字段，为空字符串则不覆盖（会保留 auto 的值）。
 
 ### 2. 删出演员
-```1.打开JAV_info内顶部Actions
+```
+1.打开JAV_info内顶部Actions
 2。左侧点 remove-actor
 3.右上角 Run workflow
 4.弹出框里填名字（多个用空格分隔，seeds/names.txt，大小写要一致）
