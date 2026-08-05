@@ -31,38 +31,6 @@
     ],
     "updatedAt": "2026-08-05"
   },
-  "essa": {
-    "nameJa": "essa",
-    "nameZh": "",
-    "aliases": [],
-    "avatar": "",
-    "birth": "",
-    "bloodType": "",
-    "height": "",
-    "weight": "",
-    "threeSize": "",
-    "cup": "",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "",
-    "agency": "",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [],
-    "name": "essa",
-    "missing": [
-      "birth",
-      "height",
-      "weight",
-      "threeSize",
-      "cup"
-    ],
-    "updatedAt": "2026-08-05"
-  },
   "上原亜衣": {
     "nameJa": "上原亜衣",
     "nameZh": "上原亞衣",
