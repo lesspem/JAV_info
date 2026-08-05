@@ -1,0 +1,218 @@
+{
+  "永井みひな": {
+    "nameJa": "永井みひな",
+    "nameZh": "美雛",
+    "aliases": [
+      "吉田",
+      "優",
+      "永井",
+      "みひな",
+      "あず"
+    ],
+    "avatar": "",
+    "birth": "1995-07-13",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "85 - 60 - 92",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "",
+    "social": {
+      "x": "mihi_nanami",
+      "instagram": "mihi_nanami",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "永井みひな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "相沢みなみ": {
+    "nameJa": "相沢みなみ",
+    "nameZh": "相澤南",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/AV%E5%A5%B3%E5%84%AA%E3%83%BB%E7%9B%B8%E6%B2%A2%E3%81%BF%E3%81%AA%E3%81%BF.png?width=200",
+    "birth": "1996-06-14",
+    "bloodType": "A",
+    "height": "155",
+    "weight": "",
+    "threeSize": "80 - 54 - 82",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2023-08-16",
+    "debut": "2016-01-11",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "pixy_yxip",
+      "instagram": "epoint2016",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "相沢みなみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "神宮寺ナオ": {
+    "nameJa": "神宮寺ナオ",
+    "nameZh": "神宮寺奈緒",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/TRE20250810Videoframe_477481.png?width=200",
+    "birth": "1997-02-15",
+    "bloodType": "B",
+    "height": "160",
+    "weight": "",
+    "threeSize": "86 - 61 - 88",
+    "cup": "E-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017-06-28",
+    "agency": "マドンナ（2019年6月 - ） 本中（2019年11月 - 2020年4月） MOODYZ（2020年5月 - ）",
+    "social": {
+      "x": "nao_jinguji",
+      "instagram": "jinguji_nao",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "神宮寺ナオ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "篠原りょう": {
+    "nameJa": "篠原りょう",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "篠原りょう",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "西田カリナ": {
+    "nameJa": "西田カリナ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Virgin_concerto_20191005_155011.jpg?width=200",
+    "birth": "1995-07-07",
+    "bloodType": "A",
+    "height": "159",
+    "weight": "",
+    "threeSize": "78 - 56 - 82",
+    "cup": "B",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2014-08-21",
+    "agency": "h.m.p MOODYZ エムズビデオグループ ワンズファクトリー",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "西田カリナ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "逢見リカ": {
+    "nameJa": "逢見リカ",
+    "nameZh": "逢見梨花",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_15%2C_2024)IMG_8357.jpg?width=200",
+    "birth": "1999-12-30",
+    "bloodType": "A",
+    "height": "145",
+    "weight": "38kg",
+    "threeSize": "79 - 53 - 78",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019-02-01",
+    "agency": "エスワン (2019年4月 - 12月) マドンナ (2020年1月 - 3月) DAHLIA(2026年7月 - )",
+    "social": {
+      "x": "aimi__rika",
+      "instagram": "",
+      "tiktok": "aimi__rika"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "逢見リカ",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "青山はな": {
+    "nameJa": "青山はな",
+    "nameZh": "青山華",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1989-10-08",
+    "bloodType": "A",
+    "height": "149",
+    "weight": "",
+    "threeSize": "89 - 60 - 87",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2018",
+    "debut": "2016",
+    "agency": "マキシング",
+    "social": {
+      "x": "aoyama_hana",
+      "instagram": "hana_aoyama",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "青山はな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  }
+}

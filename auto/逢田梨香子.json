@@ -1,0 +1,33 @@
+{
+  "nameJa": "逢田梨香子",
+  "nameZh": "逢田梨香子",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1992-08-08",
+  "bloodType": "O",
+  "height": "150",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2014-06-19",
+  "agency": "賢プロダクション",
+  "social": {
+    "x": "Rikako_Aida",
+    "instagram": "aida_rikako_",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia"
+  ],
+  "name": "逢田梨香子",
+  "missing": [
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-05"
+}

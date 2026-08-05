@@ -1,0 +1,182 @@
+{
+  "みなみあすか": {
+    "nameJa": "みなみあすか",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "みなみあすか",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "星宮一花": {
+    "nameJa": "星宮一花",
+    "nameZh": "星宮一花",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1998-06-28",
+    "bloodType": "O",
+    "height": "168",
+    "weight": "",
+    "threeSize": "85 - 59 - 89",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "S1 NO.1 STYLE PREMIUM マドンナ アタッカーズ",
+    "social": {
+      "x": "hosimiyaichika",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "星宮一花",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "架乃ゆら": {
+    "nameJa": "架乃ゆら",
+    "nameZh": "架乃由羅",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Yura_Kano's_stage_greeting_IMG_4608.jpg?width=200",
+    "birth": "1998-12-28",
+    "bloodType": "O",
+    "height": "156",
+    "weight": "",
+    "threeSize": "86.5 - 55 - 86",
+    "cup": "E-65",
+    "retired": true,
+    "retiredAt": "2024",
+    "debut": "2017",
+    "agency": "S1 NO.1 STYLE",
+    "social": {
+      "x": "kano_yura",
+      "instagram": "kano__yura",
+      "tiktok": "kano_yura"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "架乃ゆら",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "桜井彩": {
+    "nameJa": "桜井彩",
+    "nameZh": "櫻井彩",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1989-02-24",
+    "bloodType": "O",
+    "height": "158",
+    "weight": "",
+    "threeSize": "90 - 58 - 82",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2012",
+    "agency": "SODクリエイト エスワン",
+    "social": {
+      "x": "sakurai_aya_",
+      "instagram": "sakurai_aya_0224",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "桜井彩",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "篠田ゆう": {
+    "nameJa": "篠田ゆう",
+    "nameZh": "篠田优",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1991-07-21",
+    "bloodType": "O",
+    "height": "155",
+    "weight": "",
+    "threeSize": "88 - 60 - 88",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2023",
+    "debut": "2010",
+    "agency": "マドンナ（2023年3月 - 12月）",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "篠田ゆう",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "藤森里穂": {
+    "nameJa": "藤森里穂",
+    "nameZh": "藤森里穗",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_27%2C_2025)IMG_2740.jpg?width=200",
+    "birth": "1996-12-03",
+    "bloodType": "B",
+    "height": "160",
+    "weight": "47kg",
+    "threeSize": "86 - 60 - 88",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "SODクリエイト 本中 OPPAI ダスッ! マドンナ",
+    "social": {
+      "x": "fujimoriho123",
+      "instagram": "fujimoriho123",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "藤森里穂",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  }
+}

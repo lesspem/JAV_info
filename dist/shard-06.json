@@ -1,4 +1,287 @@
 {
+  "RION": {
+    "nameJa": "RION",
+    "nameZh": "",
+    "aliases": [
+      "宇都宮しをん"
+    ],
+    "avatar": "",
+    "birth": "1994-03-01",
+    "bloodType": "",
+    "height": "161",
+    "weight": "59kg",
+    "threeSize": "115 - 63 - 92",
+    "cup": "K",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "S1 （2013年9月 - 2014年9月） （2015年9月 - 2018年9月） （2019年12月 - ）",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "RION",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "乃木りか": {
+    "nameJa": "乃木りか",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "乃木りか",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "山岸逢花": {
+    "nameJa": "山岸逢花",
+    "nameZh": "山岸綺花",
+    "aliases": [
+      "山岸",
+      "逢花"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Stage_greeting_for_the_movie_%E2%80%9CBut_I_Can%E2%80%99t_Stop_~Suzuka_Snack~%E2%80%9DIMG_4384.jpg?width=200",
+    "birth": "1992-11-30",
+    "bloodType": "B",
+    "height": "160",
+    "weight": "",
+    "threeSize": "82 - 59 - 81",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2026",
+    "debut": "2017",
+    "agency": "プレミアム",
+    "social": {
+      "x": "ayakayamagishi_",
+      "instagram": "ayakayamagishi_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "山岸逢花",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "枢木あおい": {
+    "nameJa": "枢木あおい",
+    "nameZh": "",
+    "aliases": [
+      "くろき葵",
+      "山内愛",
+      "等"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Fresh_Summer_Fes!!_Gold_Division_IMG_0074.jpg?width=200",
+    "birth": "1998-03-20",
+    "bloodType": "B",
+    "height": "154",
+    "weight": "",
+    "threeSize": "84 - 59 - 93",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2023-04-16",
+    "debut": "2017-05-14",
+    "agency": "S-Cute（2023年5月 - 2024年4月）",
+    "social": {
+      "x": "Aoi_krrg",
+      "instagram": "aoi_krrg",
+      "tiktok": "aoi_krrg"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "枢木あおい",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "沙月とわ": {
+    "nameJa": "沙月とわ",
+    "nameZh": "沙月永遠",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1998-01-18",
+    "bloodType": "",
+    "height": "167",
+    "weight": "",
+    "threeSize": "90 - 62 - 90",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "ケイ・エム・プロデュース（million）",
+    "social": {
+      "x": "satsuki_towa1",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "沙月とわ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "涼森れむ": {
+    "nameJa": "涼森れむ",
+    "nameZh": "涼森玲夢",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(May_4%2C_2025)IMG_2369.jpg?width=200",
+    "birth": "1997-12-03",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "",
+    "threeSize": "87 - 58 - 85",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "プレステージ",
+    "social": {
+      "x": "remu19971203",
+      "instagram": "remu19971203",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "涼森れむ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "湊莉久": {
+    "nameJa": "湊莉久",
+    "nameZh": "湊莉久",
+    "aliases": [
+      "上村陽菜",
+      "三浦莉嘉",
+      "源莉子"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Minato_Riku%2C_Japanese_porn_actress.jpg?width=200",
+    "birth": "1993-08-01",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "",
+    "threeSize": "82 - 58 - 83",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2018-01-20",
+    "debut": "2013-04-01",
+    "agency": "teamZERO（2015年10月 - 2016年9月） S1（2016年10月- 2018年3月）",
+    "social": {
+      "x": "riku_minato",
+      "instagram": "ha73nato",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "湊莉久",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "益坂美亜": {
+    "nameJa": "益坂美亜",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1998-02-19",
+    "bloodType": "B",
+    "height": "165",
+    "weight": "",
+    "threeSize": "100 - 59 - 88",
+    "cup": "J",
+    "retired": true,
+    "retiredAt": "2019",
+    "debut": "2018",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "益坂美亜",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "鈴木心春": {
+    "nameJa": "鈴木心春",
+    "nameZh": "鈴木心春",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1993-12-01",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "",
+    "threeSize": "85 - 58 - 85",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2018",
+    "debut": "2013",
+    "agency": "Kawaii エスワン",
+    "social": {
+      "x": "koharusuzuki",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "鈴木心春",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "示例女优": {
     "name": "示例女优",
     "nameZh": "示例女优",

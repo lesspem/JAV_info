@@ -1,0 +1,212 @@
+{
+  "Tia": {
+    "nameJa": "Tia",
+    "nameZh": "Tia",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "Tia",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "essa": {
+    "nameJa": "essa",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "essa",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "上原亜衣": {
+    "nameJa": "上原亜衣",
+    "nameZh": "上原亞衣",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_20220910_IMG_2127.jpg?width=200",
+    "birth": "1992-11-12",
+    "bloodType": "O",
+    "height": "155",
+    "weight": "44kg",
+    "threeSize": "83 - 57 - 79",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2016",
+    "debut": "2011",
+    "agency": "",
+    "social": {
+      "x": "ai_uehara_ex",
+      "instagram": "ai_uehara_ex",
+      "tiktok": "ai_uehara_ex61"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "上原亜衣",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "天使もえ": {
+    "nameJa": "天使もえ",
+    "nameZh": "天使萌",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Fresh_Summer_Fes!!_Gold_Division_IMG_9166.jpg?width=200",
+    "birth": "1994-07-10",
+    "bloodType": "A",
+    "height": "155",
+    "weight": "42kg",
+    "threeSize": "84 - 57 - 82",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2025-07-28",
+    "debut": "2014-04-07",
+    "agency": "S1 NO.1 STYLE （2014年7月 - 2020年3月） FALENO （2020年4月 - 2025年6月）",
+    "social": {
+      "x": "AMATSUKA3",
+      "instagram": "amatsuka.moe",
+      "tiktok": "amatsuka_moe"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "天使もえ",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "奏音かのん": {
+    "nameJa": "奏音かのん",
+    "nameZh": "奏音花音",
+    "aliases": [],
+    "avatar": "",
+    "birth": "2000-05-09",
+    "bloodType": "A",
+    "height": "166",
+    "weight": "48kg",
+    "threeSize": "86 - 59 - 85",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2024-04-26",
+    "debut": "2019",
+    "agency": "無垢（2023年11月-2024年4月）",
+    "social": {
+      "x": "kanon_kanade_",
+      "instagram": "kanon__kanade",
+      "tiktok": "kanonkanade"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "奏音かのん",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "本庄鈴": {
+    "nameJa": "本庄鈴",
+    "nameZh": "本庄鈴",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Suzu_Honjo's_refreshing_smile2024.jpg?width=200",
+    "birth": "1997-01-12",
+    "bloodType": "",
+    "height": "163",
+    "weight": "",
+    "threeSize": "85 - 59 - 88",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018-02-28",
+    "agency": "SODstar",
+    "social": {
+      "x": "honjosuzu",
+      "instagram": "honjo_suzu",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "本庄鈴",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "河北彩花": {
+    "nameJa": "河北彩花",
+    "nameZh": "河北彩花",
+    "aliases": [
+      "河北",
+      "彩伽",
+      "萌名"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_28%2C_2025)_IMG_3232.jpg?width=200",
+    "birth": "1999-04-24",
+    "bloodType": "",
+    "height": "169",
+    "weight": "55kg",
+    "threeSize": "87 - 57 - 86",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2018-05-12",
+    "agency": "S1 NO.1 STYLE",
+    "social": {
+      "x": "Saika_Kawakita",
+      "instagram": "saika_kawakita__official",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "河北彩花",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  }
+}

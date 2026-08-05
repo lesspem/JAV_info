@@ -1,4 +1,34 @@
 {
+  "八乃つばさ": {
+    "nameJa": "八乃つばさ",
+    "nameZh": "八乃翼",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1994-09-30",
+    "bloodType": "A",
+    "height": "153",
+    "weight": "",
+    "threeSize": "96 - 70 - 102",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2024",
+    "debut": "2017",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "TsubasaHachino",
+      "instagram": "tsubasahachino",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "八乃つばさ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "橋本ありな": {
     "nameJa": "橋本ありな",
     "nameZh": "新有菜",
@@ -29,6 +59,105 @@
     ],
     "name": "橋本ありな",
     "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "清水优空": {
+    "nameJa": "清水优空",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "清水优空",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "藤浦めぐ": {
+    "nameJa": "藤浦めぐ",
+    "nameZh": "惠理",
+    "aliases": [
+      "藤浦",
+      "めぐ",
+      "世界のフジメグ"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_15%2C_2024)IMG_6448.jpg?width=200",
+    "birth": "1989-05-04",
+    "bloodType": "",
+    "height": "155",
+    "weight": "",
+    "threeSize": "95 - 60 - 88",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2010",
+    "debut": "2009-02-11",
+    "agency": "",
+    "social": {
+      "x": "meguri0504",
+      "instagram": "",
+      "tiktok": "meguri0504"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "藤浦めぐ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "逢田梨香子": {
+    "nameJa": "逢田梨香子",
+    "nameZh": "逢田梨香子",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1992-08-08",
+    "bloodType": "O",
+    "height": "150",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2014-06-19",
+    "agency": "賢プロダクション",
+    "social": {
+      "x": "Rikako_Aida",
+      "instagram": "aida_rikako_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia"
+    ],
+    "name": "逢田梨香子",
+    "missing": [
+      "weight",
+      "threeSize",
+      "cup"
+    ],
     "updatedAt": "2026-08-05"
   }
 }

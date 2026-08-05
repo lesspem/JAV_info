@@ -1,0 +1,92 @@
+{
+  "JULIA": {
+    "nameJa": "JULIA",
+    "nameZh": "Julia",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "JULIA",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "波多野結衣": {
+    "nameJa": "波多野結衣",
+    "nameZh": "波多野結衣",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%ED%95%98%ED%83%80%EB%85%B8%EC%9C%A0%EC%9D%B4(Yui_Hatano)_%EC%9A%A9%EA%B3%BC%EA%B0%99%EC%9D%B4_%EA%B7%B9_%EA%B8%B0%EB%85%90%ED%96%89%EC%82%AC_4.jpg?width=200",
+    "birth": "1988-05-24",
+    "bloodType": "A",
+    "height": "163",
+    "weight": "48kg",
+    "threeSize": "93 - 59 - 103",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2008-06-03",
+    "agency": "プレステージ（2008年6月 - 10月） h.m.p（2008年11月 - 2009年2月） BeFree（2009年6月・7月）",
+    "social": {
+      "x": "hatano_yui",
+      "instagram": "hatachan524",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "波多野結衣",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "葵つかさ": {
+    "nameJa": "葵つかさ",
+    "nameZh": "葵司",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%98%A4%EC%9D%B4%EC%B8%A0%EC%B9%B4%EC%82%AC(Aoi_Tsukasa)_%EA%B5%AD%EB%82%B4_%ED%8C%AC%EB%AF%B8%ED%8C%85_5.jpg?width=200",
+    "birth": "1990-08-14",
+    "bloodType": "O",
+    "height": "163",
+    "weight": "",
+    "threeSize": "88 - 58 - 86",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2025-07-20",
+    "debut": "2010",
+    "agency": "アリスJAPAN エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "葵つかさ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  }
+}

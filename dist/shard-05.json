@@ -1,0 +1,338 @@
+{
+  "Yua": {
+    "nameJa": "Yua",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "Yua",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "小倉由菜": {
+    "nameJa": "小倉由菜",
+    "nameZh": "小倉由菜",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Yuna_Ogura_2025_promotion_photo.jpg?width=200",
+    "birth": "1998-11-05",
+    "bloodType": "O",
+    "height": "156",
+    "weight": "23kg",
+    "threeSize": "83 - 58 - 87",
+    "cup": "D-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017-12-26",
+    "agency": "SODstar（2017年 - ）",
+    "social": {
+      "x": "ogu_yuna",
+      "instagram": "ogura_yuna",
+      "tiktok": "ogura_yunachan"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小倉由菜",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "希崎ジェシカ": {
+    "nameJa": "希崎ジェシカ",
+    "nameZh": "希崎潔西卡",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/CIMG3734kisaki.jpg?width=200",
+    "birth": "1989-06-10",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "45kg",
+    "threeSize": "86 - 60 - 87",
+    "cup": "D-65",
+    "retired": true,
+    "retiredAt": "2019",
+    "debut": "2008",
+    "agency": "",
+    "social": {
+      "x": "kizaki_jessica",
+      "instagram": "kizaki_jessica",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "希崎ジェシカ",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "松本菜奈実": {
+    "nameJa": "松本菜奈実",
+    "nameZh": "松本菜奈實",
+    "aliases": [
+      "ななみん"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_27%2C_2025)IMG_1483.jpg?width=200",
+    "birth": "1994-08-23",
+    "bloodType": "B",
+    "height": "165",
+    "weight": "",
+    "threeSize": "100 - 62 - 100",
+    "cup": "I",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017-07-01",
+    "agency": "S1 NO.1 STYLE Materiall Fitch",
+    "social": {
+      "x": "7mi_m",
+      "instagram": "773nanaminu",
+      "tiktok": "7mim_official"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia"
+    ],
+    "name": "松本菜奈実",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "榊梨々亜": {
+    "nameJa": "榊梨々亜",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1993-01-30",
+    "bloodType": "O",
+    "height": "155",
+    "weight": "",
+    "threeSize": "83 - 57 - 83",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2017",
+    "debut": "2016",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "榊梨々亜",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "神ユキ": {
+    "nameJa": "神ユキ",
+    "nameZh": "神雪",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1987-01-11",
+    "bloodType": "A",
+    "height": "161",
+    "weight": "",
+    "threeSize": "90 - 60 - 100",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "jinyuki_",
+      "instagram": "jinyuki_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "神ユキ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "蒼井そら": {
+    "nameJa": "蒼井そら",
+    "nameZh": "蒼井空",
+    "aliases": [
+      "苍井空"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Aoi_Sora_%22Lazy_Hazy_Crazy%22_at_Opening_Ceremony_of_the_28th_Tokyo_International_Film_Festival_(22241441840)_(cropped).jpg?width=200",
+    "birth": "1981-04-26",
+    "bloodType": "",
+    "height": "155",
+    "weight": "",
+    "threeSize": "90 - 58 - 83",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2011",
+    "debut": "2002-06-14",
+    "agency": "アリスJAPAN マックス・エー エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "蒼井そら",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "藤井いよな": {
+    "nameJa": "藤井いよな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1998-06-24",
+    "bloodType": "",
+    "height": "165",
+    "weight": "",
+    "threeSize": "82 - 56 - 84",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2023",
+    "debut": "2020",
+    "agency": "アイデアポケット アタッカーズ",
+    "social": {
+      "x": "",
+      "instagram": "_inu_kawaii_ne",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "藤井いよな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "藤田こずえ": {
+    "nameJa": "藤田こずえ",
+    "nameZh": "藤田梢",
+    "aliases": [
+      "藤田こずえ"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Stage_greeting_for_the_Housewife_Ghost_Story_Lustful_Sobs_IMG_0097.jpg?width=200",
+    "birth": "2001-05-20",
+    "bloodType": "A",
+    "height": "153",
+    "weight": "",
+    "threeSize": "82 - 58 - 82",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "プライムエージェンシー→GG",
+    "social": {
+      "x": "yuzu__fujita",
+      "instagram": "yuzufujita0520",
+      "tiktok": "yuzufujita0520"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia"
+    ],
+    "name": "藤田こずえ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "西宮このみ": {
+    "nameJa": "西宮このみ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1997-02-22",
+    "bloodType": "",
+    "height": "167",
+    "weight": "",
+    "threeSize": "80 - 59 - 88",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2018",
+    "debut": "2016",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "西宮このみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "西野翔": {
+    "nameJa": "西野翔",
+    "nameZh": "西野翔",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1985-06-29",
+    "bloodType": "O",
+    "height": "159",
+    "weight": "",
+    "threeSize": "81 - 57 - 86",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2019",
+    "debut": "2004",
+    "agency": "KUKI アイエナジー S1 NO.1 STYLE PREMIUM MOODYZ Madonna ATTACKERS 痴女ヘブン SOD Star",
+    "social": {
+      "x": "showtaro3",
+      "instagram": "nishino_show",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "西野翔",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  }
+}

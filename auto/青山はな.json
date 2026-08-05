@@ -1,0 +1,30 @@
+{
+  "nameJa": "青山はな",
+  "nameZh": "青山華",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1989-10-08",
+  "bloodType": "A",
+  "height": "149",
+  "weight": "",
+  "threeSize": "89 - 60 - 87",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2018",
+  "debut": "2016",
+  "agency": "マキシング",
+  "social": {
+    "x": "aoyama_hana",
+    "instagram": "hana_aoyama",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "青山はな",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-05"
+}

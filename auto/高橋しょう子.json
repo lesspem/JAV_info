@@ -1,0 +1,30 @@
+{
+  "nameJa": "高橋しょう子",
+  "nameZh": "高橋聖子",
+  "aliases": [],
+  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%E9%AB%98%E6%A9%8B%E3%81%97%E3%82%87%E3%81%86%E5%AD%902018%E5%B9%B4.jpg?width=200",
+  "birth": "1993-05-13",
+  "bloodType": "B",
+  "height": "161",
+  "weight": "",
+  "threeSize": "87 - 59 - 86",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2016-05-01",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "TS_takasho",
+    "instagram": "ts_takasho",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "高橋しょう子",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-05"
+}

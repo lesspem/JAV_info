@@ -1,0 +1,30 @@
+{
+  "nameJa": "神ユキ",
+  "nameZh": "神雪",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1987-01-11",
+  "bloodType": "A",
+  "height": "161",
+  "weight": "",
+  "threeSize": "90 - 60 - 100",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "jinyuki_",
+    "instagram": "jinyuki_",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "神ユキ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-05"
+}

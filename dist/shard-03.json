@@ -1,4 +1,32 @@
 {
+  "宮下玲奈": {
+    "nameJa": "宮下玲奈",
+    "nameZh": "宮下玲奈",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Rena_Miyashita_TREND_GIRLS_Photo_session202505031032.jpg?width=200",
+    "birth": "2002-07-15",
+    "bloodType": "B",
+    "height": "162",
+    "weight": "44kg",
+    "threeSize": "83 - 57 - 85",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2022-03-04",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "rena_miyashita",
+      "instagram": "rena__miyashita",
+      "tiktok": "rena_miyashita"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "宮下玲奈",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
   "明日花キララ": {
     "nameJa": "明日花キララ",
     "nameZh": "明日花綺羅",
@@ -25,6 +53,71 @@
     ],
     "name": "明日花キララ",
     "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "森沢かな": {
+    "nameJa": "森沢かな",
+    "nameZh": "森澤佳奈",
+    "aliases": [
+      "飯岡",
+      "かなこ"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Movie_%E2%80%9CBlue_Porno%E2%80%9D_Stage_Greetings_Ikebukuro_Cinema_Rosa_IMG_9655-1.jpg?width=200",
+    "birth": "1992-05-09",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "",
+    "threeSize": "86 - 59 - 86",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2012-07-13",
+    "agency": "",
+    "social": {
+      "x": "morisawa_kana",
+      "instagram": "morisawa_kana",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "森沢かな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "森罗万象": {
+    "nameJa": "森罗万象",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "森罗万象",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
     "updatedAt": "2026-08-05"
   }
 }

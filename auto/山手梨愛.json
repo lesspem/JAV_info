@@ -1,0 +1,31 @@
+{
+  "nameJa": "山手梨愛",
+  "nameZh": "山手梨愛",
+  "aliases": [],
+  "avatar": "",
+  "birth": "2000-02-23",
+  "bloodType": "A",
+  "height": "170",
+  "weight": "",
+  "threeSize": "99 - 58 - 88",
+  "cup": "I",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021-10-19",
+  "agency": "S1 NO.1 STYLE",
+  "social": {
+    "x": "yamate_ria",
+    "instagram": "yamate_ria",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia"
+  ],
+  "name": "山手梨愛",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-05"
+}
