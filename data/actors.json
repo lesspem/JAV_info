@@ -15,7 +15,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "",
-    "agency": "S1 （2013年9月 - 2014年9月） （2015年9月 - 2018年9月） （2019年12月 - ）",
+    "agency": "",
     "social": {
       "x": "",
       "instagram": "",
@@ -225,7 +225,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2019",
-    "agency": "S1 NO.1 STYLE SODクリエイト",
+    "agency": "SODクリエイト",
     "social": {
       "x": "HotaruNogi",
       "instagram": "hotarunogi",
@@ -270,8 +270,7 @@
     "nameZh": "凪光",
     "aliases": [
       "有栖花",
-      "あか",
-      "汐世"
+      "あか"
     ],
     "avatar": "",
     "birth": "1997-04-06",
@@ -353,8 +352,7 @@
     "nameZh": "南梨央奈",
     "aliases": [
       "小林",
-      "莉央奈",
-      "小倉莉緒"
+      "莉央奈"
     ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E6%A2%A8%E6%9D%8F%E5%A4%AE_(52220462205).jpg?width=200",
     "birth": "1992-12-23",
@@ -366,7 +364,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2011-08-01",
-    "agency": "KUKI（2011年9 - 11月）",
+    "agency": "KUKI",
     "social": {
       "x": "mina_rio",
       "instagram": "",
@@ -396,7 +394,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2018",
-    "agency": "S1 NO.1 STYLE （2018年8月 - ）",
+    "agency": "",
     "social": {
       "x": "miruteer_29",
       "instagram": "mirugram_55",
@@ -450,7 +448,7 @@
     "retired": true,
     "retiredAt": "2025-07-28",
     "debut": "2014-04-07",
-    "agency": "S1 NO.1 STYLE （2014年7月 - 2020年3月） FALENO （2020年4月 - 2025年6月）",
+    "agency": "",
     "social": {
       "x": "AMATSUKA3",
       "instagram": "amatsuka.moe",
@@ -529,7 +527,7 @@
     "retired": true,
     "retiredAt": "2024-04-26",
     "debut": "2019",
-    "agency": "無垢（2023年11月-2024年4月）",
+    "agency": "無垢",
     "social": {
       "x": "kanon_kanade_",
       "instagram": "kanon__kanade",
@@ -583,7 +581,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2017-12-26",
-    "agency": "SODstar（2017年 - ）",
+    "agency": "SODstar",
     "social": {
       "x": "ogu_yuna",
       "instagram": "ogura_yuna",
@@ -861,7 +859,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2017",
-    "agency": "アイデアポケット アタッカーズ マドンナ PREMIUM FALENO",
+    "agency": "FALENO",
     "social": {
       "x": "akari_tsumugi__",
       "instagram": "akari.tsumugi",
@@ -888,7 +886,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2018",
-    "agency": "S1 NO.1 STYLE PREMIUM マドンナ アタッカーズ",
+    "agency": "アタッカーズ",
     "social": {
       "x": "hosimiyaichika",
       "instagram": "",
@@ -906,15 +904,7 @@
     "nameZh": "",
     "aliases": [
       "中野伊織",
-      "石橋さら",
-      "七瀬あかり",
-      "月島乃亜",
-      "星野果奈",
-      "宮内香",
-      "[https:",
-      "星空もあ]",
-      "2023年7月7日閲覧",
-      "。"
+      "石橋さら"
     ],
     "avatar": "",
     "birth": "1994-07-24",
@@ -953,7 +943,7 @@
     "retired": true,
     "retiredAt": "2020-09-07",
     "debut": "2012",
-    "agency": "h.m.p （2012年 - 2013年6月） S1 NO.1 STYLE （2013年8月 - 2019年10月） アタッカーズ （2019年11月 - ）",
+    "agency": "",
     "social": {
       "x": "hoshino_nami73",
       "instagram": "hoshino_nami73",
@@ -1036,7 +1026,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2017-07-01",
-    "agency": "S1 NO.1 STYLE Materiall Fitch",
+    "agency": "Fitch",
     "social": {
       "x": "7mi_m",
       "instagram": "773nanaminu",
@@ -1067,7 +1057,7 @@
     "retired": true,
     "retiredAt": "2020",
     "debut": "2016",
-    "agency": "プレステージ アイデアポケット アタッカーズ 溜池ゴロー",
+    "agency": "溜池ゴロー",
     "social": {
       "x": "",
       "instagram": "",
@@ -1085,8 +1075,7 @@
     "nameZh": "",
     "aliases": [
       "くろき葵",
-      "山内愛",
-      "等"
+      "山内愛"
     ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Fresh_Summer_Fes!!_Gold_Division_IMG_0074.jpg?width=200",
     "birth": "1998-03-20",
@@ -1098,7 +1087,7 @@
     "retired": true,
     "retiredAt": "2023-04-16",
     "debut": "2017-05-14",
-    "agency": "S-Cute（2023年5月 - 2024年4月）",
+    "agency": "S-Cute",
     "social": {
       "x": "Aoi_krrg",
       "instagram": "aoi_krrg",
@@ -1181,7 +1170,7 @@
     "retired": true,
     "retiredAt": "",
     "debut": "2016-10-03",
-    "agency": "SODクリエイト （2016年12月 - 2019年1月） OPPAI （2019年2月 - 2020年7月） ワンズファクトリー （2019年3月 - 2020年8月） 溜池ゴロー（2020年8月 - ）",
+    "agency": "溜池ゴロー",
     "social": {
       "x": "",
       "instagram": "",
@@ -1208,7 +1197,7 @@
     "retired": true,
     "retiredAt": "2024-03-20",
     "debut": "2017-11-01",
-    "agency": "Kawaii* 本中 アタッカーズ",
+    "agency": "アタッカーズ",
     "social": {
       "x": "moko_sakura3",
       "instagram": "mokochan319",
@@ -1226,8 +1215,7 @@
     "nameZh": "",
     "aliases": [
       "加藤はるき",
-      "合倉さゆ",
-      "桜井よしみ"
+      "合倉さゆ"
     ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Movie_%E2%80%9CBlue_Porno%E2%80%9D_Stage_Greetings_Ikebukuro_Cinema_Rosa_IMG_9644sakurai.jpg?width=200",
     "birth": "1991-04-15",
@@ -1266,7 +1254,7 @@
     "retired": true,
     "retiredAt": "2020",
     "debut": "2012",
-    "agency": "SODクリエイト エスワン",
+    "agency": "エスワン",
     "social": {
       "x": "sakurai_aya_",
       "instagram": "sakurai_aya_0224",
@@ -1451,8 +1439,7 @@
     "nameZh": "新有菜",
     "aliases": [
       "新有菜",
-      "橋本ありな",
-      "橋本有菜"
+      "橋本ありな"
     ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200",
     "birth": "1996-12-15",
@@ -1491,7 +1478,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2017-05-07",
-    "agency": "S1 NO.1 STYLE (2017年5月 - 2018年1月) MOODYZ (2018年2月 - )",
+    "agency": "MOODYZ",
     "social": {
       "x": "archemiura",
       "instagram": "",
@@ -1509,9 +1496,7 @@
     "nameZh": "水川菫",
     "aliases": [
       "水稀",
-      "みり",
-      "水喜",
-      "れい"
+      "みり"
     ],
     "avatar": "",
     "birth": "1994-02-03",
@@ -1523,7 +1508,7 @@
     "retired": true,
     "retiredAt": "2026-07-08",
     "debut": "2016",
-    "agency": "プレステージ（水稀みり 名義） マドンナ（水川スミレ 名義）",
+    "agency": "マドンナ",
     "social": {
       "x": "mizuki_rei0203",
       "instagram": "mizukawasumireworld",
@@ -1570,10 +1555,7 @@
     "nameZh": "美雛",
     "aliases": [
       "吉田",
-      "優",
-      "永井",
-      "みひな",
-      "あず"
+      "優"
     ],
     "avatar": "",
     "birth": "1995-07-13",
@@ -1641,7 +1623,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2018",
-    "agency": "ケイ・エム・プロデュース（million）",
+    "agency": "ケイ・エム・プロデュース",
     "social": {
       "x": "satsuki_towa1",
       "instagram": "",
@@ -1659,8 +1641,7 @@
     "nameZh": "河北彩花",
     "aliases": [
       "河北",
-      "彩伽",
-      "萌名"
+      "彩伽"
     ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_28%2C_2025)_IMG_3232.jpg?width=200",
     "birth": "1999-04-24",
@@ -1699,7 +1680,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2008-06-03",
-    "agency": "プレステージ（2008年6月 - 10月） h.m.p（2008年11月 - 2009年2月） BeFree（2009年6月・7月）",
+    "agency": "BeFree",
     "social": {
       "x": "hatano_yui",
       "instagram": "hatachan524",
@@ -1745,9 +1726,7 @@
     "aliases": [
       "深田",
       "詠美",
-      "ソナ",
-      "天海こころ",
-      "保坂夢莉亜"
+      "天海こころ"
     ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(April_28%2C_2024)051899.jpg?width=200",
     "birth": "1998-03-18",
@@ -1759,7 +1738,7 @@
     "retired": true,
     "retiredAt": "2024",
     "debut": "2017",
-    "agency": "}}",
+    "agency": "FALENO}}",
     "social": {
       "x": "fukada0318",
       "instagram": "eimi0318",
@@ -1833,8 +1812,7 @@
     "nameZh": "湊莉久",
     "aliases": [
       "上村陽菜",
-      "三浦莉嘉",
-      "源莉子"
+      "三浦莉嘉"
     ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Minato_Riku%2C_Japanese_porn_actress.jpg?width=200",
     "birth": "1993-08-01",
@@ -1846,7 +1824,7 @@
     "retired": true,
     "retiredAt": "2018-01-20",
     "debut": "2013-04-01",
-    "agency": "teamZERO（2015年10月 - 2016年9月） S1（2016年10月- 2018年3月）",
+    "agency": "S1",
     "social": {
       "x": "riku_minato",
       "instagram": "ha73nato",
@@ -1864,8 +1842,7 @@
     "nameZh": "瀨名步",
     "aliases": [
       "広瀬藍子",
-      "吉村あきの",
-      "成田望美"
+      "吉村あきの"
     ],
     "avatar": "",
     "birth": "1986-11-09",
@@ -2026,7 +2003,7 @@
     "retired": true,
     "retiredAt": "2019",
     "debut": "2011-03-11",
-    "agency": "million 2011 - 2014 MOODYZ 2014 - 2017 OPPAI 2017 - 2018 アイデアポケット 2018 - 2018 アタッカーズ 2018 - 2019 WILLグループ2019",
+    "agency": "WILLグループ2019",
     "social": {
       "x": "koarachan1213",
       "instagram": "koara_chan1213",
@@ -2053,7 +2030,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2017-06-28",
-    "agency": "マドンナ（2019年6月 - ） 本中（2019年11月 - 2020年4月） MOODYZ（2020年5月 - ）",
+    "agency": "MOODYZ",
     "social": {
       "x": "nao_jinguji",
       "instagram": "jinguji_nao",
@@ -2105,7 +2082,7 @@
     "retired": true,
     "retiredAt": "2023",
     "debut": "2010",
-    "agency": "マドンナ（2023年3月 - 12月）",
+    "agency": "マドンナ",
     "social": {
       "x": "",
       "instagram": "",
@@ -2132,7 +2109,7 @@
     "retired": true,
     "retiredAt": "2025",
     "debut": "2017",
-    "agency": "本中 (2020年5月 - 2025年7月) ダスッ! (2020年5月 - 2025年7月)",
+    "agency": "ダスッ!",
     "social": {
       "x": "akari_mitani17",
       "instagram": "akanemitani0415",
@@ -2159,7 +2136,7 @@
     "retired": true,
     "retiredAt": "2025-07-20",
     "debut": "2010",
-    "agency": "アリスJAPAN エスワン",
+    "agency": "エスワン",
     "social": {
       "x": "",
       "instagram": "",
@@ -2186,7 +2163,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2009",
-    "agency": "マキシング MOODYZ",
+    "agency": "MOODYZ",
     "social": {
       "x": "",
       "instagram": "",
@@ -2215,7 +2192,7 @@
     "retired": true,
     "retiredAt": "2011",
     "debut": "2002-06-14",
-    "agency": "アリスJAPAN マックス・エー エスワン",
+    "agency": "エスワン",
     "social": {
       "x": "",
       "instagram": "",
@@ -2269,7 +2246,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2019",
-    "agency": "SODクリエイト 本中 OPPAI ダスッ! マドンナ",
+    "agency": "マドンナ",
     "social": {
       "x": "fujimoriho123",
       "instagram": "fujimoriho123",
@@ -2287,8 +2264,7 @@
     "nameZh": "惠理",
     "aliases": [
       "藤浦",
-      "めぐ",
-      "世界のフジメグ"
+      "めぐ"
     ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_15%2C_2024)IMG_6448.jpg?width=200",
     "birth": "1989-05-04",
@@ -2384,7 +2360,7 @@
     "retired": true,
     "retiredAt": "2021",
     "debut": "2014-08-21",
-    "agency": "h.m.p MOODYZ エムズビデオグループ ワンズファクトリー",
+    "agency": "ワンズファクトリー",
     "social": {
       "x": "",
       "instagram": "",
@@ -2411,7 +2387,7 @@
     "retired": true,
     "retiredAt": "2019",
     "debut": "2004",
-    "agency": "KUKI アイエナジー S1 NO.1 STYLE PREMIUM MOODYZ Madonna ATTACKERS 痴女ヘブン SOD Star",
+    "agency": "SOD Star",
     "social": {
       "x": "showtaro3",
       "instagram": "nishino_show",
@@ -2491,7 +2467,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2019-02-01",
-    "agency": "エスワン (2019年4月 - 12月) マドンナ (2020年1月 - 3月) DAHLIA(2026年7月 - )",
+    "agency": "DAHLIA",
     "social": {
       "x": "aimi__rika",
       "instagram": "",
@@ -2548,7 +2524,7 @@
     "retired": true,
     "retiredAt": "2018",
     "debut": "2013",
-    "agency": "Kawaii エスワン",
+    "agency": "エスワン",
     "social": {
       "x": "koharusuzuki",
       "instagram": "",
@@ -2708,7 +2684,7 @@
     "retired": true,
     "retiredAt": "2012",
     "debut": "2005-10-28",
-    "agency": "アリスJAPAN エスワン",
+    "agency": "エスワン",
     "social": {
       "x": "asami_yuma",
       "instagram": "yuma_asami0324",
@@ -2726,11 +2702,7 @@
     "nameZh": "麻里梨夏",
     "aliases": [
       "成海",
-      "うるみ",
-      "広瀬",
-      "りりあ",
-      "渚",
-      "佐々木リカ"
+      "うるみ"
     ],
     "avatar": "",
     "birth": "1993-06-09",
@@ -2742,7 +2714,7 @@
     "retired": true,
     "retiredAt": "2019-09-14",
     "debut": "2014",
-    "agency": "S1 NO.1 STYLE 本中",
+    "agency": "本中",
     "social": {
       "x": "",
       "instagram": "",

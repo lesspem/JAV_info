@@ -73,7 +73,7 @@
     "retired": true,
     "retiredAt": "2025-07-28",
     "debut": "2014-04-07",
-    "agency": "S1 NO.1 STYLE （2014年7月 - 2020年3月） FALENO （2020年4月 - 2025年6月）",
+    "agency": "",
     "social": {
       "x": "AMATSUKA3",
       "instagram": "amatsuka.moe",
@@ -101,7 +101,7 @@
     "retired": true,
     "retiredAt": "2024-04-26",
     "debut": "2019",
-    "agency": "無垢（2023年11月-2024年4月）",
+    "agency": "無垢",
     "social": {
       "x": "kanon_kanade_",
       "instagram": "kanon__kanade",
@@ -150,8 +150,7 @@
     "nameZh": "河北彩花",
     "aliases": [
       "河北",
-      "彩伽",
-      "萌名"
+      "彩伽"
     ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_28%2C_2025)_IMG_3232.jpg?width=200",
     "birth": "1999-04-24",

@@ -46,7 +46,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2018",
-    "agency": "S1 NO.1 STYLE （2018年8月 - ）",
+    "agency": "",
     "social": {
       "x": "miruteer_29",
       "instagram": "mirugram_55",
@@ -169,7 +169,7 @@
     "retired": true,
     "retiredAt": "",
     "debut": "2016-10-03",
-    "agency": "SODクリエイト （2016年12月 - 2019年1月） OPPAI （2019年2月 - 2020年7月） ワンズファクトリー （2019年3月 - 2020年8月） 溜池ゴロー（2020年8月 - ）",
+    "agency": "溜池ゴロー",
     "social": {
       "x": "",
       "instagram": "",
@@ -199,7 +199,7 @@
     "retired": true,
     "retiredAt": "2024-03-20",
     "debut": "2017-11-01",
-    "agency": "Kawaii* 本中 アタッカーズ",
+    "agency": "アタッカーズ",
     "social": {
       "x": "moko_sakura3",
       "instagram": "mokochan319",
@@ -220,8 +220,7 @@
     "nameZh": "",
     "aliases": [
       "加藤はるき",
-      "合倉さゆ",
-      "桜井よしみ"
+      "合倉さゆ"
     ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Movie_%E2%80%9CBlue_Porno%E2%80%9D_Stage_Greetings_Ikebukuro_Cinema_Rosa_IMG_9644sakurai.jpg?width=200",
     "birth": "1991-04-15",
@@ -252,9 +251,7 @@
     "nameZh": "水川菫",
     "aliases": [
       "水稀",
-      "みり",
-      "水喜",
-      "れい"
+      "みり"
     ],
     "avatar": "",
     "birth": "1994-02-03",
@@ -266,7 +263,7 @@
     "retired": true,
     "retiredAt": "2026-07-08",
     "debut": "2016",
-    "agency": "プレステージ（水稀みり 名義） マドンナ（水川スミレ 名義）",
+    "agency": "マドンナ",
     "social": {
       "x": "mizuki_rei0203",
       "instagram": "mizukawasumireworld",

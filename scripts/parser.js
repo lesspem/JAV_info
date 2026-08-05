@@ -266,37 +266,38 @@ function parseWikitext(wikitext) {
       .map((s) => s.replace(/[（(][^）)]*[）)]/g, '').trim())
       // 过滤：空值、过长、纯 ASCII（多为误抓的 URL 片段）
       .filter((s) => s && s.length <= 12 && !/^[\w.\-]+$/.test(s));
-    // 去重 + 剔除与 nameJa/nameZh 相同的项（后面 report/html 层还会二次过滤，但这里先净化存储）
+    // 去重 + 剔除与 nameJa/nameZh 相同的项
     const dedup = [...new Set(raw)].filter((a) => a !== r.nameJa && a !== r.nameZh);
-    r.aliases = dedup;
+    // 只保留前 2 个（最常见的）
+    r.aliases = dedup.slice(0, 2);
   }
 
   // ---- 所在公司 / 事务所 ----
-  const agencyRaw = pickParam(wikitext, [
-    '専属契約',
-    '所属事務所',
-    '事務所',
-    '所属',
-    'レーベル',
-    '經紀公司',
-    '经纪公司',
-  ]);
-  if (agencyRaw) {
-    // 剥除 File:xxx.png / Image:xxx.jpg 图片引用（匹配到图片扩展名为止），只保留公司名
-    let cleaned = agencyRaw
-      .replace(/(?:File|Image|ファイル|画像)\s*[:：].*?\.(?:png|jpe?g|gif|svg|webp)/gi, '')
+  // 特殊处理：多家公司通常用 <br/> 或 <br /> 分隔，需要保留 <br/> 边界才能拆开。
+  // pickParam 会剥掉 <br/>，所以这里直接从 wikitext 抽取原始行。
+  const agencyKeys = ['専属契約', '所属事務所', '事務所', '所属', 'レーベル', '經紀公司', '经纪公司'];
+  let agencyRawLine = '';
+  for (const key of agencyKeys) {
+    const re = new RegExp('\\|\\s*' + key + '\\s*=([^\\n]*)');
+    const m = re.exec(wikitext);
+    if (m && m[1].trim()) { agencyRawLine = m[1]; break; }
+  }
+  if (agencyRawLine) {
+    // 按 <br/>, <br>, <br /> 拆分成多段
+    const segments = agencyRawLine.split(/<br\s*\/?>/i).map((s) => s.trim()).filter(Boolean);
+    // 取最后一段 = 最新/当前公司
+    let last = segments[segments.length - 1];
+    // 清洗：剥 File:xxx / wikilink / 模板 / HTML 标签 / 括号内的时期注释
+    last = last
+      .replace(/\[?\[?(?:File|Image|ファイル|画像)\s*[:：][^\]|]+\]?\]?/gi, '')
+      .replace(/\[\[(?:[^|\]]*\|)?([^\]]+)\]\]/g, '$1')
+      .replace(/\{\{[^}]*\}\}/g, '')
+      .replace(/<[^>]+>/g, ' ')
+      .replace(/[（(][^）)]*[）)]/g, '') // 剥掉括号内的时期注释
+      .replace(/'{2,}/g, '')
       .replace(/\s+/g, ' ')
       .trim();
-    // 多段历史（如「A社(xxx時代) B社」）：括号是历史注释，取最后一个 ')' 之后的部分＝当前所属
-    // 注意不能按空格切分，否则「S1 NO.1 STYLE」会被截成「STYLE」
-    const lastParen = cleaned.lastIndexOf(')');
-    const lastParenZh = cleaned.lastIndexOf('）');
-    const cut = Math.max(lastParen, lastParenZh);
-    if (cut > -1 && cut < cleaned.length - 1) {
-      const tail = cleaned.slice(cut + 1).trim();
-      if (tail) cleaned = tail;
-    }
-    r.agency = cleaned;
+    if (last) r.agency = last;
   }
 
   // ---- 出道日期 ----
