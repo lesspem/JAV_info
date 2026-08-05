@@ -146,7 +146,7 @@
     "retired": true,
     "retiredAt": "2023-08-15",
     "debut": "2015-06-01",
-    "agency": "S1",
+    "agency": "S1 NO.1 STYLE",
     "social": {
       "x": "yua_mikami",
       "instagram": "yua_mikami",
@@ -225,7 +225,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2019",
-    "agency": "SOD",
+    "agency": "SODクリエイト",
     "social": {
       "x": "HotaruNogi",
       "instagram": "hotarunogi",
@@ -282,7 +282,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2020-10-07",
-    "agency": "S1",
+    "agency": "S1 NO.1 STYLE",
     "social": {
       "x": "_nagihikaru",
       "instagram": "_nagihikaru",
@@ -379,7 +379,7 @@
   },
   {
     "nameJa": "坂道みる",
-    "nameZh": "Miru (AV女優)",
+    "nameZh": "Miru",
     "aliases": [
       "坂道",
       "みる"
@@ -581,7 +581,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2017-12-26",
-    "agency": "SOD",
+    "agency": "SODstar",
     "social": {
       "x": "ogu_yuna",
       "instagram": "ogura_yuna",
@@ -638,7 +638,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2021-10-19",
-    "agency": "S1",
+    "agency": "S1 NO.1 STYLE",
     "social": {
       "x": "yamate_ria",
       "instagram": "yamate_ria",
@@ -666,7 +666,7 @@
     "retired": true,
     "retiredAt": "2022-04-11",
     "debut": "2015-01-08",
-    "agency": "SOD",
+    "agency": "SODクリエイト",
     "social": {
       "x": "ichikawa_masami",
       "instagram": "ichii710",
@@ -970,7 +970,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2018-02-28",
-    "agency": "SOD",
+    "agency": "SODstar",
     "social": {
       "x": "honjosuzu",
       "instagram": "honjo_suzu",
@@ -1114,7 +1114,7 @@
     "retired": true,
     "retiredAt": "2024",
     "debut": "2017",
-    "agency": "S1",
+    "agency": "S1 NO.1 STYLE",
     "social": {
       "x": "kano_yura",
       "instagram": "kano__yura",
@@ -1227,7 +1227,7 @@
     "retired": true,
     "retiredAt": "2016",
     "debut": "2013",
-    "agency": "K.M.Produce",
+    "agency": "Million [https://www.km-produce.com/sakurai_ayu Million] - K.M.Produce",
     "social": {
       "x": "yoshimi_mio",
       "instagram": "sakurai.ayu",
@@ -1653,7 +1653,7 @@
     "retired": true,
     "retiredAt": "",
     "debut": "2018-05-12",
-    "agency": "S1",
+    "agency": "S1 NO.1 STYLE",
     "social": {
       "x": "Saika_Kawakita",
       "instagram": "saika_kawakita__official",
@@ -1738,7 +1738,7 @@
     "retired": true,
     "retiredAt": "2024",
     "debut": "2017",
-    "agency": "FALENO",
+    "agency": "FALENO}}",
     "social": {
       "x": "fukada0318",
       "instagram": "eimi0318",
@@ -1951,7 +1951,6 @@
     "updatedAt": "2026-08-05"
   },
   {
-    "name": "示例女优",
     "nameZh": "示例女优",
     "nameJa": "示例女優",
     "birth": "1993-08-16",
@@ -1959,8 +1958,7 @@
     "weight": "45kg",
     "threeSize": "88 - 58 - 86",
     "cup": "G-80",
-    "retired": false,
-    "note": "人工补全示例。只需填你要补/要改的字段，留空字符串的字段不会覆盖 auto 数据。retiredAt 填引退年份，如 \"2023\"。"
+    "name": "示例女优"
   },
   {
     "nameJa": "神ユキ",
@@ -2387,7 +2385,7 @@
     "retired": true,
     "retiredAt": "2019",
     "debut": "2004",
-    "agency": "SOD",
+    "agency": "SOD Star",
     "social": {
       "x": "showtaro3",
       "instagram": "nishino_show",
