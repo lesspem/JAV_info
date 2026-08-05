@@ -91,6 +91,13 @@ dist/                  # 合并后的最终数据（供脚本消费）
 6.终端命令把远程改动拉本地：cd ~/ComateProjects/JAV_info && git pull
 7拉完后本地的 docs/index.html 就是最新的了，刷新浏览器即可看到删除效果。
 ```
+### 2. 更新数据命令
+```
+情况 A：你在 GitHub 网页改了东西 → 想本地看到
+命令：cd ~/ComateProjects/JAV_info && git pull && npm run build
+情况 B：你在本地改了东西 → 想推到 GitHub
+命令：cd ~/ComateProjects/JAV_info && npm run build && git add -A && git commit -m "更新数据" && git push
+```
 ### 3. 消费端（用户脚本）
 
 **方案 A：jsDelivr CDN（推荐，国内速度好）**
