@@ -1,0 +1,39 @@
+name: remove-actor
+
+# 在 GitHub 网页上手动触发删除女优数据（无需本地终端）
+# 用法：Actions → remove-actor → Run workflow → 填入名字 → 绿色按钮
+on:
+  workflow_dispatch:
+    inputs:
+      names:
+        description: '要删除的名字，多个用空格分隔（需与 seeds/names.txt 一致）'
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  remove:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Remove actor(s)
+        run: node scripts/remove.js ${{ github.event.inputs.names }}
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "无变化（可能名字不存在）"
+          else
+            git commit -m "chore: 删除 ${{ github.event.inputs.names }}"
+            git push
+          fi
