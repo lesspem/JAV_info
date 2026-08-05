@@ -27,7 +27,7 @@ const AVATARS_EXTS = ['.jpg', '.jpeg', '.png', '.gif', '.webp'];
 
 /** 参与缺失统计的字段 */
 const FIELDS = ['birth', 'height', 'weight', 'threeSize', 'cup'];
-const MISS = '❌';
+const MISS = '—';
 const JSON_MODE = process.argv.includes('--json');
 
 /**
@@ -88,7 +88,7 @@ function fmtAvatar(rec) {
 }
 
 /**
- * 名字单元格：中文名（加粗）/ 日文名 / 曾用名
+ * 名字单元格：中文名（加粗）/ 日文名 / 曾用名（不带前缀）
  * Markdown 表格用 <br> 换行
  */
 function fmtName(rec) {
@@ -98,24 +98,25 @@ function fmtName(rec) {
   if (zh) lines.push(`**${zh}**`);
   if (ja && ja !== zh) lines.push(ja);
   if (!lines.length) lines.push(MISS);
-  // 曾用名
+  // 曾用名（不加"曾用名:"前缀，直接列出）
   const aliases = (rec.aliases || []).filter((a) => a && a !== zh && a !== ja);
-  if (aliases.length) lines.push(`<sub>曾用名: ${aliases.join('、')}</sub>`);
+  if (aliases.length) lines.push(`<sub>${aliases.join('、')}</sub>`);
   return lines.join('<br>');
 }
 
-/** 社交媒体单元格：图标链接，没有则显示 — */
+/** 社交媒体单元格：官方图标链接，没有则显示 — */
 function fmtSocial(rec) {
   const s = rec.social || {};
   const links = [];
-  if (s.x) links.push(`[𝕏](https://x.com/${s.x})`);
-  if (s.instagram) links.push(`[IG](https://instagram.com/${s.instagram})`);
-  if (s.tiktok) links.push(`[TT](https://tiktok.com/@${s.tiktok})`);
-  return links.length ? links.join(' ') : '—';
+  if (s.x) links.push(`[![X](https://cdn.simpleicons.org/x/000000/20)](https://x.com/${s.x})`);
+  if (s.instagram) links.push(`[![Instagram](https://cdn.simpleicons.org/instagram/E4405F/20)](https://instagram.com/${s.instagram})`);
+  if (s.tiktok) links.push(`[![TikTok](https://cdn.simpleicons.org/tiktok/000000/20)](https://tiktok.com/@${s.tiktok})`);
+  return links.length ? links.join(' ') : MISS;
 }
 
-/** 单元格取值，空则显示 ❌ */
+/** 单元格取值，空则显示 — */
 const cell = (v) => (v ? String(v) : MISS);
+const cellSuffix = (v, suf) => (v ? String(v) + suf : MISS);
 
 function buildMarkdown(records, incompleteCount) {
   const today = new Date().toISOString().slice(0, 10);
@@ -127,10 +128,9 @@ function buildMarkdown(records, incompleteCount) {
     `> 共 ${records.length} 人 ｜ 完整 ${records.length - incompleteCount} 人 ｜ 待补 ${incompleteCount} 人 ｜ 更新于 ${today}`
   );
   lines.push('>');
-  lines.push(`> ${MISS} 表示该字段缺失，需要人工补充。补充方式：在 \`manual/<名字>.json\` 中填入对应字段。`);
+  lines.push(`> ${MISS} 表示该字段缺失或不适用。补充方式：在 \`manual/<名字>.json\` 中填入对应字段。`);
   lines.push('> 名字列：加粗中文名 / 日文名 / 曾用名。年龄按当前日期实时计算，不入库。');
   lines.push('> 职业生涯：出道日期 - 引退日期（现役显示「至今」）。');
-  lines.push('> 社交媒体：𝕏 = X/Twitter，IG = Instagram，TT = TikTok。');
   lines.push('>');
   lines.push(
     '> 头像优先级：`assets/avatars/<名字>.jpg` 本地上传 > `manual` 指定的 URL > 维基自动抓取。'
@@ -144,8 +144,8 @@ function buildMarkdown(records, incompleteCount) {
   for (const r of records) {
     const status = r.retired ? '引退' : '现役';
     lines.push(
-      `| ${fmtAvatar(r)} | ${fmtName(r)} | ${cell(fmtBirth(r.birth))} | ${cell(calcAge(r.birth))} | ` +
-        `${cell(r.height)} | ${cell(r.weight)} | ${cell(r.threeSize)} | ${cell(r.cup)} | ` +
+      `| ${fmtAvatar(r)} | ${fmtName(r)} | ${cell(fmtBirth(r.birth))} | ${cellSuffix(calcAge(r.birth), '岁')} | ` +
+        `${cellSuffix(r.height, 'cm')} | ${cell(r.weight)} | ${cell(r.threeSize)} | ${cell(r.cup)} | ` +
         `${status} | ${cell(calcCareer(r))} | ${cell(r.agency)} | ${fmtSocial(r)} |`
     );
   }
