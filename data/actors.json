@@ -146,7 +146,7 @@
     "retired": true,
     "retiredAt": "2023-08-15",
     "debut": "2015-06-01",
-    "agency": "S1 NO.1 STYLE",
+    "agency": "S1",
     "social": {
       "x": "yua_mikami",
       "instagram": "yua_mikami",
@@ -225,7 +225,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2019",
-    "agency": "SODクリエイト",
+    "agency": "SOD",
     "social": {
       "x": "HotaruNogi",
       "instagram": "hotarunogi",
@@ -282,7 +282,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2020-10-07",
-    "agency": "S1 NO.1 STYLE",
+    "agency": "S1",
     "social": {
       "x": "_nagihikaru",
       "instagram": "_nagihikaru",
@@ -581,7 +581,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2017-12-26",
-    "agency": "SODstar",
+    "agency": "SOD",
     "social": {
       "x": "ogu_yuna",
       "instagram": "ogura_yuna",
@@ -638,7 +638,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2021-10-19",
-    "agency": "S1 NO.1 STYLE",
+    "agency": "S1",
     "social": {
       "x": "yamate_ria",
       "instagram": "yamate_ria",
@@ -666,7 +666,7 @@
     "retired": true,
     "retiredAt": "2022-04-11",
     "debut": "2015-01-08",
-    "agency": "SODクリエイト",
+    "agency": "SOD",
     "social": {
       "x": "ichikawa_masami",
       "instagram": "ichii710",
@@ -970,7 +970,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "2018-02-28",
-    "agency": "SODstar",
+    "agency": "SOD",
     "social": {
       "x": "honjosuzu",
       "instagram": "honjo_suzu",
@@ -1114,7 +1114,7 @@
     "retired": true,
     "retiredAt": "2024",
     "debut": "2017",
-    "agency": "S1 NO.1 STYLE",
+    "agency": "S1",
     "social": {
       "x": "kano_yura",
       "instagram": "kano__yura",
@@ -1227,7 +1227,7 @@
     "retired": true,
     "retiredAt": "2016",
     "debut": "2013",
-    "agency": "Million [https://www.km-produce.com/sakurai_ayu Million] - K.M.Produce",
+    "agency": "K.M.Produce",
     "social": {
       "x": "yoshimi_mio",
       "instagram": "sakurai.ayu",
@@ -1653,7 +1653,7 @@
     "retired": true,
     "retiredAt": "",
     "debut": "2018-05-12",
-    "agency": "S1 NO.1 STYLE",
+    "agency": "S1",
     "social": {
       "x": "Saika_Kawakita",
       "instagram": "saika_kawakita__official",
@@ -1738,7 +1738,7 @@
     "retired": true,
     "retiredAt": "2024",
     "debut": "2017",
-    "agency": "FALENO}}",
+    "agency": "FALENO",
     "social": {
       "x": "fukada0318",
       "instagram": "eimi0318",
@@ -2387,7 +2387,7 @@
     "retired": true,
     "retiredAt": "2019",
     "debut": "2004",
-    "agency": "SOD Star",
+    "agency": "SOD",
     "social": {
       "x": "showtaro3",
       "instagram": "nishino_show",
@@ -2447,8 +2447,7 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia",
-      "zh.wikipedia"
+      "ja.wikipedia"
     ],
     "name": "逢田梨香子",
     "updatedAt": "2026-08-05"

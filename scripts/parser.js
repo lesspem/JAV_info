@@ -297,7 +297,20 @@ function parseWikitext(wikitext) {
       .replace(/'{2,}/g, '')
       .replace(/\s+/g, ' ')
       .trim();
-    if (last) r.agency = last;
+    // 公司名规范化映射（统一显示名）
+    if (last) {
+      last = last
+        .replace(/\}\}/g, '') // 残留的模板闭合符
+        .replace(/\[https?:\/\/[^\s\]]+\s+[^\]]*\]/g, '') // 剥 [http://... text] 外链
+        .replace(/\d{4}\s*[-–年]\s*\d{0,4}\s*/g, '') // 剥残留年份如 "2013 - 2016"
+        .replace(/Million\s*[-\s]*K\.M\.Produce/i, 'K.M.Produce')
+        .replace(/S1\s+NO\.?\s*1\s+STYLE/i, 'S1')
+        .replace(/SOD\s*(?:クリエイト|star|Star|スター)/gi, 'SOD')
+        .replace(/^FALENO.*$/i, 'FALENO')
+        .replace(/\s+/g, ' ')
+        .trim();
+      r.agency = last;
+    }
   }
 
   // ---- 出道日期 ----
