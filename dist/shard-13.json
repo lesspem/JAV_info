@@ -2,6 +2,9 @@
   "三上悠亜": {
     "nameJa": "三上悠亜",
     "nameZh": "三上悠亞",
+    "aliases": [
+      "鬼頭桃菜"
+    ],
     "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200",
     "birth": "1993-08-16",
     "height": "159",
@@ -10,6 +13,13 @@
     "cup": "G",
     "retired": true,
     "retiredAt": "2023-08-15",
+    "debut": "2015-06-01",
+    "agency": "S1 NO.1 STYLE",
+    "social": {
+      "x": "yua_mikami",
+      "instagram": "yua_mikami",
+      "tiktok": "yua_mikami"
+    },
     "sources": [
       "ja.wikipedia"
     ],
