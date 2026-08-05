@@ -75,13 +75,15 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 .table-wrap { max-width: 1200px; margin: 0 auto; overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
 thead { background: #fafafa; position: sticky; top: 0; z-index: 1; }
-th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #f0f0f0; font-size: 13px; white-space: nowrap; }
+th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #f0f0f0; font-size: 13px; white-space: nowrap; vertical-align: middle; }
 th { font-weight: 600; color: #555; cursor: pointer; user-select: none; }
 th:hover { color: #000; }
 th .arrow { font-size: 10px; margin-left: 4px; opacity: .4; }
 th.sorted .arrow { opacity: 1; color: #1890ff; }
 td.name { white-space: normal; min-width: 110px; }
 td.idx { color: #aaa; font-size: 12px; text-align: center; width: 36px; }
+th.col-avatar, td.avatar { text-align: center; }
+td.avatar { width: 70px; }
 td.name .zh { font-weight: 600; }
 td.name .ja { color: #888; font-size: 12px; }
 td.name .alias { color: #bbb; font-size: 11px; margin-top: 2px; }
@@ -137,7 +139,7 @@ tr.hidden { display: none; }
     <thead>
       <tr>
         <th>#</th>
-        <th>头像</th>
+        <th class="col-avatar">头像</th>
         <th data-sort="nameZh">名字 <span class="arrow">▲</span></th>
         <th data-sort="birth">出生 <span class="arrow">▲</span></th>
         <th data-sort="age">年龄 <span class="arrow">▲</span></th>
@@ -208,10 +210,11 @@ BUST_BUCKETS.forEach(b => {
 function cell(v) { return v || '—'; }
 
 // 社交媒体图标链接（使用 Simple Icons CDN 官方图标）
+// X 使用旧版 Twitter 小蓝鸟图标
 function socialCell(s) {
   if (!s) return '—';
   const links = [];
-  if (s.x) links.push('<a href="https://x.com/' + s.x + '" target="_blank" rel="noopener" title="X"><img src="https://cdn.simpleicons.org/x/000000" width="16" height="16" alt="X"></a>');
+  if (s.x) links.push('<a href="https://x.com/' + s.x + '" target="_blank" rel="noopener" title="X / Twitter"><img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="16" height="16" alt="Twitter"></a>');
   if (s.instagram) links.push('<a href="https://instagram.com/' + s.instagram + '" target="_blank" rel="noopener" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" height="16" alt="Instagram"></a>');
   if (s.tiktok) links.push('<a href="https://tiktok.com/@' + s.tiktok + '" target="_blank" rel="noopener" title="TikTok"><img src="https://cdn.simpleicons.org/tiktok/000000" width="16" height="16" alt="TikTok"></a>');
   return links.length ? links.join(' ') : '—';
@@ -229,7 +232,7 @@ function renderRow(d, idx) {
     : '';
   return '<tr>'
     + '<td class="idx">' + idx + '</td>'
-    + '<td>' + avatar + '</td>'
+    + '<td class="avatar">' + avatar + '</td>'
     + '<td class="name"><div class="zh">' + (d.nameZh || '—') + '</div><div class="ja">' + (d.nameJa || '') + '</div>' + aliasLine + '</td>'
     + '<td>' + cell(d.birth) + '</td>'
     + '<td>' + (d.age ? d.age + '岁' : '—') + '</td>'

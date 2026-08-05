@@ -273,10 +273,18 @@ function parseWikitext(wikitext) {
   ]);
   if (agencyRaw) {
     // 剥除 File:xxx.png / Image:xxx.jpg 图片引用（匹配到图片扩展名为止），只保留公司名
-    r.agency = agencyRaw
+    let cleaned = agencyRaw
       .replace(/(?:File|Image|ファイル|画像)\s*[:：].*?\.(?:png|jpe?g|gif|svg|webp)/gi, '')
       .replace(/\s+/g, ' ')
       .trim();
+    // 如果含有多段历史（如「A社(xxx時代) B社」），只取最后一个公司名（= 当前/最新所属）
+    const parts = cleaned.split(/\s+/).filter(Boolean);
+    if (parts.length > 1) {
+      // 找最后一个不含括号的词（括号内是历史注释如「楓カレン時代」）
+      const last = parts.filter((p) => !/[（(]/.test(p)).pop();
+      if (last) cleaned = last;
+    }
+    r.agency = cleaned;
   }
 
   // ---- 出道日期 ----

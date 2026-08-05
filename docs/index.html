@@ -20,13 +20,15 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 .table-wrap { max-width: 1200px; margin: 0 auto; overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
 thead { background: #fafafa; position: sticky; top: 0; z-index: 1; }
-th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #f0f0f0; font-size: 13px; white-space: nowrap; }
+th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #f0f0f0; font-size: 13px; white-space: nowrap; vertical-align: middle; }
 th { font-weight: 600; color: #555; cursor: pointer; user-select: none; }
 th:hover { color: #000; }
 th .arrow { font-size: 10px; margin-left: 4px; opacity: .4; }
 th.sorted .arrow { opacity: 1; color: #1890ff; }
 td.name { white-space: normal; min-width: 110px; }
 td.idx { color: #aaa; font-size: 12px; text-align: center; width: 36px; }
+th.col-avatar, td.avatar { text-align: center; }
+td.avatar { width: 70px; }
 td.name .zh { font-weight: 600; }
 td.name .ja { color: #888; font-size: 12px; }
 td.name .alias { color: #bbb; font-size: 11px; margin-top: 2px; }
@@ -82,7 +84,7 @@ tr.hidden { display: none; }
     <thead>
       <tr>
         <th>#</th>
-        <th>头像</th>
+        <th class="col-avatar">头像</th>
         <th data-sort="nameZh">名字 <span class="arrow">▲</span></th>
         <th data-sort="birth">出生 <span class="arrow">▲</span></th>
         <th data-sort="age">年龄 <span class="arrow">▲</span></th>
@@ -101,7 +103,7 @@ tr.hidden { display: none; }
   <div class="no-result hidden" id="noResult">没有找到匹配的结果</div>
 </div>
 <script>
-const DATA = [{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200","nameZh":"三上悠亞","nameJa":"三上悠亜","aliases":["鬼頭桃菜"],"birth":"1993.08.16","age":"32","height":"159","weight":"40kg","threeSize":"88 - 57 - 83","cup":"G","status":"引退","career":"2015.06.01 - 2023.08.15","agency":"S1 NO.1 STYLE","social":{"x":"yua_mikami","instagram":"yua_mikami","tiktok":"yua_mikami"}},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200","nameZh":"明日花綺羅","nameJa":"明日花キララ","aliases":[],"birth":"1988.10.02","age":"37","height":"162","weight":"44kg","threeSize":"90 - 58 - 85","cup":"G","status":"引退","career":"2007.12.21 - 2018","agency":"キラティス","social":{"x":"asukakiraran","instagram":"asukakiraran","tiktok":"asuka.kirara"}},{"avatar":"","nameZh":"田中柠檬","nameJa":"楓カレン","aliases":[],"birth":"1999.08.25","age":"26","height":"162","weight":"","threeSize":"82 - 56 - 81","cup":"D","status":"引退","career":"2018.04.20 - 2022","agency":"アイデアポケット(楓カレン時代) FALENO","social":{"x":"honmononokaren","instagram":"kaedekaren0825","tiktok":""}},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200","nameZh":"新有菜","nameJa":"橋本ありな","aliases":["橋本有菜"],"birth":"1996.12.15","age":"29","height":"167","weight":"44kg","threeSize":"84 - 58 - 84","cup":"C-65","status":"引退","career":"2016.10.03 - 2025","agency":"","social":{"x":"","instagram":"","tiktok":""}},{"avatar":"","nameZh":"示例女优","nameJa":"示例女優","aliases":[],"birth":"1993.08.16","age":"32","height":"159","weight":"45kg","threeSize":"88 - 58 - 86","cup":"G-80","status":"现役","career":"","agency":"","social":{"x":"","instagram":"","tiktok":""}}];
+const DATA = [{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200","nameZh":"三上悠亞","nameJa":"三上悠亜","aliases":["鬼頭桃菜"],"birth":"1993.08.16","age":"32","height":"159","weight":"40kg","threeSize":"88 - 57 - 83","cup":"G","status":"引退","career":"2015.06.01 - 2023.08.15","agency":"STYLE","social":{"x":"yua_mikami","instagram":"yua_mikami","tiktok":"yua_mikami"}},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200","nameZh":"明日花綺羅","nameJa":"明日花キララ","aliases":[],"birth":"1988.10.02","age":"37","height":"162","weight":"44kg","threeSize":"90 - 58 - 85","cup":"G","status":"引退","career":"2007.12.21 - 2018","agency":"キラティス","social":{"x":"asukakiraran","instagram":"asukakiraran","tiktok":"asuka.kirara"}},{"avatar":"","nameZh":"楓花戀","nameJa":"楓カレン","aliases":["田中檸檬","田中レモン","枫花恋","楓可憐"],"birth":"1999.08.25","age":"26","height":"162","weight":"","threeSize":"82 - 56 - 81","cup":"D","status":"引退","career":"2018.04.20 - 2022","agency":"FALENO","social":{"x":"honmononokaren","instagram":"kaedekaren0825","tiktok":""}},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200","nameZh":"新有菜","nameJa":"橋本ありな","aliases":["橋本有菜"],"birth":"1996.12.15","age":"29","height":"167","weight":"44kg","threeSize":"84 - 58 - 84","cup":"C-65","status":"引退","career":"2016.10.03 - 2025","agency":"","social":{"x":"","instagram":"","tiktok":""}},{"avatar":"","nameZh":"示例女优","nameJa":"示例女優","aliases":[],"birth":"1993.08.16","age":"32","height":"159","weight":"45kg","threeSize":"88 - 58 - 86","cup":"G-80","status":"现役","career":"","agency":"","social":{"x":"","instagram":"","tiktok":""}}];
 
 const tbody = document.getElementById('tbody');
 const searchInput = document.getElementById('search');
@@ -153,10 +155,11 @@ BUST_BUCKETS.forEach(b => {
 function cell(v) { return v || '—'; }
 
 // 社交媒体图标链接（使用 Simple Icons CDN 官方图标）
+// X 使用旧版 Twitter 小蓝鸟图标
 function socialCell(s) {
   if (!s) return '—';
   const links = [];
-  if (s.x) links.push('<a href="https://x.com/' + s.x + '" target="_blank" rel="noopener" title="X"><img src="https://cdn.simpleicons.org/x/000000" width="16" height="16" alt="X"></a>');
+  if (s.x) links.push('<a href="https://x.com/' + s.x + '" target="_blank" rel="noopener" title="X / Twitter"><img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="16" height="16" alt="Twitter"></a>');
   if (s.instagram) links.push('<a href="https://instagram.com/' + s.instagram + '" target="_blank" rel="noopener" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="16" height="16" alt="Instagram"></a>');
   if (s.tiktok) links.push('<a href="https://tiktok.com/@' + s.tiktok + '" target="_blank" rel="noopener" title="TikTok"><img src="https://cdn.simpleicons.org/tiktok/000000" width="16" height="16" alt="TikTok"></a>');
   return links.length ? links.join(' ') : '—';
@@ -174,7 +177,7 @@ function renderRow(d, idx) {
     : '';
   return '<tr>'
     + '<td class="idx">' + idx + '</td>'
-    + '<td>' + avatar + '</td>'
+    + '<td class="avatar">' + avatar + '</td>'
     + '<td class="name"><div class="zh">' + (d.nameZh || '—') + '</div><div class="ja">' + (d.nameJa || '') + '</div>' + aliasLine + '</td>'
     + '<td>' + cell(d.birth) + '</td>'
     + '<td>' + (d.age ? d.age + '岁' : '—') + '</td>'

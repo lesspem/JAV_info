@@ -104,11 +104,11 @@ function fmtName(rec) {
   return lines.join('<br>');
 }
 
-/** 社交媒体单元格：官方图标链接，没有则显示 — */
+/** 社交媒体单元格：官方图标链接，X 用旧版 Twitter 小蓝鸟 */
 function fmtSocial(rec) {
   const s = rec.social || {};
   const links = [];
-  if (s.x) links.push(`[![X](https://cdn.simpleicons.org/x/000000/20)](https://x.com/${s.x})`);
+  if (s.x) links.push(`[![X](https://cdn.simpleicons.org/twitter/1DA1F2/20)](https://x.com/${s.x})`);
   if (s.instagram) links.push(`[![Instagram](https://cdn.simpleicons.org/instagram/E4405F/20)](https://instagram.com/${s.instagram})`);
   if (s.tiktok) links.push(`[![TikTok](https://cdn.simpleicons.org/tiktok/000000/20)](https://tiktok.com/@${s.tiktok})`);
   return links.length ? links.join(' ') : MISS;
