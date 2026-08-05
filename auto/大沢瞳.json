@@ -1,0 +1,30 @@
+{
+  "nameJa": "大沢瞳",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1979-01-13",
+  "bloodType": "AB",
+  "height": "167",
+  "weight": "",
+  "threeSize": "88 - 60 - 90",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "1998",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "大沢瞳",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-05"
+}

@@ -1,4 +1,191 @@
 {
+  "つぼみ": {
+    "nameJa": "つぼみ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "つぼみ",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "京花萌": {
+    "nameJa": "京花萌",
+    "nameZh": "",
+    "aliases": [
+      "足立ゆう"
+    ],
+    "avatar": "",
+    "birth": "1997|生月=3|生日=20|出身地=・埼玉県|血液型=|身長=158|ふりがな=きょうか もえ|ウエスト=58|バスト=87|ヒップ=88|カップ=F|股下=|靴=|身体備考=|ジャンル=アダルトビデオ|AV出演期間=2018年 - 2022年|専属契約=|活動備考=|他の活動=|その他=}}-3|生日=20|出身地=・埼玉県|血液型=|身長=158|ふりがな=きょうか もえ|ウエスト=58|バスト=87|ヒップ=88|カップ=F|股下=|靴=|身体備考=|ジャンル=アダルトビデオ|AV出演期間=2018年 - 2022年|専属契約=|活動備考=|他の活動=|その他=}}-20|出身地=・埼玉県|血液型=|身長=158|ふりがな=きょうか もえ|ウエスト=58|バスト=87|ヒップ=88|カップ=F|股下=|靴=|身体備考=|ジャンル=アダルトビデオ|AV出演期間=2018年 - 2022年|専属契約=|活動備考=|他の活動=|その他=}}",
+    "bloodType": "A",
+    "height": "158",
+    "weight": "1997kg",
+    "threeSize": "87 - 58 - 88",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2018",
+    "agency": "|活動備考=|他の活動=|その他=",
+    "social": {
+      "x": "kyokamoe",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "京花萌",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "天月あず": {
+    "nameJa": "天月あず",
+    "nameZh": "",
+    "aliases": [
+      "星なこ"
+    ],
+    "avatar": "",
+    "birth": "2000-07-19",
+    "bloodType": "A",
+    "height": "162",
+    "weight": "",
+    "threeSize": "90 - 62 - 86",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "amatsukiazu",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "天月あず",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "小沢優": {
+    "nameJa": "小沢優",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1975-04-18",
+    "bloodType": "",
+    "height": "170",
+    "weight": "",
+    "threeSize": "86 - 60 - 89",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2008",
+    "debut": "2006",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小沢優",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "川村朋美": {
+    "nameJa": "川村朋美",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1980-12-11",
+    "bloodType": "B",
+    "height": "157",
+    "weight": "",
+    "threeSize": "80 - 56 - 83",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "川村朋美",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "川村藍子": {
+    "nameJa": "川村藍子",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1980-06-19",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "",
+    "threeSize": "82 - 58 - 85",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2000",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "川村藍子",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "桃乃木かな": {
     "nameJa": "桃乃木かな",
     "nameZh": "桃乃木香奈",
@@ -54,6 +241,132 @@
       "ja.wikipedia"
     ],
     "name": "水卜さくら",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "神代しずく": {
+    "nameJa": "神代しずく",
+    "nameZh": "",
+    "aliases": [
+      "姫宮",
+      "しおり"
+    ],
+    "avatar": "",
+    "birth": "1986-07-07",
+    "bloodType": "A",
+    "height": "162",
+    "weight": "",
+    "threeSize": "82 - 56 - 82",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2007",
+    "debut": "2006",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "神代しずく",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "神川ひな": {
+    "nameJa": "神川ひな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1992-10-13",
+    "bloodType": "A",
+    "height": "153",
+    "weight": "",
+    "threeSize": "90 - 55 - 85",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2012",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "神川ひな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "紅葉雫": {
+    "nameJa": "紅葉雫",
+    "nameZh": "",
+    "aliases": [
+      "紅葉雫",
+      "月島りお"
+    ],
+    "avatar": "",
+    "birth": "1985-04-10",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "85 - 58 - 85",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2009",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "紅葉雫",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "黒木アリサ": {
+    "nameJa": "黒木アリサ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1985-10-15",
+    "bloodType": "A",
+    "height": "163",
+    "weight": "",
+    "threeSize": "96 - 58 - 85",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2008",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "黒木アリサ",
     "missing": [
       "weight"
     ],

@@ -1,0 +1,30 @@
+{
+  "nameJa": "ICHIKA",
+  "nameZh": "ICHIKA",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1988-02-14",
+  "bloodType": "O",
+  "height": "164",
+  "weight": "",
+  "threeSize": "88 - 60 - 89",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2009",
+  "debut": "2006",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "ICHIKA",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-05"
+}

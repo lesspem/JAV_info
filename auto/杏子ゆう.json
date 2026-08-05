@@ -1,0 +1,31 @@
+{
+  "nameJa": "杏子ゆう",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1989-02-05",
+  "bloodType": "B",
+  "height": "160",
+  "weight": "",
+  "threeSize": "85 - 59 - 88",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2011-09-11",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "杏子ゆう",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-05"
+}

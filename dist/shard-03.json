@@ -1,4 +1,67 @@
 {
+  "あゆみ莉花": {
+    "nameJa": "あゆみ莉花",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1999-03-22",
+    "bloodType": "B",
+    "height": "156",
+    "weight": "",
+    "threeSize": "83 - 62 - 89",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2019",
+    "debut": "2018",
+    "agency": "",
+    "social": {
+      "x": "ayumi__rika",
+      "instagram": "ayumi__rika",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "あゆみ莉花",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "北島玲": {
+    "nameJa": "北島玲",
+    "nameZh": "北島玲",
+    "aliases": [
+      "玲丸",
+      "北嶋玲"
+    ],
+    "avatar": "",
+    "birth": "1982-12-18",
+    "bloodType": "O",
+    "height": "165",
+    "weight": "",
+    "threeSize": "96 - 65 - 90",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2006",
+    "agency": "",
+    "social": {
+      "x": "bTxCiNrhrXlLInc",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "北島玲",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "宮下玲奈": {
     "nameJa": "宮下玲奈",
     "nameZh": "宮下玲奈",
@@ -25,6 +88,36 @@
     ],
     "name": "宮下玲奈",
     "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "小野六花": {
+    "nameJa": "小野六花",
+    "nameZh": "小野六花",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Nekomanma!!_from_Otsuki-chan_no_Uta_1st_single_mini_live_Tower_Records_Ikebukuro_store_IMG_4523.jpg?width=200",
+    "birth": "2002-02-14",
+    "bloodType": "AB",
+    "height": "148",
+    "weight": "",
+    "threeSize": "81 - 58 - 82",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020-07-06",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "onorikka",
+      "instagram": "ono_rikka",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小野六花",
+    "missing": [
+      "weight"
+    ],
     "updatedAt": "2026-08-05"
   },
   "明日花キララ": {

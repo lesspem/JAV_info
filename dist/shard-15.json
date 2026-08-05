@@ -1,4 +1,94 @@
 {
+  "あやの沙希": {
+    "nameJa": "あやの沙希",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1989-08-07",
+    "bloodType": "O",
+    "height": "161",
+    "weight": "",
+    "threeSize": "84 - 58 - 82",
+    "cup": "D-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2011",
+    "agency": "マックス・エー",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "あやの沙希",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "上村ひな": {
+    "nameJa": "上村ひな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1981-12-10",
+    "bloodType": "AB",
+    "height": "157",
+    "weight": "",
+    "threeSize": "84 - 57 - 85",
+    "cup": "D-65",
+    "retired": true,
+    "retiredAt": "2002",
+    "debut": "2001",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "上村ひな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "大橋未久": {
+    "nameJa": "大橋未久",
+    "nameZh": "大橋未久",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1987-12-24",
+    "bloodType": "A",
+    "height": "158",
+    "weight": "",
+    "threeSize": "86 - 58 - 85",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2014",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "大橋未久",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "天音まひろ": {
     "nameJa": "天音まひろ",
     "nameZh": "",
@@ -25,6 +115,38 @@
     "missing": [
       "birth",
       "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "彩音舞衣": {
+    "nameJa": "彩音舞衣",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1995-12-17",
+    "bloodType": "",
+    "height": "157",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2016",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "彩音舞衣",
+    "missing": [
       "weight",
       "threeSize",
       "cup"

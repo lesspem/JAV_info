@@ -29,6 +29,66 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "乙白さやか": {
+    "nameJa": "乙白さやか",
+    "nameZh": "乙白沙也加",
+    "aliases": [],
+    "avatar": "",
+    "birth": "2001-02-03",
+    "bloodType": "O",
+    "height": "169",
+    "weight": "",
+    "threeSize": "85 - 58 - 87",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2022-02-13",
+    "debut": "2020",
+    "agency": "エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "乙白さやか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "今井ひろの": {
+    "nameJa": "今井ひろの",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1989-06-12",
+    "bloodType": "A",
+    "height": "147",
+    "weight": "",
+    "threeSize": "83 - 58 - 85",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2013",
+    "debut": "2009",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "今井ひろの",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "凪ひかる": {
     "nameJa": "凪ひかる",
     "nameZh": "凪光",
@@ -92,6 +152,64 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "大沢瞳": {
+    "nameJa": "大沢瞳",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1979-01-13",
+    "bloodType": "AB",
+    "height": "167",
+    "weight": "",
+    "threeSize": "88 - 60 - 90",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "1998",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "大沢瞳",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "愛音ミク": {
+    "nameJa": "愛音ミク",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1986-03-09",
+    "bloodType": "O",
+    "height": "157",
+    "weight": "45kg",
+    "threeSize": "86 - 57 - 84",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2010-09-07",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "愛音ミク",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
   "成宮いろは": {
     "nameJa": "成宮いろは",
     "nameZh": "成宮彩葉",
@@ -119,6 +237,40 @@
     "name": "成宮いろは",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "菊池えり": {
+    "nameJa": "菊池えり",
+    "nameZh": "",
+    "aliases": [
+      "菊地えり",
+      "秋本"
+    ],
+    "avatar": "",
+    "birth": "1965-04-05",
+    "bloodType": "A",
+    "height": "168",
+    "weight": "",
+    "threeSize": "94 - 60 - 86",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "1985",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "菊池えり",
+    "missing": [
+      "weight",
+      "cup"
     ],
     "updatedAt": "2026-08-05"
   },
@@ -183,6 +335,36 @@
       "ja.wikipedia"
     ],
     "name": "麻里梨夏",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "黒崎みか": {
+    "nameJa": "黒崎みか",
+    "nameZh": "黑崎美嘉",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1997-06-27",
+    "bloodType": "A",
+    "height": "166",
+    "weight": "",
+    "threeSize": "88 - 57 - 88",
+    "cup": "E-70",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "mika_krsk2525",
+      "instagram": "niconico_mikachan",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "黒崎みか",
     "missing": [
       "weight"
     ],

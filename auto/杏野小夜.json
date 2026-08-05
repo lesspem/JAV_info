@@ -1,0 +1,31 @@
+{
+  "nameJa": "杏野小夜",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1979-10-25",
+  "bloodType": "A",
+  "height": "162",
+  "weight": "",
+  "threeSize": "83 - 58 - 83",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "1999",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "杏野小夜",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-05"
+}

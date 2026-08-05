@@ -1,4 +1,34 @@
 {
+  "ICHIKA": {
+    "nameJa": "ICHIKA",
+    "nameZh": "ICHIKA",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1988-02-14",
+    "bloodType": "O",
+    "height": "164",
+    "weight": "",
+    "threeSize": "88 - 60 - 89",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2009",
+    "debut": "2006",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "ICHIKA",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "八乃つばさ": {
     "nameJa": "八乃つばさ",
     "nameZh": "八乃翼",
@@ -26,6 +56,104 @@
     "name": "八乃つばさ",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "小俣わかめ": {
+    "nameJa": "小俣わかめ",
+    "nameZh": "",
+    "aliases": [
+      "小俣",
+      "わかめ（おまた"
+    ],
+    "avatar": "",
+    "birth": "1985-10-02",
+    "bloodType": "A",
+    "height": "162",
+    "weight": "",
+    "threeSize": "103 - 63 - 92",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2007",
+    "debut": "2005",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小俣わかめ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "杏子ゆう": {
+    "nameJa": "杏子ゆう",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1989-02-05",
+    "bloodType": "B",
+    "height": "160",
+    "weight": "",
+    "threeSize": "85 - 59 - 88",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2011-09-11",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "杏子ゆう",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "栗衣みい": {
+    "nameJa": "栗衣みい",
+    "nameZh": "",
+    "aliases": [
+      "琴音",
+      "るい"
+    ],
+    "avatar": "",
+    "birth": "1998-09-06",
+    "bloodType": "A",
+    "height": "148",
+    "weight": "",
+    "threeSize": "82 - 55 - 79",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "アリスJAPAN",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "栗衣みい",
+    "missing": [
+      "weight",
+      "cup"
     ],
     "updatedAt": "2026-08-05"
   },
@@ -60,6 +188,37 @@
     "missing": [],
     "updatedAt": "2026-08-05"
   },
+  "河愛雪乃": {
+    "nameJa": "河愛雪乃",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1990-11-16",
+    "bloodType": "B",
+    "height": "158",
+    "weight": "",
+    "threeSize": "82 - 57 - 83",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2013",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "河愛雪乃",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "清水优空": {
     "nameJa": "清水优空",
     "nameZh": "",
@@ -89,6 +248,39 @@
       "weight",
       "threeSize",
       "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "相沢夏帆": {
+    "nameJa": "相沢夏帆",
+    "nameZh": "",
+    "aliases": [
+      "相沢",
+      "夏帆"
+    ],
+    "avatar": "",
+    "birth": "1998-06-17",
+    "bloodType": "",
+    "height": "151",
+    "weight": "",
+    "threeSize": "90 - 57 - 88",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018-04-25",
+    "agency": "E-BODY",
+    "social": {
+      "x": "morishita_mirei",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "相沢夏帆",
+    "missing": [
+      "weight"
     ],
     "updatedAt": "2026-08-05"
   },

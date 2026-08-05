@@ -31,6 +31,67 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "うさみ恭香": {
+    "nameJa": "うさみ恭香",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1981-10-05",
+    "bloodType": "O",
+    "height": "155",
+    "weight": "",
+    "threeSize": "83 - 58 - 85",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2002",
+    "debut": "2000",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "うさみ恭香",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "さくら奈々": {
+    "nameJa": "さくら奈々",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1987-11-23",
+    "bloodType": "A",
+    "height": "148",
+    "weight": "",
+    "threeSize": "84 - 58 - 83",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2009",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "さくら奈々",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "上原亜衣": {
     "nameJa": "上原亜衣",
     "nameZh": "上原亞衣",
@@ -57,6 +118,68 @@
     ],
     "name": "上原亜衣",
     "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "北岡錦": {
+    "nameJa": "北岡錦",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1971-04-09",
+    "bloodType": "O",
+    "height": "162",
+    "weight": "",
+    "threeSize": "90 - 60 - 83",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "1992",
+    "debut": "1991",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "北岡錦",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "大島薫": {
+    "nameJa": "大島薫",
+    "nameZh": "大島薰",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1989-06-07",
+    "bloodType": "AB",
+    "height": "165",
+    "weight": "53kg",
+    "threeSize": "85 - 76 - 90",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2015",
+    "agency": "レアル・ワークス",
+    "social": {
+      "x": "OshimaKaoru",
+      "instagram": "ooshima.kaoru",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia"
+    ],
+    "name": "大島薫",
+    "missing": [
+      "cup"
+    ],
     "updatedAt": "2026-08-05"
   },
   "天使もえ": {
@@ -115,6 +238,38 @@
     "missing": [],
     "updatedAt": "2026-08-05"
   },
+  "希咲エマ": {
+    "nameJa": "希咲エマ",
+    "nameZh": "",
+    "aliases": [
+      "{{plainlist|"
+    ],
+    "avatar": "",
+    "birth": "1989-08-30",
+    "bloodType": "A",
+    "height": "152",
+    "weight": "",
+    "threeSize": "95 - 56 - 85",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2009-03-01",
+    "agency": "",
+    "social": {
+      "x": "emakisaki",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "希咲エマ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "本庄鈴": {
     "nameJa": "本庄鈴",
     "nameZh": "本庄鈴",
@@ -140,6 +295,67 @@
       "ja.wikipedia"
     ],
     "name": "本庄鈴",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "杏野小夜": {
+    "nameJa": "杏野小夜",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1979-10-25",
+    "bloodType": "A",
+    "height": "162",
+    "weight": "",
+    "threeSize": "83 - 58 - 83",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "1999",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "杏野小夜",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "沖那つばさ": {
+    "nameJa": "沖那つばさ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1983-06-06",
+    "bloodType": "A",
+    "height": "166",
+    "weight": "",
+    "threeSize": "85 - 59 - 86",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2002-12-18",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "沖那つばさ",
     "missing": [
       "weight"
     ],
@@ -174,6 +390,129 @@
     ],
     "name": "河北彩花",
     "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "胡桃沢まり奈": {
+    "nameJa": "胡桃沢まり奈",
+    "nameZh": "",
+    "aliases": [
+      "胡桃沢",
+      "まり奈"
+    ],
+    "avatar": "",
+    "birth": "1978-08-29",
+    "bloodType": "B",
+    "height": "158",
+    "weight": "",
+    "threeSize": "83 - 59 - 87",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "胡桃沢まり奈",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "金城アンナ": {
+    "nameJa": "金城アンナ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1984-08-31",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "",
+    "threeSize": "83 - 58 - 85",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "金城アンナ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "香西咲": {
+    "nameJa": "香西咲",
+    "nameZh": "香西咲",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1986-03-30",
+    "bloodType": "B",
+    "height": "160",
+    "weight": "",
+    "threeSize": "84 - 57 - 85",
+    "cup": "D-65",
+    "retired": true,
+    "retiredAt": "2018",
+    "debut": "2011",
+    "agency": "アタッカーズ",
+    "social": {
+      "x": "kouzaisaki_fm",
+      "instagram": "saki.kouzai",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "香西咲",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "鮎川あゆみ": {
+    "nameJa": "鮎川あゆみ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1987-05-10",
+    "bloodType": "O",
+    "height": "162",
+    "weight": "",
+    "threeSize": "108 - 60 - 85",
+    "cup": "I",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2008",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "鮎川あゆみ",
+    "missing": [
+      "weight"
+    ],
     "updatedAt": "2026-08-05"
   }
 }

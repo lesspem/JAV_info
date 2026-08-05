@@ -1,4 +1,64 @@
 {
+  "今宿まこと": {
+    "nameJa": "今宿まこと",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1984-02-18",
+    "bloodType": "",
+    "height": "150",
+    "weight": "",
+    "threeSize": "83 - 56 - 87",
+    "cup": "B-65",
+    "retired": true,
+    "retiredAt": "2003",
+    "debut": "2002",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "今宿まこと",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "今野由愛": {
+    "nameJa": "今野由愛",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1985-03-07",
+    "bloodType": "",
+    "height": "150",
+    "weight": "",
+    "threeSize": "83 - 58 - 84",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2007",
+    "debut": "2004",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "今野由愛",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "南條加奈": {
     "nameJa": "南條加奈",
     "nameZh": "",
@@ -22,6 +82,70 @@
     "works": "",
     "sources": [],
     "name": "南條加奈",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "宇佐野瞳": {
+    "nameJa": "宇佐野瞳",
+    "nameZh": "",
+    "aliases": [
+      "星見あい"
+    ],
+    "avatar": "",
+    "birth": "1989-05-21",
+    "bloodType": "",
+    "height": "157",
+    "weight": "",
+    "threeSize": "85 - 58 - 87",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "usano_hitomi",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "宇佐野瞳",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "小沢アリス": {
+    "nameJa": "小沢アリス",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "小沢アリス",
     "missing": [
       "birth",
       "height",
@@ -152,6 +276,69 @@
       "ja.wikipedia"
     ],
     "name": "渚みつき",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "相田すみれ": {
+    "nameJa": "相田すみれ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1985-04-08",
+    "bloodType": "B",
+    "height": "152",
+    "weight": "",
+    "threeSize": "92 - 59 - 90",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2006",
+    "debut": "2004",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "相田すみれ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "碧しの": {
+    "nameJa": "碧しの",
+    "nameZh": "篠惠美",
+    "aliases": [
+      "篠めぐみ",
+      "中村遙香"
+    ],
+    "avatar": "",
+    "birth": "1990-09-08",
+    "bloodType": "A",
+    "height": "163",
+    "weight": "",
+    "threeSize": "80 - 58 - 85",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2019-05-21",
+    "debut": "2009",
+    "agency": "",
+    "social": {
+      "x": "shino_aoi0908",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "碧しの",
     "missing": [
       "weight"
     ],

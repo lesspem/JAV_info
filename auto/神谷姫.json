@@ -1,0 +1,30 @@
+{
+  "nameJa": "神谷姫",
+  "nameZh": "神谷姬",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1985-05-24",
+  "bloodType": "B",
+  "height": "162",
+  "weight": "",
+  "threeSize": "80 - 58 - 80",
+  "cup": "C-65",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2005-01-21",
+  "agency": "PREMIUM",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "神谷姫",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-05"
+}

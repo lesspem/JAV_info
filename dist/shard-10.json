@@ -1,4 +1,132 @@
 {
+  "あおいれな": {
+    "nameJa": "あおいれな",
+    "nameZh": "葵玲奈",
+    "aliases": [
+      "葵玲奈",
+      "れな"
+    ],
+    "avatar": "",
+    "birth": "1996-03-19",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "80 - 57 - 85",
+    "cup": "A",
+    "retired": true,
+    "retiredAt": "2021-07-18",
+    "debut": "2015-07-25",
+    "agency": "",
+    "social": {
+      "x": "aoi_rena_",
+      "instagram": "aoi_rena_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "あおいれな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "入田真綾": {
+    "nameJa": "入田真綾",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1990-11-15",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "89 - 58 - 86",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2023",
+    "agency": "DAHLIA",
+    "social": {
+      "x": "maaya_irita",
+      "instagram": "iritamaaya",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "入田真綾",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "川崎杏奈": {
+    "nameJa": "川崎杏奈",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1977-10-12",
+    "bloodType": "A",
+    "height": "",
+    "weight": "",
+    "threeSize": "83 - 58 - 84",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "1996",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "川崎杏奈",
+    "missing": [
+      "height",
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "水野朝陽": {
+    "nameJa": "水野朝陽",
+    "nameZh": "水野朝陽",
+    "aliases": [
+      "本多翼",
+      "白瀬真希"
+    ],
+    "avatar": "",
+    "birth": "1990-11-12",
+    "bloodType": "A",
+    "height": "165",
+    "weight": "",
+    "threeSize": "90 - 58 - 96",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2019",
+    "debut": "2013",
+    "agency": "マドンナ",
+    "social": {
+      "x": "mizuno_asahi",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "水野朝陽",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "永井みひな": {
     "nameJa": "永井みひな",
     "nameZh": "美雛",
@@ -32,6 +160,36 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "片瀬まこ": {
+    "nameJa": "片瀬まこ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1983-08-22",
+    "bloodType": "A",
+    "height": "156",
+    "weight": "",
+    "threeSize": "98 - 58 - 87",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2008",
+    "debut": "2005",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "片瀬まこ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "相沢みなみ": {
     "nameJa": "相沢みなみ",
     "nameZh": "相澤南",
@@ -60,6 +218,34 @@
     "missing": [
       "weight"
     ],
+    "updatedAt": "2026-08-05"
+  },
+  "相澤ゆりな": {
+    "nameJa": "相澤ゆりな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1995-06-11",
+    "bloodType": "B",
+    "height": "148",
+    "weight": "52kg",
+    "threeSize": "87 - 58 - 83",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2015",
+    "agency": "E-BODY",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "相澤ゆりな",
+    "missing": [],
     "updatedAt": "2026-08-05"
   },
   "神宮寺ナオ": {

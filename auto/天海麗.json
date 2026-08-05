@@ -1,0 +1,30 @@
+{
+  "nameJa": "天海麗",
+  "nameZh": "天海麗",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1984-03-28",
+  "bloodType": "A",
+  "height": "150",
+  "weight": "",
+  "threeSize": "80 - 56 - 80",
+  "cup": "D-65",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "天海麗",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-05"
+}

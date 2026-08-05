@@ -31,6 +31,64 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "一ノ瀬あきら": {
+    "nameJa": "一ノ瀬あきら",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1985-04-02",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "90 - 60 - 92",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2010",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "一ノ瀬あきら",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "加瀬あゆむ": {
+    "nameJa": "加瀬あゆむ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1987-02-14",
+    "bloodType": "A",
+    "height": "150",
+    "weight": "37kg",
+    "threeSize": "80 - 58 - 82",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2005",
+    "agency": "",
+    "social": {
+      "x": "ayumukase",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "加瀬あゆむ",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
   "星宮一花": {
     "nameJa": "星宮一花",
     "nameZh": "星宮一花",
@@ -121,6 +179,38 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "河田結衣": {
+    "nameJa": "河田結衣",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "河田結衣",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "篠田ゆう": {
     "nameJa": "篠田ゆう",
     "nameZh": "篠田优",
@@ -151,6 +241,67 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "緒川凛": {
+    "nameJa": "緒川凛",
+    "nameZh": "",
+    "aliases": [
+      "緒川",
+      "凛"
+    ],
+    "avatar": "",
+    "birth": "1985-02-08",
+    "bloodType": "O",
+    "height": "161",
+    "weight": "",
+    "threeSize": "105 - 65 - 98",
+    "cup": "J",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "mimura_ibuki",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "緒川凛",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "藍山みなみ": {
+    "nameJa": "藍山みなみ",
+    "nameZh": "蓝山南",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1982-05-28",
+    "bloodType": "AB",
+    "height": "155",
+    "weight": "54kg",
+    "threeSize": "80 - 60 - 90",
+    "cup": "B",
+    "retired": true,
+    "retiredAt": "2007-06-07",
+    "debut": "2003",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "藍山みなみ",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
   "藤森里穂": {
     "nameJa": "藤森里穂",
     "nameZh": "藤森里穗",
@@ -177,6 +328,39 @@
     ],
     "name": "藤森里穂",
     "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "逢沢りいな": {
+    "nameJa": "逢沢りいな",
+    "nameZh": "",
+    "aliases": [
+      "はとり",
+      "心咲"
+    ],
+    "avatar": "",
+    "birth": "1998-10-10",
+    "bloodType": "",
+    "height": "164",
+    "weight": "",
+    "threeSize": "97 - 60 - 95",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "Fitch",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "逢沢りいな",
+    "missing": [
+      "weight"
+    ],
     "updatedAt": "2026-08-05"
   }
 }

@@ -1,0 +1,33 @@
+{
+  "nameJa": "石原小百合",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1958-??-??",
+  "bloodType": "",
+  "height": "",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "石原小百合",
+  "missing": [
+    "height",
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-05"
+}

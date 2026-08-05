@@ -29,6 +29,103 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "天海ゆり": {
+    "nameJa": "天海ゆり",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "88 - 60 - 88",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2009",
+    "debut": "2006",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "天海ゆり",
+    "missing": [
+      "birth",
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "奥菜つばさ": {
+    "nameJa": "奥菜つばさ",
+    "nameZh": "",
+    "aliases": [
+      "川村翼"
+    ],
+    "avatar": "",
+    "birth": "1981-02-06",
+    "bloodType": "O",
+    "height": "148",
+    "weight": "",
+    "threeSize": "88 - 58 - 83",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2009",
+    "debut": "2000-05-06",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "奥菜つばさ",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "愛乃澪": {
+    "nameJa": "愛乃澪",
+    "nameZh": "",
+    "aliases": [
+      "笹本",
+      "結愛"
+    ],
+    "avatar": "",
+    "birth": "1994-10-14",
+    "bloodType": "",
+    "height": "163",
+    "weight": "",
+    "threeSize": "86 - 58 - 87",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2017",
+    "debut": "2016",
+    "agency": "アタッカーズ",
+    "social": {
+      "x": "_ainoREI_",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "愛乃澪",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "松島かえで": {
     "nameJa": "松島かえで",
     "nameZh": "松島楓",
@@ -119,6 +216,132 @@
       "ja.wikipedia"
     ],
     "name": "永瀬ゆい",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "白石茉莉奈": {
+    "nameJa": "白石茉莉奈",
+    "nameZh": "白石茉莉奈",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiraishi_Marina_from_%22I_am_a_pervert%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2016_(32800542854).jpg?width=200",
+    "birth": "1986-08-10",
+    "bloodType": "O",
+    "height": "154",
+    "weight": "",
+    "threeSize": "90 - 60 - 90",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2013-06-23",
+    "agency": "マドンナ",
+    "social": {
+      "x": "shiraishimarina",
+      "instagram": "marina_shiraishi_official",
+      "tiktok": "shiraishimarina"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "白石茉莉奈",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "神坂ひなの": {
+    "nameJa": "神坂ひなの",
+    "nameZh": "",
+    "aliases": [
+      "ひなの",
+      "椎名"
+    ],
+    "avatar": "",
+    "birth": "1996-03-03",
+    "bloodType": "O",
+    "height": "150",
+    "weight": "",
+    "threeSize": "78 - 56 - 84",
+    "cup": "A-65",
+    "retired": true,
+    "retiredAt": "2021-05-25",
+    "debut": "2017-01-21",
+    "agency": "SOD",
+    "social": {
+      "x": "hina_kanno0303",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "神坂ひなの",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "神谷姫": {
+    "nameJa": "神谷姫",
+    "nameZh": "神谷姬",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1985-05-24",
+    "bloodType": "B",
+    "height": "162",
+    "weight": "",
+    "threeSize": "80 - 58 - 80",
+    "cup": "C-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2005-01-21",
+    "agency": "PREMIUM",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "神谷姫",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "青木菜摘": {
+    "nameJa": "青木菜摘",
+    "nameZh": "",
+    "aliases": [
+      "椎野",
+      "まお"
+    ],
+    "avatar": "",
+    "birth": "1989-01-06",
+    "bloodType": "O",
+    "height": "149",
+    "weight": "",
+    "threeSize": "86 - 58 - 88",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2008",
+    "agency": "アタッカーズ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "青木菜摘",
     "missing": [
       "weight"
     ],

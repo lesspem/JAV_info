@@ -1,0 +1,32 @@
+{
+  "nameJa": "川崎杏奈",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1977-10-12",
+  "bloodType": "A",
+  "height": "",
+  "weight": "",
+  "threeSize": "83 - 58 - 84",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "1996",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "川崎杏奈",
+  "missing": [
+    "height",
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-05"
+}

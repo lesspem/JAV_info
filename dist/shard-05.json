@@ -31,6 +31,39 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "いしはらさき": {
+    "nameJa": "いしはらさき",
+    "nameZh": "",
+    "aliases": [
+      "いしはら",
+      "さき"
+    ],
+    "avatar": "",
+    "birth": "1991-10-01",
+    "bloodType": "O",
+    "height": "149",
+    "weight": "",
+    "threeSize": "82 - 59 - 83",
+    "cup": "B",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2011",
+    "agency": "",
+    "social": {
+      "x": "nyapianan",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "いしはらさき",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "小倉由菜": {
     "nameJa": "小倉由菜",
     "nameZh": "小倉由菜",
@@ -150,6 +183,68 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "浜崎真緒": {
+    "nameJa": "浜崎真緒",
+    "nameZh": "濱崎真緒",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/DSCF3777_(53361773894).jpg?width=200",
+    "birth": "1993-10-20",
+    "bloodType": "B",
+    "height": "165",
+    "weight": "53kg",
+    "threeSize": "85 - 59 - 84",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2024",
+    "debut": "2012",
+    "agency": "ソフト・オン・デマンド",
+    "social": {
+      "x": "Hamasaki_mao",
+      "instagram": "maohamasaki_official",
+      "tiktok": "mao_hamasaki"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "浜崎真緒",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
+  "相原翼": {
+    "nameJa": "相原翼",
+    "nameZh": "",
+    "aliases": [
+      "夏目",
+      "ヒカル"
+    ],
+    "avatar": "",
+    "birth": "1997-01-25",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "82 - 56 - 88",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2017",
+    "debut": "2015",
+    "agency": "本中",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "相原翼",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "神ユキ": {
     "nameJa": "神ユキ",
     "nameZh": "神雪",
@@ -175,6 +270,72 @@
       "ja.wikipedia"
     ],
     "name": "神ユキ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "神咲アンナ": {
+    "nameJa": "神咲アンナ",
+    "nameZh": "",
+    "aliases": [
+      "あいら",
+      "http:"
+    ],
+    "avatar": "",
+    "birth": "1987-01-05",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "",
+    "threeSize": "83 - 58 - 82",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2006",
+    "debut": "2005-11-25",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "神咲アンナ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "綾瀬みう": {
+    "nameJa": "綾瀬みう",
+    "nameZh": "",
+    "aliases": [
+      "井川",
+      "舞衣"
+    ],
+    "avatar": "",
+    "birth": "1987-02-10",
+    "bloodType": "B",
+    "height": "152",
+    "weight": "",
+    "threeSize": "84 - 56 - 83",
+    "cup": "C-65",
+    "retired": true,
+    "retiredAt": "2008",
+    "debut": "2006-12-16",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "綾瀬みう",
     "missing": [
       "weight"
     ],
@@ -332,6 +493,38 @@
     "name": "西野翔",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "黒谷渚": {
+    "nameJa": "黒谷渚",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "170",
+    "weight": "",
+    "threeSize": "82 - 59 - 86",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "黒谷渚",
+    "missing": [
+      "birth",
+      "weight",
+      "cup"
     ],
     "updatedAt": "2026-08-05"
   }

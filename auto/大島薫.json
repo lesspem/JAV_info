@@ -1,0 +1,31 @@
+{
+  "nameJa": "大島薫",
+  "nameZh": "大島薰",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1989-06-07",
+  "bloodType": "AB",
+  "height": "165",
+  "weight": "53kg",
+  "threeSize": "85 - 76 - 90",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2015",
+  "agency": "レアル・ワークス",
+  "social": {
+    "x": "OshimaKaoru",
+    "instagram": "ooshima.kaoru",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia"
+  ],
+  "name": "大島薫",
+  "missing": [
+    "cup"
+  ],
+  "updatedAt": "2026-08-05"
+}

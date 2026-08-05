@@ -1,4 +1,64 @@
 {
+  "天海麗": {
+    "nameJa": "天海麗",
+    "nameZh": "天海麗",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1984-03-28",
+    "bloodType": "A",
+    "height": "150",
+    "weight": "",
+    "threeSize": "80 - 56 - 80",
+    "cup": "D-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "天海麗",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "彩瀬希": {
+    "nameJa": "彩瀬希",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1993-03-03",
+    "bloodType": "",
+    "height": "163",
+    "weight": "",
+    "threeSize": "83 - 58 - 82",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2012",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "彩瀬希",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "波多野結衣": {
     "nameJa": "波多野結衣",
     "nameZh": "波多野結衣",
@@ -52,6 +112,36 @@
       "ja.wikipedia"
     ],
     "name": "葵つかさ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "風見里穂": {
+    "nameJa": "風見里穂",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1982-08-28",
+    "bloodType": "",
+    "height": "150",
+    "weight": "",
+    "threeSize": "83 - 59 - 84",
+    "cup": "C-70",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2002",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "風見里穂",
     "missing": [
       "weight"
     ],

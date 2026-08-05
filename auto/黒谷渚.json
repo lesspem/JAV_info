@@ -1,0 +1,32 @@
+{
+  "nameJa": "黒谷渚",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "",
+  "height": "170",
+  "weight": "",
+  "threeSize": "82 - 59 - 86",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "黒谷渚",
+  "missing": [
+    "birth",
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-05"
+}

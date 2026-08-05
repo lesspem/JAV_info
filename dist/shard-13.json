@@ -29,6 +29,98 @@
     "missing": [],
     "updatedAt": "2026-08-05"
   },
+  "佐倉絆": {
+    "nameJa": "佐倉絆",
+    "nameZh": "佐倉絆",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%E4%B8%8A%E9%87%8E%E3%82%AA%E3%83%BC%E3%82%AF%E3%83%A9%E5%8A%87%E5%A0%B4%E3%83%BB2020%E5%B9%B41%E6%9C%884%E6%97%A5%E3%80%81%E8%88%9E%E5%8F%B0%E6%8C%A8%E6%8B%B6_20200104162714_IMG_4970.jpg?width=200",
+    "birth": "1989-05-30",
+    "bloodType": "AB",
+    "height": "151",
+    "weight": "",
+    "threeSize": "83 - 59 - 84",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2014-07-29",
+    "agency": "million",
+    "social": {
+      "x": "kabu_kizupon",
+      "instagram": "kizunasakura",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "佐倉絆",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "加斗レア": {
+    "nameJa": "加斗レア",
+    "nameZh": "",
+    "aliases": [
+      "笠木彩花"
+    ],
+    "avatar": "",
+    "birth": "1984-05-16",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "",
+    "threeSize": "83 - 59 - 85",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2008",
+    "debut": "2005",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "加斗レア",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "北川瞳": {
+    "nameJa": "北川瞳",
+    "nameZh": "北川瞳",
+    "aliases": [
+      "おっぱいひとみん"
+    ],
+    "avatar": "",
+    "birth": "1991-12-02",
+    "bloodType": "A",
+    "height": "155",
+    "weight": "41kg",
+    "threeSize": "88 - 57 - 85",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2015",
+    "debut": "2010",
+    "agency": "",
+    "social": {
+      "x": "erika1202hsgw",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "北川瞳",
+    "missing": [],
+    "updatedAt": "2026-08-05"
+  },
   "坂道みる": {
     "nameJa": "坂道みる",
     "nameZh": "Miru",
@@ -93,6 +185,36 @@
     ],
     "updatedAt": "2026-08-05"
   },
+  "川島和津実": {
+    "nameJa": "川島和津実",
+    "nameZh": "川島和津實",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1979-08-08",
+    "bloodType": "A",
+    "height": "156",
+    "weight": "",
+    "threeSize": "86 - 59 - 85",
+    "cup": "D-65",
+    "retired": true,
+    "retiredAt": "1999",
+    "debut": "1998-12-18",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "川島和津実",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
   "市川まさみ": {
     "nameJa": "市川まさみ",
     "nameZh": "市川雅美",
@@ -118,6 +240,36 @@
       "ja.wikipedia"
     ],
     "name": "市川まさみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "彩月かおる": {
+    "nameJa": "彩月かおる",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1955|生月=6|生日=9-6|生日=9-09",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "94 - 68 - 90",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2010",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "彩月かおる",
     "missing": [
       "weight"
     ],
@@ -276,6 +428,69 @@
     "name": "水川スミレ",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "石倉えいみ": {
+    "nameJa": "石倉えいみ",
+    "nameZh": "石倉詠美",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1982-10-27",
+    "bloodType": "A",
+    "height": "157",
+    "weight": "",
+    "threeSize": "86 - 59 - 88",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2011",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "石倉えいみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-05"
+  },
+  "石原小百合": {
+    "nameJa": "石原小百合",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1958-??-??",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "石原小百合",
+    "missing": [
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
     ],
     "updatedAt": "2026-08-05"
   },
