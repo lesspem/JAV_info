@@ -9,6 +9,21 @@
 
 'use strict';
 
+/** 公司名统一规范化（无论 auto 还是 manual 都过一遍，保证显示一致） */
+function normalizeAgency(name) {
+  if (!name) return '';
+  return String(name)
+    .replace(/\}\}/g, '')
+    .replace(/\[https?:\/\/[^\s\]]+\s+[^\]]*\]/g, '')
+    .replace(/\d{4}\s*[-–年]\s*\d{0,4}\s*/g, '')
+    .replace(/Million\s*[-\s]*K\.M\.Produce/i, 'K.M.Produce')
+    .replace(/S1\s+NO\.?\s*1\s+STYLE/i, 'S1')
+    .replace(/SOD\s*(?:クリエイト|star|Star|スター)/gi, 'SOD')
+    .replace(/^FALENO.*$/i, 'FALENO')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 /** 从 wikitext 中提取模板参数，按 keys 顺序取第一个有值的 */
 function pickParam(txt, keys) {
   for (const key of keys) {
@@ -461,6 +476,7 @@ module.exports = {
   calcCareer,
   fmtDate,
   emptyRecord,
+  normalizeAgency,
   parseWikitext,
   parseXslistText,
   extractWikitext,

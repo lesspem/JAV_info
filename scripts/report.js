@@ -13,7 +13,7 @@
 
 const fs = require('fs');
 const path = require('path');
-const { calcAge, calcCareer } = require('./parser');
+const { calcAge, calcCareer, normalizeAgency } = require('./parser');
 
 const ROOT = path.resolve(__dirname, '..');
 const AUTO_DIR = path.join(ROOT, 'auto');
@@ -180,6 +180,9 @@ function main() {
     }
     rec.name = name;
     if (!rec.nameJa) rec.nameJa = name;
+
+    // 公司名统一规范化（无论来自 auto 还是 manual，都统一格式）
+    if (rec.agency) rec.agency = normalizeAgency(rec.agency);
 
     // 本地上传的头像优先，写入 avatar 字段（相对仓库根的路径）
     // 支持用 种子名/中文名/日文名 命名文件
