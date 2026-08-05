@@ -64,13 +64,15 @@ function buildHTML(data) {
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; color: #333; padding: 20px; }
 .header { max-width: 1200px; margin: 0 auto 20px; }
-.header h1 { font-size: 24px; margin-bottom: 12px; }
+.title-row { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 12px; }
+.header h1 { font-size: 24px; }
+.update-time { font-size: 13px; color: #999; }
 .controls { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
 .controls input, .controls select {
   padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px;
   font-size: 14px; background: #fff;
 }
-.controls input { width: 200px; text-align: center; }
+.controls input { width: 160px; text-align: center; }
 .controls select { min-width: 100px; }
 .stats { font-size: 13px; color: #888; margin-left: auto; }
 .table-wrap { max-width: 1200px; margin: 0 auto; overflow-x: auto; }
@@ -90,7 +92,7 @@ td.name .ja { color: #888; font-size: 12px; }
 td.name .alias { color: #bbb; font-size: 11px; margin-top: 2px; }
 td img { width: 50px; height: 50px; object-fit: cover; border-radius: 4px; background: #eee; }
 td .miss { color: #999; }
-td.social a { display: inline-block; margin-right: 3px; opacity: .8; }
+td.social a { display: inline-block; margin-right: 2px; opacity: .8; }
 td.social a:hover { opacity: 1; }
 td.social img { width: 16px; height: 16px; border-radius: 0; background: transparent; vertical-align: middle; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
@@ -110,7 +112,10 @@ tr.hidden { display: none; }
 </head>
 <body>
 <div class="header">
-  <h1>女优信息总表</h1>
+  <div class="title-row">
+    <h1>女优信息总表</h1>
+    <span class="update-time">数据更新: ${new Date().toISOString().slice(0, 10)}</span>
+  </div>
   <div class="controls">
     <input type="text" id="search" placeholder="搜索女优(中/日/曾用名)" autocomplete="off">
     <select id="filterStatus">
@@ -151,10 +156,10 @@ tr.hidden { display: none; }
         <th data-sort="weight">体重 <span class="arrow">▲</span></th>
         <th>三围 <span class="filter-icon" id="bustFilterBtn">▼</span></th>
         <th data-sort="cup">罩杯 <span class="arrow">▲</span></th>
-        <th data-sort="status">状态 <span class="arrow">▲</span></th>
         <th data-sort="career">职业生涯 <span class="arrow">▲</span></th>
         <th data-sort="agency">所在公司 <span class="arrow">▲</span></th>
         <th>社交媒体</th>
+        <th data-sort="status">状态 <span class="arrow">▲</span></th>
         <th>作品</th>
       </tr>
     </thead>
@@ -248,10 +253,10 @@ function renderRow(d, idx) {
     + '<td>' + cell(d.weight) + '</td>'
     + '<td>' + cell(d.threeSize) + '</td>'
     + '<td>' + cell(d.cup) + '</td>'
-    + '<td>' + statusTag + '</td>'
     + '<td>' + cell(d.career) + '</td>'
     + '<td>' + cell(d.agency) + '</td>'
     + '<td class="social">' + socialCell(d.social) + '</td>'
+    + '<td>' + statusTag + '</td>'
     + '<td>' + (d.works || '—') + '</td>'
     + '</tr>';
 }

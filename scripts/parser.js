@@ -278,12 +278,14 @@ function parseWikitext(wikitext) {
       .replace(/(?:File|Image|ファイル|画像)\s*[:：].*?\.(?:png|jpe?g|gif|svg|webp)/gi, '')
       .replace(/\s+/g, ' ')
       .trim();
-    // 如果含有多段历史（如「A社(xxx時代) B社」），只取最后一个公司名（= 当前/最新所属）
-    const parts = cleaned.split(/\s+/).filter(Boolean);
-    if (parts.length > 1) {
-      // 找最后一个不含括号的词（括号内是历史注释如「楓カレン時代」）
-      const last = parts.filter((p) => !/[（(]/.test(p)).pop();
-      if (last) cleaned = last;
+    // 多段历史（如「A社(xxx時代) B社」）：括号是历史注释，取最后一个 ')' 之后的部分＝当前所属
+    // 注意不能按空格切分，否则「S1 NO.1 STYLE」会被截成「STYLE」
+    const lastParen = cleaned.lastIndexOf(')');
+    const lastParenZh = cleaned.lastIndexOf('）');
+    const cut = Math.max(lastParen, lastParenZh);
+    if (cut > -1 && cut < cleaned.length - 1) {
+      const tail = cleaned.slice(cut + 1).trim();
+      if (tail) cleaned = tail;
     }
     r.agency = cleaned;
   }

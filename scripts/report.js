@@ -137,7 +137,7 @@ function buildMarkdown(records, incompleteCount) {
   );
   lines.push('');
   lines.push(
-    '| # | 头像 | 名字 | 出生 | 年龄 | 身高 | 体重 | 三围 | 罩杯 | 状态 | 职业生涯 | 所在公司 | 社交媒体 | 作品 |'
+    '| # | 头像 | 名字 | 出生 | 年龄 | 身高 | 体重 | 三围 | 罩杯 | 职业生涯 | 所在公司 | 社交媒体 | 状态 | 作品 |'
   );
   lines.push('| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |');
 
@@ -146,7 +146,7 @@ function buildMarkdown(records, incompleteCount) {
     lines.push(
       `| ${i + 1} | ${fmtAvatar(r)} | ${fmtName(r)} | ${cell(fmtBirth(r.birth))} | ${cellSuffix(calcAge(r.birth), '岁')} | ` +
         `${cellSuffix(r.height, 'cm')} | ${cell(r.weight)} | ${cell(r.threeSize)} | ${cell(r.cup)} | ` +
-        `${status} | ${cell(calcCareer(r))} | ${cell(r.agency)} | ${fmtSocial(r)} | ${cell(r.works)} |`
+        `${cell(calcCareer(r))} | ${cell(r.agency)} | ${fmtSocial(r)} | ${status} | ${cell(r.works)} |`
     );
   });
 
