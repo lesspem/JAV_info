@@ -14,7 +14,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
   padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px;
   font-size: 14px; background: #fff;
 }
-.controls input { width: 180px; }
+.controls input { width: 200px; text-align: center; }
 .controls select { min-width: 100px; }
 .stats { font-size: 13px; color: #888; margin-left: auto; }
 .table-wrap { max-width: 1200px; margin: 0 auto; overflow-x: auto; }
@@ -34,7 +34,7 @@ td.name .ja { color: #888; font-size: 12px; }
 td.name .alias { color: #bbb; font-size: 11px; margin-top: 2px; }
 td img { width: 50px; height: 50px; object-fit: cover; border-radius: 4px; background: #eee; }
 td .miss { color: #999; }
-td.social a { display: inline-block; margin-right: 6px; opacity: .8; }
+td.social a { display: inline-block; margin-right: 3px; opacity: .8; }
 td.social a:hover { opacity: 1; }
 td.social img { width: 16px; height: 16px; border-radius: 0; background: transparent; vertical-align: middle; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
@@ -42,6 +42,9 @@ td.social img { width: 16px; height: 16px; border-radius: 0; background: transpa
 .tag-retired { background: #fff1f0; color: #ff4d4f; }
 tr.hidden { display: none; }
 .no-result { text-align: center; padding: 40px; color: #999; }
+.filter-icon { cursor: pointer; font-size: 10px; color: #999; vertical-align: middle; }
+.filter-icon:hover { color: #1890ff; }
+.filter-icon.active { color: #1890ff; }
 @media (max-width: 768px) {
   .controls { flex-direction: column; }
   .controls input { width: 100%; }
@@ -53,7 +56,7 @@ tr.hidden { display: none; }
 <div class="header">
   <h1>女优信息总表</h1>
   <div class="controls">
-    <input type="text" id="search" placeholder="搜索名(中/日/曾用名)" autocomplete="off">
+    <input type="text" id="search" placeholder="搜索女优(中/日/曾用名)" autocomplete="off">
     <select id="filterStatus">
       <option value="">全部状态</option>
       <option value="现役">现役</option>
@@ -66,7 +69,7 @@ tr.hidden { display: none; }
       <option value="">全部公司</option>
     </select>
     <select id="filterBust">
-      <option value="">全部三围(胸围)</option>
+      <option value="">三围(胸围)</option>
     </select>
     <select id="filterSocial">
       <option value="">社交媒体</option>
@@ -90,12 +93,13 @@ tr.hidden { display: none; }
         <th data-sort="age">年龄 <span class="arrow">▲</span></th>
         <th data-sort="height">身高 <span class="arrow">▲</span></th>
         <th data-sort="weight">体重 <span class="arrow">▲</span></th>
-        <th>三围</th>
+        <th>三围 <span class="filter-icon" id="bustFilterBtn">▼</span></th>
         <th data-sort="cup">罩杯 <span class="arrow">▲</span></th>
         <th data-sort="status">状态 <span class="arrow">▲</span></th>
         <th data-sort="career">职业生涯 <span class="arrow">▲</span></th>
         <th data-sort="agency">所在公司 <span class="arrow">▲</span></th>
         <th>社交媒体</th>
+        <th>作品</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -103,7 +107,7 @@ tr.hidden { display: none; }
   <div class="no-result hidden" id="noResult">没有找到匹配的结果</div>
 </div>
 <script>
-const DATA = [{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200","nameZh":"三上悠亞","nameJa":"三上悠亜","aliases":["鬼頭桃菜"],"birth":"1993.08.16","age":"32","height":"159","weight":"40kg","threeSize":"88 - 57 - 83","cup":"G","status":"引退","career":"2015.06.01 - 2023.08.15","agency":"STYLE","social":{"x":"yua_mikami","instagram":"yua_mikami","tiktok":"yua_mikami"}},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200","nameZh":"明日花綺羅","nameJa":"明日花キララ","aliases":[],"birth":"1988.10.02","age":"37","height":"162","weight":"44kg","threeSize":"90 - 58 - 85","cup":"G","status":"引退","career":"2007.12.21 - 2018","agency":"キラティス","social":{"x":"asukakiraran","instagram":"asukakiraran","tiktok":"asuka.kirara"}},{"avatar":"","nameZh":"楓花戀","nameJa":"楓カレン","aliases":["田中檸檬","田中レモン","楓可憐"],"birth":"1999.08.25","age":"26","height":"162","weight":"","threeSize":"82 - 56 - 81","cup":"D","status":"引退","career":"2018.04.20 - 2022","agency":"FALENO","social":{"x":"honmononokaren","instagram":"kaedekaren0825","tiktok":""}},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200","nameZh":"新有菜","nameJa":"橋本ありな","aliases":["橋本有菜"],"birth":"1996.12.15","age":"29","height":"167","weight":"44kg","threeSize":"84 - 58 - 84","cup":"C-65","status":"引退","career":"2016.10.03 - 2025","agency":"","social":{"x":"","instagram":"","tiktok":""}},{"avatar":"","nameZh":"示例女优","nameJa":"示例女優","aliases":[],"birth":"1993.08.16","age":"32","height":"159","weight":"45kg","threeSize":"88 - 58 - 86","cup":"G-80","status":"现役","career":"","agency":"","social":{"x":"","instagram":"","tiktok":""}}];
+const DATA = [{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200","nameZh":"三上悠亞","nameJa":"三上悠亜","aliases":["鬼頭桃菜"],"birth":"1993.08.16","age":"32","height":"159","weight":"40kg","threeSize":"88 - 57 - 83","cup":"G","status":"引退","career":"2015.06.01 - 2023.08.15","agency":"STYLE","social":{"x":"yua_mikami","instagram":"yua_mikami","tiktok":"yua_mikami"},"works":""},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200","nameZh":"明日花綺羅","nameJa":"明日花キララ","aliases":[],"birth":"1988.10.02","age":"37","height":"162","weight":"44kg","threeSize":"90 - 58 - 85","cup":"G","status":"引退","career":"2007.12.21 - 2018","agency":"キラティス","social":{"x":"asukakiraran","instagram":"asukakiraran","tiktok":"asuka.kirara"},"works":""},{"avatar":"","nameZh":"枫花恋","nameJa":"楓カレン","aliases":["田中レモン","楓可憐"],"birth":"1999.08.25","age":"26","height":"162","weight":"","threeSize":"82 - 56 - 81","cup":"D","status":"引退","career":"2018.04.20 - 2022","agency":"FALENO","social":{"x":"honmononokaren","instagram":"kaedekaren0825","tiktok":""},"works":""},{"avatar":"https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200","nameZh":"新有菜","nameJa":"橋本ありな","aliases":["橋本有菜"],"birth":"1996.12.15","age":"29","height":"167","weight":"44kg","threeSize":"84 - 58 - 84","cup":"C-65","status":"引退","career":"2016.10.03 - 2025","agency":"","social":{"x":"","instagram":"","tiktok":""},"works":""},{"avatar":"","nameZh":"示例女优","nameJa":"示例女優","aliases":[],"birth":"1993.08.16","age":"32","height":"159","weight":"45kg","threeSize":"88 - 58 - 86","cup":"G-80","status":"现役","career":"","agency":"","social":{"x":"","instagram":"","tiktok":""},"works":""}];
 
 const tbody = document.getElementById('tbody');
 const searchInput = document.getElementById('search');
@@ -192,6 +196,7 @@ function renderRow(d, idx) {
     + '<td>' + cell(d.career) + '</td>'
     + '<td>' + cell(d.agency) + '</td>'
     + '<td class="social">' + socialCell(d.social) + '</td>'
+    + '<td>' + (d.works || '—') + '</td>'
     + '</tr>';
 }
 
@@ -274,6 +279,12 @@ filterCup.addEventListener('change', render);
 filterAgency.addEventListener('change', render);
 filterBust.addEventListener('change', render);
 filterSocial.addEventListener('change', render);
+
+// 三围表头筛选按钮：点击聚焦到胸围下拉框
+document.getElementById('bustFilterBtn').addEventListener('click', () => {
+  filterBust.focus();
+  filterBust.click();
+});
 
 render();
 </script>

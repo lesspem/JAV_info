@@ -90,6 +90,7 @@ function emptyRecord() {
     debut: '',
     agency: '',
     social: { x: '', instagram: '', tiktok: '' },
+    works: '',
     sources: [],
   };
 }

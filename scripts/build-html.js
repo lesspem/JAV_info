@@ -44,6 +44,7 @@ function main() {
     career: calcCareer(r),
     agency: r.agency || '',
     social: r.social || { x: '', instagram: '', tiktok: '' },
+    works: r.works || '',
   }));
 
   const html = buildHTML(data);
@@ -69,7 +70,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
   padding: 8px 12px; border: 1px solid #ddd; border-radius: 6px;
   font-size: 14px; background: #fff;
 }
-.controls input { width: 180px; }
+.controls input { width: 200px; text-align: center; }
 .controls select { min-width: 100px; }
 .stats { font-size: 13px; color: #888; margin-left: auto; }
 .table-wrap { max-width: 1200px; margin: 0 auto; overflow-x: auto; }
@@ -89,7 +90,7 @@ td.name .ja { color: #888; font-size: 12px; }
 td.name .alias { color: #bbb; font-size: 11px; margin-top: 2px; }
 td img { width: 50px; height: 50px; object-fit: cover; border-radius: 4px; background: #eee; }
 td .miss { color: #999; }
-td.social a { display: inline-block; margin-right: 6px; opacity: .8; }
+td.social a { display: inline-block; margin-right: 3px; opacity: .8; }
 td.social a:hover { opacity: 1; }
 td.social img { width: 16px; height: 16px; border-radius: 0; background: transparent; vertical-align: middle; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
@@ -97,6 +98,9 @@ td.social img { width: 16px; height: 16px; border-radius: 0; background: transpa
 .tag-retired { background: #fff1f0; color: #ff4d4f; }
 tr.hidden { display: none; }
 .no-result { text-align: center; padding: 40px; color: #999; }
+.filter-icon { cursor: pointer; font-size: 10px; color: #999; vertical-align: middle; }
+.filter-icon:hover { color: #1890ff; }
+.filter-icon.active { color: #1890ff; }
 @media (max-width: 768px) {
   .controls { flex-direction: column; }
   .controls input { width: 100%; }
@@ -108,7 +112,7 @@ tr.hidden { display: none; }
 <div class="header">
   <h1>女优信息总表</h1>
   <div class="controls">
-    <input type="text" id="search" placeholder="搜索名(中/日/曾用名)" autocomplete="off">
+    <input type="text" id="search" placeholder="搜索女优(中/日/曾用名)" autocomplete="off">
     <select id="filterStatus">
       <option value="">全部状态</option>
       <option value="现役">现役</option>
@@ -121,7 +125,7 @@ tr.hidden { display: none; }
       <option value="">全部公司</option>
     </select>
     <select id="filterBust">
-      <option value="">全部三围(胸围)</option>
+      <option value="">三围(胸围)</option>
     </select>
     <select id="filterSocial">
       <option value="">社交媒体</option>
@@ -145,12 +149,13 @@ tr.hidden { display: none; }
         <th data-sort="age">年龄 <span class="arrow">▲</span></th>
         <th data-sort="height">身高 <span class="arrow">▲</span></th>
         <th data-sort="weight">体重 <span class="arrow">▲</span></th>
-        <th>三围</th>
+        <th>三围 <span class="filter-icon" id="bustFilterBtn">▼</span></th>
         <th data-sort="cup">罩杯 <span class="arrow">▲</span></th>
         <th data-sort="status">状态 <span class="arrow">▲</span></th>
         <th data-sort="career">职业生涯 <span class="arrow">▲</span></th>
         <th data-sort="agency">所在公司 <span class="arrow">▲</span></th>
         <th>社交媒体</th>
+        <th>作品</th>
       </tr>
     </thead>
     <tbody id="tbody"></tbody>
@@ -247,6 +252,7 @@ function renderRow(d, idx) {
     + '<td>' + cell(d.career) + '</td>'
     + '<td>' + cell(d.agency) + '</td>'
     + '<td class="social">' + socialCell(d.social) + '</td>'
+    + '<td>' + (d.works || '—') + '</td>'
     + '</tr>';
 }
 
@@ -329,6 +335,12 @@ filterCup.addEventListener('change', render);
 filterAgency.addEventListener('change', render);
 filterBust.addEventListener('change', render);
 filterSocial.addEventListener('change', render);
+
+// 三围表头筛选按钮：点击聚焦到胸围下拉框
+document.getElementById('bustFilterBtn').addEventListener('click', () => {
+  filterBust.focus();
+  filterBust.click();
+});
 
 render();
 </script>
