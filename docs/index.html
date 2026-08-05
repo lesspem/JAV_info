@@ -39,14 +39,12 @@ td .miss { color: #999; }
 td.social a { display: inline-block; margin-right: 2px; opacity: .8; }
 td.social a:hover { opacity: 1; }
 td.social img { width: 16px; height: 16px; border-radius: 0; background: transparent; vertical-align: middle; }
+td.social, td.works, td.birth { text-align: center; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
 .tag-active { background: #e6fffb; color: #13c2c2; }
 .tag-retired { background: #fff1f0; color: #ff4d4f; }
 tr.hidden { display: none; }
 .no-result { text-align: center; padding: 40px; color: #999; }
-.filter-icon { cursor: pointer; font-size: 10px; color: #999; vertical-align: middle; }
-.filter-icon:hover { color: #1890ff; }
-.filter-icon.active { color: #1890ff; }
 @media (max-width: 768px) {
   .controls { flex-direction: column; }
   .controls input { width: 100%; }
@@ -58,7 +56,7 @@ tr.hidden { display: none; }
 <div class="header">
   <div class="title-row">
     <h1>女优信息总表</h1>
-    <span class="update-time">数据更新: 2026-08-05<br>21:27</span>
+    <span class="update-time">数据更新: 2026-08-05<br>21:36</span>
   </div>
   <div class="controls">
     <input type="text" id="search" placeholder="搜索女优(中/日/曾用名)" autocomplete="off">
@@ -74,7 +72,7 @@ tr.hidden { display: none; }
       <option value="">全部公司</option>
     </select>
     <select id="filterBust">
-      <option value="">三围(胸围)</option>
+      <option value="">全部(三围)</option>
     </select>
     <select id="filterSocial">
       <option value="">社交媒体</option>
@@ -98,7 +96,7 @@ tr.hidden { display: none; }
         <th data-sort="age">年龄 <span class="arrow">▲</span></th>
         <th data-sort="height">身高 <span class="arrow">▲</span></th>
         <th data-sort="weight">体重 <span class="arrow">▲</span></th>
-        <th>三围 <span class="filter-icon" id="bustFilterBtn">▼</span></th>
+        <th data-sort="threeSize">三围 <span class="arrow">▲</span></th>
         <th data-sort="cup">罩杯 <span class="arrow">▲</span></th>
         <th data-sort="career">职业生涯 <span class="arrow">▲</span></th>
         <th data-sort="agency">所在公司 <span class="arrow">▲</span></th>
@@ -192,7 +190,7 @@ function renderRow(d, idx) {
     + '<td class="idx">' + idx + '</td>'
     + '<td class="avatar">' + avatar + '</td>'
     + '<td class="name"><div class="zh">' + (d.nameZh || '—') + '</div><div class="ja">' + (d.nameJa || '') + '</div>' + aliasLine + '</td>'
-    + '<td>' + cell(d.birth) + '</td>'
+    + '<td class="birth">' + cell(d.birth) + '</td>'
     + '<td>' + (d.age ? d.age + '岁' : '—') + '</td>'
     + '<td>' + (d.height ? d.height + 'cm' : '—') + '</td>'
     + '<td>' + cell(d.weight) + '</td>'
@@ -202,7 +200,7 @@ function renderRow(d, idx) {
     + '<td>' + cell(d.agency) + '</td>'
     + '<td class="social">' + socialCell(d.social) + '</td>'
     + '<td>' + statusTag + '</td>'
-    + '<td>' + (d.works || '—') + '</td>'
+    + '<td class="works">' + (d.works || '—') + '</td>'
     + '</tr>';
 }
 
@@ -256,8 +254,9 @@ let sortAsc = true;
 document.querySelectorAll('th[data-sort]').forEach(th => {
   th.addEventListener('click', () => {
     const key = th.dataset.sort;
+    // 三围默认从大到小（点第一次就降序），其他字段默认升序
     if (sortKey === key) { sortAsc = !sortAsc; }
-    else { sortKey = key; sortAsc = true; }
+    else { sortKey = key; sortAsc = key === 'threeSize' ? false : true; }
 
     document.querySelectorAll('th').forEach(t => t.classList.remove('sorted'));
     th.classList.add('sorted');
@@ -266,8 +265,12 @@ document.querySelectorAll('th[data-sort]').forEach(th => {
     DATA.sort((a, b) => {
       let va = a[key] || '';
       let vb = b[key] || '';
-      // 数字字段按数值排序
-      if (['age', 'height'].includes(key)) {
+      // 三围按胸围数值排序
+      if (key === 'threeSize') {
+        va = getBust(va);
+        vb = getBust(vb);
+      } else if (['age', 'height'].includes(key)) {
+        // 其他数字字段按数值排序
         va = parseInt(va) || 0;
         vb = parseInt(vb) || 0;
       }
@@ -285,12 +288,6 @@ filterCup.addEventListener('change', render);
 filterAgency.addEventListener('change', render);
 filterBust.addEventListener('change', render);
 filterSocial.addEventListener('change', render);
-
-// 三围表头筛选按钮：点击聚焦到胸围下拉框
-document.getElementById('bustFilterBtn').addEventListener('click', () => {
-  filterBust.focus();
-  filterBust.click();
-});
 
 render();
 </script>
