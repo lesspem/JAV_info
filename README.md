@@ -1,6 +1,6 @@
 # JAV_info
 
-女优信息数据库，供油猴脚本 [jav备注](https://greasyfork.org/scripts/469250) 及类似脚本使用。
+信息数据库，供油猴脚本 [jav备注](https://greasyfork.org/scripts/469250) 及类似脚本使用。
 
 ## 架构
 
