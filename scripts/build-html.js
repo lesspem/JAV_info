@@ -79,12 +79,12 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 .table-wrap { max-width: 1600px; margin: 0 auto; overflow-x: auto; }
 table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
 thead { background: #fafafa; position: sticky; top: 0; z-index: 1; }
-th, td { padding: 10px 12px; text-align: left; border-bottom: 1px solid #f0f0f0; font-size: 13px; white-space: nowrap; vertical-align: middle; }
+th, td { padding: 10px 8px; text-align: left; border-bottom: 1px solid #f0f0f0; font-size: 13px; white-space: nowrap; vertical-align: middle; }
 th { font-weight: 600; color: #555; cursor: pointer; user-select: none; }
 th:hover { color: #000; }
 th .arrow { font-size: 10px; margin-left: 4px; opacity: .4; }
 th.sorted .arrow { opacity: 1; color: #1890ff; }
-td.name { white-space: normal; min-width: 80px; }
+td.name { white-space: normal; min-width: 60px; }
 td.idx { color: #aaa; font-size: 12px; text-align: center; width: 36px; }
 th.col-avatar, td.avatar { text-align: center; }
 td.avatar { width: 70px; }
