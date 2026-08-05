@@ -1,0 +1,65 @@
+[
+  {
+    "nameJa": "三上悠亜",
+    "nameZh": "三上悠亞",
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Mikami_Yua_to_K-POP_CIMG6553_(cropped).jpg?width=200",
+    "birth": "1993-08-16",
+    "height": "159",
+    "weight": "40kg",
+    "threeSize": "88 - 57 - 83",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2023-08-15",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "三上悠亜",
+    "updatedAt": "2026-08-05"
+  },
+  {
+    "nameJa": "明日花キララ",
+    "nameZh": "明日花綺羅",
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200",
+    "birth": "1988-10-02",
+    "height": "162",
+    "weight": "44kg",
+    "threeSize": "90 - 58 - 85",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2018",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "明日花キララ",
+    "updatedAt": "2026-08-05"
+  },
+  {
+    "nameJa": "橋本ありな",
+    "nameZh": "新有菜",
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200",
+    "birth": "1996-12-15",
+    "height": "167",
+    "weight": "44kg",
+    "threeSize": "84 - 58 - 84",
+    "cup": "C-65",
+    "retired": true,
+    "retiredAt": "2025",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "橋本ありな",
+    "updatedAt": "2026-08-05"
+  },
+  {
+    "name": "示例女优",
+    "nameZh": "示例女优",
+    "nameJa": "示例女優",
+    "birth": "1993-08-16",
+    "height": "159",
+    "weight": "45kg",
+    "threeSize": "88 - 58 - 86",
+    "cup": "G-80",
+    "retired": false,
+    "note": "人工补全示例。只需填你要补/要改的字段，留空字符串的字段不会覆盖 auto 数据。retiredAt 填引退年份，如 \"2023\"。"
+  }
+]

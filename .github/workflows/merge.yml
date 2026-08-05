@@ -1,0 +1,35 @@
+name: merge-only
+
+# 只跑 merge（手改 manual/ 后触发，不联网爬取，速度快）
+on:
+  push:
+    paths:
+      - 'manual/**'
+      - 'auto/**'
+      - 'scripts/merge.js'
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/merge.js
+      - name: Commit dist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          if git diff --staged --quiet; then
+            echo "dist 无变化"
+          else
+            git commit -m "chore: 重新合并 dist $(date -u +%Y-%m-%d)"
+            git push
+          fi

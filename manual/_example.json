@@ -1,0 +1,13 @@
+{
+  "name": "示例女优",
+  "nameZh": "示例女优",
+  "nameJa": "示例女優",
+  "birth": "1993-08-16",
+  "height": "159",
+  "weight": "45kg",
+  "threeSize": "88 - 58 - 86",
+  "cup": "G-80",
+  "retired": false,
+  "retiredAt": "",
+  "note": "人工补全示例。只需填你要补/要改的字段，留空字符串的字段不会覆盖 auto 数据。retiredAt 填引退年份，如 \"2023\"。"
+}

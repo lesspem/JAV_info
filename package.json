@@ -1,0 +1,15 @@
+{
+  "name": "JAV_info",
+  "version": "0.1.0",
+  "private": true,
+  "description": "JAV 女优信息数据库：爬维基/xslist + 人工补全，供油猴脚本消费",
+  "scripts": {
+    "crawl": "node scripts/crawl.js",
+    "crawl:force": "node scripts/crawl.js --force",
+    "report": "node scripts/report.js",
+    "merge": "node scripts/merge.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
