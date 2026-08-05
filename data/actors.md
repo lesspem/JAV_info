@@ -1,6 +1,6 @@
 # 女优信息总表
 
-> 共 102 人 ｜ 完整 20 人 ｜ 待补 82 人 ｜ 更新于 2026-08-05
+> 共 101 人 ｜ 完整 20 人 ｜ 待补 81 人 ｜ 更新于 2026-08-05
 >
 > — 表示该字段缺失或不适用。补充方式：在 `manual/<名字>.json` 中填入对应字段。
 > 名字列：加粗中文名 / 日文名 / 曾用名。年龄按当前日期实时计算，不入库。
@@ -110,5 +110,4 @@
 | 98 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/%E9%AB%98%E6%A9%8B%E3%81%97%E3%82%87%E3%81%86%E5%AD%902018%E5%B9%B4.jpg?width=200" width="60" alt="高橋聖子"> | **高橋聖子**<br>高橋しょう子 | 1993.05.13 | 33岁 | B | 161cm | — | 87 - 59 - 86 | G | 2016.05.01 - 2022 | MOODYZ | [![X](https://cdn.simpleicons.org/twitter/1DA1F2/20)](https://x.com/TS_takasho) [![Instagram](https://cdn.simpleicons.org/instagram/E4405F/20)](https://instagram.com/ts_takasho) | 引退 | — |
 | 99 | — | 高瀬りな | — | — | — | — | — | — | — | — | — | — | 现役 | — |
 | 100 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Asami_Yuma.jpg?width=200" width="60" alt="麻美由真"> | **麻美由真**<br>麻美ゆま | 1987.03.24 | 39岁 | AB | 158cm | — | 96 - 58 - 88 | H | 2005.10.28 - 2012 | アリスJAPAN エスワン | [![X](https://cdn.simpleicons.org/twitter/1DA1F2/20)](https://x.com/asami_yuma) [![Instagram](https://cdn.simpleicons.org/instagram/E4405F/20)](https://instagram.com/yuma_asami0324) | 引退 | — |
-| 101 | — | **麻豆區**<br>麻豆 | — | — | — | — | — | — | — | — | — | — | 现役 | — |
-| 102 | — | **麻里梨夏**<br><sub>成海<br>うるみ<br>広瀬<br>りりあ<br>渚<br>佐々木リカ</sub> | 1993.06.09 | 33岁 | — | 148cm | — | 80 - 56 - 82 | D-65 | 2014 - 2019.09.14 | S1 NO.1 STYLE 本中 | — | 引退 | — |
+| 101 | — | **麻里梨夏**<br><sub>成海<br>うるみ<br>広瀬<br>りりあ<br>渚<br>佐々木リカ</sub> | 1993.06.09 | 33岁 | — | 148cm | — | 80 - 56 - 82 | D-65 | 2014 - 2019.09.14 | S1 NO.1 STYLE 本中 | — | 引退 | — |
