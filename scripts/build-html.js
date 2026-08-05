@@ -264,7 +264,7 @@ function renderRow(d, idx) {
   return '<tr>'
     + '<td class="idx">' + idx + '</td>'
     + '<td class="avatar">' + avatar + '</td>'
-    + '<td class="name"><div class="zh">' + (d.nameZh || DASH) + '</div><div class="ja">' + (d.nameJa || '') + '</div>' + aliasLine + '</td>'
+    + '<td class="name"><div class="zh">' + (d.nameZh || d.nameJa || '') + '</div>' + (d.nameZh && d.nameJa && d.nameZh !== d.nameJa ? '<div class="ja">' + d.nameJa + '</div>' : '') + aliasLine + '</td>'
     + '<td class="birth">' + cell(d.birth) + '</td>'
     + '<td>' + (d.age ? d.age + '岁' : DASH) + '</td>'
     + '<td class="blood">' + cell(d.bloodType) + '</td>'

@@ -95,9 +95,15 @@ function fmtName(rec) {
   const ja = rec.nameJa || rec.name || '';
   const zh = rec.nameZh || '';
   const lines = [];
-  if (zh) lines.push(`**${zh}**`);
-  if (ja && ja !== zh) lines.push(ja);
-  if (!lines.length) lines.push(MISS);
+  // 中文名有 → 加粗；没有 → 用日文名当主名（避免出现「— / 日文名」的错乱）
+  if (zh) {
+    lines.push(`**${zh}**`);
+    if (ja && ja !== zh) lines.push(ja);
+  } else if (ja) {
+    lines.push(`**${ja}**`);
+  } else {
+    lines.push(MISS);
+  }
   // 曾用名（每个名字一行显示）
   const aliases = (rec.aliases || []).filter((a) => a && a !== zh && a !== ja);
   if (aliases.length) lines.push(`<sub>${aliases.join('<br>')}</sub>`);
