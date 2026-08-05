@@ -162,9 +162,9 @@ function parseWikitext(wikitext) {
   // ---- 血型 ----
   const bt = pickParam(wikitext, ['血液型', '血型']);
   if (bt) {
-    // 提取 A/B/O/AB 型，形如「A型」「[[ABO式血液型|A型]]」清洗后为 "A型"
-    const btm = /(AB|A|B|O)\s*型/i.exec(bt);
-    if (btm) r.bloodType = btm[1].toUpperCase() + '型';
+    // 提取 A/B/O/AB 型；数据只保留字母，"型"字由展示端在需要时加回
+    const btm = /(AB|A|B|O)\s*型?/i.exec(bt);
+    if (btm) r.bloodType = btm[1].toUpperCase();
   }
 
   // ---- 体重（很多条目为空）----
