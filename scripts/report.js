@@ -75,16 +75,12 @@ function fmtBirth(birth) {
   return birth ? birth.replace(/-/g, '.') : '';
 }
 
-/** 头像单元格：优先本地上传 > auto/manual 的 URL > ❌ */
+/** 头像单元格 */
 function fmtAvatar(rec) {
-  // 优先级：本地文件 > manual 覆盖的 avatar > auto 抓的 avatar
-  const localPath = findLocalAvatar(rec.name, rec.nameZh, rec.nameJa);
-  const src = localPath || rec.avatar || '';
+  const src = rec.avatar || '';
   if (!src) return MISS;
   const alt = rec.nameZh || rec.nameJa || rec.name || '';
-  // 本地路径需要从 data/ 往上一级引用（因为 md 文件在 data/ 下）
-  const href = localPath ? `../${src}` : src;
-  return `<img src="${href}" width="60" alt="${alt}">`;
+  return `<img src="${src}" width="60" alt="${alt}">`;
 }
 
 /**
@@ -184,11 +180,12 @@ function main() {
     // 公司名统一规范化（无论来自 auto 还是 manual，都统一格式）
     if (rec.agency) rec.agency = normalizeAgency(rec.agency);
 
-    // 本地上传的头像优先，写入 avatar 字段（相对仓库根的路径）
-    // 支持用 种子名/中文名/日文名 命名文件
-    // 这样 dist/actors.json 消费端也能直接用（拼上 raw.githubusercontent.com 前缀即可）
+    // 本地上传的头像优先，写入 avatar 字段
+    // GitHub Pages 只发布 docs/，assets/ 不在其根目录，故本地头像用 raw.githubusercontent 绝对 URL
     const localAvatar = findLocalAvatar(name, rec.nameZh, rec.nameJa);
-    if (localAvatar) rec.avatar = localAvatar;
+    if (localAvatar) {
+      rec.avatar = 'https://raw.githubusercontent.com/lesspem/JAV_info/main/' + encodeURI(localAvatar);
+    }
 
     const missing = FIELDS.filter((f) => !rec[f]);
     if (missing.length > 0) {
