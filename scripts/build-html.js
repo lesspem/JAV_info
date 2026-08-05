@@ -95,8 +95,8 @@ td .miss { color: #999; }
 td.social a { display: inline-block; margin-right: 2px; opacity: .8; }
 td.social a:hover { opacity: 1; }
 td.social img { width: 16px; height: 16px; border-radius: 0; background: transparent; vertical-align: middle; }
-td.social, td.works, td.birth { text-align: center; }
-th.col-birth, th.col-social, th.col-works { text-align: center; }
+td.social, td.works, td.birth, td.threesize { text-align: center; }
+th.col-birth, th.col-social, th.col-works, th.col-threesize { text-align: center; }
 .tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 12px; }
 .tag-active { background: #e6fffb; color: #13c2c2; }
 .tag-retired { background: #fff1f0; color: #ff4d4f; }
@@ -153,7 +153,7 @@ tr.hidden { display: none; }
         <th data-sort="age">年龄 <span class="arrow">▲</span></th>
         <th data-sort="height">身高 <span class="arrow">▲</span></th>
         <th data-sort="weight">体重 <span class="arrow">▲</span></th>
-        <th data-sort="threeSize">三围 <span class="arrow">▲</span></th>
+        <th class="col-threesize" data-sort="threeSize">三围 <span class="arrow">▲</span></th>
         <th data-sort="cup">罩杯 <span class="arrow">▲</span></th>
         <th data-sort="career">职业生涯 <span class="arrow">▲</span></th>
         <th data-sort="agency">所在公司 <span class="arrow">▲</span></th>
@@ -251,7 +251,7 @@ function renderRow(d, idx) {
     + '<td>' + (d.age ? d.age + '岁' : '—') + '</td>'
     + '<td>' + (d.height ? d.height + 'cm' : '—') + '</td>'
     + '<td>' + cell(d.weight) + '</td>'
-    + '<td>' + cell(d.threeSize) + '</td>'
+    + '<td class="threesize">' + cell(d.threeSize) + '</td>'
     + '<td>' + cell(d.cup) + '</td>'
     + '<td>' + cell(d.career) + '</td>'
     + '<td>' + cell(d.agency) + '</td>'
