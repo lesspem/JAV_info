@@ -18,7 +18,28 @@ const AUTO_DIR = path.join(ROOT, 'auto');
 const MANUAL_DIR = path.join(ROOT, 'manual');
 const CSV_FILE = path.join(ROOT, 'data', 'edit.csv');
 
+const SEEDS_FILE = path.join(ROOT, 'seeds', 'names.txt');
+
 const DRY = process.argv.includes('--dry');
+
+/** 删除一个女优的所有数据文件 + seeds 条目 */
+function removeActor(name) {
+  const autoFile = path.join(AUTO_DIR, name + '.json');
+  if (fs.existsSync(autoFile)) fs.unlinkSync(autoFile);
+  const manualFile = path.join(MANUAL_DIR, name + '.json');
+  if (fs.existsSync(manualFile)) fs.unlinkSync(manualFile);
+  // 从 seeds 删除
+  if (fs.existsSync(SEEDS_FILE)) {
+    const lines = fs.readFileSync(SEEDS_FILE, 'utf8').split(/\r?\n/);
+    const filtered = lines.filter((line) => {
+      const stripped = line.replace(/\s*#.*$/, '').trim();
+      return stripped !== name;
+    });
+    if (filtered.length < lines.length) {
+      fs.writeFileSync(SEEDS_FILE, filtered.join('\n'), 'utf8');
+    }
+  }
+}
 
 /** 简易 CSV 解析（支持双引号包裹的字段） */
 function parseCSV(text) {
@@ -63,10 +84,23 @@ function main() {
   console.log(`读取 CSV: ${rows.length} 行`);
 
   let changed = 0;
+  let deleted = 0;
 
   for (const row of rows) {
     const name = row.name;
     if (!name) continue;
+
+    // _delete 列填 TRUE 则删除这个女优的全部数据
+    if ((row._delete || '').trim().toUpperCase() === 'TRUE') {
+      if (DRY) {
+        console.log(`[预览] 删除 ${name}`);
+      } else {
+        removeActor(name);
+        console.log(`  ✗ 已删除 ${name}`);
+      }
+      deleted++;
+      continue;
+    }
 
     // 读 auto 数据作为对比基准
     let auto = {};
@@ -136,8 +170,8 @@ function main() {
     changed++;
   }
 
-  console.log(`\n${DRY ? '预览' : '写入'}了 ${changed} 人的数据`);
-  if (!DRY && changed > 0) {
+  console.log(`\n${DRY ? '预览' : '写入'}了 ${changed} 人的数据${deleted ? '，删除了 ' + deleted + ' 人' : ''}`);
+  if (!DRY && (changed > 0 || deleted > 0)) {
     console.log('\n下一步：');
     console.log('  npm run build');
     console.log('  git add -A && git commit -m "批量更新数据" && git push');

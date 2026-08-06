@@ -22,6 +22,7 @@ const CSV_FILE = path.join(ROOT, 'data', 'edit.csv');
 // CSV 列顺序（name 是主键，不要改动这一列的值）
 const COLUMNS = [
   'name',
+  '_delete',
   'nameZh',
   'nameJa',
   'aliases',
@@ -62,6 +63,7 @@ function main() {
     const s = r.social || {};
     const row = [
       r.name || '',
+      '',  // _delete 列默认空
       r.nameZh || '',
       r.nameJa || '',
       (r.aliases || []).join('、'), // 别名用顿号分隔
@@ -71,6 +73,7 @@ function main() {
       r.height || '',
       r.weight || '',
       r.threeSize || '',
+      r.cup || '',
       r.retired ? 'TRUE' : 'FALSE',
       r.retiredAt || '',
       r.debut || '',
@@ -80,8 +83,6 @@ function main() {
       s.tiktok || '',
       r.works || '',
     ];
-    // 注意：cup 要插到 threeSize 之后、retired 之前，保持与 COLUMNS 一致
-    row.splice(10, 0, r.cup || '');
     rows.push(row.map(esc).join(','));
   }
 
@@ -95,6 +96,7 @@ function main() {
   console.log('  2. 保存（保持 CSV 格式）');
   console.log('  3. 运行 node scripts/import-csv.js 写回 manual/');
   console.log('\n注意：不要改动 name 列（它是匹配主键）');
+  console.log('  要删除某人：在 _delete 列填 TRUE，上传后自动删除');
 }
 
 main();
