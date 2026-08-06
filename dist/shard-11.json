@@ -28,13 +28,13 @@
     ],
     "name": "南梨央奈",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "国見真菜": {
     "nameJa": "国見真菜",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/018/464909.jpg?new",
     "birth": "1974-01-01",
     "bloodType": "O",
     "height": "157",
@@ -52,14 +52,15 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "国見真菜",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "天宮花南": {
     "nameJa": "天宮花南",
@@ -89,7 +90,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "天海つばさ": {
     "nameJa": "天海つばさ",
@@ -119,7 +120,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "愛原さくら": {
     "nameJa": "愛原さくら",
@@ -149,7 +150,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "星空もあ": {
     "nameJa": "星空もあ",
@@ -182,7 +183,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "瀬名あゆむ": {
     "nameJa": "瀬名あゆむ",
@@ -215,7 +216,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "石原希望": {
     "nameJa": "石原希望",
@@ -247,13 +248,13 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "緒方れいな": {
     "nameJa": "緒方れいな",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/010/892364.jpg?new",
     "birth": "",
     "bloodType": "",
     "height": "",
@@ -270,7 +271,9 @@
       "tiktok": ""
     },
     "works": "",
-    "sources": [],
+    "sources": [
+      "minnano-av"
+    ],
     "name": "緒方れいな",
     "missing": [
       "birth",
@@ -279,7 +282,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "鈴村あいり": {
     "nameJa": "鈴村あいり",
@@ -309,7 +312,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "麻美ゆま": {
     "nameJa": "麻美ゆま",
@@ -339,6 +342,6 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

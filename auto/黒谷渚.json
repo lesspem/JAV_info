@@ -2,7 +2,7 @@
   "nameJa": "黒谷渚",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/001/452443.jpg?new",
   "birth": "",
   "bloodType": "",
   "height": "170",
@@ -20,7 +20,8 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "minnano-av"
   ],
   "name": "黒谷渚",
   "missing": [
@@ -28,5 +29,5 @@
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-05"
+  "updatedAt": "2026-08-06"
 }

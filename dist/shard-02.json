@@ -27,13 +27,13 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "天海ゆり": {
     "nameJa": "天海ゆり",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/000/567395.jpg?new",
     "birth": "",
     "bloodType": "",
     "height": "158",
@@ -51,14 +51,15 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "天海ゆり",
     "missing": [
       "birth",
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "奥菜つばさ": {
     "nameJa": "奥菜つばさ",
@@ -66,7 +67,7 @@
     "aliases": [
       "川村翼"
     ],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/002/931466.jpg?new",
     "birth": "1981-02-06",
     "bloodType": "O",
     "height": "148",
@@ -84,14 +85,15 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "奥菜つばさ",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "愛乃澪": {
     "nameJa": "愛乃澪",
@@ -124,7 +126,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "松島かえで": {
     "nameJa": "松島かえで",
@@ -154,7 +156,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "森なな子": {
     "nameJa": "森なな子",
@@ -187,7 +189,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "永瀬ゆい": {
     "nameJa": "永瀬ゆい",
@@ -219,7 +221,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "白石茉莉奈": {
     "nameJa": "白石茉莉奈",
@@ -249,7 +251,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "神坂ひなの": {
     "nameJa": "神坂ひなの",
@@ -282,7 +284,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "神谷姫": {
     "nameJa": "神谷姫",
@@ -312,7 +314,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "青木菜摘": {
     "nameJa": "青木菜摘",
@@ -345,7 +347,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "高杉麻里": {
     "nameJa": "高杉麻里",
@@ -375,6 +377,6 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

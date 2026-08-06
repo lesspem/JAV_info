@@ -2,7 +2,7 @@
   "nameJa": "河愛雪乃",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/010/92037.jpg?new",
   "birth": "1990-11-16",
   "bloodType": "B",
   "height": "158",
@@ -20,12 +20,13 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "minnano-av"
   ],
   "name": "河愛雪乃",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-05"
+  "updatedAt": "2026-08-06"
 }

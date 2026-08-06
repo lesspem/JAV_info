@@ -29,7 +29,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "京花萌": {
     "nameJa": "京花萌",
@@ -59,7 +59,7 @@
     ],
     "name": "京花萌",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "天月あず": {
     "nameJa": "天月あず",
@@ -91,7 +91,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "小沢優": {
     "nameJa": "小沢優",
@@ -122,7 +122,7 @@
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "川村朋美": {
     "nameJa": "川村朋美",
@@ -153,13 +153,13 @@
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "川村藍子": {
     "nameJa": "川村藍子",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/017/937102.jpg?new",
     "birth": "1980-06-19",
     "bloodType": "O",
     "height": "160",
@@ -177,14 +177,15 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "川村藍子",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "桃乃木かな": {
     "nameJa": "桃乃木かな",
@@ -214,7 +215,7 @@
     ],
     "name": "桃乃木かな",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "水卜さくら": {
     "nameJa": "水卜さくら",
@@ -244,7 +245,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "神代しずく": {
     "nameJa": "神代しずく",
@@ -277,7 +278,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "神川ひな": {
     "nameJa": "神川ひな",
@@ -307,7 +308,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "紅葉雫": {
     "nameJa": "紅葉雫",
@@ -340,7 +341,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "黒木アリサ": {
     "nameJa": "黒木アリサ",
@@ -370,6 +371,6 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

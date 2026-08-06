@@ -2,7 +2,7 @@
   "nameJa": "緒方れいな",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/010/892364.jpg?new",
   "birth": "",
   "bloodType": "",
   "height": "",
@@ -19,7 +19,9 @@
     "tiktok": ""
   },
   "works": "",
-  "sources": [],
+  "sources": [
+    "minnano-av"
+  ],
   "name": "緒方れいな",
   "missing": [
     "birth",
@@ -28,5 +30,5 @@
     "threeSize",
     "cup"
   ],
-  "updatedAt": "2026-08-05"
+  "updatedAt": "2026-08-06"
 }

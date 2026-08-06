@@ -29,7 +29,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "いしはらさき": {
     "nameJa": "いしはらさき",
@@ -62,7 +62,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "小倉由菜": {
     "nameJa": "小倉由菜",
@@ -90,7 +90,7 @@
     ],
     "name": "小倉由菜",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "希崎ジェシカ": {
     "nameJa": "希崎ジェシカ",
@@ -118,7 +118,7 @@
     ],
     "name": "希崎ジェシカ",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "松本菜奈実": {
     "nameJa": "松本菜奈実",
@@ -151,7 +151,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "榊梨々亜": {
     "nameJa": "榊梨々亜",
@@ -181,7 +181,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "浜崎真緒": {
     "nameJa": "浜崎真緒",
@@ -209,7 +209,7 @@
     ],
     "name": "浜崎真緒",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "相原翼": {
     "nameJa": "相原翼",
@@ -218,7 +218,7 @@
       "夏目",
       "ヒカル"
     ],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/014/713312.jpg?new",
     "birth": "1997-01-25",
     "bloodType": "",
     "height": "158",
@@ -236,14 +236,15 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "相原翼",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "神ユキ": {
     "nameJa": "神ユキ",
@@ -273,7 +274,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "神咲アンナ": {
     "nameJa": "神咲アンナ",
@@ -306,7 +307,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "綾瀬みう": {
     "nameJa": "綾瀬みう",
@@ -339,7 +340,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "蒼井そら": {
     "nameJa": "蒼井そら",
@@ -371,7 +372,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "藤井いよな": {
     "nameJa": "藤井いよな",
@@ -401,7 +402,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "藤田こずえ": {
     "nameJa": "藤田こずえ",
@@ -434,7 +435,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "西宮このみ": {
     "nameJa": "西宮このみ",
@@ -464,7 +465,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "西野翔": {
     "nameJa": "西野翔",
@@ -494,13 +495,13 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "黒谷渚": {
     "nameJa": "黒谷渚",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/001/452443.jpg?new",
     "birth": "",
     "bloodType": "",
     "height": "170",
@@ -518,7 +519,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "黒谷渚",
     "missing": [
@@ -526,6 +528,6 @@
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

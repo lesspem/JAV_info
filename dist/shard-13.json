@@ -27,7 +27,7 @@
     ],
     "name": "三上悠亜",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "佐倉絆": {
     "nameJa": "佐倉絆",
@@ -57,7 +57,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "加斗レア": {
     "nameJa": "加斗レア",
@@ -89,7 +89,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "北川瞳": {
     "nameJa": "北川瞳",
@@ -119,7 +119,7 @@
     ],
     "name": "北川瞳",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "坂道みる": {
     "nameJa": "坂道みる",
@@ -152,7 +152,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "山手梨愛": {
     "nameJa": "山手梨愛",
@@ -183,7 +183,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "川島和津実": {
     "nameJa": "川島和津実",
@@ -213,7 +213,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "市川まさみ": {
     "nameJa": "市川まさみ",
@@ -243,7 +243,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "彩月かおる": {
     "nameJa": "彩月かおる",
@@ -273,7 +273,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "戸田真琴": {
     "nameJa": "戸田真琴",
@@ -305,7 +305,7 @@
       "weight",
       "threeSize"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "桐谷まつり": {
     "nameJa": "桐谷まつり",
@@ -335,7 +335,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "桜もこ": {
     "nameJa": "桜もこ",
@@ -365,7 +365,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "桜井あゆ": {
     "nameJa": "桜井あゆ",
@@ -396,7 +396,7 @@
     ],
     "name": "桜井あゆ",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "水川スミレ": {
     "nameJa": "水川スミレ",
@@ -429,7 +429,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "石倉えいみ": {
     "nameJa": "石倉えいみ",
@@ -459,13 +459,13 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "石原小百合": {
     "nameJa": "石原小百合",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/007/335782.jpg?new",
     "birth": "1958-??-??",
     "bloodType": "",
     "height": "",
@@ -483,7 +483,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "石原小百合",
     "missing": [
@@ -492,7 +493,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "高橋しょう子": {
     "nameJa": "高橋しょう子",
@@ -522,6 +523,6 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

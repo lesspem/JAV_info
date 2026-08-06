@@ -27,7 +27,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "八乃つばさ": {
     "nameJa": "八乃つばさ",
@@ -57,7 +57,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "小俣わかめ": {
     "nameJa": "小俣わかめ",
@@ -90,13 +90,13 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "杏子ゆう": {
     "nameJa": "杏子ゆう",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/004/95287.jpg?new",
     "birth": "1989-02-05",
     "bloodType": "B",
     "height": "160",
@@ -114,14 +114,15 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "杏子ゆう",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "栗衣みい": {
     "nameJa": "栗衣みい",
@@ -130,7 +131,7 @@
       "琴音",
       "るい"
     ],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/017/358527.jpg?new",
     "birth": "1998-09-06",
     "bloodType": "A",
     "height": "148",
@@ -148,14 +149,15 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "栗衣みい",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "橋本ありな": {
     "nameJa": "橋本ありな",
@@ -186,13 +188,13 @@
     ],
     "name": "橋本ありな",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "河愛雪乃": {
     "nameJa": "河愛雪乃",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/010/92037.jpg?new",
     "birth": "1990-11-16",
     "bloodType": "B",
     "height": "158",
@@ -210,14 +212,15 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "河愛雪乃",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "清水优空": {
     "nameJa": "清水优空",
@@ -249,7 +252,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "相沢夏帆": {
     "nameJa": "相沢夏帆",
@@ -282,7 +285,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "藤浦めぐ": {
     "nameJa": "藤浦めぐ",
@@ -315,7 +318,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "逢田梨香子": {
     "nameJa": "逢田梨香子",
@@ -339,7 +342,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "zh.wikipedia"
     ],
     "name": "逢田梨香子",
     "missing": [
@@ -347,6 +351,6 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

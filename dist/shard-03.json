@@ -27,7 +27,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "北島玲": {
     "nameJa": "北島玲",
@@ -60,7 +60,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "宮下玲奈": {
     "nameJa": "宮下玲奈",
@@ -88,7 +88,7 @@
     ],
     "name": "宮下玲奈",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "小野六花": {
     "nameJa": "小野六花",
@@ -118,7 +118,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "明日花キララ": {
     "nameJa": "明日花キララ",
@@ -146,7 +146,7 @@
     ],
     "name": "明日花キララ",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "森沢かな": {
     "nameJa": "森沢かな",
@@ -179,7 +179,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "森罗万象": {
     "nameJa": "森罗万象",
@@ -211,6 +211,6 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

@@ -27,7 +27,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "上村ひな": {
     "nameJa": "上村ひな",
@@ -57,7 +57,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "大橋未久": {
     "nameJa": "大橋未久",
@@ -87,7 +87,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "天音まひろ": {
     "nameJa": "天音まひろ",
@@ -119,13 +119,13 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "彩音舞衣": {
     "nameJa": "彩音舞衣",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/015/479447.jpg?new",
     "birth": "1995-12-17",
     "bloodType": "",
     "height": "157",
@@ -143,7 +143,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "彩音舞衣",
     "missing": [
@@ -151,7 +152,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "松永さな": {
     "nameJa": "松永さな",
@@ -184,7 +185,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "楓カレン": {
     "nameJa": "楓カレン",
@@ -217,7 +218,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "神咲詩織": {
     "nameJa": "神咲詩織",
@@ -247,13 +248,13 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "逢沢はるか": {
     "nameJa": "逢沢はるか",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/011/930364.jpg?new",
     "birth": "",
     "bloodType": "",
     "height": "",
@@ -270,7 +271,9 @@
       "tiktok": ""
     },
     "works": "",
-    "sources": [],
+    "sources": [
+      "minnano-av"
+    ],
     "name": "逢沢はるか",
     "missing": [
       "birth",
@@ -279,6 +282,6 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

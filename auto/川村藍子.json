@@ -2,7 +2,7 @@
   "nameJa": "川村藍子",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/017/937102.jpg?new",
   "birth": "1980-06-19",
   "bloodType": "O",
   "height": "160",
@@ -20,12 +20,13 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "minnano-av"
   ],
   "name": "川村藍子",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-05"
+  "updatedAt": "2026-08-06"
 }

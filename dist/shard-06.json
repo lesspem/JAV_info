@@ -28,7 +28,7 @@
     ],
     "name": "RION",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "乃木りか": {
     "nameJa": "乃木りか",
@@ -60,7 +60,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "小泉まり": {
     "nameJa": "小泉まり",
@@ -93,7 +93,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "山岸逢花": {
     "nameJa": "山岸逢花",
@@ -126,7 +126,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "愛咲きらら": {
     "nameJa": "愛咲きらら",
@@ -156,7 +156,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "枢木あおい": {
     "nameJa": "枢木あおい",
@@ -189,13 +189,13 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "桂木麻也子": {
     "nameJa": "桂木麻也子",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/004/877789.jpg?new",
     "birth": "1966-03-07",
     "bloodType": "A",
     "height": "162",
@@ -213,14 +213,15 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "桂木麻也子",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "沙月とわ": {
     "nameJa": "沙月とわ",
@@ -250,7 +251,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "涼森れむ": {
     "nameJa": "涼森れむ",
@@ -280,7 +281,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "湊莉久": {
     "nameJa": "湊莉久",
@@ -313,7 +314,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "益坂美亜": {
     "nameJa": "益坂美亜",
@@ -343,7 +344,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "笠木いちか": {
     "nameJa": "笠木いちか",
@@ -374,7 +375,7 @@
     ],
     "name": "笠木いちか",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "葵みのり": {
     "nameJa": "葵みのり",
@@ -404,7 +405,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "鈴木心春": {
     "nameJa": "鈴木心春",
@@ -434,7 +435,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "示例女优": {
     "nameZh": "示例女优",

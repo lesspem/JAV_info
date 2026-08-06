@@ -2,7 +2,7 @@
   "nameJa": "国見真菜",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/018/464909.jpg?new",
   "birth": "1974-01-01",
   "bloodType": "O",
   "height": "157",
@@ -20,12 +20,13 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "minnano-av"
   ],
   "name": "国見真菜",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-05"
+  "updatedAt": "2026-08-06"
 }

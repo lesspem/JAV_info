@@ -4,7 +4,7 @@
   "aliases": [
     "川村翼"
   ],
-  "avatar": "",
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/002/931466.jpg?new",
   "birth": "1981-02-06",
   "bloodType": "O",
   "height": "148",
@@ -22,12 +22,13 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "minnano-av"
   ],
   "name": "奥菜つばさ",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-05"
+  "updatedAt": "2026-08-06"
 }

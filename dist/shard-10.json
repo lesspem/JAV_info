@@ -30,7 +30,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "入田真綾": {
     "nameJa": "入田真綾",
@@ -60,7 +60,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "川崎杏奈": {
     "nameJa": "川崎杏奈",
@@ -92,7 +92,7 @@
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "水野朝陽": {
     "nameJa": "水野朝陽",
@@ -125,7 +125,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "永井みひな": {
     "nameJa": "永井みひな",
@@ -158,7 +158,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "片瀬まこ": {
     "nameJa": "片瀬まこ",
@@ -188,7 +188,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "相沢みなみ": {
     "nameJa": "相沢みなみ",
@@ -218,7 +218,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "相澤ゆりな": {
     "nameJa": "相澤ゆりな",
@@ -246,7 +246,7 @@
     ],
     "name": "相澤ゆりな",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "神宮寺ナオ": {
     "nameJa": "神宮寺ナオ",
@@ -276,13 +276,13 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "篠原りょう": {
     "nameJa": "篠原りょう",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/003/316854.jpg?new",
     "birth": "",
     "bloodType": "",
     "height": "",
@@ -299,7 +299,9 @@
       "tiktok": ""
     },
     "works": "",
-    "sources": [],
+    "sources": [
+      "minnano-av"
+    ],
     "name": "篠原りょう",
     "missing": [
       "birth",
@@ -308,7 +310,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "西田カリナ": {
     "nameJa": "西田カリナ",
@@ -338,7 +340,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "逢見リカ": {
     "nameJa": "逢見リカ",
@@ -366,7 +368,7 @@
     ],
     "name": "逢見リカ",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "青山はな": {
     "nameJa": "青山はな",
@@ -396,6 +398,6 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

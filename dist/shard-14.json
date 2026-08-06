@@ -27,7 +27,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "今野由愛": {
     "nameJa": "今野由愛",
@@ -57,7 +57,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "南條加奈": {
     "nameJa": "南條加奈",
@@ -89,7 +89,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "宇佐野瞳": {
     "nameJa": "宇佐野瞳",
@@ -121,13 +121,13 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "小沢アリス": {
     "nameJa": "小沢アリス",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/000/53732.jpg?new",
     "birth": "",
     "bloodType": "",
     "height": "",
@@ -144,7 +144,9 @@
       "tiktok": ""
     },
     "works": "",
-    "sources": [],
+    "sources": [
+      "minnano-av"
+    ],
     "name": "小沢アリス",
     "missing": [
       "birth",
@@ -153,7 +155,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "希島あいり": {
     "nameJa": "希島あいり",
@@ -186,7 +188,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "桜空もも": {
     "nameJa": "桜空もも",
@@ -214,7 +216,7 @@
     ],
     "name": "桜空もも",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "水沢のの": {
     "nameJa": "水沢のの",
@@ -246,7 +248,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "渚みつき": {
     "nameJa": "渚みつき",
@@ -279,7 +281,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "相田すみれ": {
     "nameJa": "相田すみれ",
@@ -309,7 +311,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "碧しの": {
     "nameJa": "碧しの",
@@ -342,6 +344,6 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

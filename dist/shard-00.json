@@ -29,7 +29,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "一ノ瀬あきら": {
     "nameJa": "一ノ瀬あきら",
@@ -59,7 +59,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "加瀬あゆむ": {
     "nameJa": "加瀬あゆむ",
@@ -87,7 +87,7 @@
     ],
     "name": "加瀬あゆむ",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "星宮一花": {
     "nameJa": "星宮一花",
@@ -117,7 +117,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "架乃ゆら": {
     "nameJa": "架乃ゆら",
@@ -147,7 +147,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "桜井彩": {
     "nameJa": "桜井彩",
@@ -177,13 +177,13 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "河田結衣": {
     "nameJa": "河田結衣",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/011/280389.jpg?new",
     "birth": "",
     "bloodType": "",
     "height": "",
@@ -200,7 +200,9 @@
       "tiktok": ""
     },
     "works": "",
-    "sources": [],
+    "sources": [
+      "minnano-av"
+    ],
     "name": "河田結衣",
     "missing": [
       "birth",
@@ -209,7 +211,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "篠田ゆう": {
     "nameJa": "篠田ゆう",
@@ -239,7 +241,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "緒川凛": {
     "nameJa": "緒川凛",
@@ -272,7 +274,7 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "藍山みなみ": {
     "nameJa": "藍山みなみ",
@@ -300,7 +302,7 @@
     ],
     "name": "藍山みなみ",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "藤森里穂": {
     "nameJa": "藤森里穂",
@@ -328,7 +330,7 @@
     ],
     "name": "藤森里穂",
     "missing": [],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   },
   "逢沢りいな": {
     "nameJa": "逢沢りいな",
@@ -361,6 +363,6 @@
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-05"
+    "updatedAt": "2026-08-06"
   }
 }

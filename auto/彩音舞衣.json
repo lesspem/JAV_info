@@ -2,7 +2,7 @@
   "nameJa": "彩音舞衣",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/015/479447.jpg?new",
   "birth": "1995-12-17",
   "bloodType": "",
   "height": "157",
@@ -20,7 +20,8 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "minnano-av"
   ],
   "name": "彩音舞衣",
   "missing": [
@@ -28,5 +29,5 @@
     "threeSize",
     "cup"
   ],
-  "updatedAt": "2026-08-05"
+  "updatedAt": "2026-08-06"
 }

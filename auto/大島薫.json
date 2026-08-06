@@ -2,7 +2,7 @@
   "nameJa": "大島薫",
   "nameZh": "大島薰",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/011/292241.jpg?new",
   "birth": "1989-06-07",
   "bloodType": "AB",
   "height": "165",
@@ -21,11 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "zh.wikipedia"
+    "zh.wikipedia",
+    "minnano-av"
   ],
   "name": "大島薫",
   "missing": [
     "cup"
   ],
-  "updatedAt": "2026-08-05"
+  "updatedAt": "2026-08-06"
 }

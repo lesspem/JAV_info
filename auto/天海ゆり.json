@@ -2,7 +2,7 @@
   "nameJa": "天海ゆり",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/000/567395.jpg?new",
   "birth": "",
   "bloodType": "",
   "height": "158",
@@ -20,12 +20,13 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "minnano-av"
   ],
   "name": "天海ゆり",
   "missing": [
     "birth",
     "weight"
   ],
-  "updatedAt": "2026-08-05"
+  "updatedAt": "2026-08-06"
 }

@@ -130,6 +130,30 @@ async function tryXslist(name) {
   }
 }
 
+/**
+ * minnano-av.com：搜索女优名 → 详情页有 JSON-LD 的 Person schema（含头像 URL）。
+ * 只用于补头像，不抓其他字段（维基更准确）。
+ */
+const MINNANO_SEARCH = 'https://www.minnano-av.com/search_result.php?search_scope=actress&search_word=';
+
+async function tryMinnanoAvatar(name) {
+  try {
+    const html = await fetchText(MINNANO_SEARCH + encodeURIComponent(name));
+    // JSON-LD: {"@type": "Person", "name": "...", "image": "https://..."}
+    const ldMatch = /"@type":\s*"Person"[\s\S]*?"name":\s*"([^"]+)"[\s\S]*?"image":\s*"([^"]+)"/i.exec(html);
+    if (ldMatch && ldMatch[1] === name) {
+      return ldMatch[2]; // image URL
+    }
+    // 退而求其次：og:image + og:url 确认是女优详情页
+    const og = /property="og:image"[^>]*content="([^"]+actress[^"]+)"/i.exec(html);
+    if (og) return og[1];
+    return '';
+  } catch (e) {
+    console.warn(`  minnano-av fail: ${e.message}`);
+    return '';
+  }
+}
+
 async function crawlOne(name) {
   const merged = emptyRecord();
   merged.sources = [];
@@ -166,6 +190,16 @@ async function crawlOne(name) {
   if (hasData(xs)) {
     mergeRecord(merged, xs);
     merged.sources.push('xslist');
+  }
+
+  // 4) minnano-av 补头像（如果前面几个源都没抓到头像）
+  if (!merged.avatar) {
+    await sleep(300);
+    const img = await tryMinnanoAvatar(name);
+    if (img) {
+      merged.avatar = img;
+      merged.sources.push('minnano-av');
+    }
   }
 
   return merged;
