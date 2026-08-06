@@ -29,6 +29,36 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "あいださくら": {
+    "nameJa": "あいださくら",
+    "nameZh": "愛田櫻",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1991-04-18",
+    "bloodType": "B",
+    "height": "162",
+    "weight": "",
+    "threeSize": "83 - 58 - 85",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2009-08-06",
+    "agency": "SOD",
+    "social": {
+      "x": "sakuraaida0418",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "あいださくら",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "八乃つばさ": {
     "nameJa": "八乃つばさ",
     "nameZh": "八乃翼",
@@ -54,6 +84,36 @@
       "ja.wikipedia"
     ],
     "name": "八乃つばさ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "天野美優": {
+    "nameJa": "天野美優",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1998-01-11",
+    "bloodType": "A",
+    "height": "165",
+    "weight": "",
+    "threeSize": "95 - 60 - 94",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2016",
+    "agency": "",
+    "social": {
+      "x": "_amano_miyu",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "天野美優",
     "missing": [
       "weight"
     ],
@@ -87,6 +147,39 @@
       "ja.wikipedia"
     ],
     "name": "小俣わかめ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "彩城ゆりな": {
+    "nameJa": "彩城ゆりな",
+    "nameZh": "彩城優里菜",
+    "aliases": [
+      "綾瀬",
+      "ゆか"
+    ],
+    "avatar": "",
+    "birth": "1993-02-24",
+    "bloodType": "A",
+    "height": "153",
+    "weight": "",
+    "threeSize": "80 - 58 - 85",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2016",
+    "debut": "2012-11-22",
+    "agency": "kawaii*",
+    "social": {
+      "x": "yurina_n777",
+      "instagram": "y_nyanyan",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "彩城ゆりな",
     "missing": [
       "weight"
     ],
@@ -350,6 +443,39 @@
       "weight",
       "threeSize",
       "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "麻生遥": {
+    "nameJa": "麻生遥",
+    "nameZh": "麻生遙",
+    "aliases": [
+      "はるか",
+      "橘"
+    ],
+    "avatar": "",
+    "birth": "1995-06-28",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "84 - 59 - 88",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2017",
+    "debut": "2016",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "麻生遥",
+    "missing": [
+      "weight"
     ],
     "updatedAt": "2026-08-06"
   }

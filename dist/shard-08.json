@@ -122,6 +122,39 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "加藤あやの": {
+    "nameJa": "加藤あやの",
+    "nameZh": "加藤綾野",
+    "aliases": [
+      "山城",
+      "みずほ"
+    ],
+    "avatar": "",
+    "birth": "1983-09-29",
+    "bloodType": "B",
+    "height": "162",
+    "weight": "",
+    "threeSize": "90 - 58 - 93",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2011-10-11",
+    "agency": "マドンナ",
+    "social": {
+      "x": "ayanokatou",
+      "instagram": "ayano_kato929",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "加藤あやの",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "夢乃あいか": {
     "nameJa": "夢乃あいか",
     "nameZh": "夢乃愛華",
@@ -240,6 +273,36 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "朝日なな": {
+    "nameJa": "朝日なな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1985-01-20",
+    "bloodType": "A",
+    "height": "158",
+    "weight": "",
+    "threeSize": "87 - 59 - 88",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "朝日なな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "菊池えり": {
     "nameJa": "菊池えり",
     "nameZh": "",
@@ -268,6 +331,37 @@
       "ja.wikipedia"
     ],
     "name": "菊池えり",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "那月めい": {
+    "nameJa": "那月めい",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1995-11-20",
+    "bloodType": "B",
+    "height": "160",
+    "weight": "",
+    "threeSize": "82 - 59 - 83",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2015",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "那月めい",
     "missing": [
       "weight",
       "cup"
@@ -305,6 +399,37 @@
     "missing": [
       "weight"
     ],
+    "updatedAt": "2026-08-06"
+  },
+  "鮎川千里": {
+    "nameJa": "鮎川千里",
+    "nameZh": "",
+    "aliases": [
+      "舟川",
+      "ちさと"
+    ],
+    "avatar": "",
+    "birth": "1989-06-20",
+    "bloodType": "",
+    "height": "163",
+    "weight": "48kg",
+    "threeSize": "84 - 58 - 89",
+    "cup": "E-65",
+    "retired": true,
+    "retiredAt": "2012-12-18",
+    "debut": "2011",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "鮎川千里",
+    "missing": [],
     "updatedAt": "2026-08-06"
   },
   "麻里梨夏": {

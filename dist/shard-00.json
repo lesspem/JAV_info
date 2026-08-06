@@ -61,6 +61,36 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "一色れな": {
+    "nameJa": "一色れな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1984-12-27",
+    "bloodType": "O",
+    "height": "156",
+    "weight": "",
+    "threeSize": "85 - 56 - 85",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2005",
+    "debut": "2003",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "一色れな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "加瀬あゆむ": {
     "nameJa": "加瀬あゆむ",
     "nameZh": "",
@@ -114,6 +144,36 @@
       "ja.wikipedia"
     ],
     "name": "星宮一花",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "朝香美穂": {
+    "nameJa": "朝香美穂",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1981-12-16",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "",
+    "threeSize": "86 - 59 - 87",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2004",
+    "debut": "2002-10-20",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "朝香美穂",
     "missing": [
       "weight"
     ],
@@ -360,6 +420,66 @@
       "ja.wikipedia"
     ],
     "name": "逢沢りいな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "雨依つばめ": {
+    "nameJa": "雨依つばめ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1998-09-11",
+    "bloodType": "A",
+    "height": "152",
+    "weight": "",
+    "threeSize": "73 - 55 - 87",
+    "cup": "B",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2022-11-11",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "雨依つばめ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "鮎川さくら": {
+    "nameJa": "鮎川さくら",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1987-03-03",
+    "bloodType": "AB",
+    "height": "170",
+    "weight": "",
+    "threeSize": "85 - 58 - 86",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "鮎川さくら",
     "missing": [
       "weight"
     ],

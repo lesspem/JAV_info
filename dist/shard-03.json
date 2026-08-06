@@ -29,6 +29,68 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "上白美央": {
+    "nameJa": "上白美央",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1999-07-16",
+    "bloodType": "O",
+    "height": "156",
+    "weight": "",
+    "threeSize": "91 - 59 - 91",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2024",
+    "debut": "2022",
+    "agency": "マドンナ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "上白美央",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "倉持結愛": {
+    "nameJa": "倉持結愛",
+    "nameZh": "桃瀨友梨奈",
+    "aliases": [
+      "倉持結愛"
+    ],
+    "avatar": "",
+    "birth": "1990-08-19",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "95 - 60 - 92",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2013",
+    "agency": "エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "倉持結愛",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "北島玲": {
     "nameJa": "北島玲",
     "nameZh": "北島玲",
@@ -57,6 +119,36 @@
       "ja.wikipedia"
     ],
     "name": "北島玲",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "奥井楓": {
+    "nameJa": "奥井楓",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1995-09-24",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "84 - 60 - 85",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "奥井楓",
     "missing": [
       "weight"
     ],
@@ -117,6 +209,68 @@
     "name": "小野六花",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "小野寺舞": {
+    "nameJa": "小野寺舞",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "2002-03-01",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "89 - 62 - 85",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2023",
+    "agency": "SOD女子社員 レーベル",
+    "social": {
+      "x": "onoderamai_",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小野寺舞",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "愛原千咲": {
+    "nameJa": "愛原千咲",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/004/854152.jpg?new",
+    "birth": "1982-12-06",
+    "bloodType": "B",
+    "height": "155",
+    "weight": "",
+    "threeSize": "78 - 58 - 83",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2005",
+    "debut": "2002",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "minnano-av"
+    ],
+    "name": "愛原千咲",
+    "missing": [
+      "weight",
+      "cup"
     ],
     "updatedAt": "2026-08-06"
   },
@@ -210,6 +364,36 @@
       "weight",
       "threeSize",
       "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "鮎川みさと": {
+    "nameJa": "鮎川みさと",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1985-04-15",
+    "bloodType": "",
+    "height": "150",
+    "weight": "",
+    "threeSize": "93 - 63 - 85",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "鮎川みさと",
+    "missing": [
+      "weight"
     ],
     "updatedAt": "2026-08-06"
   }

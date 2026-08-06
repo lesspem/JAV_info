@@ -218,6 +218,36 @@
     "missing": [],
     "updatedAt": "2026-08-06"
   },
+  "楓ふうあ": {
+    "nameJa": "楓ふうあ",
+    "nameZh": "楓富愛",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Fresh_Festival_2023_in_Shirakobato_Water_Park_IMG_1104.jpg?width=200",
+    "birth": "2001-04-20",
+    "bloodType": "",
+    "height": "170",
+    "weight": "",
+    "threeSize": "93 - 59 - 88",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021-10-28",
+    "agency": "S1",
+    "social": {
+      "x": "kaede_fu_a",
+      "instagram": "fuua_kaede",
+      "tiktok": "fua_kaede"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "楓ふうあ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "水沢のの": {
     "nameJa": "水沢のの",
     "nameZh": "水澤乃乃",
@@ -341,6 +371,36 @@
       "ja.wikipedia"
     ],
     "name": "碧しの",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "風間恭子": {
+    "nameJa": "風間恭子",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1977-02-20",
+    "bloodType": "O",
+    "height": "156",
+    "weight": "",
+    "threeSize": "95 - 60 - 85",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "1995",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "風間恭子",
     "missing": [
       "weight"
     ],

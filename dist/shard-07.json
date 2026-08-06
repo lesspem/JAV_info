@@ -93,6 +93,39 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "小川桃果": {
+    "nameJa": "小川桃果",
+    "nameZh": "",
+    "aliases": [
+      "小川",
+      "桃果"
+    ],
+    "avatar": "",
+    "birth": "1990-03-27",
+    "bloodType": "B",
+    "height": "160",
+    "weight": "",
+    "threeSize": "91 - 61 - 92",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2015-06-11",
+    "agency": "溜池ゴロー",
+    "social": {
+      "x": "m0m0tan0327",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小川桃果",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "小沢優": {
     "nameJa": "小沢優",
     "nameZh": "",
@@ -245,6 +278,34 @@
     "missing": [
       "weight"
     ],
+    "updatedAt": "2026-08-06"
+  },
+  "片岡なぎさ": {
+    "nameJa": "片岡なぎさ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1974|愛称=|別名=|画像ファイル=|その他=}}-11|生年=1974|愛称=|別名=|画像ファイル=|その他=}}-30|生月=11|生年=1974|愛称=|別名=|画像ファイル=|その他=}}",
+    "bloodType": "",
+    "height": "156",
+    "weight": "156kg",
+    "threeSize": "87 - 64 - 88",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "",
+    "social": {
+      "x": "kataokanagisa",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "片岡なぎさ",
+    "missing": [],
     "updatedAt": "2026-08-06"
   },
   "神代しずく": {

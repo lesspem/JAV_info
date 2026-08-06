@@ -1,4 +1,39 @@
 {
+  "あいかわ優衣": {
+    "nameJa": "あいかわ優衣",
+    "nameZh": "",
+    "aliases": [
+      "優衣リィ",
+      "大野香澄"
+    ],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/001/391932.jpg?new",
+    "birth": "1989-03-08",
+    "bloodType": "B",
+    "height": "158",
+    "weight": "",
+    "threeSize": "86 - 60 - 87",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2015",
+    "debut": "2010-05-21",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "minnano-av"
+    ],
+    "name": "あいかわ優衣",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "あやの沙希": {
     "nameJa": "あやの沙希",
     "nameZh": "",
@@ -151,6 +186,64 @@
       "weight",
       "threeSize",
       "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "有坂真宵": {
+    "nameJa": "有坂真宵",
+    "nameZh": "有坂真宵",
+    "aliases": [],
+    "avatar": "",
+    "birth": "2000|愛称=|別名=|画像コメント=|画像ファイル=|その他=}}-1|生年=2000|愛称=|別名=|画像コメント=|画像ファイル=|その他=}}-1|時点=2020年 |毛髪の色=|瞳の色=|血液型=|出身地=・山口県|没日=|没月=|没年=|ふりがな=ありさか まよい|生月=1|生年=2000|愛称=|別名=|画像コメント=|画像ファイル=|その他=}}",
+    "bloodType": "",
+    "height": "152",
+    "weight": "1kg",
+    "threeSize": "89 - 53 - 88",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020-05-16",
+    "agency": "FALENO",
+    "social": {
+      "x": "arisaka_cmore",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "有坂真宵",
+    "missing": [],
+    "updatedAt": "2026-08-06"
+  },
+  "朱莉きょうこ": {
+    "nameJa": "朱莉きょうこ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1999-12-07",
+    "bloodType": "",
+    "height": "169",
+    "weight": "",
+    "threeSize": "101 - 59 - 93",
+    "cup": "I",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "エスワン",
+    "social": {
+      "x": "AkariKyoko",
+      "instagram": "hapistaglam54",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "朱莉きょうこ",
+    "missing": [
+      "weight"
     ],
     "updatedAt": "2026-08-06"
   },

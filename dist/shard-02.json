@@ -128,6 +128,97 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "新ありな": {
+    "nameJa": "新ありな",
+    "nameZh": "新有菜",
+    "aliases": [
+      "新有菜",
+      "橋本ありな"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_21%2C_2024)IMG_1275.jpg?width=200",
+    "birth": "1996-12-15",
+    "bloodType": "A",
+    "height": "167",
+    "weight": "44kg",
+    "threeSize": "84 - 58 - 84",
+    "cup": "C-65",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2016-10-03",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "新ありな",
+    "missing": [],
+    "updatedAt": "2026-08-06"
+  },
+  "新垣セナ": {
+    "nameJa": "新垣セナ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1989-11-21",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "83 - 58 - 88",
+    "cup": "B-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2009-11-11",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "新垣セナ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "有坂深雪": {
+    "nameJa": "有坂深雪",
+    "nameZh": "有坂深雪",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1998-01-07",
+    "bloodType": "A",
+    "height": "161",
+    "weight": "",
+    "threeSize": "85 - 55 - 84",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2019",
+    "debut": "2017",
+    "agency": "ダスッ!",
+    "social": {
+      "x": "arisaka_miyuki",
+      "instagram": "arisaka_miyuki_official17",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "有坂深雪",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "松島かえで": {
     "nameJa": "松島かえで",
     "nameZh": "松島楓",

@@ -62,6 +62,36 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "小野坂ゆいか": {
+    "nameJa": "小野坂ゆいか",
+    "nameZh": "小野坂唯花",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(May_4%2C_2025)IMG_3236.jpg?width=200",
+    "birth": "2002-02-09",
+    "bloodType": "A",
+    "height": "164",
+    "weight": "",
+    "threeSize": "95 - 62 - 90",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "yuika_onosaka",
+      "instagram": "yuika_onosaka",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小野坂ゆいか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "川崎杏奈": {
     "nameJa": "川崎杏奈",
     "nameZh": "",
@@ -89,6 +119,40 @@
     "name": "川崎杏奈",
     "missing": [
       "height",
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "新垣とわ": {
+    "nameJa": "新垣とわ",
+    "nameZh": "",
+    "aliases": [
+      "とわ",
+      "朝宮"
+    ],
+    "avatar": "",
+    "birth": "1993-07-26",
+    "bloodType": "B",
+    "height": "164",
+    "weight": "",
+    "threeSize": "78 - 57 - 83",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2014",
+    "debut": "2013",
+    "agency": "マキシング",
+    "social": {
+      "x": "imai_hatsune",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "新垣とわ",
+    "missing": [
       "weight",
       "cup"
     ],
@@ -395,6 +459,36 @@
       "ja.wikipedia"
     ],
     "name": "青山はな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "青沼ちあさ": {
+    "nameJa": "青沼ちあさ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1975-08-01",
+    "bloodType": "O",
+    "height": "161",
+    "weight": "",
+    "threeSize": "82 - 58 - 85",
+    "cup": "B",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "青沼ちあさ",
     "missing": [
       "weight"
     ],

@@ -185,6 +185,39 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "岡江凛": {
+    "nameJa": "岡江凛",
+    "nameZh": "",
+    "aliases": [
+      "緒川",
+      "凛"
+    ],
+    "avatar": "",
+    "birth": "1985-02-08",
+    "bloodType": "O",
+    "height": "161",
+    "weight": "",
+    "threeSize": "105 - 65 - 98",
+    "cup": "J",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "mimura_ibuki",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "岡江凛",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "川島和津実": {
     "nameJa": "川島和津実",
     "nameZh": "川島和津實",
@@ -492,6 +525,36 @@
       "weight",
       "threeSize",
       "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "秋元なつみ": {
+    "nameJa": "秋元なつみ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1985-08-25",
+    "bloodType": "A",
+    "height": "154",
+    "weight": "",
+    "threeSize": "86 - 58 - 85",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2006",
+    "debut": "2005",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "秋元なつみ",
+    "missing": [
+      "weight"
     ],
     "updatedAt": "2026-08-06"
   },
