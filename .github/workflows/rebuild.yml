@@ -1,0 +1,76 @@
+name: auto-rebuild
+
+# 统一入口：任何数据/脚本改动都触发一次完整重建，避免多个工作流互相触发。
+# - manual/、auto/、assets/avatars/：更改后自动重新生成所有产物
+# - data/edit.csv：先导入到 manual/ 再重建
+# - scripts/、seeds/：改脚本或种子后重建
+on:
+  push:
+    paths:
+      - 'manual/**'
+      - 'auto/**'
+      - 'assets/avatars/**'
+      - 'data/edit.csv'
+      - 'scripts/**'
+      - 'seeds/**'
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 关键：同一 group 的多次触发只保留最新一次，避免"部署风暴"
+concurrency:
+  group: rebuild-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    # 跳过机器人自己产生的提交，防止死循环
+    if: >-
+      !contains(github.event.head_commit.message, 'chore: 自动重建') &&
+      !contains(github.event.head_commit.message, 'chore: CSV 同步') &&
+      !contains(github.event.head_commit.message, 'chore: 重建产物')
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # 如果本次提交动了 edit.csv，先导入 CSV
+      - name: Detect edit.csv change
+        id: detect
+        run: |
+          if git diff --name-only HEAD~1..HEAD | grep -q '^data/edit\.csv$'; then
+            echo "csv_changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "csv_changed=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Import CSV (if changed)
+        if: steps.detect.outputs.csv_changed == 'true'
+        run: node scripts/import-csv.js
+
+      - name: Rebuild all outputs
+        run: |
+          node scripts/report.js
+          node scripts/build-html.js
+          node scripts/build-editor.js
+          node scripts/merge.js
+          node scripts/export-csv.js
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --staged --quiet; then
+            echo "无变化"
+          else
+            git commit -m "chore: 自动重建 $(date -u +%Y-%m-%d\ %H:%M)"
+            git push
+          fi
