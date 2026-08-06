@@ -93,6 +93,39 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "一条みお": {
+    "nameJa": "一条みお",
+    "nameZh": "",
+    "aliases": [
+      "相葉美久",
+      "小松菜いよ"
+    ],
+    "avatar": "",
+    "birth": "1996-11-30",
+    "bloodType": "B",
+    "height": "147",
+    "weight": "",
+    "threeSize": "83 - 62 - 86",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "ichijyomio",
+      "instagram": "ichijyomio",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "一条みお",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "上原亜衣": {
     "nameJa": "上原亜衣",
     "nameZh": "上原亞衣",
@@ -457,6 +490,102 @@
     "missing": [],
     "updatedAt": "2026-08-06"
   },
+  "浅川サラ": {
+    "nameJa": "浅川サラ",
+    "nameZh": "",
+    "aliases": [
+      "大塚もも",
+      "さら"
+    ],
+    "avatar": "",
+    "birth": "1988-03-01",
+    "bloodType": "B",
+    "height": "155",
+    "weight": "",
+    "threeSize": "84 - 58 - 86",
+    "cup": "D-70",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2009",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "浅川サラ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "白石かんな": {
+    "nameJa": "白石かんな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1999-09-30",
+    "bloodType": "",
+    "height": "157",
+    "weight": "",
+    "threeSize": "84 - 59 - 89",
+    "cup": "D-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020-08-31",
+    "agency": "",
+    "social": {
+      "x": "Shiraishi_Kanna",
+      "instagram": "",
+      "tiktok": "shiraishi_kanna"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "白石かんな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "真田美樹": {
+    "nameJa": "真田美樹",
+    "nameZh": "真田紗奈",
+    "aliases": [
+      "真田みづ稀",
+      "真田美樹"
+    ],
+    "avatar": "",
+    "birth": "1996-03-14",
+    "bloodType": "A",
+    "height": "166",
+    "weight": "",
+    "threeSize": "95 - 60 - 90",
+    "cup": "G-70",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2016",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "真田美樹",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "胡桃沢まり奈": {
     "nameJa": "胡桃沢まり奈",
     "nameZh": "",
@@ -487,6 +616,38 @@
     "name": "胡桃沢まり奈",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "花丸くるみ": {
+    "nameJa": "花丸くるみ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "花丸くるみ",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
     ],
     "updatedAt": "2026-08-06"
   },

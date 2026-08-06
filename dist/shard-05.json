@@ -94,6 +94,70 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "凛音とうか": {
+    "nameJa": "凛音とうか",
+    "nameZh": "凜音桃花",
+    "aliases": [
+      "りん",
+      "川瀬"
+    ],
+    "avatar": "",
+    "birth": "1990-10-23",
+    "bloodType": "O",
+    "height": "165",
+    "weight": "",
+    "threeSize": "98 - 58 - 90",
+    "cup": "I",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2018",
+    "agency": "S1",
+    "social": {
+      "x": "rinnetoka",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "凛音とうか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "可愛手翔": {
+    "nameJa": "可愛手翔",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1975-05-30",
+    "bloodType": "O",
+    "height": "158",
+    "weight": "",
+    "threeSize": "81 - 56 - 83",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "1997",
+    "debut": "1996-02-20",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "可愛手翔",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "小倉由菜": {
     "nameJa": "小倉由菜",
     "nameZh": "小倉由菜",
@@ -210,6 +274,68 @@
     ],
     "name": "希崎ジェシカ",
     "missing": [],
+    "updatedAt": "2026-08-06"
+  },
+  "新川愛七": {
+    "nameJa": "新川愛七",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1992-05-21",
+    "bloodType": "",
+    "height": "153",
+    "weight": "",
+    "threeSize": "90 - 61 - 88",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2019",
+    "agency": "KANBi",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "新川愛七",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "有栖もな": {
+    "nameJa": "有栖もな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "有栖もな",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
     "updatedAt": "2026-08-06"
   },
   "松本菜奈実": {

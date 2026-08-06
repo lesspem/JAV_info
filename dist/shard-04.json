@@ -63,6 +63,69 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "倉科さやか": {
+    "nameJa": "倉科さやか",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1986-04-09",
+    "bloodType": "",
+    "height": "149",
+    "weight": "",
+    "threeSize": "87 - 60 - 85",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2008",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "倉科さやか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "倖田李梨": {
+    "nameJa": "倖田李梨",
+    "nameZh": "倖田李梨",
+    "aliases": [
+      "岩下",
+      "美季"
+    ],
+    "avatar": "",
+    "birth": "1974-03-01",
+    "bloodType": "O",
+    "height": "162",
+    "weight": "",
+    "threeSize": "83 - 60 - 93",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2013",
+    "debut": "1999",
+    "agency": "",
+    "social": {
+      "x": "LiLee_K",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "倖田李梨",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "初川みなみ": {
     "nameJa": "初川みなみ",
     "nameZh": "初川南",
@@ -178,6 +241,36 @@
       "ja.wikipedia"
     ],
     "name": "工藤まなみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "愛代さやか": {
+    "nameJa": "愛代さやか",
+    "nameZh": "愛代沙也加",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1993-11-06",
+    "bloodType": "O",
+    "height": "148",
+    "weight": "",
+    "threeSize": "84 - 58 - 86",
+    "cup": "F-60",
+    "retired": true,
+    "retiredAt": "2016",
+    "debut": "2012",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "愛代さやか",
     "missing": [
       "weight"
     ],
@@ -307,6 +400,39 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "樹花凜": {
+    "nameJa": "樹花凜",
+    "nameZh": "樹花凜",
+    "aliases": [
+      "七咲",
+      "楓花"
+    ],
+    "avatar": "",
+    "birth": "1988-07-15",
+    "bloodType": "",
+    "height": "153",
+    "weight": "",
+    "threeSize": "82 - 59 - 88",
+    "cup": "C-65",
+    "retired": true,
+    "retiredAt": "2015",
+    "debut": "2007",
+    "agency": "ドグマ",
+    "social": {
+      "x": "karin_itsuki",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "樹花凜",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "深田えいみ": {
     "nameJa": "深田えいみ",
     "nameZh": "深田詠美",
@@ -339,6 +465,38 @@
     "name": "深田えいみ",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "白石透羽": {
+    "nameJa": "白石透羽",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(July_1%2C_2026)IMG_6456.jpg?width=200",
+    "birth": "2003-12-30",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2026",
+    "agency": "S1",
+    "social": {
+      "x": "towashira14",
+      "instagram": "towashira14",
+      "tiktok": "meronsuki1"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "白石透羽",
+    "missing": [
+      "height",
+      "weight",
+      "threeSize"
     ],
     "updatedAt": "2026-08-06"
   },
@@ -430,6 +588,34 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "鈴香音色": {
+    "nameJa": "鈴香音色",
+    "nameZh": "鈴香音色",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1988-09-02",
+    "bloodType": "O",
+    "height": "157",
+    "weight": "62kg",
+    "threeSize": "105 - 64 - 96",
+    "cup": "J",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2008",
+    "agency": "",
+    "social": {
+      "x": "NeiroSuzuk0902",
+      "instagram": "ai_neirosuzuka",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "鈴香音色",
+    "missing": [],
+    "updatedAt": "2026-08-06"
+  },
   "阿由葉あみ": {
     "nameJa": "阿由葉あみ",
     "nameZh": "阿由葉亞美",
@@ -498,6 +684,38 @@
     "name": "霧宮てん",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "風間麗子": {
+    "nameJa": "風間麗子",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "風間麗子",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
     ],
     "updatedAt": "2026-08-06"
   },

@@ -1,0 +1,31 @@
+{
+  "nameJa": "可愛手翔",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1975-05-30",
+  "bloodType": "O",
+  "height": "158",
+  "weight": "",
+  "threeSize": "81 - 56 - 83",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "1997",
+  "debut": "1996-02-20",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "可愛手翔",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-06"
+}

@@ -184,6 +184,39 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "新セリナ": {
+    "nameJa": "新セリナ",
+    "nameZh": "",
+    "aliases": [
+      "青木",
+      "桃"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Momo_Aoki_IMG_5965.jpg?width=200",
+    "birth": "1998-11-30",
+    "bloodType": "",
+    "height": "170",
+    "weight": "",
+    "threeSize": "85 - 59 - 90",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021-07-13",
+    "agency": "SOD",
+    "social": {
+      "x": "serina_2024",
+      "instagram": "2021_namaewanai",
+      "tiktok": "seriseri019"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "新セリナ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "星空もあ": {
     "nameJa": "星空もあ",
     "nameZh": "",
@@ -212,6 +245,39 @@
       "ja.wikipedia"
     ],
     "name": "星空もあ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "橘メアリー": {
+    "nameJa": "橘メアリー",
+    "nameZh": "橘瑪麗",
+    "aliases": [
+      "橘瑪麗",
+      "MARY（BLACK"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Tachibana.jpg?width=200",
+    "birth": "1993-07-07",
+    "bloodType": "O",
+    "height": "168",
+    "weight": "",
+    "threeSize": "99 - 63 - 94",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2014",
+    "agency": "ダスッ!",
+    "social": {
+      "x": "mary_tachibana",
+      "instagram": "tachibanamary",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "橘メアリー",
     "missing": [
       "weight"
     ],
@@ -312,6 +378,41 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "石山リョウ": {
+    "nameJa": "石山リョウ",
+    "nameZh": "",
+    "aliases": [
+      "佐々木",
+      "涼"
+    ],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/010/10074.jpg?new",
+    "birth": "1984-12-28",
+    "bloodType": "",
+    "height": "163",
+    "weight": "",
+    "threeSize": "88 - 60 - 86",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "minnano-av"
+    ],
+    "name": "石山リョウ",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "秋元美由": {
     "nameJa": "秋元美由",
     "nameZh": "秋元美由",
@@ -337,6 +438,36 @@
       "ja.wikipedia"
     ],
     "name": "秋元美由",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "緒川りお": {
+    "nameJa": "緒川りお",
+    "nameZh": "緒川里緒",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1993-03-15",
+    "bloodType": "B",
+    "height": "155",
+    "weight": "",
+    "threeSize": "86 - 58 - 83",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2017",
+    "debut": "2013",
+    "agency": "kawaii*",
+    "social": {
+      "x": "ogawa_rio",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "緒川りお",
     "missing": [
       "weight"
     ],
@@ -373,6 +504,74 @@
       "weight",
       "threeSize",
       "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "荻野舞": {
+    "nameJa": "荻野舞",
+    "nameZh": "",
+    "aliases": [
+      "まい",
+      "ゆい"
+    ],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/013/429746.jpg?new",
+    "birth": "1995-11-30",
+    "bloodType": "",
+    "height": "165",
+    "weight": "",
+    "threeSize": "84 - 60 - 86",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "mai_ogino0929",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "minnano-av"
+    ],
+    "name": "荻野舞",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "遥めぐみ": {
+    "nameJa": "遥めぐみ",
+    "nameZh": "遙惠美",
+    "aliases": [
+      "高原",
+      "みやび"
+    ],
+    "avatar": "",
+    "birth": "1986-10-05",
+    "bloodType": "O",
+    "height": "162",
+    "weight": "",
+    "threeSize": "91 - 60 - 88",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2008",
+    "debut": "2006",
+    "agency": "",
+    "social": {
+      "x": "haruka_megumi",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "遥めぐみ",
+    "missing": [
+      "weight"
     ],
     "updatedAt": "2026-08-06"
   },

@@ -1,0 +1,32 @@
+{
+  "nameJa": "夢見ることり",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "",
+  "height": "",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [],
+  "name": "夢見ることり",
+  "missing": [
+    "birth",
+    "height",
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-06"
+}

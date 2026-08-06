@@ -1,0 +1,31 @@
+{
+  "nameJa": "小池笑美",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1983-07-30",
+  "bloodType": "B",
+  "height": "155",
+  "weight": "",
+  "threeSize": "82 - 60 - 89",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2004",
+  "debut": "2003",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "小池笑美",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-06"
+}

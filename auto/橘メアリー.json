@@ -1,0 +1,33 @@
+{
+  "nameJa": "橘メアリー",
+  "nameZh": "橘瑪麗",
+  "aliases": [
+    "橘瑪麗",
+    "MARY（BLACK"
+  ],
+  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Tachibana.jpg?width=200",
+  "birth": "1993-07-07",
+  "bloodType": "O",
+  "height": "168",
+  "weight": "",
+  "threeSize": "99 - 63 - 94",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2025",
+  "debut": "2014",
+  "agency": "ダスッ!",
+  "social": {
+    "x": "mary_tachibana",
+    "instagram": "tachibanamary",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "橘メアリー",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-06"
+}

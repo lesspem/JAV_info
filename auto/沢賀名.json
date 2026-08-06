@@ -1,0 +1,30 @@
+{
+  "nameJa": "沢賀名",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1979-02-15",
+  "bloodType": "AB",
+  "height": "152",
+  "weight": "",
+  "threeSize": "80 - 54 - 79",
+  "cup": "A",
+  "retired": true,
+  "retiredAt": "2002",
+  "debut": "1999",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "沢賀名",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-06"
+}

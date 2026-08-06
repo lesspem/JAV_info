@@ -1,0 +1,33 @@
+{
+  "nameJa": "あまねなのは",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/002/243623.jpg?new",
+  "birth": "1990-02-21",
+  "bloodType": "O",
+  "height": "157",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2008",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "minnano-av"
+  ],
+  "name": "あまねなのは",
+  "missing": [
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-06"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "河井リオ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1978-10-23",
+  "bloodType": "O",
+  "height": "150",
+  "weight": "",
+  "threeSize": "92 - 60 - 89",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "1999",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "河井リオ",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-06"
+}

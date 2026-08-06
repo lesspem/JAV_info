@@ -119,6 +119,99 @@
     "missing": [],
     "updatedAt": "2026-08-06"
   },
+  "君色華奈": {
+    "nameJa": "君色華奈",
+    "nameZh": "",
+    "aliases": [
+      "君色",
+      "華奈"
+    ],
+    "avatar": "",
+    "birth": "1998-09-13",
+    "bloodType": "AB",
+    "height": "160",
+    "weight": "",
+    "threeSize": "84 - 56 - 83",
+    "cup": "B",
+    "retired": true,
+    "retiredAt": "2018",
+    "debut": "2017-10-03",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "suzumi_honoka02",
+      "instagram": "suzumi_honoka02",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "君色華奈",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "天川そら": {
+    "nameJa": "天川そら",
+    "nameZh": "天川空",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_20220911_IMG_3463.jpg?width=200",
+    "birth": "1998-10-10",
+    "bloodType": "A",
+    "height": "164",
+    "weight": "",
+    "threeSize": "87 - 56 - 86",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "FALENO",
+    "social": {
+      "x": "iamSORA_AMAKAWA",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "天川そら",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "小泉麻由": {
+    "nameJa": "小泉麻由",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1982-08-25",
+    "bloodType": "A",
+    "height": "162",
+    "weight": "",
+    "threeSize": "115 - 66 - 96",
+    "cup": "L",
+    "retired": true,
+    "retiredAt": "2005",
+    "debut": "2001",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小泉麻由",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "星宮一花": {
     "nameJa": "星宮一花",
     "nameZh": "星宮一花",
@@ -146,6 +239,38 @@
     "name": "星宮一花",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "月島なるみ": {
+    "nameJa": "月島なるみ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "月島なるみ",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
     ],
     "updatedAt": "2026-08-06"
   },
@@ -270,6 +395,66 @@
       "weight",
       "threeSize",
       "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "石川澪": {
+    "nameJa": "石川澪",
+    "nameZh": "石川澪",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/January_24%2C_2026_%22Modern_Mahjong_Academy%22_in_Kawachi_Town%2C_Ibaraki_Prefecture_IMG_3037.jpg?width=200",
+    "birth": "2002-03-20",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "78 - 56 - 85",
+    "cup": "B",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021-11-25",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "_ishikawamio_",
+      "instagram": "ishikawa._.mio",
+      "tiktok": "_ishikawamio_"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "石川澪",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "秋吉花音": {
+    "nameJa": "秋吉花音",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1994-11-05",
+    "bloodType": "A",
+    "height": "148",
+    "weight": "",
+    "threeSize": "80 - 58 - 84",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2018",
+    "debut": "2016",
+    "agency": "マックス・エー",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "秋吉花音",
+    "missing": [
+      "weight"
     ],
     "updatedAt": "2026-08-06"
   },

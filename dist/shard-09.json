@@ -1,4 +1,34 @@
 {
+  "倉咲ゆう": {
+    "nameJa": "倉咲ゆう",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1988-12-01",
+    "bloodType": "A",
+    "height": "173",
+    "weight": "",
+    "threeSize": "87 - 59 - 88",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2008",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "倉咲ゆう",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "天海麗": {
     "nameJa": "天海麗",
     "nameZh": "天海麗",
@@ -29,6 +59,36 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "奥菜亜美": {
+    "nameJa": "奥菜亜美",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1981-01-16",
+    "bloodType": "A",
+    "height": "155",
+    "weight": "",
+    "threeSize": "82 - 55 - 83",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2004",
+    "debut": "2001",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "奥菜亜美",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "彩瀬希": {
     "nameJa": "彩瀬希",
     "nameZh": "",
@@ -54,6 +114,36 @@
       "ja.wikipedia"
     ],
     "name": "彩瀬希",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "新井リマ": {
+    "nameJa": "新井リマ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_14%2C_2024)IMG_6096.jpg?width=200",
+    "birth": "2000-10-03",
+    "bloodType": "AB",
+    "height": "157",
+    "weight": "",
+    "threeSize": "88 - 56 - 84",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021",
+    "agency": "ワンズファクトリー",
+    "social": {
+      "x": "Arai_rima",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "新井リマ",
     "missing": [
       "weight"
     ],
@@ -114,6 +204,72 @@
       "ja.wikipedia"
     ],
     "name": "片桐ゆう",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "白咲ゆず": {
+    "nameJa": "白咲ゆず",
+    "nameZh": "",
+    "aliases": [
+      "白咲",
+      "ゆず"
+    ],
+    "avatar": "",
+    "birth": "1997-12-03",
+    "bloodType": "A",
+    "height": "153",
+    "weight": "",
+    "threeSize": "80 - 60 - 85",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2016",
+    "agency": "マックス・エー",
+    "social": {
+      "x": "cho1203j",
+      "instagram": "choooova",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "白咲ゆず",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "美園和花": {
+    "nameJa": "美園和花",
+    "nameZh": "美園和花",
+    "aliases": [
+      "矢田",
+      "結衣"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_27%2C_2025)IMG_1170.jpg?width=200",
+    "birth": "1999-03-03",
+    "bloodType": "A",
+    "height": "155",
+    "weight": "",
+    "threeSize": "100 - 60 - 91",
+    "cup": "G-70",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "アタッカーズ",
+    "social": {
+      "x": "waka_misono",
+      "instagram": "misono_waka",
+      "tiktok": "waka_misono"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "美園和花",
     "missing": [
       "weight"
     ],

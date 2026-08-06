@@ -1,0 +1,31 @@
+{
+  "nameJa": "浅倉舞",
+  "nameZh": "淺倉舞",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1972-11-08",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "",
+  "threeSize": "88 - 61 - 89",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "1995",
+  "debut": "1992-03-21",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia"
+  ],
+  "name": "浅倉舞",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-06"
+}

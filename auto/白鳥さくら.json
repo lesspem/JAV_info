@@ -1,0 +1,33 @@
+{
+  "nameJa": "白鳥さくら",
+  "nameZh": "白鸟樱",
+  "aliases": [
+    "藤原",
+    "さくら"
+  ],
+  "avatar": "",
+  "birth": "1983-03-20",
+  "bloodType": "AB",
+  "height": "158",
+  "weight": "",
+  "threeSize": "92 - 59 - 88",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2005",
+  "debut": "2003",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "白鳥さくら",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-06"
+}

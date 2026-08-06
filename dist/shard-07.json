@@ -61,6 +61,36 @@
     "missing": [],
     "updatedAt": "2026-08-06"
   },
+  "北原夏美": {
+    "nameJa": "北原夏美",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1966-11-30",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "90 - 60 - 88",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "北原夏美",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "天月あず": {
     "nameJa": "天月あず",
     "nameZh": "",
@@ -154,6 +184,36 @@
     "missing": [
       "weight",
       "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "小花のん": {
+    "nameJa": "小花のん",
+    "nameZh": "小花暖",
+    "aliases": [],
+    "avatar": "",
+    "birth": "2001-06-28",
+    "bloodType": "B",
+    "height": "157",
+    "weight": "",
+    "threeSize": "86 - 60 - 88",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021",
+    "agency": "",
+    "social": {
+      "x": "ohananon_cmore",
+      "instagram": "ohana.non628",
+      "tiktok": "ohananon_cmore"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小花のん",
+    "missing": [
+      "weight"
     ],
     "updatedAt": "2026-08-06"
   },
@@ -280,6 +340,40 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "浅間るい": {
+    "nameJa": "浅間るい",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/001/548244.jpg?new",
+    "birth": "1968-04-29",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "minnano-av"
+    ],
+    "name": "浅間るい",
+    "missing": [
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "片岡なぎさ": {
     "nameJa": "片岡なぎさ",
     "nameZh": "",
@@ -306,6 +400,39 @@
     ],
     "name": "片岡なぎさ",
     "missing": [],
+    "updatedAt": "2026-08-06"
+  },
+  "白鳥さくら": {
+    "nameJa": "白鳥さくら",
+    "nameZh": "白鸟樱",
+    "aliases": [
+      "藤原",
+      "さくら"
+    ],
+    "avatar": "",
+    "birth": "1983-03-20",
+    "bloodType": "AB",
+    "height": "158",
+    "weight": "",
+    "threeSize": "92 - 59 - 88",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2005",
+    "debut": "2003",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "白鳥さくら",
+    "missing": [
+      "weight"
+    ],
     "updatedAt": "2026-08-06"
   },
   "神代しずく": {

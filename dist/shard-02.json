@@ -29,6 +29,39 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "二階堂夢": {
+    "nameJa": "二階堂夢",
+    "nameZh": "本鄉愛",
+    "aliases": [
+      "二階堂",
+      "夢"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Smiling_Ai_Hongo_(2024)02.jpg?width=200",
+    "birth": "1999-10-28",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "85 - 53 - 85",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2020",
+    "agency": "S1",
+    "social": {
+      "x": "ai_hongo_",
+      "instagram": "ai_hongo_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "二階堂夢",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "天海ゆり": {
     "nameJa": "天海ゆり",
     "nameZh": "",
@@ -95,6 +128,39 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "小湊よつ葉": {
+    "nameJa": "小湊よつ葉",
+    "nameZh": "",
+    "aliases": [
+      "井上",
+      "理香子"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Shibuya_Cross_FM_%E2%80%9CSorry_from_SOD%E2%80%99s_Saturday_noon%E2%80%9D_Broadcast_on_February_7%2C_2026_Performers_IMG_6192.jpg?width=200",
+    "birth": "1996-05-29",
+    "bloodType": "B",
+    "height": "154",
+    "weight": "",
+    "threeSize": "83 - 59 - 80",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2022-05-16",
+    "agency": "SOD",
+    "social": {
+      "x": "YKm0529",
+      "instagram": "yotsuha_km0529",
+      "tiktok": "yotsuha_km"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小湊よつ葉",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "愛乃澪": {
     "nameJa": "愛乃澪",
     "nameZh": "",
@@ -123,6 +189,36 @@
       "ja.wikipedia"
     ],
     "name": "愛乃澪",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "斉藤みゆ": {
+    "nameJa": "斉藤みゆ",
+    "nameZh": "齊藤美優",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/thumb?width=200",
+    "birth": "1994-03-22",
+    "bloodType": "O",
+    "height": "158",
+    "weight": "",
+    "threeSize": "90 - 61 - 88",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2018",
+    "debut": "2016",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "斉藤みゆ",
     "missing": [
       "weight"
     ],
@@ -314,6 +410,37 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "河井リオ": {
+    "nameJa": "河井リオ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1978-10-23",
+    "bloodType": "O",
+    "height": "150",
+    "weight": "",
+    "threeSize": "92 - 60 - 89",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "1999",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "河井リオ",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "白石茉莉奈": {
     "nameJa": "白石茉莉奈",
     "nameZh": "白石茉莉奈",
@@ -407,6 +534,36 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "紺野美奈子": {
+    "nameJa": "紺野美奈子",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1988-02-14",
+    "bloodType": "",
+    "height": "159",
+    "weight": "",
+    "threeSize": "90 - 58 - 85",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2009",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "紺野美奈子",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "青木菜摘": {
     "nameJa": "青木菜摘",
     "nameZh": "",
@@ -465,6 +622,36 @@
       "ja.wikipedia"
     ],
     "name": "高杉麻里",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "黒川きらら": {
+    "nameJa": "黒川きらら",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1988-07-15",
+    "bloodType": "O",
+    "height": "153",
+    "weight": "",
+    "threeSize": "95 - 58 - 87",
+    "cup": "G-70",
+    "retired": true,
+    "retiredAt": "2010",
+    "debut": "2008",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "黒川きらら",
     "missing": [
       "weight"
     ],

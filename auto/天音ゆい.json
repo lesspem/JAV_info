@@ -1,0 +1,30 @@
+{
+  "nameJa": "天音ゆい",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "2001-11-23",
+  "bloodType": "",
+  "height": "153",
+  "weight": "",
+  "threeSize": "80 - 51 - 82",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2023",
+  "debut": "2020",
+  "agency": "kawaii*",
+  "social": {
+    "x": "ama_ne_yui",
+    "instagram": "ama_ne_yui",
+    "tiktok": "ama_ne_yui"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "天音ゆい",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-06"
+}

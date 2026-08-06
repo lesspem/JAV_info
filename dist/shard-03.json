@@ -59,6 +59,36 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "亜紗美": {
+    "nameJa": "亜紗美",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Asami.jpg?width=200",
+    "birth": "1985-08-19",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "",
+    "threeSize": "86 - 58 - 84",
+    "cup": "D-65",
+    "retired": true,
+    "retiredAt": "2009-12-14",
+    "debut": "2005-04-20",
+    "agency": "",
+    "social": {
+      "x": "a_s_a_m_i_",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "亜紗美",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "倉持結愛": {
     "nameJa": "倉持結愛",
     "nameZh": "桃瀨友梨奈",
@@ -124,6 +154,70 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "唯井まひろ": {
+    "nameJa": "唯井まひろ",
+    "nameZh": "唯井真尋",
+    "aliases": [
+      "唯井真尋"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/SOD_AKIHABARA_JACK_2023_IMG_9528.jpg?width=200",
+    "birth": "2000-03-04",
+    "bloodType": "AB",
+    "height": "156",
+    "weight": "",
+    "threeSize": "90 - 58 - 97",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018-05-14",
+    "agency": "SOD",
+    "social": {
+      "x": "tadai_mahiro",
+      "instagram": "tadai_mahiro",
+      "tiktok": "mahiro_purin"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "唯井まひろ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "夢見ることり": {
+    "nameJa": "夢見ることり",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "夢見ることり",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "奥井楓": {
     "nameJa": "奥井楓",
     "nameZh": "",
@@ -149,6 +243,36 @@
       "ja.wikipedia"
     ],
     "name": "奥井楓",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "妃すみれ": {
+    "nameJa": "妃すみれ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1975-05-05",
+    "bloodType": "O",
+    "height": "155",
+    "weight": "",
+    "threeSize": "83 - 58 - 85",
+    "cup": "C-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007-08-17",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "妃すみれ",
     "missing": [
       "weight"
     ],
@@ -242,6 +366,36 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "志木あかね": {
+    "nameJa": "志木あかね",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1995-09-24",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "84 - 60 - 85",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "志木あかね",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "愛原千咲": {
     "nameJa": "愛原千咲",
     "nameZh": "",
@@ -302,6 +456,40 @@
     "missing": [],
     "updatedAt": "2026-08-06"
   },
+  "桐嶋ひな": {
+    "nameJa": "桐嶋ひな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/017/460263.jpg?new",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "minnano-av"
+    ],
+    "name": "桐嶋ひな",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "森沢かな": {
     "nameJa": "森沢かな",
     "nameZh": "森澤佳奈",
@@ -358,6 +546,135 @@
     "works": "",
     "sources": [],
     "name": "森罗万象",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "椎名のあ": {
+    "nameJa": "椎名のあ",
+    "nameZh": "",
+    "aliases": [
+      "のあ",
+      "倉田"
+    ],
+    "avatar": "",
+    "birth": "1999-03-18",
+    "bloodType": "B",
+    "height": "144",
+    "weight": "",
+    "threeSize": "90 - 63 - 91",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "Fitch",
+    "social": {
+      "x": "noa__shiina",
+      "instagram": "shiina.noa",
+      "tiktok": "shiina_noa"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "椎名のあ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "琴音れいな": {
+    "nameJa": "琴音れいな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "琴音れいな",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "逢坂瞳": {
+    "nameJa": "逢坂瞳",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1994-01-21",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "105 - 65 - 105",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021",
+    "agency": "",
+    "social": {
+      "x": "Hitomi_Ousaka",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "逢坂瞳",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "鈴木真央": {
+    "nameJa": "鈴木真央",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/003/950511.jpg?new",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "minnano-av"
+    ],
+    "name": "鈴木真央",
     "missing": [
       "birth",
       "height",

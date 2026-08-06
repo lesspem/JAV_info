@@ -32,6 +32,39 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "あまねなのは": {
+    "nameJa": "あまねなのは",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/002/243623.jpg?new",
+    "birth": "1990-02-21",
+    "bloodType": "O",
+    "height": "157",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2008",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "minnano-av"
+    ],
+    "name": "あまねなのは",
+    "missing": [
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "入田真綾": {
     "nameJa": "入田真綾",
     "nameZh": "",
@@ -57,6 +90,64 @@
       "ja.wikipedia"
     ],
     "name": "入田真綾",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "八木奈々": {
+    "nameJa": "八木奈々",
+    "nameZh": "八木奈奈",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/January_24%2C_2026_%22Modern_Mahjong_Academy%22_in_Kawachi_Town%2C_Ibaraki_Prefecture_IMG_1952.jpg?width=200",
+    "birth": "2000-09-03",
+    "bloodType": "A",
+    "height": "156",
+    "weight": "41kg",
+    "threeSize": "82 - 56 - 86",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019-12-13",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "yaginana0903",
+      "instagram": "yagi_nana",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "八木奈々",
+    "missing": [],
+    "updatedAt": "2026-08-06"
+  },
+  "小出遥": {
+    "nameJa": "小出遥",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1986-04-16",
+    "bloodType": "",
+    "height": "154",
+    "weight": "",
+    "threeSize": "90 - 61 - 88",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2010",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小出遥",
     "missing": [
       "weight"
     ],
@@ -158,6 +249,66 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "月乃ルナ": {
+    "nameJa": "月乃ルナ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1995-10-01",
+    "bloodType": "A",
+    "height": "163",
+    "weight": "",
+    "threeSize": "82 - 58 - 86",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2019",
+    "agency": "DAHLIA",
+    "social": {
+      "x": "moon_of__moon",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "月乃ルナ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "朝比奈ななせ": {
+    "nameJa": "朝比奈ななせ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "2000-09-06",
+    "bloodType": "A",
+    "height": "157",
+    "weight": "",
+    "threeSize": "83 - 60 - 84",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "SOD",
+    "social": {
+      "x": "asahina_nanase",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "朝比奈ななせ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "水野朝陽": {
     "nameJa": "水野朝陽",
     "nameZh": "水野朝陽",
@@ -219,6 +370,70 @@
       "ja.wikipedia"
     ],
     "name": "永井みひな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "浅倉舞": {
+    "nameJa": "浅倉舞",
+    "nameZh": "淺倉舞",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1972-11-08",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "",
+    "threeSize": "88 - 61 - 89",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "1995",
+    "debut": "1992-03-21",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia"
+    ],
+    "name": "浅倉舞",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "清宮すず": {
+    "nameJa": "清宮すず",
+    "nameZh": "",
+    "aliases": [
+      "すず",
+      "天木"
+    ],
+    "avatar": "",
+    "birth": "2001-01-01",
+    "bloodType": "",
+    "height": "157",
+    "weight": "",
+    "threeSize": "91 - 59 - 85",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2020",
+    "agency": "kawaii*",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "清宮すず",
     "missing": [
       "weight"
     ],
@@ -376,6 +591,67 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "葵こはる": {
+    "nameJa": "葵こはる",
+    "nameZh": "",
+    "aliases": [
+      "桜井みな実",
+      "笹原えりな"
+    ],
+    "avatar": "",
+    "birth": "1992-08-30",
+    "bloodType": "B",
+    "height": "154",
+    "weight": "55kg",
+    "threeSize": "80 - 70 - 90",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2014",
+    "debut": "2012",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "葵こはる",
+    "missing": [],
+    "updatedAt": "2026-08-06"
+  },
+  "西宮ゆめ": {
+    "nameJa": "西宮ゆめ",
+    "nameZh": "西宮夢",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/TRE2025NEWS_Videoframe_885CUTOUT.png?width=200",
+    "birth": "1996-11-04",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "85 - 56 - 86",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2016-09-19",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "_nishimiyayume",
+      "instagram": "nishimiya_yume",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "西宮ゆめ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "西田カリナ": {
     "nameJa": "西田カリナ",
     "nameZh": "",
@@ -489,6 +765,39 @@
       "ja.wikipedia"
     ],
     "name": "青沼ちあさ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "黒川さりな": {
+    "nameJa": "黒川さりな",
+    "nameZh": "",
+    "aliases": [
+      "黒川",
+      "サリナ"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_27%2C_2025)IMG_0797.jpg?width=200",
+    "birth": "1996-12-12",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "",
+    "threeSize": "88 - 56 - 85",
+    "cup": "H-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "",
+    "social": {
+      "x": "sarina_momonaga",
+      "instagram": "momo_sari12",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "黒川さりな",
     "missing": [
       "weight"
     ],

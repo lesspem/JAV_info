@@ -1,4 +1,37 @@
 {
+  "あいだもも": {
+    "nameJa": "あいだもも",
+    "nameZh": "",
+    "aliases": [
+      "丸山",
+      "明代"
+    ],
+    "avatar": "",
+    "birth": "1970-06-18",
+    "bloodType": "A",
+    "height": "162",
+    "weight": "",
+    "threeSize": "82 - 55 - 80",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "あいだもも",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "今宿まこと": {
     "nameJa": "今宿まこと",
     "nameZh": "",
@@ -91,6 +124,39 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "妃ひかり": {
+    "nameJa": "妃ひかり",
+    "nameZh": "",
+    "aliases": [
+      "岩佐めい",
+      "彩月あかり"
+    ],
+    "avatar": "",
+    "birth": "1989-05-29",
+    "bloodType": "B",
+    "height": "158",
+    "weight": "",
+    "threeSize": "85 - 58 - 85",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007",
+    "agency": "マドンナ",
+    "social": {
+      "x": "yukari_nakanatu",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "妃ひかり",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
   "宇佐野瞳": {
     "nameJa": "宇佐野瞳",
     "nameZh": "",
@@ -120,6 +186,100 @@
     "name": "宇佐野瞳",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "小倉七海": {
+    "nameJa": "小倉七海",
+    "nameZh": "",
+    "aliases": [
+      "小倉七海",
+      "おぐらななみ"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Nanami_Kodama_ReadjustmentIMG_2029.jpg?width=200",
+    "birth": "2002-06-22",
+    "bloodType": "B",
+    "height": "161",
+    "weight": "",
+    "threeSize": "92 - 58 - 88",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2021-09-10",
+    "agency": "S1",
+    "social": {
+      "x": "_KodamaNanami_",
+      "instagram": "nn_0622",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小倉七海",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "小岩いと": {
+    "nameJa": "小岩いと",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1999-10-12",
+    "bloodType": "O",
+    "height": "158",
+    "weight": "",
+    "threeSize": "82 - 60 - 85",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019-10-24",
+    "agency": "SOD・キミホレ",
+    "social": {
+      "x": "mizuki_r0915",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小岩いと",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "小池笑美": {
+    "nameJa": "小池笑美",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1983-07-30",
+    "bloodType": "B",
+    "height": "155",
+    "weight": "",
+    "threeSize": "82 - 60 - 89",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2004",
+    "debut": "2003",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "小池笑美",
+    "missing": [
+      "weight",
+      "cup"
     ],
     "updatedAt": "2026-08-06"
   },
@@ -185,6 +345,38 @@
       "ja.wikipedia"
     ],
     "name": "希島あいり",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "愛音まりあ": {
+    "nameJa": "愛音まりあ",
+    "nameZh": "愛音麻里亞",
+    "aliases": [
+      "まりあ"
+    ],
+    "avatar": "",
+    "birth": "1996-02-22",
+    "bloodType": "A",
+    "height": "165",
+    "weight": "",
+    "threeSize": "86 - 59 - 88",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2017-01-06",
+    "agency": "プレステージ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "愛音まりあ",
     "missing": [
       "weight"
     ],
@@ -280,6 +472,34 @@
     ],
     "updatedAt": "2026-08-06"
   },
+  "河合あすな": {
+    "nameJa": "河合あすな",
+    "nameZh": "河合明日菜",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(April%2C_2023)IMG_9717.jpg?width=200",
+    "birth": "1998-03-21",
+    "bloodType": "O",
+    "height": "158",
+    "weight": "43kg",
+    "threeSize": "88 - 59 - 89",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018-01-07",
+    "agency": "",
+    "social": {
+      "x": "kawai_asuna",
+      "instagram": "kawai__asuna",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "河合あすな",
+    "missing": [],
+    "updatedAt": "2026-08-06"
+  },
   "渚みつき": {
     "nameJa": "渚みつき",
     "nameZh": "",
@@ -308,6 +528,36 @@
       "ja.wikipedia"
     ],
     "name": "渚みつき",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-06"
+  },
+  "白石ひより": {
+    "nameJa": "白石ひより",
+    "nameZh": "白石日和",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1984-01-12",
+    "bloodType": "A",
+    "height": "159",
+    "weight": "",
+    "threeSize": "88 - 59 - 88",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2003",
+    "debut": "2002",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "白石ひより",
     "missing": [
       "weight"
     ],

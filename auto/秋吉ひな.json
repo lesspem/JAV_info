@@ -1,0 +1,30 @@
+{
+  "nameJa": "秋吉ひな",
+  "nameZh": "秋吉雛",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1990-08-18",
+  "bloodType": "O",
+  "height": "172",
+  "weight": "",
+  "threeSize": "96 - 60 - 89",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2011-01-05",
+  "agency": "プレミアム",
+  "social": {
+    "x": "akiyoshi_hina",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "秋吉ひな",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-06"
+}
