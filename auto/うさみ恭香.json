@@ -2,7 +2,7 @@
   "nameJa": "うさみ恭香",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/000/385431.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E3%81%86%E3%81%95%E3%81%BF%E6%81%AD%E9%A6%99.jpg",
   "birth": "1981-10-05",
   "bloodType": "O",
   "height": "155",
@@ -21,12 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "うさみ恭香",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

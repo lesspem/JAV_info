@@ -2,7 +2,7 @@
   "nameJa": "愛咲きらら",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E6%84%9B%E5%92%B2%E3%81%8D%E3%82%89%E3%82%89.jpg",
   "birth": "2001-03-21",
   "bloodType": "",
   "height": "155",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "愛咲きらら",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

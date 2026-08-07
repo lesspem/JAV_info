@@ -1,0 +1,32 @@
+{
+  "nameJa": "森下ことの",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E6%A3%AE%E4%B8%8B%E3%81%93%E3%81%A8%E3%81%AE.jpg",
+  "birth": "",
+  "bloodType": "O",
+  "height": "150",
+  "weight": "",
+  "threeSize": "84 - 56 - 82",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "",
+  "social": {
+    "x": "kotono_morisita",
+    "instagram": "",
+    "tiktok": "surume__chann"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "森下ことの",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

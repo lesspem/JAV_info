@@ -1,0 +1,31 @@
+{
+  "nameJa": "皇ゆず",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E7%9A%87%E3%82%86%E3%81%9A.jpg",
+  "birth": "1996-01-16",
+  "bloodType": "O",
+  "height": "155",
+  "weight": "",
+  "threeSize": "86 - 55 - 82",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "",
+  "social": {
+    "x": "asukayuzuna1",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "皇ゆず",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

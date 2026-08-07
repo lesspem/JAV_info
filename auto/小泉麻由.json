@@ -2,7 +2,7 @@
   "nameJa": "小泉麻由",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%B0%8F%E6%B3%89%E9%BA%BB%E7%94%B1.jpg",
   "birth": "1982-08-25",
   "bloodType": "A",
   "height": "162",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "小泉麻由",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

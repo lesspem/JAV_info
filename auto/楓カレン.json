@@ -2,7 +2,7 @@
   "nameJa": "楓カレン",
   "nameZh": "田中柠檬",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E6%A5%93%E3%82%AB%E3%83%AC%E3%83%B3.jpg",
   "birth": "1999-08-25",
   "bloodType": "O",
   "height": "162",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "楓カレン",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -5,7 +5,7 @@
     "菊地えり",
     "秋本"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E8%8F%8A%E6%B1%A0%E3%81%88%E3%82%8A.jpg",
   "birth": "1965-04-05",
   "bloodType": "A",
   "height": "168",
@@ -23,12 +23,13 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "菊池えり",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

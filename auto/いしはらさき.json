@@ -5,7 +5,7 @@
     "いしはら",
     "さき"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E3%81%84%E3%81%97%E3%81%AF%E3%82%89%E3%81%95%E3%81%8D.jpg",
   "birth": "1991-10-01",
   "bloodType": "O",
   "height": "149",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "いしはらさき",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

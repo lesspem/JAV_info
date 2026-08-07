@@ -2,7 +2,7 @@
   "nameJa": "大島薫",
   "nameZh": "大島薰",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/011/292241.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-AVDBS/%E5%A4%A7%E5%B3%B6%E8%96%AB.jpg",
   "birth": "1989-06-07",
   "bloodType": "AB",
   "height": "165",
@@ -22,11 +22,11 @@
   "sources": [
     "ja.wikipedia",
     "zh.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "大島薫",
   "missing": [
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -4,7 +4,7 @@
   "aliases": [
     "松本鈴香"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/20230804_TRE_%E5%8F%B0%E5%8C%97%E5%9C%8B%E9%9A%9B%E6%88%90%E4%BA%BA%E5%B1%9540.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E4%B8%83%E3%83%84%E6%A3%AE%E3%82%8A%E3%82%8A.jpg",
   "birth": "1995-11-11",
   "bloodType": "",
   "height": "153",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "七ツ森りり",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -5,7 +5,7 @@
     "本多翼",
     "白瀬真希"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%B0%B4%E9%87%8E%E6%9C%9D%E9%99%BD.jpg",
   "birth": "1990-11-12",
   "bloodType": "A",
   "height": "165",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "水野朝陽",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

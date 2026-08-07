@@ -2,7 +2,7 @@
   "nameJa": "しいな怜",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E3%81%97%E3%81%84%E3%81%AA%E6%80%9C.jpg",
   "birth": "1984-01-31",
   "bloodType": "A",
   "height": "153",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "しいな怜",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

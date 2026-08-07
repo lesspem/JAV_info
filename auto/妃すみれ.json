@@ -2,7 +2,7 @@
   "nameJa": "妃すみれ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Eightman/%E5%A6%83%E3%81%99%E3%81%BF%E3%82%8C.jpg",
   "birth": "1975-05-05",
   "bloodType": "O",
   "height": "155",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "妃すみれ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

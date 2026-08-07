@@ -2,7 +2,7 @@
   "nameJa": "宮下玲奈",
   "nameZh": "宮下玲奈",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Rena_Miyashita_TREND_GIRLS_Photo_session202505031032.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%AE%AE%E4%B8%8B%E7%8E%B2%E5%A5%88.jpg",
   "birth": "2002-07-15",
   "bloodType": "B",
   "height": "162",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "宮下玲奈",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

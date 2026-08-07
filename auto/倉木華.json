@@ -1,0 +1,31 @@
+{
+  "nameJa": "倉木華",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E5%80%89%E6%9C%A8%E8%8F%AF.jpg",
+  "birth": "2001-08-07",
+  "bloodType": "B",
+  "height": "168",
+  "weight": "",
+  "threeSize": "88 - 60 - 87",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024-05-28",
+  "agency": "エスワン",
+  "social": {
+    "x": "hana_kuraki87",
+    "instagram": "hana_kuraki87",
+    "tiktok": "hana_kuraki87"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "倉木華",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

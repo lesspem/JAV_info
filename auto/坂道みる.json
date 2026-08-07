@@ -5,7 +5,7 @@
     "坂道",
     "みる"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/TRE20250809Videoframe_1151117.png?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%9D%82%E9%81%93%E3%81%BF%E3%82%8B.jpg",
   "birth": "1999-11-29",
   "bloodType": "O",
   "height": "157",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "坂道みる",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

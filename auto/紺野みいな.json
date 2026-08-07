@@ -1,0 +1,31 @@
+{
+  "nameJa": "紺野みいな",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%B4%BA%E9%87%8E%E3%81%BF%E3%81%84%E3%81%AA.jpg",
+  "birth": "2000-07-07",
+  "bloodType": "O",
+  "height": "157",
+  "weight": "",
+  "threeSize": "90 - 57 - 87",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2024-12-17",
+  "debut": "2021",
+  "agency": "kawaii",
+  "social": {
+    "x": "konno_miina",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "紺野みいな",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

@@ -2,7 +2,7 @@
   "nameJa": "美谷朱里",
   "nameZh": "美谷朱音",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Akari_Mitani_IMG_5811-2.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E7%BE%8E%E8%B0%B7%E6%9C%B1%E9%87%8C.jpg",
   "birth": "1996-05-25",
   "bloodType": "A",
   "height": "166",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "美谷朱里",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

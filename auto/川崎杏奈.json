@@ -2,7 +2,7 @@
   "nameJa": "川崎杏奈",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E5%B7%9D%E5%B4%8E%E6%9D%8F%E5%A5%88.jpg",
   "birth": "1977-10-12",
   "bloodType": "A",
   "height": "",
@@ -20,7 +20,8 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "川崎杏奈",
   "missing": [
@@ -28,5 +29,5 @@
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

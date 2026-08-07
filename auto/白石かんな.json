@@ -2,7 +2,7 @@
   "nameJa": "白石かんな",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E7%99%BD%E7%9F%B3%E3%81%8B%E3%82%93%E3%81%AA.jpg",
   "birth": "1999-09-30",
   "bloodType": "",
   "height": "157",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "白石かんな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

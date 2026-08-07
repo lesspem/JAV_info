@@ -4,7 +4,7 @@
   "aliases": [
     "松嶋真麻"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/180727_%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F3_%E3%83%95%E3%82%A1%E3%83%B3%E4%BC%9A%E8%AD%B02_(20).jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%A1%83%E4%B9%83%E6%9C%A8%E3%81%8B%E3%81%AA.jpg",
   "birth": "1996-12-24",
   "bloodType": "AB",
   "height": "153",
@@ -22,9 +22,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "桃乃木かな",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

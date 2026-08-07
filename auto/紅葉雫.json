@@ -5,7 +5,7 @@
     "紅葉雫",
     "月島りお"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E7%B4%85%E8%91%89%E9%9B%AB.jpg",
   "birth": "1985-04-10",
   "bloodType": "",
   "height": "160",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "紅葉雫",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

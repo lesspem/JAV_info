@@ -2,7 +2,7 @@
   "nameJa": "篠田ゆう",
   "nameZh": "篠田优",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E7%AF%A0%E7%94%B0%E3%82%86%E3%81%86.jpg",
   "birth": "1991-07-21",
   "bloodType": "O",
   "height": "155",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "篠田ゆう",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -1,0 +1,31 @@
+{
+  "nameJa": "ちゃんよた",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E3%81%A1%E3%82%83%E3%82%93%E3%82%88%E3%81%9F.jpg",
+  "birth": "1995-06-30",
+  "bloodType": "A",
+  "height": "166",
+  "weight": "",
+  "threeSize": "90 - 69 - 100",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2024",
+  "debut": "2020-09-14",
+  "agency": "SOD・女優のクセがスゴい!!",
+  "social": {
+    "x": "sym_yok",
+    "instagram": "chanyota_6",
+    "tiktok": "chanyota"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "ちゃんよた",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

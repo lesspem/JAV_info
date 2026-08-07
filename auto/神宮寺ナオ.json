@@ -2,7 +2,7 @@
   "nameJa": "神宮寺ナオ",
   "nameZh": "神宮寺奈緒",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/TRE20250810Videoframe_477481.png?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E7%A5%9E%E5%AE%AE%E5%AF%BA%E3%83%8A%E3%82%AA.jpg",
   "birth": "1997-02-15",
   "bloodType": "B",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "神宮寺ナオ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

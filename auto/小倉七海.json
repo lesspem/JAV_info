@@ -5,7 +5,7 @@
     "小倉七海",
     "おぐらななみ"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Nanami_Kodama_ReadjustmentIMG_2029.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%B0%8F%E5%80%89%E4%B8%83%E6%B5%B7.jpg",
   "birth": "2002-06-22",
   "bloodType": "B",
   "height": "161",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "小倉七海",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

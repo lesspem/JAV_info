@@ -2,7 +2,7 @@
   "nameJa": "新井優香",
   "nameZh": "新井優香",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E6%96%B0%E4%BA%95%E5%84%AA%E9%A6%99.jpg",
   "birth": "1994-10-15",
   "bloodType": "",
   "height": "167",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "新井優香",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

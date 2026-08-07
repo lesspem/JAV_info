@@ -5,7 +5,7 @@
     "小川",
     "桃果"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%B0%8F%E5%B7%9D%E6%A1%83%E6%9E%9C.jpg",
   "birth": "1990-03-27",
   "bloodType": "B",
   "height": "160",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "小川桃果",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

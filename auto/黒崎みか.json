@@ -2,7 +2,7 @@
   "nameJa": "黒崎みか",
   "nameZh": "黑崎美嘉",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E9%BB%92%E5%B4%8E%E3%81%BF%E3%81%8B.jpg",
   "birth": "1997-06-27",
   "bloodType": "A",
   "height": "166",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "黒崎みか",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

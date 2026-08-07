@@ -2,7 +2,7 @@
   "nameJa": "藍山みなみ",
   "nameZh": "蓝山南",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E8%97%8D%E5%B1%B1%E3%81%BF%E3%81%AA%E3%81%BF.jpg",
   "birth": "1982-05-28",
   "bloodType": "AB",
   "height": "155",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "藍山みなみ",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

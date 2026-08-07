@@ -2,7 +2,7 @@
   "nameJa": "河合あすな",
   "nameZh": "河合明日菜",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(April%2C_2023)IMG_9717.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E6%B2%B3%E5%90%88%E3%81%82%E3%81%99%E3%81%AA.jpg",
   "birth": "1998-03-21",
   "bloodType": "O",
   "height": "158",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "河合あすな",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

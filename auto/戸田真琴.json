@@ -2,7 +2,7 @@
   "nameJa": "戸田真琴",
   "nameZh": "戶田真琴",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/MAKOTO_TODA_CIMG3004.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%88%B8%E7%94%B0%E7%9C%9F%E7%90%B4.jpg",
   "birth": "1996-10-09",
   "bloodType": "A",
   "height": "152",
@@ -21,12 +21,13 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "zh.wikipedia"
+    "zh.wikipedia",
+    "gfriends"
   ],
   "name": "戸田真琴",
   "missing": [
     "weight",
     "threeSize"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

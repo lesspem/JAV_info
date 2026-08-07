@@ -2,7 +2,7 @@
   "nameJa": "八木奈々",
   "nameZh": "八木奈奈",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/January_24%2C_2026_%22Modern_Mahjong_Academy%22_in_Kawachi_Town%2C_Ibaraki_Prefecture_IMG_1952.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E5%85%AB%E6%9C%A8%E5%A5%88%E3%80%85.jpg",
   "birth": "2000-09-03",
   "bloodType": "A",
   "height": "156",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "八木奈々",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

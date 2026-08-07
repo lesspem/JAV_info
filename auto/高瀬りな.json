@@ -2,7 +2,7 @@
   "nameJa": "高瀬りな",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E9%AB%98%E7%80%AC%E3%82%8A%E3%81%AA.jpg",
   "birth": "",
   "bloodType": "",
   "height": "",
@@ -19,7 +19,9 @@
     "tiktok": ""
   },
   "works": "",
-  "sources": [],
+  "sources": [
+    "gfriends"
+  ],
   "name": "高瀬りな",
   "missing": [
     "birth",
@@ -28,5 +30,5 @@
     "threeSize",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

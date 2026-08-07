@@ -2,7 +2,7 @@
   "nameJa": "浜崎真緒",
   "nameZh": "濱崎真緒",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/DSCF3777_(53361773894).jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B5%9C%E5%B4%8E%E7%9C%9F%E7%B7%92.jpg",
   "birth": "1993-10-20",
   "bloodType": "B",
   "height": "165",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "浜崎真緒",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

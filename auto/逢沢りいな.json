@@ -5,7 +5,7 @@
     "はとり",
     "心咲"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E9%80%A2%E6%B2%A2%E3%82%8A%E3%81%84%E3%81%AA.jpg",
   "birth": "1998-10-10",
   "bloodType": "",
   "height": "164",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "逢沢りいな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

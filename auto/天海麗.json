@@ -2,7 +2,7 @@
   "nameJa": "天海麗",
   "nameZh": "天海麗",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E5%A4%A9%E6%B5%B7%E9%BA%97.jpg",
   "birth": "1984-03-28",
   "bloodType": "A",
   "height": "150",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "天海麗",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

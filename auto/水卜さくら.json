@@ -2,7 +2,7 @@
   "nameJa": "水卜さくら",
   "nameZh": "水卜櫻",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%B0%B4%E5%8D%9C%E3%81%95%E3%81%8F%E3%82%89.jpg",
   "birth": "1997-11-30",
   "bloodType": "O",
   "height": "152",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "水卜さくら",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

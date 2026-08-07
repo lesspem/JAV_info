@@ -5,7 +5,7 @@
     "綾瀬れん",
     "大塚れん}}"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E7%B6%BE%E7%80%AC%E3%82%8C%E3%82%93.jpg",
   "birth": "1990-10-08",
   "bloodType": "O",
   "height": "157",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "綾瀬れん",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

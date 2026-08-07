@@ -5,7 +5,7 @@
     "藤浦",
     "めぐ"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_15%2C_2024)IMG_6448.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E8%97%A4%E6%B5%A6%E3%82%81%E3%81%90.jpg",
   "birth": "1989-05-04",
   "bloodType": "",
   "height": "155",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "藤浦めぐ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "椎名まりな",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E6%A4%8E%E5%90%8D%E3%81%BE%E3%82%8A%E3%81%AA.jpg",
   "birth": "1992-11-20",
   "bloodType": "O",
   "height": "163",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "椎名まりな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -1,0 +1,32 @@
+{
+  "nameJa": "柊ゆうき",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E6%9F%8A%E3%82%86%E3%81%86%E3%81%8D.jpg",
+  "birth": "1997-05-21",
+  "bloodType": "",
+  "height": "159",
+  "weight": "",
+  "threeSize": "84 - 58 - 90",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2025",
+  "debut": "2022-08-02",
+  "agency": "",
+  "social": {
+    "x": "hiiragi_tattoo",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "柊ゆうき",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-07"
+}

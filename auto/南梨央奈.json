@@ -5,7 +5,7 @@
     "小林",
     "莉央奈"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%8D%97%E6%A2%A8%E6%9D%8F%E5%A4%AE_(52220462205).jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%8D%97%E6%A2%A8%E5%A4%AE%E5%A5%88.jpg",
   "birth": "1992-12-23",
   "bloodType": "O",
   "height": "155",
@@ -23,9 +23,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "南梨央奈",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

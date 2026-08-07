@@ -2,7 +2,7 @@
   "nameJa": "志木あかね",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%BF%97%E6%9C%A8%E3%81%82%E3%81%8B%E3%81%AD.jpg",
   "birth": "1995-09-24",
   "bloodType": "",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "志木あかね",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

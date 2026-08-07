@@ -4,7 +4,7 @@
   "aliases": [
     "雨宮ゆい"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E7%89%87%E6%A1%90%E3%82%86%E3%81%86.jpg",
   "birth": "1981-05-03",
   "bloodType": "AB",
   "height": "156",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "片桐ゆう",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

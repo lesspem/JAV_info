@@ -2,7 +2,7 @@
   "nameJa": "逢坂瞳",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E9%80%A2%E5%9D%82%E7%9E%B3.jpg",
   "birth": "1994-01-21",
   "bloodType": "",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "逢坂瞳",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

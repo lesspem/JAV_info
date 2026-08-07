@@ -42,6 +42,50 @@ const LIMIT = limitIdx > -1 ? parseInt(process.argv[limitIdx + 1], 10) : 0;
 const UA = 'JAV_info-crawler/0.1 (+https://github.com/lesspem/JAV_info)';
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// ---- gfriends 头像库 ----
+// https://github.com/gfriends/gfriends 提供 10 万+ 女优头像
+// Filetree.json 结构：{ Content: { "公司名": { "女优名.jpg": "女优名.jpg?t=时间戳" } } }
+// 公司名前缀数字越小画质越高（0- 最高清）
+const GF_FILETREE = 'https://raw.githubusercontent.com/gfriends/gfriends/master/Filetree.json';
+const GF_RAW_BASE = 'https://raw.githubusercontent.com/gfriends/gfriends/master/Content/';
+let gfIndex = null; // { 女优名: 最优公司名 }
+
+/** 启动时加载一次 gfriends 索引 */
+async function loadGfriends() {
+  if (gfIndex !== null) return;
+  gfIndex = {};
+  try {
+    const j = await fetchJSON(GF_FILETREE);
+    for (const company of Object.keys(j.Content || {})) {
+      const prefix = parseInt(company.split('-')[0], 10);
+      const rank = isNaN(prefix) ? 99 : prefix; // 数字越小画质越高
+      for (const file of Object.keys(j.Content[company])) {
+        const name = file.replace(/\.jpg$/i, '');
+        const prev = gfIndex[name];
+        if (!prev || rank < prev.rank) {
+          gfIndex[name] = { company, rank };
+        }
+      }
+    }
+    console.log(`gfriends 索引载入：${Object.keys(gfIndex).length} 位女优`);
+  } catch (e) {
+    console.warn(`gfriends 索引加载失败（跳过该头像源）：${e.message}`);
+    gfIndex = {};
+  }
+}
+
+/** 从 gfriends 查头像 URL；按 名字/中文名/日文名 依次匹配 */
+function gfriendsAvatar(...names) {
+  if (!gfIndex) return '';
+  for (const n of names) {
+    if (n && gfIndex[n]) {
+      const company = gfIndex[n].company;
+      return GF_RAW_BASE + encodeURIComponent(company) + '/' + encodeURIComponent(n) + '.jpg';
+    }
+  }
+  return '';
+}
+
 /** 安全化文件名（保留中日文字符，替换文件系统敏感字符） */
 function safeFileName(name) {
   return name.replace(/[\\/:*?"<>|]/g, '_').trim();
@@ -169,7 +213,12 @@ async function crawlOne(name) {
   // 中文维基条目名即中文名
   if (zhTitle) merged.nameZh = zhTitle;
 
-  if (isComplete(merged) && merged.nameZh) return merged;
+  if (isComplete(merged) && merged.nameZh) {
+    // 数据完整但仍需补头像（gfriends 优先）
+    const gfImg = gfriendsAvatar(name, merged.nameZh, merged.nameJa);
+    if (gfImg) { merged.avatar = gfImg; if (!merged.sources.includes('gfriends')) merged.sources.push('gfriends'); }
+    return merged;
+  }
 
   // 2) 中文维基
   await sleep(300);
@@ -182,7 +231,12 @@ async function crawlOne(name) {
   // 中文维基的条目名就是中文名
   if (!merged.nameZh && zhTitle) merged.nameZh = zhTitle;
 
-  if (isComplete(merged)) return merged;
+  if (isComplete(merged)) {
+    // 数据完整但仍需补头像
+    const gfImg = gfriendsAvatar(name, merged.nameZh, merged.nameJa);
+    if (gfImg) { merged.avatar = gfImg; if (!merged.sources.includes('gfriends')) merged.sources.push('gfriends'); }
+    return merged;
+  }
 
   // 3) xslist
   await sleep(300);
@@ -192,7 +246,17 @@ async function crawlOne(name) {
     merged.sources.push('xslist');
   }
 
-  // 4) minnano-av 补头像（如果前面几个源都没抓到头像）
+  // 4) gfriends 头像库（10万+，覆盖率高、画质好）
+  // 优先使用 gfriends：即使维基已有头像，gfriends 的图更大更清晰，直接覆盖
+  {
+    const gfImg = gfriendsAvatar(name, merged.nameZh, merged.nameJa);
+    if (gfImg) {
+      merged.avatar = gfImg;
+      if (!merged.sources.includes('gfriends')) merged.sources.push('gfriends');
+    }
+  }
+
+  // 5) minnano-av 兜底（gfriends 和维基都没有时）
   if (!merged.avatar) {
     await sleep(300);
     const img = await tryMinnanoAvatar(name);
@@ -261,6 +325,8 @@ function missingFields(rec) {
 
 async function main() {
   fs.mkdirSync(AUTO_DIR, { recursive: true });
+  // 先加载 gfriends 头像索引（一次性，约 6.5MB）
+  await loadGfriends();
   let names = readSeeds();
   if (LIMIT) names = names.slice(0, LIMIT);
   console.log(`共 ${names.length} 个待处理，force=${FORCE}`);

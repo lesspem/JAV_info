@@ -2,7 +2,7 @@
   "nameJa": "夢乃あいか",
   "nameZh": "夢乃愛華",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Aika_Yumeno_%E5%A4%A2%E4%B9%83_%E3%81%82%E3%81%84%E3%81%8B.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%A4%A2%E4%B9%83%E3%81%82%E3%81%84%E3%81%8B.jpg",
   "birth": "1994-08-26",
   "bloodType": "",
   "height": "149",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "夢乃あいか",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

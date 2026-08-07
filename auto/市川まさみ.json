@@ -2,7 +2,7 @@
   "nameJa": "市川まさみ",
   "nameZh": "市川雅美",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E5%B8%82%E5%B7%9D%E3%81%BE%E3%81%95%E3%81%BF.jpg",
   "birth": "1991-07-10",
   "bloodType": "A",
   "height": "162",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "市川まさみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

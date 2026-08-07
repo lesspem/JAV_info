@@ -5,7 +5,7 @@
     "成海",
     "うるみ"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E9%BA%BB%E9%87%8C%E6%A2%A8%E5%A4%8F.jpg",
   "birth": "1993-06-09",
   "bloodType": "",
   "height": "148",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "麻里梨夏",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

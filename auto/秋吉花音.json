@@ -2,7 +2,7 @@
   "nameJa": "秋吉花音",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%A7%8B%E5%90%89%E8%8A%B1%E9%9F%B3.jpg",
   "birth": "1994-11-05",
   "bloodType": "A",
   "height": "148",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "秋吉花音",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -3,7 +3,7 @@
     "nameJa": "つぼみ",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E3%81%A4%E3%81%BC%E3%81%BF.jpg",
     "birth": "",
     "bloodType": "",
     "height": "",
@@ -20,7 +20,9 @@
       "tiktok": ""
     },
     "works": "",
-    "sources": [],
+    "sources": [
+      "gfriends"
+    ],
     "name": "つぼみ",
     "missing": [
       "birth",
@@ -29,7 +31,7 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "京花萌": {
     "nameJa": "京花萌",
@@ -37,7 +39,7 @@
     "aliases": [
       "足立ゆう"
     ],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E4%BA%AC%E8%8A%B1%E8%90%8C.jpg",
     "birth": "1997.03.20",
     "bloodType": "A",
     "height": "158",
@@ -55,17 +57,49 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "京花萌",
     "missing": [],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
+  },
+  "前田美波": {
+    "nameJa": "前田美波",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%89%8D%E7%94%B0%E7%BE%8E%E6%B3%A2.jpg",
+    "birth": "2001-12-15",
+    "bloodType": "A",
+    "height": "166",
+    "weight": "",
+    "threeSize": "84 - 60 - 89",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2022",
+    "agency": "エスワン",
+    "social": {
+      "x": "maeda_minami_",
+      "instagram": "maeda_minami_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "前田美波",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-07"
   },
   "北原夏美": {
     "nameJa": "北原夏美",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%8C%97%E5%8E%9F%E5%A4%8F%E7%BE%8E.jpg",
     "birth": "1966-11-30",
     "bloodType": "",
     "height": "158",
@@ -83,13 +117,14 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "北原夏美",
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "天月あず": {
     "nameJa": "天月あず",
@@ -97,7 +132,7 @@
     "aliases": [
       "星なこ"
     ],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E5%A4%A9%E6%9C%88%E3%81%82%E3%81%9A.jpg",
     "birth": "2000-07-19",
     "bloodType": "A",
     "height": "162",
@@ -115,13 +150,14 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "天月あず",
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "小川桃果": {
     "nameJa": "小川桃果",
@@ -130,7 +166,7 @@
       "小川",
       "桃果"
     ],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%B0%8F%E5%B7%9D%E6%A1%83%E6%9E%9C.jpg",
     "birth": "1990-03-27",
     "bloodType": "B",
     "height": "160",
@@ -148,19 +184,20 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "小川桃果",
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "小沢優": {
     "nameJa": "小沢優",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E5%B0%8F%E6%B2%A2%E5%84%AA.jpg",
     "birth": "1975-04-18",
     "bloodType": "",
     "height": "170",
@@ -178,20 +215,21 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "小沢優",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "小花のん": {
     "nameJa": "小花のん",
     "nameZh": "小花暖",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%B0%8F%E8%8A%B1%E3%81%AE%E3%82%93.jpg",
     "birth": "2001-06-28",
     "bloodType": "B",
     "height": "157",
@@ -209,19 +247,20 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "小花のん",
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "川村朋美": {
     "nameJa": "川村朋美",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E5%B7%9D%E6%9D%91%E6%9C%8B%E7%BE%8E.jpg",
     "birth": "1980-12-11",
     "bloodType": "B",
     "height": "157",
@@ -239,20 +278,21 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "川村朋美",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "川村藍子": {
     "nameJa": "川村藍子",
     "nameZh": "",
     "aliases": [],
-    "avatar": "https://www.minnano-av.com/p_actress_125_125/017/937102.jpg?new",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E5%B7%9D%E6%9D%91%E8%97%8D%E5%AD%90.jpg",
     "birth": "1980-06-19",
     "bloodType": "O",
     "height": "160",
@@ -271,14 +311,75 @@
     "works": "",
     "sources": [
       "ja.wikipedia",
-      "minnano-av"
+      "gfriends"
     ],
     "name": "川村藍子",
     "missing": [
       "weight",
       "cup"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
+  },
+  "庵ひめか": {
+    "nameJa": "庵ひめか",
+    "nameZh": "庵姬花",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E5%BA%B5%E3%81%B2%E3%82%81%E3%81%8B.jpg",
+    "birth": "2002-03-07",
+    "bloodType": "",
+    "height": "153",
+    "weight": "",
+    "threeSize": "100 - 57 - 89",
+    "cup": "L",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2022",
+    "agency": "ダスッ!",
+    "social": {
+      "x": "Himeka_lifepro",
+      "instagram": "himeka.lifepro",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "庵ひめか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-07"
+  },
+  "松永あかり": {
+    "nameJa": "松永あかり",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Shibuya_Cross_FM_%E2%80%9CSorry_from_SOD%E2%80%99s_Saturday_noon%E2%80%9D_Broadcast_on_December_6%2C_2025_Performers_IMG_0554.jpg?width=200",
+    "birth": "2001-11-03",
+    "bloodType": "",
+    "height": "159",
+    "weight": "",
+    "threeSize": "86 - 58 - 88",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2025-03-31",
+    "agency": "SOD",
+    "social": {
+      "x": "ferret_tanuki",
+      "instagram": "_akari_matsunaga_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "松永あかり",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-07"
   },
   "桃乃木かな": {
     "nameJa": "桃乃木かな",
@@ -286,7 +387,7 @@
     "aliases": [
       "松嶋真麻"
     ],
-    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/180727_%E9%BE%8D%E3%81%8C%E5%A6%82%E3%81%8F3_%E3%83%95%E3%82%A1%E3%83%B3%E4%BC%9A%E8%AD%B02_(20).jpg?width=200",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%A1%83%E4%B9%83%E6%9C%A8%E3%81%8B%E3%81%AA.jpg",
     "birth": "1996-12-24",
     "bloodType": "AB",
     "height": "153",
@@ -304,17 +405,18 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "桃乃木かな",
     "missing": [],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "水卜さくら": {
     "nameJa": "水卜さくら",
     "nameZh": "水卜櫻",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%B0%B4%E5%8D%9C%E3%81%95%E3%81%8F%E3%82%89.jpg",
     "birth": "1997-11-30",
     "bloodType": "O",
     "height": "152",
@@ -332,19 +434,20 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "水卜さくら",
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "浅間るい": {
     "nameJa": "浅間るい",
     "nameZh": "",
     "aliases": [],
-    "avatar": "https://www.minnano-av.com/p_actress_125_125/001/548244.jpg?new",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E6%B5%85%E9%96%93%E3%82%8B%E3%81%84.jpg",
     "birth": "1968-04-29",
     "bloodType": "",
     "height": "",
@@ -363,7 +466,7 @@
     "works": "",
     "sources": [
       "ja.wikipedia",
-      "minnano-av"
+      "gfriends"
     ],
     "name": "浅間るい",
     "missing": [
@@ -372,13 +475,47 @@
       "threeSize",
       "cup"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
+  },
+  "海野いくら": {
+    "nameJa": "海野いくら",
+    "nameZh": "",
+    "aliases": [
+      "佐々山",
+      "瑠実"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E6%B5%B7%E9%87%8E%E3%81%84%E3%81%8F%E3%82%89.jpg",
+    "birth": "2001-01-30",
+    "bloodType": "",
+    "height": "163",
+    "weight": "",
+    "threeSize": "81 - 65 - 89",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2023",
+    "agency": "",
+    "social": {
+      "x": "Unno_Ikura",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "海野いくら",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-07"
   },
   "片岡なぎさ": {
     "nameJa": "片岡なぎさ",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E7%89%87%E5%B2%A1%E3%81%AA%E3%81%8E%E3%81%95.jpg",
     "birth": "1974|愛称=|別名=|画像ファイル=|その他=}}-11|生年=1974|愛称=|別名=|画像ファイル=|その他=}}-30|生月=11|生年=1974|愛称=|別名=|画像ファイル=|その他=}}",
     "bloodType": "",
     "height": "156",
@@ -396,11 +533,12 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "片岡なぎさ",
     "missing": [],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "白鳥さくら": {
     "nameJa": "白鳥さくら",
@@ -409,7 +547,7 @@
       "藤原",
       "さくら"
     ],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-GRAPHIS/%E7%99%BD%E9%B3%A5%E3%81%95%E3%81%8F%E3%82%89.jpg",
     "birth": "1983-03-20",
     "bloodType": "AB",
     "height": "158",
@@ -427,13 +565,14 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "白鳥さくら",
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "神代しずく": {
     "nameJa": "神代しずく",
@@ -442,7 +581,7 @@
       "姫宮",
       "しおり"
     ],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E7%A5%9E%E4%BB%A3%E3%81%97%E3%81%9A%E3%81%8F.jpg",
     "birth": "1986-07-07",
     "bloodType": "A",
     "height": "162",
@@ -460,19 +599,20 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "神代しずく",
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "神川ひな": {
     "nameJa": "神川ひな",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%A5%9E%E5%B7%9D%E3%81%B2%E3%81%AA.jpg",
     "birth": "1992-10-13",
     "bloodType": "A",
     "height": "153",
@@ -490,13 +630,14 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "神川ひな",
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   },
   "紅葉雫": {
     "nameJa": "紅葉雫",
@@ -505,7 +646,7 @@
       "紅葉雫",
       "月島りお"
     ],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E7%B4%85%E8%91%89%E9%9B%AB.jpg",
     "birth": "1985-04-10",
     "bloodType": "",
     "height": "160",
@@ -523,19 +664,117 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "紅葉雫",
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
+  },
+  "純真かれん": {
+    "nameJa": "純真かれん",
+    "nameZh": "",
+    "aliases": [
+      "かなっぺ",
+      "水原"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E7%B4%94%E7%9C%9F%E3%81%8B%E3%82%8C%E3%82%93.jpg",
+    "birth": "2000-02-15",
+    "bloodType": "",
+    "height": "152",
+    "weight": "",
+    "threeSize": "80 - 50 - 80",
+    "cup": "B",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "kawaii*",
+    "social": {
+      "x": "karen_junshin",
+      "instagram": "karen_junshin",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "純真かれん",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-07"
+  },
+  "美澄玲衣": {
+    "nameJa": "美澄玲衣",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%BE%8E%E6%BE%84%E7%8E%B2%E8%A1%A3.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "162",
+    "weight": "",
+    "threeSize": "93 - 58 - 88",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2022",
+    "agency": "",
+    "social": {
+      "x": "_reimisumi_",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "美澄玲衣",
+    "missing": [
+      "birth",
+      "weight"
+    ],
+    "updatedAt": "2026-08-07"
+  },
+  "藤子みお": {
+    "nameJa": "藤子みお",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E8%97%A4%E5%AD%90%E3%81%BF%E3%81%8A.jpg",
+    "birth": "2000-09-03",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "90 - 61 - 87",
+    "cup": "G-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2022",
+    "agency": "E-BODY",
+    "social": {
+      "x": "fujikomiodayo",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "藤子みお",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-07"
   },
   "黒木アリサ": {
     "nameJa": "黒木アリサ",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E9%BB%92%E6%9C%A8%E3%82%A2%E3%83%AA%E3%82%B5.jpg",
     "birth": "1985-10-15",
     "bloodType": "A",
     "height": "163",
@@ -553,12 +792,13 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "黒木アリサ",
     "missing": [
       "weight"
     ],
-    "updatedAt": "2026-08-06"
+    "updatedAt": "2026-08-07"
   }
 }

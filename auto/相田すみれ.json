@@ -2,7 +2,7 @@
   "nameJa": "相田すみれ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E7%9B%B8%E7%94%B0%E3%81%99%E3%81%BF%E3%82%8C.jpg",
   "birth": "1985-04-08",
   "bloodType": "B",
   "height": "152",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "相田すみれ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

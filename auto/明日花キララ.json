@@ -2,7 +2,7 @@
   "nameJa": "明日花キララ",
   "nameZh": "明日花綺羅",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%EC%95%84%EC%8A%A4%EC%B9%B4_%ED%82%A4%EB%9D%BC%EB%9D%BC(Kirara_Asuka)_%ED%8C%AC%EB%AF%B8%ED%8C%85_(9).jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%98%8E%E6%97%A5%E8%8A%B1%E3%82%AD%E3%83%A9%E3%83%A9.jpg",
   "birth": "1988-10-02",
   "bloodType": "A",
   "height": "162",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "明日花キララ",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

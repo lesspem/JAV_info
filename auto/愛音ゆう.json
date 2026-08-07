@@ -2,7 +2,7 @@
   "nameJa": "愛音ゆう",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/000/397799.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%84%9B%E9%9F%B3%E3%82%86%E3%81%86.jpg",
   "birth": "1986-12-03",
   "bloodType": "",
   "height": "",
@@ -21,7 +21,7 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "愛音ゆう",
   "missing": [
@@ -30,5 +30,5 @@
     "threeSize",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

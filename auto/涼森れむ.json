@@ -2,7 +2,7 @@
   "nameJa": "涼森れむ",
   "nameZh": "涼森玲夢",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(May_4%2C_2025)IMG_2369.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E6%B6%BC%E6%A3%AE%E3%82%8C%E3%82%80.jpg",
   "birth": "1997-12-03",
   "bloodType": "O",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "涼森れむ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

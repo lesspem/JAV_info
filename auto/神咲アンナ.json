@@ -5,7 +5,7 @@
     "あいら",
     "http:"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%A5%9E%E5%92%B2%E3%82%A2%E3%83%B3%E3%83%8A.jpg",
   "birth": "1987-01-05",
   "bloodType": "O",
   "height": "160",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "神咲アンナ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

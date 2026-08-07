@@ -2,7 +2,7 @@
   "nameJa": "藤森里穂",
   "nameZh": "藤森里穗",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_27%2C_2025)IMG_2740.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%97%A4%E6%A3%AE%E9%87%8C%E7%A9%82.jpg",
   "birth": "1996-12-03",
   "bloodType": "B",
   "height": "160",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "藤森里穂",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

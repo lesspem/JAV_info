@@ -2,7 +2,7 @@
   "nameJa": "あやの沙希",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E3%81%82%E3%82%84%E3%81%AE%E6%B2%99%E5%B8%8C.jpg",
   "birth": "1989-08-07",
   "bloodType": "O",
   "height": "161",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "あやの沙希",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

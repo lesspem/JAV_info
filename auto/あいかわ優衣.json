@@ -5,7 +5,7 @@
     "優衣リィ",
     "大野香澄"
   ],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/001/391932.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E3%81%82%E3%81%84%E3%81%8B%E3%82%8F%E5%84%AA%E8%A1%A3.jpg",
   "birth": "1989-03-08",
   "bloodType": "B",
   "height": "158",
@@ -24,12 +24,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "あいかわ優衣",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

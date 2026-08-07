@@ -2,7 +2,7 @@
   "nameJa": "星宮一花",
   "nameZh": "星宮一花",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E6%98%9F%E5%AE%AE%E4%B8%80%E8%8A%B1.jpg",
   "birth": "1998-06-28",
   "bloodType": "O",
   "height": "168",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "星宮一花",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

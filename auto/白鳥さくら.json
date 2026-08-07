@@ -5,7 +5,7 @@
     "藤原",
     "さくら"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-GRAPHIS/%E7%99%BD%E9%B3%A5%E3%81%95%E3%81%8F%E3%82%89.jpg",
   "birth": "1983-03-20",
   "bloodType": "AB",
   "height": "158",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "白鳥さくら",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "奏音かのん",
   "nameZh": "奏音花音",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%A5%8F%E9%9F%B3%E3%81%8B%E3%81%AE%E3%82%93.jpg",
   "birth": "2000-05-09",
   "bloodType": "A",
   "height": "166",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "奏音かのん",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

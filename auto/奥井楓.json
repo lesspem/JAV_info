@@ -2,7 +2,7 @@
   "nameJa": "奥井楓",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Honnaka/%E5%A5%A5%E4%BA%95%E6%A5%93.jpg",
   "birth": "1995-09-24",
   "bloodType": "",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "奥井楓",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

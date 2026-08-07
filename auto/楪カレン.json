@@ -2,7 +2,7 @@
   "nameJa": "楪カレン",
   "nameZh": "楪可怜",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(May_3%2C_2025)IMG_5507.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E6%A5%AA%E3%82%AB%E3%83%AC%E3%83%B3.jpg",
   "birth": "2001-03-28",
   "bloodType": "AB",
   "height": "148",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "楪カレン",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

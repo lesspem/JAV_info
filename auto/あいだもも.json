@@ -5,7 +5,7 @@
     "丸山",
     "明代"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E3%81%82%E3%81%84%E3%81%A0%E3%82%82%E3%82%82.jpg",
   "birth": "1970-06-18",
   "bloodType": "A",
   "height": "162",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "あいだもも",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

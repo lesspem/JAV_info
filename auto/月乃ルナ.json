@@ -2,7 +2,7 @@
   "nameJa": "月乃ルナ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%9C%88%E4%B9%83%E3%83%AB%E3%83%8A.jpg",
   "birth": "1995-10-01",
   "bloodType": "A",
   "height": "163",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "月乃ルナ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -5,7 +5,7 @@
     "夏目",
     "ヒカル"
   ],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/014/713312.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%9B%B8%E5%8E%9F%E7%BF%BC.jpg",
   "birth": "1997-01-25",
   "bloodType": "",
   "height": "158",
@@ -24,12 +24,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "相原翼",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

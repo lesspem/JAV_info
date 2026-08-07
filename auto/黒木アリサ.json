@@ -2,7 +2,7 @@
   "nameJa": "黒木アリサ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E9%BB%92%E6%9C%A8%E3%82%A2%E3%83%AA%E3%82%B5.jpg",
   "birth": "1985-10-15",
   "bloodType": "A",
   "height": "163",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "黒木アリサ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

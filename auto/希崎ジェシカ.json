@@ -2,7 +2,7 @@
   "nameJa": "希崎ジェシカ",
   "nameZh": "希崎潔西卡",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/CIMG3734kisaki.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%B8%8C%E5%B4%8E%E3%82%B8%E3%82%A7%E3%82%B7%E3%82%AB.jpg",
   "birth": "1989-06-10",
   "bloodType": "O",
   "height": "160",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "希崎ジェシカ",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

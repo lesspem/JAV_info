@@ -4,7 +4,7 @@
   "aliases": [
     "笠木彩花"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E6%AD%A5)/%E5%8A%A0%E6%96%97%E3%83%AC%E3%82%A2.jpg",
   "birth": "1984-05-16",
   "bloodType": "O",
   "height": "160",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "加斗レア",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -1,0 +1,31 @@
+{
+  "nameJa": "好実ほの",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E5%A5%BD%E5%AE%9F%E3%81%BB%E3%81%AE.jpg",
+  "birth": "2001-11-15",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "88 - 58 - 86",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "好実ほの",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

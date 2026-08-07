@@ -2,7 +2,7 @@
   "nameJa": "紺野美奈子",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E7%B4%BA%E9%87%8E%E7%BE%8E%E5%A5%88%E5%AD%90.jpg",
   "birth": "1988-02-14",
   "bloodType": "",
   "height": "159",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "紺野美奈子",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

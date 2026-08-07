@@ -2,7 +2,7 @@
   "nameJa": "柏木のぞみ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%9F%8F%E6%9C%A8%E3%81%AE%E3%81%9E%E3%81%BF.jpg",
   "birth": "1993-02-10",
   "bloodType": "A",
   "height": "159",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "柏木のぞみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

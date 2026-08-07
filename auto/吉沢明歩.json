@@ -2,7 +2,7 @@
   "nameJa": "吉沢明歩",
   "nameZh": "吉澤明步",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/170805_%EC%9A%94%EC%8B%9C%EC%9E%90%EC%99%80_%EC%95%84%ED%82%A4%ED%98%B8_%ED%8C%AC%EB%AF%B8%ED%8C%85_(%EC%B2%AD%EB%8B%B4_%EC%97%90%EB%B9%84%EB%89%B4)_(3).jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%90%89%E6%B2%A2%E6%98%8E%E6%AD%A9.jpg",
   "birth": "1984-03-03",
   "bloodType": "A",
   "height": "161",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "吉沢明歩",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

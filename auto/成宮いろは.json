@@ -2,7 +2,7 @@
   "nameJa": "成宮いろは",
   "nameZh": "成宮彩葉",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E6%88%90%E5%AE%AE%E3%81%84%E3%82%8D%E3%81%AF.jpg",
   "birth": "1987}}-06-08",
   "bloodType": "O",
   "height": "155",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "成宮いろは",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

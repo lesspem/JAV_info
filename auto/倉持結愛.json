@@ -4,7 +4,7 @@
   "aliases": [
     "倉持結愛"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-%E6%9C%AA%E6%BA%80/%E5%80%89%E6%8C%81%E7%B5%90%E6%84%9B.jpg",
   "birth": "1990-08-19",
   "bloodType": "",
   "height": "160",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "倉持結愛",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

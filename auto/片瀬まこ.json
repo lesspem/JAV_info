@@ -2,7 +2,7 @@
   "nameJa": "片瀬まこ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%89%87%E7%80%AC%E3%81%BE%E3%81%93.jpg",
   "birth": "1983-08-22",
   "bloodType": "A",
   "height": "156",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "片瀬まこ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "青山はな",
   "nameZh": "青山華",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E9%9D%92%E5%B1%B1%E3%81%AF%E3%81%AA.jpg",
   "birth": "1989-10-08",
   "bloodType": "A",
   "height": "149",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "青山はな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -1,0 +1,31 @@
+{
+  "nameJa": "小泉ひなた",
+  "nameZh": "小泉日向",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%B0%8F%E6%B3%89%E3%81%B2%E3%81%AA%E3%81%9F.jpg",
+  "birth": "1999-05-16",
+  "bloodType": "O",
+  "height": "158",
+  "weight": "",
+  "threeSize": "90 - 58 - 88",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2018",
+  "agency": "本中",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "小泉ひなた",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

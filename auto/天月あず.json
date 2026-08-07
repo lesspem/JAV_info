@@ -4,7 +4,7 @@
   "aliases": [
     "星なこ"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E5%A4%A9%E6%9C%88%E3%81%82%E3%81%9A.jpg",
   "birth": "2000-07-19",
   "bloodType": "A",
   "height": "162",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "天月あず",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

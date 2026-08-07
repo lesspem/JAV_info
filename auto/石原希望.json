@@ -4,7 +4,7 @@
   "aliases": [
     "のん"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(July_2%2C_2026)IMG_2553.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E7%9F%B3%E5%8E%9F%E5%B8%8C%E6%9C%9B.jpg",
   "birth": "2000-07-25",
   "bloodType": "",
   "height": "158",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "石原希望",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

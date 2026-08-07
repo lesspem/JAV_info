@@ -2,7 +2,7 @@
   "nameJa": "小栗杏菜",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/000/40516.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E5%B0%8F%E6%A0%97%E6%9D%8F%E8%8F%9C.jpg",
   "birth": "1987-04-15",
   "bloodType": "B",
   "height": "159",
@@ -21,12 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "小栗杏菜",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

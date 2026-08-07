@@ -2,7 +2,7 @@
   "nameJa": "河愛雪乃",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/010/92037.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B2%B3%E6%84%9B%E9%9B%AA%E4%B9%83.jpg",
   "birth": "1990-11-16",
   "bloodType": "B",
   "height": "158",
@@ -21,12 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "河愛雪乃",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

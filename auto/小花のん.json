@@ -2,7 +2,7 @@
   "nameJa": "小花のん",
   "nameZh": "小花暖",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%B0%8F%E8%8A%B1%E3%81%AE%E3%82%93.jpg",
   "birth": "2001-06-28",
   "bloodType": "B",
   "height": "157",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "小花のん",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

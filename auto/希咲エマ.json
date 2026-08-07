@@ -4,7 +4,7 @@
   "aliases": [
     "{{plainlist|"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E5%B8%8C%E5%92%B2%E3%82%A8%E3%83%9E.jpg",
   "birth": "1989-08-30",
   "bloodType": "A",
   "height": "152",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "希咲エマ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

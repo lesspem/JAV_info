@@ -2,7 +2,7 @@
   "nameJa": "花丸くるみ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Digigra/%E8%8A%B1%E4%B8%B8%E3%81%8F%E3%82%8B%E3%81%BF.jpg",
   "birth": "",
   "bloodType": "",
   "height": "",
@@ -19,7 +19,9 @@
     "tiktok": ""
   },
   "works": "",
-  "sources": [],
+  "sources": [
+    "gfriends"
+  ],
   "name": "花丸くるみ",
   "missing": [
     "birth",
@@ -28,5 +30,5 @@
     "threeSize",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -5,7 +5,7 @@
     "井上",
     "理香子"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Shibuya_Cross_FM_%E2%80%9CSorry_from_SOD%E2%80%99s_Saturday_noon%E2%80%9D_Broadcast_on_February_7%2C_2026_Performers_IMG_6192.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E5%B0%8F%E6%B9%8A%E3%82%88%E3%81%A4%E8%91%89.jpg",
   "birth": "1996-05-29",
   "bloodType": "B",
   "height": "154",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "小湊よつ葉",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

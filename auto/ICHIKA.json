@@ -2,7 +2,7 @@
   "nameJa": "ICHIKA",
   "nameZh": "ICHIKA",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/ICHIKA.jpg",
   "birth": "1988-02-14",
   "bloodType": "O",
   "height": "164",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "ICHIKA",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

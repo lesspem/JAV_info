@@ -1,0 +1,32 @@
+{
+  "nameJa": "源川ゆずな",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E6%BA%90%E5%B7%9D%E3%82%86%E3%81%9A%E3%81%AA.jpg",
+  "birth": "",
+  "bloodType": "A",
+  "height": "148",
+  "weight": "",
+  "threeSize": "84 - 60 - 88",
+  "cup": "B",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "SOD",
+  "social": {
+    "x": "minakawayuzuna",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "源川ゆずな",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

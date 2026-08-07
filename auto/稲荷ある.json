@@ -1,0 +1,32 @@
+{
+  "nameJa": "稲荷ある",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E7%A8%B2%E8%8D%B7%E3%81%82%E3%82%8B.jpg",
+  "birth": "2000-12-26",
+  "bloodType": "A",
+  "height": "158",
+  "weight": "",
+  "threeSize": "",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "SOD",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "稲荷ある",
+  "missing": [
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-07"
+}

@@ -5,7 +5,7 @@
     "はるか",
     "橘"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E9%BA%BB%E7%94%9F%E9%81%A5.jpg",
   "birth": "1995-06-28",
   "bloodType": "",
   "height": "160",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "麻生遥",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

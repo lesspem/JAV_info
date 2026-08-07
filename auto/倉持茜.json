@@ -4,7 +4,7 @@
   "aliases": [
     "関口あずさ"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E5%80%89%E6%8C%81%E8%8C%9C.jpg",
   "birth": "1979-12-28",
   "bloodType": "O",
   "height": "160",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "倉持茜",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

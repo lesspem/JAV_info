@@ -5,7 +5,7 @@
     "緒川",
     "凛"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-MUTEKI/%E7%B7%92%E5%B7%9D%E5%87%9B.jpg",
   "birth": "1985-02-08",
   "bloodType": "O",
   "height": "161",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "緒川凛",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

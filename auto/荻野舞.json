@@ -5,7 +5,7 @@
     "まい",
     "ゆい"
   ],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/013/429746.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%8D%BB%E9%87%8E%E8%88%9E.jpg",
   "birth": "1995-11-30",
   "bloodType": "",
   "height": "165",
@@ -24,12 +24,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "荻野舞",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

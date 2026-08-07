@@ -2,7 +2,7 @@
   "nameJa": "神谷姫",
   "nameZh": "神谷姬",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E7%A5%9E%E8%B0%B7%E5%A7%AB.jpg",
   "birth": "1985-05-24",
   "bloodType": "B",
   "height": "162",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "神谷姫",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

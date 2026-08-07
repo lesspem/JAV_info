@@ -5,7 +5,7 @@
     "のあ",
     "倉田"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A4%8E%E5%90%8D%E3%81%AE%E3%81%82.jpg",
   "birth": "1999-03-18",
   "bloodType": "B",
   "height": "144",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "椎名のあ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

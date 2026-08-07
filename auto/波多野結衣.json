@@ -2,7 +2,7 @@
   "nameJa": "波多野結衣",
   "nameZh": "波多野結衣",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%ED%95%98%ED%83%80%EB%85%B8%EC%9C%A0%EC%9D%B4(Yui_Hatano)_%EC%9A%A9%EA%B3%BC%EA%B0%99%EC%9D%B4_%EA%B7%B9_%EA%B8%B0%EB%85%90%ED%96%89%EC%82%AC_4.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B3%A2%E5%A4%9A%E9%87%8E%E7%B5%90%E8%A1%A3.jpg",
   "birth": "1988-05-24",
   "bloodType": "A",
   "height": "163",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "波多野結衣",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

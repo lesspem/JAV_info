@@ -5,7 +5,7 @@
     "山岸",
     "逢花"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Stage_greeting_for_the_movie_%E2%80%9CBut_I_Can%E2%80%99t_Stop_~Suzuka_Snack~%E2%80%9DIMG_4384.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E5%B1%B1%E5%B2%B8%E9%80%A2%E8%8A%B1.jpg",
   "birth": "1992-11-30",
   "bloodType": "B",
   "height": "160",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "山岸逢花",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

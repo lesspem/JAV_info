@@ -2,7 +2,7 @@
   "nameJa": "乙白さやか",
   "nameZh": "乙白沙也加",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E4%B9%99%E7%99%BD%E3%81%95%E3%82%84%E3%81%8B.jpg",
   "birth": "2001-02-03",
   "bloodType": "O",
   "height": "169",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "乙白さやか",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

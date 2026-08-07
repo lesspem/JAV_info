@@ -2,7 +2,7 @@
   "nameJa": "松島かえで",
   "nameZh": "松島楓",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%9D%BE%E5%B3%B6%E3%81%8B%E3%81%88%E3%81%A7.jpg",
   "birth": "1982-11-07",
   "bloodType": "O",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "松島かえで",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

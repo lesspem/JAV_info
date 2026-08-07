@@ -2,7 +2,7 @@
   "nameJa": "西宮ゆめ",
   "nameZh": "西宮夢",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/TRE2025NEWS_Videoframe_885CUTOUT.png?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E8%A5%BF%E5%AE%AE%E3%82%86%E3%82%81.jpg",
   "birth": "1996-11-04",
   "bloodType": "",
   "height": "158",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "西宮ゆめ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

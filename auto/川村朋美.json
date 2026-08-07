@@ -2,7 +2,7 @@
   "nameJa": "川村朋美",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E5%B7%9D%E6%9D%91%E6%9C%8B%E7%BE%8E.jpg",
   "birth": "1980-12-11",
   "bloodType": "B",
   "height": "157",
@@ -20,12 +20,13 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "川村朋美",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -5,7 +5,7 @@
     "胡桃沢",
     "まり奈"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E8%83%A1%E6%A1%83%E6%B2%A2%E3%81%BE%E3%82%8A%E5%A5%88.jpg",
   "birth": "1978-08-29",
   "bloodType": "B",
   "height": "158",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "胡桃沢まり奈",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

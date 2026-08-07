@@ -5,7 +5,7 @@
     "岩下",
     "美季"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E5%80%96%E7%94%B0%E6%9D%8E%E6%A2%A8.jpg",
   "birth": "1974-03-01",
   "bloodType": "O",
   "height": "162",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "倖田李梨",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

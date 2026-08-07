@@ -2,7 +2,7 @@
   "nameJa": "岡本百合",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E5%B2%A1%E6%9C%AC%E7%99%BE%E5%90%88.jpg",
   "birth": "1968-05-04",
   "bloodType": "",
   "height": "163",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "岡本百合",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

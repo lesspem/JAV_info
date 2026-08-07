@@ -2,7 +2,7 @@
   "nameJa": "鈴木心春",
   "nameZh": "鈴木心春",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E9%88%B4%E6%9C%A8%E5%BF%83%E6%98%A5.jpg",
   "birth": "1993-12-01",
   "bloodType": "A",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "鈴木心春",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

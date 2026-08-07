@@ -2,7 +2,7 @@
   "nameJa": "華山美玲",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E8%8F%AF%E5%B1%B1%E7%BE%8E%E7%8E%B2.jpg",
   "birth": "1974-12-07",
   "bloodType": "",
   "height": "165",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "華山美玲",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

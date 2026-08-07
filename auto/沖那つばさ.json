@@ -2,7 +2,7 @@
   "nameJa": "沖那つばさ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%B2%96%E9%82%A3%E3%81%A4%E3%81%B0%E3%81%95.jpg",
   "birth": "1983-06-06",
   "bloodType": "A",
   "height": "166",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "沖那つばさ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

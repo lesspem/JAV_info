@@ -2,7 +2,7 @@
   "nameJa": "今野由愛",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%BB%8A%E9%87%8E%E7%94%B1%E6%84%9B.jpg",
   "birth": "1985-03-07",
   "bloodType": "",
   "height": "150",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "今野由愛",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "倉科さやか",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E5%80%89%E7%A7%91%E3%81%95%E3%82%84%E3%81%8B.jpg",
   "birth": "1986-04-09",
   "bloodType": "",
   "height": "149",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "倉科さやか",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

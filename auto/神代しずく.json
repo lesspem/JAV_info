@@ -5,7 +5,7 @@
     "姫宮",
     "しおり"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E7%A5%9E%E4%BB%A3%E3%81%97%E3%81%9A%E3%81%8F.jpg",
   "birth": "1986-07-07",
   "bloodType": "A",
   "height": "162",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "神代しずく",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

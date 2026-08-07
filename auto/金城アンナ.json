@@ -2,7 +2,7 @@
   "nameJa": "金城アンナ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E9%87%91%E5%9F%8E%E3%82%A2%E3%83%B3%E3%83%8A.jpg",
   "birth": "1984-08-31",
   "bloodType": "A",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "金城アンナ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

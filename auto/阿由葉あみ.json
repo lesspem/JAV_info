@@ -5,7 +5,7 @@
     "白鳥",
     "七楓"
   ],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/018/494131.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E9%98%BF%E7%94%B1%E8%91%89%E3%81%82%E3%81%BF.jpg",
   "birth": "",
   "bloodType": "",
   "height": "165",
@@ -25,7 +25,7 @@
   "sources": [
     "ja.wikipedia",
     "zh.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "阿由葉あみ",
   "missing": [
@@ -33,5 +33,5 @@
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "森日向子",
   "nameZh": "森日向子",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Stage_greeting_on_the_first_day_of_the_movie_%22Miyuki's_Marriage%22IMG_4342.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A3%AE%E6%97%A5%E5%90%91%E5%AD%90.jpg",
   "birth": "2000-09-09",
   "bloodType": "O",
   "height": "166",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "森日向子",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -1,0 +1,31 @@
+{
+  "nameJa": "三好佑香",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E4%B8%89%E5%A5%BD%E4%BD%91%E9%A6%99.jpg",
+  "birth": "2001-07-07",
+  "bloodType": "",
+  "height": "168",
+  "weight": "",
+  "threeSize": "85 - 59 - 90",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2025-05-20",
+  "agency": "プレミアム",
+  "social": {
+    "x": "Miyoshi_style",
+    "instagram": "miyoshi_yuka_s",
+    "tiktok": "miyoshi_yuka"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "三好佑香",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

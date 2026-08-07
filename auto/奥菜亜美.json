@@ -2,7 +2,7 @@
   "nameJa": "奥菜亜美",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E5%A5%A5%E8%8F%9C%E4%BA%9C%E7%BE%8E.jpg",
   "birth": "1981-01-16",
   "bloodType": "A",
   "height": "155",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "奥菜亜美",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -5,7 +5,7 @@
     "岩佐めい",
     "彩月あかり"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E5%A6%83%E3%81%B2%E3%81%8B%E3%82%8A.jpg",
   "birth": "1989-05-29",
   "bloodType": "B",
   "height": "158",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "妃ひかり",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "朝日なな",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-KiraKira/%E6%9C%9D%E6%97%A5%E3%81%AA%E3%81%AA.jpg",
   "birth": "1985-01-20",
   "bloodType": "A",
   "height": "158",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "朝日なな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

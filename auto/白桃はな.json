@@ -2,7 +2,7 @@
   "nameJa": "白桃はな",
   "nameZh": "白桃花",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_20220910_IMG_2966.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E7%99%BD%E6%A1%83%E3%81%AF%E3%81%AA.jpg",
   "birth": "2000-05-12",
   "bloodType": "B",
   "height": "153",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "白桃はな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

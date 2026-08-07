@@ -5,7 +5,7 @@
     "広瀬藍子",
     "吉村あきの"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%80%AC%E5%90%8D%E3%81%82%E3%82%86%E3%82%80.jpg",
   "birth": "1986-11-09",
   "bloodType": "B",
   "height": "158",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "瀬名あゆむ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

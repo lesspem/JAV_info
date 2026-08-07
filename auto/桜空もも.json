@@ -2,7 +2,7 @@
   "nameJa": "桜空もも",
   "nameZh": "樱空桃",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_27%2C_2025)IMG_2521.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%A1%9C%E7%A9%BA%E3%82%82%E3%82%82.jpg",
   "birth": "1996-12-03",
   "bloodType": "O",
   "height": "160",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "桜空もも",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "可愛手翔",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E5%8F%AF%E6%84%9B%E6%89%8B%E7%BF%94.jpg",
   "birth": "1975-05-30",
   "bloodType": "O",
   "height": "158",
@@ -20,12 +20,13 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "可愛手翔",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

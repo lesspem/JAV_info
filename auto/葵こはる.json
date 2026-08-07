@@ -5,7 +5,7 @@
     "桜井みな実",
     "笹原えりな"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%91%B5%E3%81%93%E3%81%AF%E3%82%8B.jpg",
   "birth": "1992-08-30",
   "bloodType": "B",
   "height": "154",
@@ -23,9 +23,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "葵こはる",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

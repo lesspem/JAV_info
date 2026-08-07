@@ -5,7 +5,7 @@
     "橘瑪麗",
     "MARY（BLACK"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Mary_Tachibana.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A9%98%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BC.jpg",
   "birth": "1993-07-07",
   "bloodType": "O",
   "height": "168",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "橘メアリー",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

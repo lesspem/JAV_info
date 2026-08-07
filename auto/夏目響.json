@@ -1,0 +1,33 @@
+{
+  "nameJa": "夏目響",
+  "nameZh": "夏目響",
+  "aliases": [
+    "名前はまだない。"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%A4%8F%E7%9B%AE%E9%9F%BF.jpg",
+  "birth": "1998-06-22",
+  "bloodType": "",
+  "height": "161",
+  "weight": "",
+  "threeSize": "85 - 56 - 88",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2020-05-01",
+  "agency": "SOD",
+  "social": {
+    "x": "nazo_sod",
+    "instagram": "asahi.yes",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "夏目響",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

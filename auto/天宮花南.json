@@ -2,7 +2,7 @@
   "nameJa": "天宮花南",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(May_3%2C_2025)Image_processing_IMG_1080.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E5%A4%A9%E5%AE%AE%E8%8A%B1%E5%8D%97.jpg",
   "birth": "1996-05-08",
   "bloodType": "AB",
   "height": "155",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "天宮花南",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

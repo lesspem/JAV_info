@@ -1,0 +1,32 @@
+{
+  "nameJa": "美澄玲衣",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%BE%8E%E6%BE%84%E7%8E%B2%E8%A1%A3.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "162",
+  "weight": "",
+  "threeSize": "93 - 58 - 88",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "",
+  "social": {
+    "x": "_reimisumi_",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "美澄玲衣",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

@@ -2,7 +2,7 @@
   "nameJa": "小野六花",
   "nameZh": "小野六花",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Nekomanma!!_from_Otsuki-chan_no_Uta_1st_single_mini_live_Tower_Records_Ikebukuro_store_IMG_4523.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-Diaz/%E5%B0%8F%E9%87%8E%E5%85%AD%E8%8A%B1.jpg",
   "birth": "2002-02-14",
   "bloodType": "AB",
   "height": "148",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "小野六花",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

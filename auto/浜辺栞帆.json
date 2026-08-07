@@ -1,0 +1,31 @@
+{
+  "nameJa": "浜辺栞帆",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E6%B5%9C%E8%BE%BA%E6%A0%9E%E5%B8%86.jpg",
+  "birth": "1997-04-15",
+  "bloodType": "",
+  "height": "156",
+  "weight": "",
+  "threeSize": "87 - 60 - 87",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022-04-15",
+  "agency": "マドンナ",
+  "social": {
+    "x": "hamabe_cmore_",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "浜辺栞帆",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

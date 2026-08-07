@@ -2,7 +2,7 @@
   "nameJa": "星野ナミ",
   "nameZh": "星野娜美",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%98%9F%E9%87%8E%E3%83%8A%E3%83%9F.jpg",
   "birth": "1992-07-03",
   "bloodType": "A",
   "height": "152",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "星野ナミ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

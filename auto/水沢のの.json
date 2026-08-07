@@ -4,7 +4,7 @@
   "aliases": [
     "さおり"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B0%B4%E6%B2%A2%E3%81%AE%E3%81%AE.jpg",
   "birth": "1993-09-06",
   "bloodType": "B",
   "height": "165",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "水沢のの",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

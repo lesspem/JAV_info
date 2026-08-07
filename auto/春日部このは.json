@@ -2,7 +2,7 @@
   "nameJa": "春日部このは",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-KiraKira/%E6%98%A5%E6%97%A5%E9%83%A8%E3%81%93%E3%81%AE%E3%81%AF.jpg",
   "birth": "1992-11-09",
   "bloodType": "O",
   "height": "155",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "春日部このは",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

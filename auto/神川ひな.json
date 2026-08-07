@@ -2,7 +2,7 @@
   "nameJa": "神川ひな",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%A5%9E%E5%B7%9D%E3%81%B2%E3%81%AA.jpg",
   "birth": "1992-10-13",
   "bloodType": "A",
   "height": "153",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "神川ひな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

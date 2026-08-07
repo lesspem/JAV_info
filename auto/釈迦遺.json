@@ -1,0 +1,33 @@
+{
+  "nameJa": "釈迦遺",
+  "nameZh": "",
+  "aliases": [
+    "白坂",
+    "有以"
+  ],
+  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Yuishiraskaradio.jpg?width=200",
+  "birth": "2000-07-07",
+  "bloodType": "A",
+  "height": "156",
+  "weight": "",
+  "threeSize": "86 - 59 - 88",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2021-10-08",
+  "debut": "2020-01-01",
+  "agency": "",
+  "social": {
+    "x": "shaka_yui",
+    "instagram": "shaka_yui",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "釈迦遺",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

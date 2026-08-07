@@ -2,7 +2,7 @@
   "nameJa": "一ノ瀬あきら",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E4%B8%80%E3%83%8E%E7%80%AC%E3%81%82%E3%81%8D%E3%82%89.jpg",
   "birth": "1985-04-02",
   "bloodType": "",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "一ノ瀬あきら",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

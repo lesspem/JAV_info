@@ -2,7 +2,7 @@
   "nameJa": "麻美ゆま",
   "nameZh": "麻美由真",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Asami_Yuma.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E9%BA%BB%E7%BE%8E%E3%82%86%E3%81%BE.jpg",
   "birth": "1987-03-24",
   "bloodType": "AB",
   "height": "158",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "麻美ゆま",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

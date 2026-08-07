@@ -2,7 +2,7 @@
   "nameJa": "愛音ゆり",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/010/33888.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%84%9B%E9%9F%B3%E3%82%86%E3%82%8A.jpg",
   "birth": "1989-02-18",
   "bloodType": "A",
   "height": "157",
@@ -21,11 +21,11 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "愛音ゆり",
   "missing": [
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

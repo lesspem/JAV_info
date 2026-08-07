@@ -5,7 +5,7 @@
     "河北",
     "彩伽"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_28%2C_2025)_IMG_3232.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%B2%B3%E5%8C%97%E5%BD%A9%E8%8A%B1.jpg",
   "birth": "1999-04-24",
   "bloodType": "",
   "height": "169",
@@ -23,9 +23,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "河北彩花",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

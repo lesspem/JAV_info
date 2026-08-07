@@ -5,7 +5,7 @@
     "真田みづ稀",
     "真田美樹"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E7%9C%9F%E7%94%B0%E7%BE%8E%E6%A8%B9.jpg",
   "birth": "1996-03-14",
   "bloodType": "A",
   "height": "166",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "真田美樹",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "益坂美亜",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E7%9B%8A%E5%9D%82%E7%BE%8E%E4%BA%9C.jpg",
   "birth": "1998-02-19",
   "bloodType": "B",
   "height": "165",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "益坂美亜",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

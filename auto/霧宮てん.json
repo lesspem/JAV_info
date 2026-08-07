@@ -5,7 +5,7 @@
     "木村つな",
     "紺野いろは"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-Lovepop/%E9%9C%A7%E5%AE%AE%E3%81%A6%E3%82%93.jpg",
   "birth": "1992-08-21",
   "bloodType": "A",
   "height": "151",
@@ -24,11 +24,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "zh.wikipedia"
+    "zh.wikipedia",
+    "gfriends"
   ],
   "name": "霧宮てん",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "彩月かおる",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E5%BD%A9%E6%9C%88%E3%81%8B%E3%81%8A%E3%82%8B.jpg",
   "birth": "1955|生月=6|生日=9-6|生日=9-09",
   "bloodType": "",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "彩月かおる",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

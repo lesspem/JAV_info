@@ -1,0 +1,31 @@
+{
+  "nameJa": "田所百合",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-AVDBS/%E7%94%B0%E6%89%80%E7%99%BE%E5%90%88.jpg",
+  "birth": "1980-07-15",
+  "bloodType": "",
+  "height": "159",
+  "weight": "",
+  "threeSize": "86 - 63 - 86",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "タカラ映像",
+  "social": {
+    "x": "tadokoroyuri",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "田所百合",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

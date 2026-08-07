@@ -2,7 +2,7 @@
   "nameJa": "仲村みう",
   "nameZh": "仲村美羽",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-MUTEKI/%E4%BB%B2%E6%9D%91%E3%81%BF%E3%81%86.jpg",
   "birth": "1991-03-14",
   "bloodType": "B",
   "height": "157",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "仲村みう",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

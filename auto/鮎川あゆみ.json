@@ -2,7 +2,7 @@
   "nameJa": "鮎川あゆみ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-%E6%9C%AA%E6%BA%80/%E9%AE%8E%E5%B7%9D%E3%81%82%E3%82%86%E3%81%BF.jpg",
   "birth": "1987-05-10",
   "bloodType": "O",
   "height": "162",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "鮎川あゆみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

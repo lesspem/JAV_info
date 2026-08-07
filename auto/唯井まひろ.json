@@ -4,7 +4,7 @@
   "aliases": [
     "唯井真尋"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/SOD_AKIHABARA_JACK_2023_IMG_9528.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E5%94%AF%E4%BA%95%E3%81%BE%E3%81%B2%E3%82%8D.jpg",
   "birth": "2000-03-04",
   "bloodType": "AB",
   "height": "156",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "唯井まひろ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

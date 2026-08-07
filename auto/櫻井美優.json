@@ -2,7 +2,7 @@
   "nameJa": "櫻井美優",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%AB%BB%E4%BA%95%E7%BE%8E%E5%84%AA.jpg",
   "birth": "1987-02-10",
   "bloodType": "B",
   "height": "162",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "櫻井美優",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

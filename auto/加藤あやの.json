@@ -5,7 +5,7 @@
     "山城",
     "みずほ"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E5%8A%A0%E8%97%A4%E3%81%82%E3%82%84%E3%81%AE.jpg",
   "birth": "1983-09-29",
   "bloodType": "B",
   "height": "162",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "加藤あやの",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

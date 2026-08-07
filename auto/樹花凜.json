@@ -5,7 +5,7 @@
     "七咲",
     "楓花"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E6%A8%B9%E8%8A%B1%E5%87%9C.jpg",
   "birth": "1988-07-15",
   "bloodType": "",
   "height": "153",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "樹花凜",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

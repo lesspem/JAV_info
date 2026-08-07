@@ -2,7 +2,7 @@
   "nameJa": "相沢みなみ",
   "nameZh": "相澤南",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/AV%E5%A5%B3%E5%84%AA%E3%83%BB%E7%9B%B8%E6%B2%A2%E3%81%BF%E3%81%AA%E3%81%BF.png?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E7%9B%B8%E6%B2%A2%E3%81%BF%E3%81%AA%E3%81%BF.jpg",
   "birth": "1996-06-14",
   "bloodType": "A",
   "height": "155",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "相沢みなみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

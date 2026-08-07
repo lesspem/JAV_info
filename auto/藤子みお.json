@@ -1,0 +1,31 @@
+{
+  "nameJa": "藤子みお",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E8%97%A4%E5%AD%90%E3%81%BF%E3%81%8A.jpg",
+  "birth": "2000-09-03",
+  "bloodType": "",
+  "height": "158",
+  "weight": "",
+  "threeSize": "90 - 61 - 87",
+  "cup": "G-65",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "E-BODY",
+  "social": {
+    "x": "fujikomiodayo",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "藤子みお",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

@@ -2,7 +2,7 @@
   "nameJa": "白石透羽",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(July_1%2C_2026)IMG_6456.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%99%BD%E7%9F%B3%E9%80%8F%E7%BE%BD.jpg",
   "birth": "2003-12-30",
   "bloodType": "",
   "height": "",
@@ -20,7 +20,8 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "白石透羽",
   "missing": [
@@ -28,5 +29,5 @@
     "weight",
     "threeSize"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

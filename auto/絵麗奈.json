@@ -1,0 +1,34 @@
+{
+  "nameJa": "絵麗奈",
+  "nameZh": "素海霖",
+  "aliases": [
+    "素海霖",
+    "蘇凱琳"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E7%B5%B5%E9%BA%97%E5%A5%88.jpg",
+  "birth": "1997-02-09",
+  "bloodType": "",
+  "height": "163",
+  "weight": "",
+  "threeSize": "82 - 62 - 94",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "FALENO",
+  "social": {
+    "x": "thisisshl",
+    "instagram": "thisis_shl",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "絵麗奈",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

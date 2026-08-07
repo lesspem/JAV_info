@@ -2,7 +2,7 @@
   "nameJa": "あいださくら",
   "nameZh": "愛田櫻",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Honnaka/%E3%81%82%E3%81%84%E3%81%A0%E3%81%95%E3%81%8F%E3%82%89.jpg",
   "birth": "1991-04-18",
   "bloodType": "B",
   "height": "162",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "あいださくら",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

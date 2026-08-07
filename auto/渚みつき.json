@@ -5,7 +5,7 @@
     "池田",
     "亜香里"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(September_23%2C_2024)IMG_9060.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B8%9A%E3%81%BF%E3%81%A4%E3%81%8D.jpg",
   "birth": "1998-02-07",
   "bloodType": "B",
   "height": "155",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "渚みつき",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

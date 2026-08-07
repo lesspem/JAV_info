@@ -2,7 +2,7 @@
   "nameJa": "雨宮琴音",
   "nameZh": "雨宮琴音",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E9%9B%A8%E5%AE%AE%E7%90%B4%E9%9F%B3.jpg",
   "birth": "1988-03-30",
   "bloodType": "B",
   "height": "168",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "雨宮琴音",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -1,0 +1,31 @@
+{
+  "nameJa": "白坂みあん",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%99%BD%E5%9D%82%E3%81%BF%E3%81%82%E3%82%93.jpg",
+  "birth": "2000-06-09",
+  "bloodType": "A",
+  "height": "167",
+  "weight": "",
+  "threeSize": "86 - 58 - 89",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2021-10-21",
+  "agency": "S1",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "白坂みあん",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

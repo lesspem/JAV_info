@@ -1,0 +1,31 @@
+{
+  "nameJa": "梓ヒカリ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%A2%93%E3%83%92%E3%82%AB%E3%83%AA.jpg",
+  "birth": "1999-11-30",
+  "bloodType": "",
+  "height": "155",
+  "weight": "",
+  "threeSize": "89 - 54 - 86",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "azusa_hikari_",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "梓ヒカリ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

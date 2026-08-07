@@ -2,7 +2,7 @@
   "nameJa": "愛代さやか",
   "nameZh": "愛代沙也加",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%84%9B%E4%BB%A3%E3%81%95%E3%82%84%E3%81%8B.jpg",
   "birth": "1993-11-06",
   "bloodType": "O",
   "height": "148",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "愛代さやか",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

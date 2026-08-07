@@ -1,0 +1,34 @@
+{
+  "nameJa": "月形はるひ",
+  "nameZh": "",
+  "aliases": [
+    "春日えな"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E6%9C%88%E5%BD%A2%E3%81%AF%E3%82%8B%E3%81%B2.jpg",
+  "birth": "2001-08-07",
+  "bloodType": "A",
+  "height": "153",
+  "weight": "",
+  "threeSize": "84 - 60 - 88",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "",
+  "social": {
+    "x": "Haruhi_moons",
+    "instagram": "tsukigata_haruhi",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "月形はるひ",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-07"
+}

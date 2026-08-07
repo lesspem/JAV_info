@@ -1,0 +1,31 @@
+{
+  "nameJa": "百仁花",
+  "nameZh": "百仁花",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%99%BE%E4%BB%81%E8%8A%B1.jpg",
+  "birth": "2001-12-02",
+  "bloodType": "A",
+  "height": "154",
+  "weight": "",
+  "threeSize": "82 - 61 - 86",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2024-06-29",
+  "debut": "2022",
+  "agency": "SOD",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "百仁花",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

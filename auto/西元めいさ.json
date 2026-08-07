@@ -1,0 +1,33 @@
+{
+  "nameJa": "西元めいさ",
+  "nameZh": "",
+  "aliases": [
+    "西元明沙"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E8%A5%BF%E5%85%83%E3%82%81%E3%81%84%E3%81%95.jpg",
+  "birth": "1999-04-30",
+  "bloodType": "O",
+  "height": "152",
+  "weight": "",
+  "threeSize": "80 - 56 - 84",
+  "cup": "C",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021-09-24",
+  "agency": "HMN WORKS",
+  "social": {
+    "x": "SarinaDance0430",
+    "instagram": "sarina__.official",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "西元めいさ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

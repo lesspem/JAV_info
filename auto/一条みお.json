@@ -5,7 +5,7 @@
     "相葉美久",
     "小松菜いよ"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%B8%80%E6%9D%A1%E3%81%BF%E3%81%8A.jpg",
   "birth": "1996-11-30",
   "bloodType": "B",
   "height": "147",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "一条みお",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

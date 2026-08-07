@@ -2,7 +2,7 @@
   "nameJa": "有坂真宵",
   "nameZh": "有坂真宵",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%9C%89%E5%9D%82%E7%9C%9F%E5%AE%B5.jpg",
   "birth": "2000|愛称=|別名=|画像コメント=|画像ファイル=|その他=}}-1|生年=2000|愛称=|別名=|画像コメント=|画像ファイル=|その他=}}-1|時点=2020年 |毛髪の色=|瞳の色=|血液型=|出身地=・山口県|没日=|没月=|没年=|ふりがな=ありさか まよい|生月=1|生年=2000|愛称=|別名=|画像コメント=|画像ファイル=|その他=}}",
   "bloodType": "",
   "height": "152",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "有坂真宵",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "天海ゆり",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/000/567395.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%A4%A9%E6%B5%B7%E3%82%86%E3%82%8A.jpg",
   "birth": "",
   "bloodType": "",
   "height": "158",
@@ -21,12 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "天海ゆり",
   "missing": [
     "birth",
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

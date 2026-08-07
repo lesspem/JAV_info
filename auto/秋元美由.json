@@ -2,7 +2,7 @@
   "nameJa": "秋元美由",
   "nameZh": "秋元美由",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E7%A7%8B%E5%85%83%E7%BE%8E%E7%94%B1.jpg",
   "birth": "1990-02-16",
   "bloodType": "O",
   "height": "159",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "秋元美由",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

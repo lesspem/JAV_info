@@ -2,7 +2,7 @@
   "nameJa": "天音ゆい",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E5%A4%A9%E9%9F%B3%E3%82%86%E3%81%84.jpg",
   "birth": "2001-11-23",
   "bloodType": "",
   "height": "153",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "天音ゆい",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "大沢瞳",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E5%A4%A7%E6%B2%A2%E7%9E%B3.jpg",
   "birth": "1979-01-13",
   "bloodType": "AB",
   "height": "167",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "大沢瞳",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

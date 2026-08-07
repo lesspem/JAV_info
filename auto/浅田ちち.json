@@ -2,7 +2,7 @@
   "nameJa": "浅田ちち",
   "nameZh": "淺田Chichi",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E6%B5%85%E7%94%B0%E3%81%A1%E3%81%A1.jpg",
   "birth": "1986-04-25",
   "bloodType": "A",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "浅田ちち",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

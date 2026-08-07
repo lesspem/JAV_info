@@ -2,7 +2,7 @@
   "nameJa": "本庄鈴",
   "nameZh": "本庄鈴",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Suzu_Honjo's_refreshing_smile2024.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%9C%AC%E5%BA%84%E9%88%B4.jpg",
   "birth": "1997-01-12",
   "bloodType": "",
   "height": "163",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "本庄鈴",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

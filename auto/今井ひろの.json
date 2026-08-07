@@ -2,7 +2,7 @@
   "nameJa": "今井ひろの",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%BB%8A%E4%BA%95%E3%81%B2%E3%82%8D%E3%81%AE.jpg",
   "birth": "1989-06-12",
   "bloodType": "A",
   "height": "147",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "今井ひろの",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

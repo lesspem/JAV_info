@@ -2,7 +2,7 @@
   "nameJa": "黒谷渚",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/001/452443.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E9%BB%92%E8%B0%B7%E6%B8%9A.jpg",
   "birth": "",
   "bloodType": "",
   "height": "170",
@@ -21,7 +21,7 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "黒谷渚",
   "missing": [
@@ -29,5 +29,5 @@
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

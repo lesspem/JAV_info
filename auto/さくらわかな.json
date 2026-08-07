@@ -1,0 +1,31 @@
+{
+  "nameJa": "さくらわかな",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E3%81%95%E3%81%8F%E3%82%89%E3%82%8F%E3%81%8B%E3%81%AA.jpg",
+  "birth": "2002-03-21",
+  "bloodType": "",
+  "height": "165",
+  "weight": "",
+  "threeSize": "83 - 60 - 85",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "_sakurawakana_",
+    "instagram": "sakura_wakana",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "さくらわかな",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

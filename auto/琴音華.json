@@ -1,0 +1,31 @@
+{
+  "nameJa": "琴音華",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E7%90%B4%E9%9F%B3%E8%8F%AF.jpg",
+  "birth": "2000-08-17",
+  "bloodType": "A",
+  "height": "164",
+  "weight": "",
+  "threeSize": "86 - 60 - 95",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2024-03-01",
+  "debut": "2021-03-01",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "kotone_hanaa",
+    "instagram": "kotone_hana",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "琴音華",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

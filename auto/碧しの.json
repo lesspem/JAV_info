@@ -5,7 +5,7 @@
     "篠めぐみ",
     "中村遙香"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%A2%A7%E3%81%97%E3%81%AE.jpg",
   "birth": "1990-09-08",
   "bloodType": "A",
   "height": "163",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "碧しの",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

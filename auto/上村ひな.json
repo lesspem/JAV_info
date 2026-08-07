@@ -2,7 +2,7 @@
   "nameJa": "上村ひな",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E4%B8%8A%E6%9D%91%E3%81%B2%E3%81%AA.jpg",
   "birth": "1981-12-10",
   "bloodType": "AB",
   "height": "157",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "上村ひな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

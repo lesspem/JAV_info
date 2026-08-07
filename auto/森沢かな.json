@@ -5,7 +5,7 @@
     "飯岡",
     "かなこ"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Movie_%E2%80%9CBlue_Porno%E2%80%9D_Stage_Greetings_Ikebukuro_Cinema_Rosa_IMG_9655-1.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E6%A3%AE%E6%B2%A2%E3%81%8B%E3%81%AA.jpg",
   "birth": "1992-05-09",
   "bloodType": "O",
   "height": "160",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "森沢かな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

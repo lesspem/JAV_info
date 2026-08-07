@@ -2,7 +2,7 @@
   "nameJa": "倉咲ゆう",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-%E6%9C%AA%E6%BA%80/%E5%80%89%E5%92%B2%E3%82%86%E3%81%86.jpg",
   "birth": "1988-12-01",
   "bloodType": "A",
   "height": "173",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "倉咲ゆう",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

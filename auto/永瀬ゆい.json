@@ -4,7 +4,7 @@
   "aliases": [
     "飯島里奈"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B0%B8%E7%80%AC%E3%82%86%E3%81%84.jpg",
   "birth": "1999-10-15",
   "bloodType": "A",
   "height": "150",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "永瀬ゆい",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

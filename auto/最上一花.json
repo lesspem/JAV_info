@@ -1,0 +1,34 @@
+{
+  "nameJa": "最上一花",
+  "nameZh": "",
+  "aliases": [
+    "佐藤",
+    "花"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-Diaz/%E6%9C%80%E4%B8%8A%E4%B8%80%E8%8A%B1.jpg",
+  "birth": "1996-12-10",
+  "bloodType": "B",
+  "height": "162",
+  "weight": "",
+  "threeSize": "86 - 60 - 90",
+  "cup": "F-65",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021-12-24",
+  "agency": "MAX-A",
+  "social": {
+    "x": "ichika_mogami",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "最上一花",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

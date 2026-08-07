@@ -2,7 +2,7 @@
   "nameJa": "西野翔",
   "nameZh": "西野翔",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E8%A5%BF%E9%87%8E%E7%BF%94.jpg",
   "birth": "1985-06-29",
   "bloodType": "O",
   "height": "159",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "西野翔",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

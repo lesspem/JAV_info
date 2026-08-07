@@ -2,7 +2,7 @@
   "nameJa": "青沼ちあさ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E9%9D%92%E6%B2%BC%E3%81%A1%E3%81%82%E3%81%95.jpg",
   "birth": "1975-08-01",
   "bloodType": "O",
   "height": "161",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "青沼ちあさ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -5,7 +5,7 @@
     "吉田",
     "優"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B0%B8%E4%BA%95%E3%81%BF%E3%81%B2%E3%81%AA.jpg",
   "birth": "1995-07-13",
   "bloodType": "",
   "height": "156",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "永井みひな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "小野坂ゆいか",
   "nameZh": "小野坂唯花",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(May_4%2C_2025)IMG_3236.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E5%B0%8F%E9%87%8E%E5%9D%82%E3%82%86%E3%81%84%E3%81%8B.jpg",
   "birth": "2002-02-09",
   "bloodType": "A",
   "height": "164",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "小野坂ゆいか",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

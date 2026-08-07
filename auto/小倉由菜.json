@@ -2,7 +2,7 @@
   "nameJa": "小倉由菜",
   "nameZh": "小倉由菜",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Yuna_Ogura_2025_promotion_photo.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E5%B0%8F%E5%80%89%E7%94%B1%E8%8F%9C.jpg",
   "birth": "1998-11-05",
   "bloodType": "O",
   "height": "156",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "小倉由菜",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

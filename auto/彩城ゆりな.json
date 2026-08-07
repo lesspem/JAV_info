@@ -5,7 +5,7 @@
     "綾瀬",
     "ゆか"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%BD%A9%E5%9F%8E%E3%82%86%E3%82%8A%E3%81%AA.jpg",
   "birth": "1993-02-24",
   "bloodType": "A",
   "height": "153",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "彩城ゆりな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

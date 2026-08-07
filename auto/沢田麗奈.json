@@ -2,7 +2,7 @@
   "nameJa": "沢田麗奈",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/019/468747.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E6%B2%A2%E7%94%B0%E9%BA%97%E5%A5%88.jpg",
   "birth": "1967-10-26",
   "bloodType": "A",
   "height": "158",
@@ -21,12 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "沢田麗奈",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

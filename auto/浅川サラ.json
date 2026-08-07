@@ -5,7 +5,7 @@
     "大塚もも",
     "さら"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E6%B5%85%E5%B7%9D%E3%82%B5%E3%83%A9.jpg",
   "birth": "1988-03-01",
   "bloodType": "B",
   "height": "155",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "浅川サラ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

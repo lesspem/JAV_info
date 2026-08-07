@@ -7,7 +7,7 @@
     "竹田",
     "ゆめ"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%B8%82%E6%9D%A5%E3%81%BE%E3%81%B2%E3%82%8D.jpg",
   "birth": "1995-07-20",
   "bloodType": "O",
   "height": "155",
@@ -26,11 +26,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "zh.wikipedia"
+    "zh.wikipedia",
+    "gfriends"
   ],
   "name": "市来まひろ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "沙月とわ",
   "nameZh": "沙月永遠",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-GRAPHIS/%E6%B2%99%E6%9C%88%E3%81%A8%E3%82%8F.jpg",
   "birth": "1998-01-18",
   "bloodType": "",
   "height": "167",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "沙月とわ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

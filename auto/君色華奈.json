@@ -5,7 +5,7 @@
     "君色",
     "華奈"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%90%9B%E8%89%B2%E8%8F%AF%E5%A5%88.jpg",
   "birth": "1998-09-13",
   "bloodType": "AB",
   "height": "160",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "君色華奈",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

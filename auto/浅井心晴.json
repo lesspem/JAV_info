@@ -2,7 +2,7 @@
   "nameJa": "浅井心晴",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E6%B5%85%E4%BA%95%E5%BF%83%E6%99%B4.jpg",
   "birth": "1998-12-17",
   "bloodType": "",
   "height": "151",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "浅井心晴",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

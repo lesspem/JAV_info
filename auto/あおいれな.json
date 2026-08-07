@@ -5,7 +5,7 @@
     "葵玲奈",
     "れな"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E3%81%82%E3%81%8A%E3%81%84%E3%82%8C%E3%81%AA.jpg",
   "birth": "1996-03-19",
   "bloodType": "",
   "height": "158",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "あおいれな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

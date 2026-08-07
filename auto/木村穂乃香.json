@@ -2,7 +2,7 @@
   "nameJa": "木村穂乃香",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E6%9C%A8%E6%9D%91%E7%A9%82%E4%B9%83%E9%A6%99.jpg",
   "birth": "1986-04-30",
   "bloodType": "",
   "height": "163",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "木村穂乃香",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "杏子ゆう",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/004/95287.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Honnaka/%E6%9D%8F%E5%AD%90%E3%82%86%E3%81%86.jpg",
   "birth": "1989-02-05",
   "bloodType": "B",
   "height": "160",
@@ -21,12 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "杏子ゆう",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -1,0 +1,31 @@
+{
+  "nameJa": "浜辺やよい",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%B5%9C%E8%BE%BA%E3%82%84%E3%82%88%E3%81%84.jpg",
+  "birth": "2004-09-30",
+  "bloodType": "",
+  "height": "157",
+  "weight": "",
+  "threeSize": "88 - 59 - 89",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2025-05-12",
+  "agency": "FALENO",
+  "social": {
+    "x": "yayoi_hamabe",
+    "instagram": "yayoi_hamabe",
+    "tiktok": "yayoi.hamabe"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "浜辺やよい",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

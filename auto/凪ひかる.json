@@ -5,7 +5,7 @@
     "有栖花",
     "あか"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%87%AA%E3%81%B2%E3%81%8B%E3%82%8B.jpg",
   "birth": "1997-04-06",
   "bloodType": "A",
   "height": "162",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "凪ひかる",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

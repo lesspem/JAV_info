@@ -2,7 +2,7 @@
   "nameJa": "川島和津実",
   "nameZh": "川島和津實",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-AVDBS/%E5%B7%9D%E5%B3%B6%E5%92%8C%E6%B4%A5%E5%AE%9F.jpg",
   "birth": "1979-08-08",
   "bloodType": "A",
   "height": "156",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "川島和津実",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

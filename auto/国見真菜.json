@@ -2,7 +2,7 @@
   "nameJa": "国見真菜",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/018/464909.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E5%9B%BD%E8%A6%8B%E7%9C%9F%E8%8F%9C.jpg",
   "birth": "1974-01-01",
   "bloodType": "O",
   "height": "157",
@@ -21,12 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "国見真菜",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

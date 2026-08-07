@@ -2,7 +2,7 @@
   "nameJa": "藤井いよな",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E8%97%A4%E4%BA%95%E3%81%84%E3%82%88%E3%81%AA.jpg",
   "birth": "1998-06-24",
   "bloodType": "",
   "height": "165",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "藤井いよな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

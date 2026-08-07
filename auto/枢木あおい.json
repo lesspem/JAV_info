@@ -5,7 +5,7 @@
     "くろき葵",
     "山内愛"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Fresh_Summer_Fes!!_Gold_Division_IMG_0074.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%9E%A2%E6%9C%A8%E3%81%82%E3%81%8A%E3%81%84.jpg",
   "birth": "1998-03-20",
   "bloodType": "B",
   "height": "154",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "枢木あおい",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

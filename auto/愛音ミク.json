@@ -2,7 +2,7 @@
   "nameJa": "愛音ミク",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E6%84%9B%E9%9F%B3%E3%83%9F%E3%82%AF.jpg",
   "birth": "1986-03-09",
   "bloodType": "O",
   "height": "157",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "愛音ミク",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -5,7 +5,7 @@
     "希岛爱理",
     "希島愛理"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E5%B8%8C%E5%B3%B6%E3%81%82%E3%81%84%E3%82%8A.jpg",
   "birth": "1988-12-24",
   "bloodType": "O",
   "height": "160",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "希島あいり",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

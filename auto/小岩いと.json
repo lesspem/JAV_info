@@ -2,7 +2,7 @@
   "nameJa": "小岩いと",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%B0%8F%E5%B2%A9%E3%81%84%E3%81%A8.jpg",
   "birth": "1999-10-12",
   "bloodType": "O",
   "height": "158",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "小岩いと",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

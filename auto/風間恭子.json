@@ -2,7 +2,7 @@
   "nameJa": "風間恭子",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E9%A2%A8%E9%96%93%E6%81%AD%E5%AD%90.jpg",
   "birth": "1977-02-20",
   "bloodType": "O",
   "height": "156",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "風間恭子",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "彩音舞衣",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/015/479447.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%BD%A9%E9%9F%B3%E8%88%9E%E8%A1%A3.jpg",
   "birth": "1995-12-17",
   "bloodType": "",
   "height": "157",
@@ -21,7 +21,7 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "彩音舞衣",
   "missing": [
@@ -29,5 +29,5 @@
     "threeSize",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

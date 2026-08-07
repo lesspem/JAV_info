@@ -1,0 +1,33 @@
+{
+  "nameJa": "満島アンナ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E6%BA%80%E5%B3%B6%E3%82%A2%E3%83%B3%E3%83%8A.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "148",
+  "weight": "",
+  "threeSize": "",
+  "cup": "G-65",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2025-04-15",
+  "agency": "",
+  "social": {
+    "x": "mitsushimaanna",
+    "instagram": "mitsushimaanna",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "満島アンナ",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-07"
+}

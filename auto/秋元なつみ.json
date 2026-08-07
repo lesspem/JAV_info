@@ -2,7 +2,7 @@
   "nameJa": "秋元なつみ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E7%A7%8B%E5%85%83%E3%81%AA%E3%81%A4%E3%81%BF.jpg",
   "birth": "1985-08-25",
   "bloodType": "A",
   "height": "154",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "秋元なつみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "浅間るい",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/001/548244.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E6%B5%85%E9%96%93%E3%82%8B%E3%81%84.jpg",
   "birth": "1968-04-29",
   "bloodType": "",
   "height": "",
@@ -21,7 +21,7 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "浅間るい",
   "missing": [
@@ -30,5 +30,5 @@
     "threeSize",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

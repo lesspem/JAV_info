@@ -4,7 +4,7 @@
   "aliases": [
     "愛乃ラム"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E9%BA%BB%E5%80%89%E3%81%BE%E3%81%BF.jpg",
   "birth": "1989-09-13",
   "bloodType": "O",
   "height": "154",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "麻倉まみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

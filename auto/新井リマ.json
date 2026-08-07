@@ -2,7 +2,7 @@
   "nameJa": "新井リマ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_14%2C_2024)IMG_6096.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%96%B0%E4%BA%95%E3%83%AA%E3%83%9E.jpg",
   "birth": "2000-10-03",
   "bloodType": "AB",
   "height": "157",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "新井リマ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

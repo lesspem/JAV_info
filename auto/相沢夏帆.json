@@ -5,7 +5,7 @@
     "相沢",
     "夏帆"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%9B%B8%E6%B2%A2%E5%A4%8F%E5%B8%86.jpg",
   "birth": "1998-06-17",
   "bloodType": "",
   "height": "151",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "相沢夏帆",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

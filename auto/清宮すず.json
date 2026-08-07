@@ -5,7 +5,7 @@
     "すず",
     "天木"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B8%85%E5%AE%AE%E3%81%99%E3%81%9A.jpg",
   "birth": "2001-01-01",
   "bloodType": "",
   "height": "157",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "清宮すず",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

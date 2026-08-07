@@ -5,7 +5,7 @@
     "椎野",
     "まお"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-AVDC/%E9%9D%92%E6%9C%A8%E8%8F%9C%E6%91%98.jpg",
   "birth": "1989-01-06",
   "bloodType": "O",
   "height": "149",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "青木菜摘",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

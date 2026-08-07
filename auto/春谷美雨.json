@@ -1,0 +1,35 @@
+{
+  "nameJa": "春谷美雨",
+  "nameZh": "",
+  "aliases": [
+    "黒澤雪",
+    "池口千沙都"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Capsule/%E6%98%A5%E8%B0%B7%E7%BE%8E%E9%9B%A8.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "85 - 58 - 86",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "マドンナ",
+  "social": {
+    "x": "harutanimiu",
+    "instagram": "harutanimiu",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "春谷美雨",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

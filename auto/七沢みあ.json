@@ -2,7 +2,7 @@
   "nameJa": "七沢みあ",
   "nameZh": "七澤米亞",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Midsummer_Swimsuit_Festival_(July_2%2C_2025)IMG_2563.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Capsule/%E4%B8%83%E6%B2%A2%E3%81%BF%E3%81%82.jpg",
   "birth": "1998-12-13",
   "bloodType": "",
   "height": "145",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "七沢みあ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

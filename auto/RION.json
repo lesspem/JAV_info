@@ -4,7 +4,7 @@
   "aliases": [
     "宇都宮しをん"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-%E6%9C%AA%E6%BA%80/RION.jpg",
   "birth": "1994-03-01",
   "bloodType": "",
   "height": "161",
@@ -22,9 +22,10 @@
   },
   "works": "",
   "sources": [
-    "zh.wikipedia"
+    "zh.wikipedia",
+    "gfriends"
   ],
   "name": "RION",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

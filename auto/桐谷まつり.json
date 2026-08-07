@@ -2,7 +2,7 @@
   "nameJa": "桐谷まつり",
   "nameZh": "桐谷茉莉",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Akihabata_20181201_CIMG6833-1.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-%E6%9C%AA%E6%BA%80/%E6%A1%90%E8%B0%B7%E3%81%BE%E3%81%A4%E3%82%8A.jpg",
   "birth": "1996-08-15",
   "bloodType": "B",
   "height": "165",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "桐谷まつり",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

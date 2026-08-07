@@ -2,7 +2,7 @@
   "nameJa": "工藤まなみ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%B7%A5%E8%97%A4%E3%81%BE%E3%81%AA%E3%81%BF.jpg",
   "birth": "1987-05-16",
   "bloodType": "A",
   "height": "153",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "工藤まなみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

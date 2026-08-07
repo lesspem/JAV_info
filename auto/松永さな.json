@@ -5,7 +5,7 @@
     "松永",
     "さな"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E6%9D%BE%E6%B0%B8%E3%81%95%E3%81%AA.jpg",
   "birth": "1996-02-09",
   "bloodType": "O",
   "height": "164",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "松永さな",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

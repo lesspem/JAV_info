@@ -2,7 +2,7 @@
   "nameJa": "大空あかね",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E5%A4%A7%E7%A9%BA%E3%81%82%E3%81%8B%E3%81%AD.jpg",
   "birth": "1986-07-15",
   "bloodType": "A",
   "height": "151",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "大空あかね",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

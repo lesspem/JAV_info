@@ -2,7 +2,7 @@
   "nameJa": "今宿まこと",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E4%BB%8A%E5%AE%BF%E3%81%BE%E3%81%93%E3%81%A8.jpg",
   "birth": "1984-02-18",
   "bloodType": "",
   "height": "150",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "今宿まこと",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

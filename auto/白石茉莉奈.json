@@ -2,7 +2,7 @@
   "nameJa": "白石茉莉奈",
   "nameZh": "白石茉莉奈",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Shiraishi_Marina_from_%22I_am_a_pervert%22_at_Opening_Ceremony_of_the_Tokyo_International_Film_Festival_2016_(32800542854).jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E7%99%BD%E7%9F%B3%E8%8C%89%E8%8E%89%E5%A5%88.jpg",
   "birth": "1986-08-10",
   "bloodType": "O",
   "height": "154",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "白石茉莉奈",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

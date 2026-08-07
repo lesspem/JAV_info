@@ -2,7 +2,7 @@
   "nameJa": "秋菜里子",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/000/210659.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E7%A7%8B%E8%8F%9C%E9%87%8C%E5%AD%90.jpg",
   "birth": "1980-06-02",
   "bloodType": "A",
   "height": "158",
@@ -21,12 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "秋菜里子",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

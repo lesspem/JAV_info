@@ -2,7 +2,7 @@
   "nameJa": "桜羽のどか",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%A1%9C%E7%BE%BD%E3%81%AE%E3%81%A9%E3%81%8B.jpg",
   "birth": "1999-02-14",
   "bloodType": "",
   "height": "155",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "桜羽のどか",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

@@ -2,7 +2,7 @@
   "nameJa": "入田真綾",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E5%85%A5%E7%94%B0%E7%9C%9F%E7%B6%BE.jpg",
   "birth": "1990-11-15",
   "bloodType": "",
   "height": "156",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "入田真綾",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

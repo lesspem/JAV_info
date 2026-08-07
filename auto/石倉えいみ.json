@@ -2,7 +2,7 @@
   "nameJa": "石倉えいみ",
   "nameZh": "石倉詠美",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%9F%B3%E5%80%89%E3%81%88%E3%81%84%E3%81%BF.jpg",
   "birth": "1982-10-27",
   "bloodType": "A",
   "height": "157",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "石倉えいみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

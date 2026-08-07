@@ -2,7 +2,7 @@
   "nameJa": "西宮このみ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E8%A5%BF%E5%AE%AE%E3%81%93%E3%81%AE%E3%81%BF.jpg",
   "birth": "1997-02-22",
   "bloodType": "",
   "height": "167",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "西宮このみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

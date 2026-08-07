@@ -4,7 +4,7 @@
   "aliases": [
     "{{plainlist|"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Fresh_Festival_2023_in_Shirakobato_Water_Park_IMG_2984.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E4%B9%99%E3%82%A2%E3%83%AA%E3%82%B9.jpg",
   "birth": "1993-12-19",
   "bloodType": "O",
   "height": "161",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "乙アリス",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

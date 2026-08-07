@@ -5,7 +5,7 @@
     "二階堂",
     "夢"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Smiling_Ai_Hongo_(2024)02.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E4%BA%8C%E9%9A%8E%E5%A0%82%E5%A4%A2.jpg",
   "birth": "1999-10-28",
   "bloodType": "",
   "height": "158",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "二階堂夢",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

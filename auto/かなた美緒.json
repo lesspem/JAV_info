@@ -4,7 +4,7 @@
   "aliases": [
     "舞雪"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E3%81%8B%E3%81%AA%E3%81%9F%E7%BE%8E%E7%B7%92.jpg",
   "birth": "1988-03-20",
   "bloodType": "B",
   "height": "158",
@@ -22,11 +22,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "かなた美緒",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

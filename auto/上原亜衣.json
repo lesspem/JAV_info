@@ -2,7 +2,7 @@
   "nameJa": "上原亜衣",
   "nameZh": "上原亞衣",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_20220910_IMG_2127.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E4%B8%8A%E5%8E%9F%E4%BA%9C%E8%A1%A3.jpg",
   "birth": "1992-11-12",
   "bloodType": "O",
   "height": "155",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "上原亜衣",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

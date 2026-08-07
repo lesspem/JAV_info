@@ -2,7 +2,7 @@
   "nameJa": "初川みなみ",
   "nameZh": "初川南",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%88%9D%E5%B7%9D%E3%81%BF%E3%81%AA%E3%81%BFCIMG4158.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E5%88%9D%E5%B7%9D%E3%81%BF%E3%81%AA%E3%81%BF.jpg",
   "birth": "1995-01-19",
   "bloodType": "O",
   "height": "156",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "初川みなみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

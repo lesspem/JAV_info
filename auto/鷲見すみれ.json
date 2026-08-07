@@ -1,0 +1,31 @@
+{
+  "nameJa": "鷲見すみれ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E9%B7%B2%E8%A6%8B%E3%81%99%E3%81%BF%E3%82%8C.jpg",
+  "birth": "1993-04-19",
+  "bloodType": "AB",
+  "height": "162",
+  "weight": "",
+  "threeSize": "86 - 58 - 88",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2023",
+  "debut": "2022",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "sumi_sumire__",
+    "instagram": "sumi_sumire__",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "鷲見すみれ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

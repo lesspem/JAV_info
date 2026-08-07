@@ -2,7 +2,7 @@
   "nameJa": "香西咲",
   "nameZh": "香西咲",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E9%A6%99%E8%A5%BF%E5%92%B2.jpg",
   "birth": "1986-03-30",
   "bloodType": "B",
   "height": "160",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "香西咲",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

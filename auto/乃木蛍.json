@@ -2,7 +2,7 @@
   "nameJa": "乃木蛍",
   "nameZh": "乃木螢",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/SHIBUYA_LOFT_9_CIMG4956.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%B9%83%E6%9C%A8%E8%9B%8D.jpg",
   "birth": "1999-06-02",
   "bloodType": "B",
   "height": "165",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "乃木蛍",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

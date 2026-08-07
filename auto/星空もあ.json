@@ -5,7 +5,7 @@
     "中野伊織",
     "石橋さら"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%98%9F%E7%A9%BA%E3%82%82%E3%81%82.jpg",
   "birth": "1994-07-24",
   "bloodType": "B",
   "height": "158",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "星空もあ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

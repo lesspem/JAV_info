@@ -2,7 +2,7 @@
   "nameJa": "神谷沙織",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-GRAPHIS/%E7%A5%9E%E8%B0%B7%E6%B2%99%E7%B9%94.jpg",
   "birth": "1981-12-13",
   "bloodType": "A",
   "height": "158",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "神谷沙織",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

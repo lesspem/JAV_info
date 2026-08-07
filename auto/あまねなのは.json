@@ -2,7 +2,7 @@
   "nameJa": "あまねなのは",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/002/243623.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E3%81%82%E3%81%BE%E3%81%AD%E3%81%AA%E3%81%AE%E3%81%AF.jpg",
   "birth": "1990-02-21",
   "bloodType": "O",
   "height": "157",
@@ -21,7 +21,7 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "あまねなのは",
   "missing": [
@@ -29,5 +29,5 @@
     "threeSize",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

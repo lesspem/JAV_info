@@ -2,7 +2,7 @@
   "nameJa": "浅倉舞",
   "nameZh": "淺倉舞",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E6%B5%85%E5%80%89%E8%88%9E.jpg",
   "birth": "1972-11-08",
   "bloodType": "A",
   "height": "160",
@@ -21,11 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "zh.wikipedia"
+    "zh.wikipedia",
+    "gfriends"
   ],
   "name": "浅倉舞",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

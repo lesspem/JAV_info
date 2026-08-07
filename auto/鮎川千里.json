@@ -5,7 +5,7 @@
     "舟川",
     "ちさと"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E9%AE%8E%E5%B7%9D%E5%8D%83%E9%87%8C.jpg",
   "birth": "1989-06-20",
   "bloodType": "",
   "height": "163",
@@ -23,9 +23,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "鮎川千里",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

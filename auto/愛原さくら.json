@@ -2,7 +2,7 @@
   "nameJa": "愛原さくら",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E6%84%9B%E5%8E%9F%E3%81%95%E3%81%8F%E3%82%89.jpg",
   "birth": "1985-11-26",
   "bloodType": "B",
   "height": "158",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "愛原さくら",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

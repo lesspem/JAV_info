@@ -2,7 +2,7 @@
   "nameJa": "桜井彩",
   "nameZh": "櫻井彩",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E6%A1%9C%E4%BA%95%E5%BD%A9.jpg",
   "birth": "1989-02-24",
   "bloodType": "O",
   "height": "158",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "桜井彩",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

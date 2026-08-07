@@ -1,0 +1,34 @@
+{
+  "nameJa": "百田光稀",
+  "nameZh": "",
+  "aliases": [
+    "百田",
+    "光希"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%99%BE%E7%94%B0%E5%85%89%E7%A8%80.jpg",
+  "birth": "2002-08-25",
+  "bloodType": "A",
+  "height": "166",
+  "weight": "",
+  "threeSize": "100 - 57 - 89",
+  "cup": "J",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023-12-05",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "momota_mitsuki2",
+    "instagram": "momota_mitsuki",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "百田光稀",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

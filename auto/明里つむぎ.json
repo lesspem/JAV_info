@@ -2,7 +2,7 @@
   "nameJa": "明里つむぎ",
   "nameZh": "明里紬",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Gravure_idol_photographed_on_May_10%2C_2026IMG_2264.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%98%8E%E9%87%8C%E3%81%A4%E3%82%80%E3%81%8E.jpg",
   "birth": "1998-03-31",
   "bloodType": "O",
   "height": "157",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "明里つむぎ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

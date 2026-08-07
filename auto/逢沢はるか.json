@@ -2,7 +2,7 @@
   "nameJa": "逢沢はるか",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/011/930364.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E9%80%A2%E6%B2%A2%E3%81%AF%E3%82%8B%E3%81%8B.jpg",
   "birth": "",
   "bloodType": "",
   "height": "",
@@ -20,7 +20,7 @@
   },
   "works": "",
   "sources": [
-    "minnano-av"
+    "gfriends"
   ],
   "name": "逢沢はるか",
   "missing": [
@@ -30,5 +30,5 @@
     "threeSize",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

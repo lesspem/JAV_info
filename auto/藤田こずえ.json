@@ -4,7 +4,7 @@
   "aliases": [
     "藤田こずえ"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Stage_greeting_for_the_Housewife_Ghost_Story_Lustful_Sobs_IMG_0097.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%97%A4%E7%94%B0%E3%81%93%E3%81%9A%E3%81%88.jpg",
   "birth": "2001-05-20",
   "bloodType": "A",
   "height": "153",
@@ -23,11 +23,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "zh.wikipedia"
+    "zh.wikipedia",
+    "gfriends"
   ],
   "name": "藤田こずえ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

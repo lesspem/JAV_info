@@ -2,7 +2,7 @@
   "nameJa": "杏野小夜",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/004/905212.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E6%9D%8F%E9%87%8E%E5%B0%8F%E5%A4%9C.jpg",
   "birth": "1979-10-25",
   "bloodType": "A",
   "height": "162",
@@ -21,12 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "杏野小夜",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

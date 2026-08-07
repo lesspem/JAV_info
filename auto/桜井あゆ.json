@@ -5,7 +5,7 @@
     "加藤はるき",
     "合倉さゆ"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Movie_%E2%80%9CBlue_Porno%E2%80%9D_Stage_Greetings_Ikebukuro_Cinema_Rosa_IMG_9644sakurai.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A1%9C%E4%BA%95%E3%81%82%E3%82%86.jpg",
   "birth": "1991-04-15",
   "bloodType": "A",
   "height": "162",
@@ -23,9 +23,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "桜井あゆ",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

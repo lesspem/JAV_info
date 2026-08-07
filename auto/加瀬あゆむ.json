@@ -2,7 +2,7 @@
   "nameJa": "加瀬あゆむ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%8A%A0%E7%80%AC%E3%81%82%E3%82%86%E3%82%80.jpg",
   "birth": "1987-02-14",
   "bloodType": "A",
   "height": "150",
@@ -20,9 +20,10 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "加瀬あゆむ",
   "missing": [],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

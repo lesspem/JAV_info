@@ -1,0 +1,31 @@
+{
+  "nameJa": "前田美波",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%89%8D%E7%94%B0%E7%BE%8E%E6%B3%A2.jpg",
+  "birth": "2001-12-15",
+  "bloodType": "A",
+  "height": "166",
+  "weight": "",
+  "threeSize": "84 - 60 - 89",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "エスワン",
+  "social": {
+    "x": "maeda_minami_",
+    "instagram": "maeda_minami_",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "前田美波",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

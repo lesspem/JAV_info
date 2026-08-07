@@ -5,7 +5,7 @@
     "とわ",
     "朝宮"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E6%96%B0%E5%9E%A3%E3%81%A8%E3%82%8F.jpg",
   "birth": "1993-07-26",
   "bloodType": "B",
   "height": "164",
@@ -23,12 +23,13 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "新垣とわ",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

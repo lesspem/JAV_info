@@ -5,7 +5,7 @@
     "ひなの",
     "椎名"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E7%A5%9E%E5%9D%82%E3%81%B2%E3%81%AA%E3%81%AE.jpg",
   "birth": "1996-03-03",
   "bloodType": "O",
   "height": "150",
@@ -23,11 +23,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "神坂ひなの",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

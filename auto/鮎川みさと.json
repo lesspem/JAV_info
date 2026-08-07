@@ -2,7 +2,7 @@
   "nameJa": "鮎川みさと",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E9%AE%8E%E5%B7%9D%E3%81%BF%E3%81%95%E3%81%A8.jpg",
   "birth": "1985-04-15",
   "bloodType": "",
   "height": "150",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "鮎川みさと",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

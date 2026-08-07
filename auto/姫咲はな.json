@@ -1,0 +1,34 @@
+{
+  "nameJa": "姫咲はな",
+  "nameZh": "姬咲華",
+  "aliases": [
+    "佐野",
+    "みな実"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%A7%AB%E5%92%B2%E3%81%AF%E3%81%AA.jpg",
+  "birth": "1999-05-21",
+  "bloodType": "A",
+  "height": "156",
+  "weight": "",
+  "threeSize": "100 - 62 - 94",
+  "cup": "I",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "ダスッ!",
+  "social": {
+    "x": "himesaki__hana",
+    "instagram": "hana.himesaki",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "姫咲はな",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

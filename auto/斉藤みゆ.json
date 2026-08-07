@@ -2,7 +2,7 @@
   "nameJa": "斉藤みゆ",
   "nameZh": "齊藤美優",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/thumb?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-%E6%9C%AA%E6%BA%80/%E6%96%89%E8%97%A4%E3%81%BF%E3%82%86.jpg",
   "birth": "1994-03-22",
   "bloodType": "O",
   "height": "158",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "斉藤みゆ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

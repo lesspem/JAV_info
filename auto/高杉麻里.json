@@ -2,7 +2,7 @@
   "nameJa": "高杉麻里",
   "nameZh": "高杉麻里",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E9%AB%98%E6%9D%89%E9%BA%BB%E9%87%8C.jpg",
   "birth": "1998-01-30",
   "bloodType": "AB",
   "height": "166",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "高杉麻里",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

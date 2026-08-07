@@ -1,0 +1,31 @@
+{
+  "nameJa": "東條なつ",
+  "nameZh": "東條夏",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%9D%B1%E6%A2%9D%E3%81%AA%E3%81%A4.jpg",
+  "birth": "1999-08-19",
+  "bloodType": "A",
+  "height": "156",
+  "weight": "",
+  "threeSize": "78 - 55 - 85",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "ダスッ!",
+  "social": {
+    "x": "_tojo_natsu",
+    "instagram": "tojonatsu",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "東條なつ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-07"
+}

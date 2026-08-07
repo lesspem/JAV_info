@@ -2,7 +2,7 @@
   "nameJa": "安城アンナ",
   "nameZh": "安城安娜",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E5%AE%89%E5%9F%8E%E3%82%A2%E3%83%B3%E3%83%8A.jpg",
   "birth": "1991-11-01",
   "bloodType": "A",
   "height": "165",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "安城アンナ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

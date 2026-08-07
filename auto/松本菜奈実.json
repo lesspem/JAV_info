@@ -4,7 +4,7 @@
   "aliases": [
     "ななみん"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_27%2C_2025)IMG_1483.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-MUTEKI/%E6%9D%BE%E6%9C%AC%E8%8F%9C%E5%A5%88%E5%AE%9F.jpg",
   "birth": "1994-08-23",
   "bloodType": "B",
   "height": "165",
@@ -23,11 +23,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "zh.wikipedia"
+    "zh.wikipedia",
+    "gfriends"
   ],
   "name": "松本菜奈実",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

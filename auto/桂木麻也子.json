@@ -2,7 +2,7 @@
   "nameJa": "桂木麻也子",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://www.minnano-av.com/p_actress_125_125/004/877789.jpg?new",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E6%A1%82%E6%9C%A8%E9%BA%BB%E4%B9%9F%E5%AD%90.jpg",
   "birth": "1966-03-07",
   "bloodType": "A",
   "height": "162",
@@ -21,12 +21,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "minnano-av"
+    "gfriends"
   ],
   "name": "桂木麻也子",
   "missing": [
     "weight",
     "cup"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

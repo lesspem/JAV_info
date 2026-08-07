@@ -2,7 +2,7 @@
   "nameJa": "楓ふうあ",
   "nameZh": "楓富愛",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Fresh_Festival_2023_in_Shirakobato_Water_Park_IMG_1104.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%A5%93%E3%81%B5%E3%81%86%E3%81%82.jpg",
   "birth": "2001-04-20",
   "bloodType": "",
   "height": "170",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "楓ふうあ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

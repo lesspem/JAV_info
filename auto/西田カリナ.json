@@ -2,7 +2,7 @@
   "nameJa": "西田カリナ",
   "nameZh": "",
   "aliases": [],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Virgin_concerto_20191005_155011.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%A5%BF%E7%94%B0%E3%82%AB%E3%83%AA%E3%83%8A.jpg",
   "birth": "1995-07-07",
   "bloodType": "A",
   "height": "159",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "西田カリナ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

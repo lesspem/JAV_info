@@ -6,7 +6,7 @@
     "詠美",
     "天海こころ"
   ],
-  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Swimsuit_Festival_(April_28%2C_2024)051899.jpg?width=200",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%B7%B1%E7%94%B0%E3%81%88%E3%81%84%E3%81%BF.jpg",
   "birth": "1998-03-18",
   "bloodType": "A",
   "height": "158",
@@ -25,11 +25,12 @@
   "works": "",
   "sources": [
     "ja.wikipedia",
-    "zh.wikipedia"
+    "zh.wikipedia",
+    "gfriends"
   ],
   "name": "深田えいみ",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }

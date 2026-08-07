@@ -2,7 +2,7 @@
   "nameJa": "さくら奈々",
   "nameZh": "",
   "aliases": [],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E3%81%95%E3%81%8F%E3%82%89%E5%A5%88%E3%80%85.jpg",
   "birth": "1987-11-23",
   "bloodType": "A",
   "height": "148",
@@ -20,11 +20,12 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "さくら奈々",
   "missing": [
     "weight"
   ],
-  "updatedAt": "2026-08-06"
+  "updatedAt": "2026-08-07"
 }
