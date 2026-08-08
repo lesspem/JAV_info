@@ -1,0 +1,31 @@
+{
+  "nameJa": "唯月優花",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Cmore/%E5%94%AF%E6%9C%88%E5%84%AA%E8%8A%B1.jpg",
+  "birth": "1997-04-06",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "",
+  "threeSize": "90 - 59 - 90",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2020",
+  "agency": "プレステージ",
+  "social": {
+    "x": "yuzuki_cmore",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "唯月優花",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

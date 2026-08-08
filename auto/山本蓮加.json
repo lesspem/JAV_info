@@ -1,0 +1,34 @@
+{
+  "nameJa": "山本蓮加",
+  "nameZh": "",
+  "aliases": [
+    "藍原あおい",
+    "竹下ななみ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%B1%B1%E6%9C%AC%E8%93%AE%E5%8A%A0.jpg",
+  "birth": "1997-05-21",
+  "bloodType": "",
+  "height": "156",
+  "weight": "",
+  "threeSize": "90 - 60 - 94",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "2024-02-23",
+  "debut": "2017",
+  "agency": "",
+  "social": {
+    "x": "renka_ymmt",
+    "instagram": "renka_ymmt",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "山本蓮加",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

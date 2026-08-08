@@ -1,0 +1,35 @@
+{
+  "nameJa": "西倉まより",
+  "nameZh": "西仓茉依",
+  "aliases": [
+    "まより",
+    "まよちゃん"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E8%A5%BF%E5%80%89%E3%81%BE%E3%82%88%E3%82%8A.jpg",
+  "birth": "1998-11-30",
+  "bloodType": "O",
+  "height": "160",
+  "weight": "",
+  "threeSize": "92 - 60 - 90",
+  "cup": "B",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2019",
+  "agency": "SOD",
+  "social": {
+    "x": "nax_mayori",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "西倉まより",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

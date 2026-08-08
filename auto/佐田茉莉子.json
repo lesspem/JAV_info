@@ -1,0 +1,31 @@
+{
+  "nameJa": "佐田茉莉子",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E4%BD%90%E7%94%B0%E8%8C%89%E8%8E%89%E5%AD%90.jpg",
+  "birth": "1981-11-02",
+  "bloodType": "",
+  "height": "162",
+  "weight": "",
+  "threeSize": "85 - 58 - 88",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2025",
+  "debut": "2020",
+  "agency": "マドンナ",
+  "social": {
+    "x": "Mariko_sata",
+    "instagram": "mariko_sata",
+    "tiktok": "mariko_sata"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "佐田茉莉子",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

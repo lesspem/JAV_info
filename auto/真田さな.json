@@ -1,0 +1,34 @@
+{
+  "nameJa": "真田さな",
+  "nameZh": "真田紗奈",
+  "aliases": [
+    "真田みづ稀",
+    "真田美樹"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E7%9C%9F%E7%94%B0%E3%81%95%E3%81%AA.jpg",
+  "birth": "1996-03-14",
+  "bloodType": "A",
+  "height": "166",
+  "weight": "",
+  "threeSize": "95 - 60 - 90",
+  "cup": "G-70",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2016",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "真田さな",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

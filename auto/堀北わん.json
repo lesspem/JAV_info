@@ -1,0 +1,31 @@
+{
+  "nameJa": "堀北わん",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%A0%80%E5%8C%97%E3%82%8F%E3%82%93.jpg",
+  "birth": "2000-01-04",
+  "bloodType": "",
+  "height": "150",
+  "weight": "",
+  "threeSize": "78 - 54 - 84",
+  "cup": "B-65",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2020",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "堀北わん",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

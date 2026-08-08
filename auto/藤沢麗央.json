@@ -1,0 +1,31 @@
+{
+  "nameJa": "藤沢麗央",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E8%97%A4%E6%B2%A2%E9%BA%97%E5%A4%AE.jpg",
+  "birth": "1999-06-22",
+  "bloodType": "",
+  "height": "166",
+  "weight": "",
+  "threeSize": "110 - 82 - 115",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "2025",
+  "debut": "2020",
+  "agency": "マドンナ",
+  "social": {
+    "x": "fujisawareo",
+    "instagram": "reo_0281",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "藤沢麗央",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

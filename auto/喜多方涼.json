@@ -1,0 +1,31 @@
+{
+  "nameJa": "喜多方涼",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%96%9C%E5%A4%9A%E6%96%B9%E6%B6%BC.jpg",
+  "birth": "1992-12-04",
+  "bloodType": "A",
+  "height": "150",
+  "weight": "",
+  "threeSize": "88 - 66 - 89",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2018",
+  "agency": "マキシング",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "喜多方涼",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

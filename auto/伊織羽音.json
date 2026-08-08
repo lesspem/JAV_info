@@ -1,0 +1,31 @@
+{
+  "nameJa": "伊織羽音",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E4%BC%8A%E7%B9%94%E7%BE%BD%E9%9F%B3.jpg",
+  "birth": "2000-04-04",
+  "bloodType": "",
+  "height": "155",
+  "weight": "",
+  "threeSize": "95 - 60 - 90",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2023",
+  "debut": "2022-02-01",
+  "agency": "Fitch",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "伊織羽音",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

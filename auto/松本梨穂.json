@@ -1,0 +1,31 @@
+{
+  "nameJa": "松本梨穂",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%9D%BE%E6%9C%AC%E6%A2%A8%E7%A9%82.jpg",
+  "birth": "1997-07-07",
+  "bloodType": "",
+  "height": "149",
+  "weight": "",
+  "threeSize": "89 - 56 - 88",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2024",
+  "debut": "2022",
+  "agency": "OPPAI",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "松本梨穂",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

@@ -1,0 +1,34 @@
+{
+  "nameJa": "林愛菜",
+  "nameZh": "",
+  "aliases": [
+    "高山恵美",
+    "澄川紗香"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Honnaka/%E6%9E%97%E6%84%9B%E8%8F%9C.jpg",
+  "birth": "1999-10-06",
+  "bloodType": "A",
+  "height": "156",
+  "weight": "",
+  "threeSize": "82 - 55 - 83",
+  "cup": "A",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2020",
+  "agency": "",
+  "social": {
+    "x": "hayashi_mana",
+    "instagram": "hayashi_mana1",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "林愛菜",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

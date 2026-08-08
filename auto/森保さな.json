@@ -1,0 +1,31 @@
+{
+  "nameJa": "森保さな",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%A3%AE%E4%BF%9D%E3%81%95%E3%81%AA.jpg",
+  "birth": "1996-02-13",
+  "bloodType": "B",
+  "height": "156",
+  "weight": "",
+  "threeSize": "88 - 59 - 86",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2015",
+  "agency": "",
+  "social": {
+    "x": "morihosana0213",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "森保さな",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

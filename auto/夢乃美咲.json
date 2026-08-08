@@ -1,0 +1,31 @@
+{
+  "nameJa": "夢乃美咲",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E5%A4%A2%E4%B9%83%E7%BE%8E%E5%92%B2.jpg",
+  "birth": "1997-07-21",
+  "bloodType": "",
+  "height": "153",
+  "weight": "",
+  "threeSize": "72 - 56 - 76",
+  "cup": "A-65",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2018",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "夢乃美咲",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

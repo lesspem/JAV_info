@@ -1,0 +1,31 @@
+{
+  "nameJa": "葉月もえ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%91%89%E6%9C%88%E3%82%82%E3%81%88.jpg",
+  "birth": "1995-12-04",
+  "bloodType": "O",
+  "height": "154",
+  "weight": "",
+  "threeSize": "86 - 59 - 85",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2023-03-31",
+  "debut": "2016",
+  "agency": "クローネ",
+  "social": {
+    "x": "moehazukiii",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "葉月もえ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

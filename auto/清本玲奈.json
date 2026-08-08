@@ -1,0 +1,33 @@
+{
+  "nameJa": "清本玲奈",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B8%85%E6%9C%AC%E7%8E%B2%E5%A5%88.jpg",
+  "birth": "1994-10-07",
+  "bloodType": "",
+  "height": "158",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2016-04-11",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "清本玲奈",
+  "missing": [
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-08"
+}

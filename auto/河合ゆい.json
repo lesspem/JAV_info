@@ -1,0 +1,31 @@
+{
+  "nameJa": "河合ゆい",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E6%B2%B3%E5%90%88%E3%82%86%E3%81%84.jpg",
+  "birth": "2000-11-11",
+  "bloodType": "",
+  "height": "158",
+  "weight": "",
+  "threeSize": "84 - 58 - 83",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2020",
+  "agency": "ムーディーズ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "河合ゆい",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

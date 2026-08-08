@@ -1,0 +1,31 @@
+{
+  "nameJa": "樋口みつは",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A8%8B%E5%8F%A3%E3%81%BF%E3%81%A4%E3%81%AF.jpg",
+  "birth": "1997-01-27",
+  "bloodType": "AB",
+  "height": "159",
+  "weight": "",
+  "threeSize": "80 - 58 - 85",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2023",
+  "debut": "2020-07-13",
+  "agency": "",
+  "social": {
+    "x": "higuchi_mitsuha",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "樋口みつは",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

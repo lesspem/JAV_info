@@ -1,0 +1,31 @@
+{
+  "nameJa": "久留木玲",
+  "nameZh": "久留木玲",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%B9%85%E7%95%99%E6%9C%A8%E7%8E%B2.jpg",
+  "birth": "1999-12-12",
+  "bloodType": "O",
+  "height": "156",
+  "weight": "",
+  "threeSize": "83 - 59 - 85",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2019",
+  "agency": "青春時代",
+  "social": {
+    "x": "kuruki_rei",
+    "instagram": "kuruki_rei",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "久留木玲",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

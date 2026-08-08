@@ -1,0 +1,34 @@
+{
+  "nameJa": "羽田希",
+  "nameZh": "羽田希",
+  "aliases": [
+    "井上",
+    "まさみ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E7%BE%BD%E7%94%B0%E5%B8%8C.jpg",
+  "birth": "1988-07-31",
+  "bloodType": "A",
+  "height": "154",
+  "weight": "",
+  "threeSize": "88 - 60 - 84",
+  "cup": "F-65",
+  "retired": true,
+  "retiredAt": "2022-07-16",
+  "debut": "2008",
+  "agency": "",
+  "social": {
+    "x": "haneda_nozomi",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "羽田希",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

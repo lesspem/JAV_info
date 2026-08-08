@@ -1,0 +1,35 @@
+{
+  "nameJa": "志恩まこ",
+  "nameZh": "",
+  "aliases": [
+    "遠藤",
+    "あさみ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%BF%97%E6%81%A9%E3%81%BE%E3%81%93.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "88 - 58 - 86",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2023-07-17",
+  "debut": "2020",
+  "agency": "",
+  "social": {
+    "x": "shion_mako",
+    "instagram": "shion_mako",
+    "tiktok": "onmako_"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "志恩まこ",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

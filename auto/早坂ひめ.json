@@ -1,0 +1,31 @@
+{
+  "nameJa": "早坂ひめ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E6%97%A9%E5%9D%82%E3%81%B2%E3%82%81.jpg",
+  "birth": "2002-06-03",
+  "bloodType": "A",
+  "height": "154",
+  "weight": "",
+  "threeSize": "88 - 57 - 87",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2025-08-26",
+  "debut": "2024-12-18",
+  "agency": "エスワン",
+  "social": {
+    "x": "o_ohime33",
+    "instagram": "o_ohime33",
+    "tiktok": "o_ohime33"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "早坂ひめ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

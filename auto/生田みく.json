@@ -1,0 +1,31 @@
+{
+  "nameJa": "生田みく",
+  "nameZh": "生田未來",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%94%9F%E7%94%B0%E3%81%BF%E3%81%8F.jpg",
+  "birth": "1998-02-14",
+  "bloodType": "",
+  "height": "145",
+  "weight": "",
+  "threeSize": "78 - 59 - 82",
+  "cup": "D-65",
+  "retired": true,
+  "retiredAt": "2023-02-28",
+  "debut": "2017",
+  "agency": "SOD",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "生田みく",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

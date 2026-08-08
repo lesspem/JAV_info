@@ -1,0 +1,32 @@
+{
+  "nameJa": "高宮まどか",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E9%AB%98%E5%AE%AE%E3%81%BE%E3%81%A9%E3%81%8B.jpg",
+  "birth": "",
+  "bloodType": "A",
+  "height": "152",
+  "weight": "",
+  "threeSize": "82 - 60 - 82",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2018",
+  "agency": "",
+  "social": {
+    "x": "takamiya_madoka",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "高宮まどか",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

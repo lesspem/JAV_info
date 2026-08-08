@@ -1,0 +1,31 @@
+{
+  "nameJa": "美竹すず",
+  "nameZh": "美竹鈴",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E7%BE%8E%E7%AB%B9%E3%81%99%E3%81%9A.jpg",
+  "birth": "1994-09-23",
+  "bloodType": "O",
+  "height": "161",
+  "weight": "",
+  "threeSize": "92 - 57 - 85",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "2025",
+  "debut": "2015",
+  "agency": "S1",
+  "social": {
+    "x": "mitakesuzu",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "美竹すず",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

@@ -1,0 +1,34 @@
+{
+  "nameJa": "八尋麻衣",
+  "nameZh": "",
+  "aliases": [
+    "麻衣",
+    "水澤"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%85%AB%E5%B0%8B%E9%BA%BB%E8%A1%A3.jpg",
+  "birth": "1998-11-23",
+  "bloodType": "O",
+  "height": "153",
+  "weight": "",
+  "threeSize": "78 - 57 - 88",
+  "cup": "A",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2018",
+  "agency": "SOD",
+  "social": {
+    "x": "yahiro_mai_",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "八尋麻衣",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

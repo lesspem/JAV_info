@@ -158,6 +158,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "世良あさか": {
+    "nameJa": "世良あさか",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E4%B8%96%E8%89%AF%E3%81%82%E3%81%95%E3%81%8B.jpg",
+    "birth": "1993-??-??",
+    "bloodType": "A",
+    "height": "158",
+    "weight": "",
+    "threeSize": "86 - 59 - 84",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2019",
+    "agency": "プレミアム",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "世良あさか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "久遠ゆり": {
     "nameJa": "久遠ゆり",
     "nameZh": "",
@@ -189,6 +220,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "二宮ひかり": {
+    "nameJa": "二宮ひかり",
+    "nameZh": "二宮光",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E4%BA%8C%E5%AE%AE%E3%81%B2%E3%81%8B%E3%82%8A.jpg",
+    "birth": "1999-03-15",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "85 - 59 - 88",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2024-10-01",
+    "debut": "2018",
+    "agency": "マドンナ",
+    "social": {
+      "x": "hikari_ninomiya",
+      "instagram": "hikari_ninomiya_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "二宮ひかり",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "前乃菜々": {
     "nameJa": "前乃菜々",
@@ -796,6 +858,35 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "跡美しゅり": {
+    "nameJa": "跡美しゅり",
+    "nameZh": "跡美朱里",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%B7%A1%E7%BE%8E%E3%81%97%E3%82%85%E3%82%8A.jpg",
+    "birth": "1995-10-06",
+    "bloodType": "B",
+    "height": "156",
+    "weight": "42kg",
+    "threeSize": "85 - 55 - 85",
+    "cup": "B",
+    "retired": true,
+    "retiredAt": "2021-06-01",
+    "debut": "2015",
+    "agency": "",
+    "social": {
+      "x": "atomi_shuri",
+      "instagram": "at0mi_shuri",
+      "tiktok": "shuripero"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "跡美しゅり",
+    "missing": [],
+    "updatedAt": "2026-08-08"
   },
   "逢沢はるか": {
     "nameJa": "逢沢はるか",

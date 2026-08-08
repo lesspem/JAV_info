@@ -1,0 +1,35 @@
+{
+  "nameJa": "望月奈子",
+  "nameZh": "",
+  "aliases": [
+    "八代",
+    "れな"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E6%9C%9B%E6%9C%88%E5%A5%88%E5%AD%90.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "138",
+  "weight": "",
+  "threeSize": "85 - 60 - 86",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2023-07-01",
+  "debut": "2020",
+  "agency": "",
+  "social": {
+    "x": "mochizukinako",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "望月奈子",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

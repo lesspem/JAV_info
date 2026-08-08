@@ -1,4 +1,100 @@
 {
+  "さとう白音": {
+    "nameJa": "さとう白音",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E3%81%95%E3%81%A8%E3%81%86%E7%99%BD%E9%9F%B3.jpg",
+    "birth": "1991-12-30",
+    "bloodType": "",
+    "height": "164",
+    "weight": "",
+    "threeSize": "92 - 58 - 86",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2020",
+    "agency": "マドンナ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "さとう白音",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  "中尾芽衣子": {
+    "nameJa": "中尾芽衣子",
+    "nameZh": "",
+    "aliases": [
+      "青柳",
+      "ひなた"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E4%B8%AD%E5%B0%BE%E8%8A%BD%E8%A1%A3%E5%AD%90.jpg",
+    "birth": "1997-10-17",
+    "bloodType": "O",
+    "height": "163",
+    "weight": "",
+    "threeSize": "88 - 58 - 85",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2015",
+    "agency": "",
+    "social": {
+      "x": "nakaomeiko",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "中尾芽衣子",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  "中山琴葉": {
+    "nameJa": "中山琴葉",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-AVDBS/%E4%B8%AD%E5%B1%B1%E7%90%B4%E8%91%89.jpg",
+    "birth": "1997-12-12",
+    "bloodType": "",
+    "height": "159",
+    "weight": "",
+    "threeSize": "84 - 60 - 86",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2023",
+    "debut": "2020",
+    "agency": "",
+    "social": {
+      "x": "nakayama_kotoha",
+      "instagram": "kotoha_nakayama",
+      "tiktok": "nako_rin_2020"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "中山琴葉",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "倉咲ゆう": {
     "nameJa": "倉咲ゆう",
     "nameZh": "",
@@ -61,6 +157,40 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "嗣永さゆみ": {
+    "nameJa": "嗣永さゆみ",
+    "nameZh": "",
+    "aliases": [
+      "まよい",
+      "青木"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%97%A3%E6%B0%B8%E3%81%95%E3%82%86%E3%81%BF.jpg",
+    "birth": "1997-04-17",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "90 - 58 - 90",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2017-05-13",
+    "agency": "",
+    "social": {
+      "x": "shiono_ran_Life",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "嗣永さゆみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "天海麗": {
     "nameJa": "天海麗",
     "nameZh": "天海麗",
@@ -122,6 +252,40 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "宮沢ちはる": {
+    "nameJa": "宮沢ちはる",
+    "nameZh": "宮澤千春",
+    "aliases": [
+      "浅香",
+      "美里"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%AE%AE%E6%B2%A2%E3%81%A1%E3%81%AF%E3%82%8B.jpg",
+    "birth": "1996-05-12",
+    "bloodType": "O",
+    "height": "150",
+    "weight": "",
+    "threeSize": "80 - 58 - 76",
+    "cup": "B",
+    "retired": true,
+    "retiredAt": "2023-12-30",
+    "debut": "2017",
+    "agency": "",
+    "social": {
+      "x": "miya_chiharuu",
+      "instagram": "chi.ha.ru.nrun",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "宮沢ちはる",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "彩瀬希": {
     "nameJa": "彩瀬希",
@@ -412,6 +576,40 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "羽田希": {
+    "nameJa": "羽田希",
+    "nameZh": "羽田希",
+    "aliases": [
+      "井上",
+      "まさみ"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E7%BE%BD%E7%94%B0%E5%B8%8C.jpg",
+    "birth": "1988-07-31",
+    "bloodType": "A",
+    "height": "154",
+    "weight": "",
+    "threeSize": "88 - 60 - 84",
+    "cup": "F-65",
+    "retired": true,
+    "retiredAt": "2022-07-16",
+    "debut": "2008",
+    "agency": "",
+    "social": {
+      "x": "haneda_nozomi",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "羽田希",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "葵つかさ": {
     "nameJa": "葵つかさ",
     "nameZh": "葵司",
@@ -473,5 +671,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "鳳みゆ愛花みちる": {
+    "nameJa": "鳳みゆ愛花みちる",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "鳳みゆ愛花みちる",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-08"
   }
 }

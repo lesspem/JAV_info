@@ -1,0 +1,33 @@
+{
+  "nameJa": "朝桐光",
+  "nameZh": "南野燈",
+  "aliases": [
+    "南野あかり"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E6%9C%9D%E6%A1%90%E5%85%89.jpg",
+  "birth": "1982-03-28",
+  "bloodType": "B",
+  "height": "164",
+  "weight": "",
+  "threeSize": "88 - 58 - 85",
+  "cup": "F-70",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2010",
+  "agency": "",
+  "social": {
+    "x": "asagiri_akari",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "朝桐光",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

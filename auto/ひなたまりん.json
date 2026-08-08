@@ -1,0 +1,31 @@
+{
+  "nameJa": "ひなたまりん",
+  "nameZh": "日向真凜",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E3%81%B2%E3%81%AA%E3%81%9F%E3%81%BE%E3%82%8A%E3%82%93.jpg",
+  "birth": "1994-07-07",
+  "bloodType": "A",
+  "height": "171",
+  "weight": "",
+  "threeSize": "86 - 60 - 93",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2023",
+  "debut": "2019",
+  "agency": "PREMIUM",
+  "social": {
+    "x": "_mariiin_07",
+    "instagram": "_mariiin_07",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "ひなたまりん",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "川原かなえ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E5%B7%9D%E5%8E%9F%E3%81%8B%E3%81%AA%E3%81%88.jpg",
+  "birth": "1995-03-14",
+  "bloodType": "",
+  "height": "156",
+  "weight": "",
+  "threeSize": "95 - 63 - 109",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2019",
+  "agency": "Fitch",
+  "social": {
+    "x": "kawahara_kanae",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "川原かなえ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

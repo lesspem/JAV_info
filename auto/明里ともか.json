@@ -1,0 +1,31 @@
+{
+  "nameJa": "明里ともか",
+  "nameZh": "明里友香",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E6%98%8E%E9%87%8C%E3%81%A8%E3%82%82%E3%81%8B.jpg",
+  "birth": "1983-03-19",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "",
+  "threeSize": "90 - 63 - 90",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2016",
+  "agency": "SOD",
+  "social": {
+    "x": "TomokaA2016",
+    "instagram": "akaritomoka2016",
+    "tiktok": "tomoka2016"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "明里ともか",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "吉岡ひより",
+  "nameZh": "吉岡日和",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%90%89%E5%B2%A1%E3%81%B2%E3%82%88%E3%82%8A.jpg",
+  "birth": "1999-08-08",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "",
+  "threeSize": "83 - 57 - 86",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2019-10-19",
+  "agency": "FALENO",
+  "social": {
+    "x": "y_hiyori88",
+    "instagram": "y_hiyori88",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "吉岡ひより",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

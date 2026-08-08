@@ -1,0 +1,33 @@
+{
+  "nameJa": "仲沢ももか",
+  "nameZh": "",
+  "aliases": [
+    "ももか"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%BB%B2%E6%B2%A2%E3%82%82%E3%82%82%E3%81%8B.jpg",
+  "birth": "2000-10-13",
+  "bloodType": "",
+  "height": "155",
+  "weight": "",
+  "threeSize": "88 - 58 - 88",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2020",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "仲沢ももか",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

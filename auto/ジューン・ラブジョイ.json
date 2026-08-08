@@ -1,0 +1,31 @@
+{
+  "nameJa": "ジューン・ラブジョイ",
+  "nameZh": "瓊·洛夫喬伊",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%96%E3%82%B8%E3%83%A7%E3%82%A4.jpg",
+  "birth": "1994-12-01",
+  "bloodType": "O",
+  "height": "171",
+  "weight": "",
+  "threeSize": "98 - 66 - 113",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2026",
+  "debut": "2020",
+  "agency": "",
+  "social": {
+    "x": "June__Lovejoy",
+    "instagram": "junelovejoyy",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "ジューン・ラブジョイ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

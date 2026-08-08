@@ -1,0 +1,31 @@
+{
+  "nameJa": "月島かのん",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%9C%88%E5%B3%B6%E3%81%8B%E3%81%AE%E3%82%93.jpg",
+  "birth": "2000-08-10",
+  "bloodType": "",
+  "height": "173",
+  "weight": "",
+  "threeSize": "90 - 59 - 85",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2020",
+  "agency": "エスワン",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "月島かのん",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

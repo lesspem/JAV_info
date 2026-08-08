@@ -1,0 +1,29 @@
+{
+  "nameJa": "羽咲みはる",
+  "nameZh": "羽咲美晴",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E7%BE%BD%E5%92%B2%E3%81%BF%E3%81%AF%E3%82%8B.jpg",
+  "birth": "1992-03-03",
+  "bloodType": "A",
+  "height": "151",
+  "weight": "49kg",
+  "threeSize": "86 - 59 - 84",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2016",
+  "agency": "S1",
+  "social": {
+    "x": "usa_miharu",
+    "instagram": "miharu_usa",
+    "tiktok": "usa.miharu"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "羽咲みはる",
+  "missing": [],
+  "updatedAt": "2026-08-08"
+}

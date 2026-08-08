@@ -1,0 +1,34 @@
+{
+  "nameJa": "塔乃花鈴",
+  "nameZh": "",
+  "aliases": [
+    "花鈴ちゃん",
+    "かりん姫"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%A1%94%E4%B9%83%E8%8A%B1%E9%88%B4.jpg",
+  "birth": "2004-03-15",
+  "bloodType": "AB",
+  "height": "154",
+  "weight": "",
+  "threeSize": "87 - 60 - 89",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2026",
+  "debut": "2024-05-24",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "touno_karin_",
+    "instagram": "touno_karin",
+    "tiktok": "touno__karin_"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "塔乃花鈴",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

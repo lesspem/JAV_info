@@ -1,0 +1,31 @@
+{
+  "nameJa": "桜木優希音",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A1%9C%E6%9C%A8%E5%84%AA%E5%B8%8C%E9%9F%B3.jpg",
+  "birth": "1994-05-18",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "",
+  "threeSize": "81 - 58 - 94",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2014",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "sakuragiyukine",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "桜木優希音",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

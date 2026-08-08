@@ -33,6 +33,69 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "一ノ瀬あおい": {
+    "nameJa": "一ノ瀬あおい",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E4%B8%80%E3%83%8E%E7%80%AC%E3%81%82%E3%81%8A%E3%81%84.jpg",
+    "birth": "2003-09-03",
+    "bloodType": "",
+    "height": "154",
+    "weight": "",
+    "threeSize": "",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2025-06-08",
+    "debut": "2024",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "a01_93_",
+      "instagram": "aoi_love82",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "一ノ瀬あおい",
+    "missing": [
+      "weight",
+      "threeSize"
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  "久留木玲": {
+    "nameJa": "久留木玲",
+    "nameZh": "久留木玲",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%B9%85%E7%95%99%E6%9C%A8%E7%8E%B2.jpg",
+    "birth": "1999-12-12",
+    "bloodType": "O",
+    "height": "156",
+    "weight": "",
+    "threeSize": "83 - 59 - 85",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2019",
+    "agency": "青春時代",
+    "social": {
+      "x": "kuruki_rei",
+      "instagram": "kuruki_rei",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "久留木玲",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "今宿まこと": {
     "nameJa": "今宿まこと",
     "nameZh": "",
@@ -94,6 +157,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "加藤沙季": {
+    "nameJa": "加藤沙季",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%8A%A0%E8%97%A4%E6%B2%99%E5%AD%A3.jpg",
+    "birth": "1984-11-30",
+    "bloodType": "A",
+    "height": "152",
+    "weight": "",
+    "threeSize": "85 - 62 - 86",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2019",
+    "agency": "マドンナ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "加藤沙季",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "南條加奈": {
     "nameJa": "南條加奈",
@@ -640,6 +734,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "潮美舞": {
+    "nameJa": "潮美舞",
+    "nameZh": "潮美舞",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%BD%AE%E7%BE%8E%E8%88%9E.jpg",
+    "birth": "1999-07-14",
+    "bloodType": "",
+    "height": "154",
+    "weight": "",
+    "threeSize": "83 - 56 - 82",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2020",
+    "agency": "S1",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "潮美舞",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "白石ひより": {
     "nameJa": "白石ひより",

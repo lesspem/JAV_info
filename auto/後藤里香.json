@@ -1,0 +1,34 @@
+{
+  "nameJa": "後藤里香",
+  "nameZh": "",
+  "aliases": [
+    "りか",
+    "ゆか"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E5%BE%8C%E8%97%A4%E9%87%8C%E9%A6%99.jpg",
+  "birth": "1995-08-15",
+  "bloodType": "A",
+  "height": "154",
+  "weight": "",
+  "threeSize": "96 - 63 - 86",
+  "cup": "I",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2017",
+  "agency": "E-BODY",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "後藤里香",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

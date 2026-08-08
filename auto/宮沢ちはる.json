@@ -1,0 +1,34 @@
+{
+  "nameJa": "宮沢ちはる",
+  "nameZh": "宮澤千春",
+  "aliases": [
+    "浅香",
+    "美里"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%AE%AE%E6%B2%A2%E3%81%A1%E3%81%AF%E3%82%8B.jpg",
+  "birth": "1996-05-12",
+  "bloodType": "O",
+  "height": "150",
+  "weight": "",
+  "threeSize": "80 - 58 - 76",
+  "cup": "B",
+  "retired": true,
+  "retiredAt": "2023-12-30",
+  "debut": "2017",
+  "agency": "",
+  "social": {
+    "x": "miya_chiharuu",
+    "instagram": "chi.ha.ru.nrun",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "宮沢ちはる",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

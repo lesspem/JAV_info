@@ -1,0 +1,31 @@
+{
+  "nameJa": "世良あさか",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E4%B8%96%E8%89%AF%E3%81%82%E3%81%95%E3%81%8B.jpg",
+  "birth": "1993-??-??",
+  "bloodType": "A",
+  "height": "158",
+  "weight": "",
+  "threeSize": "86 - 59 - 84",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2019",
+  "agency": "プレミアム",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "世良あさか",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

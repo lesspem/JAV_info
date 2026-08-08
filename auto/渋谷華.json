@@ -1,0 +1,31 @@
+{
+  "nameJa": "渋谷華",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-KiraKira/%E6%B8%8B%E8%B0%B7%E8%8F%AF.jpg",
+  "birth": "2000-09-06",
+  "bloodType": "",
+  "height": "180",
+  "weight": "",
+  "threeSize": "90 - 62 - 95",
+  "cup": "C-70",
+  "retired": true,
+  "retiredAt": "2023",
+  "debut": "2022",
+  "agency": "kira☆kira",
+  "social": {
+    "x": "shibuya_hana215",
+    "instagram": "skm__0018",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "渋谷華",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

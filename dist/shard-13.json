@@ -97,6 +97,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "五十嵐なつ": {
+    "nameJa": "五十嵐なつ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E4%BA%94%E5%8D%81%E5%B5%90%E3%81%AA%E3%81%A4.jpg",
+    "birth": "1998-07-08",
+    "bloodType": "",
+    "height": "163",
+    "weight": "",
+    "threeSize": "88 - 60 - 88",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2024",
+    "debut": "2021",
+    "agency": "FALENO",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "五十嵐なつ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "京野美沙": {
     "nameJa": "京野美沙",
     "nameZh": "",
@@ -222,6 +253,37 @@
     "name": "北川瞳",
     "missing": [],
     "updatedAt": "2026-08-07"
+  },
+  "吉沢梨亜": {
+    "nameJa": "吉沢梨亜",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E5%90%89%E6%B2%A2%E6%A2%A8%E4%BA%9C.jpg",
+    "birth": "2003-09-09",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "86 - 59 - 84",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2024",
+    "agency": "FALENO",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "吉沢梨亜",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "坂道みる": {
     "nameJa": "坂道みる",
@@ -381,6 +443,40 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "山本蓮加": {
+    "nameJa": "山本蓮加",
+    "nameZh": "",
+    "aliases": [
+      "藍原あおい",
+      "竹下ななみ"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%B1%B1%E6%9C%AC%E8%93%AE%E5%8A%A0.jpg",
+    "birth": "1997-05-21",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "90 - 60 - 94",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2024-02-23",
+    "debut": "2017",
+    "agency": "",
+    "social": {
+      "x": "renka_ymmt",
+      "instagram": "renka_ymmt",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "山本蓮加",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "岡江凛": {
     "nameJa": "岡江凛",
@@ -768,6 +864,70 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "浅倉領花": {
+    "nameJa": "浅倉領花",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B5%85%E5%80%89%E9%A0%98%E8%8A%B1.jpg",
+    "birth": "1992-11-15",
+    "bloodType": "",
+    "height": "153",
+    "weight": "",
+    "threeSize": "87 - 56 - 87",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2013-08-20",
+    "agency": "D☆Collection",
+    "social": {
+      "x": "asakura_ryouka",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "浅倉領花",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  "清本玲奈": {
+    "nameJa": "清本玲奈",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B8%85%E6%9C%AC%E7%8E%B2%E5%A5%88.jpg",
+    "birth": "1994-10-07",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2016-04-11",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "清本玲奈",
+    "missing": [
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "真白みのり": {
     "nameJa": "真白みのり",

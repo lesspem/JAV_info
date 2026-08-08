@@ -1,0 +1,32 @@
+{
+  "nameJa": "一ノ瀬あおい",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E4%B8%80%E3%83%8E%E7%80%AC%E3%81%82%E3%81%8A%E3%81%84.jpg",
+  "birth": "2003-09-03",
+  "bloodType": "",
+  "height": "154",
+  "weight": "",
+  "threeSize": "",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2025-06-08",
+  "debut": "2024",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "a01_93_",
+    "instagram": "aoi_love82",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "一ノ瀬あおい",
+  "missing": [
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-08"
+}

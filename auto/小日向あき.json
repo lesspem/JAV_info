@@ -1,0 +1,31 @@
+{
+  "nameJa": "小日向あき",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E5%B0%8F%E6%97%A5%E5%90%91%E3%81%82%E3%81%8D.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "158",
+  "weight": "48kg",
+  "threeSize": "84 - 62 - 90",
+  "cup": "E-65",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2019",
+  "agency": "",
+  "social": {
+    "x": "kohinata_aki",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "小日向あき",
+  "missing": [
+    "birth"
+  ],
+  "updatedAt": "2026-08-08"
+}

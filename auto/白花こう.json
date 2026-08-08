@@ -1,0 +1,31 @@
+{
+  "nameJa": "白花こう",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E7%99%BD%E8%8A%B1%E3%81%93%E3%81%86.jpg",
+  "birth": "1991-08-07",
+  "bloodType": "",
+  "height": "166",
+  "weight": "",
+  "threeSize": "82 - 59 - 90",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2023",
+  "debut": "2022",
+  "agency": "マドンナ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": "gg_kou_shirahana"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "白花こう",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

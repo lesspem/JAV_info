@@ -1,0 +1,31 @@
+{
+  "nameJa": "加藤沙季",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%8A%A0%E8%97%A4%E6%B2%99%E5%AD%A3.jpg",
+  "birth": "1984-11-30",
+  "bloodType": "A",
+  "height": "152",
+  "weight": "",
+  "threeSize": "85 - 62 - 86",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2019",
+  "agency": "マドンナ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "加藤沙季",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

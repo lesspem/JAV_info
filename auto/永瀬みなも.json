@@ -1,0 +1,31 @@
+{
+  "nameJa": "永瀬みなも",
+  "nameZh": "永瀨未萌",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%B0%B8%E7%80%AC%E3%81%BF%E3%81%AA%E3%82%82.jpg",
+  "birth": "1995-11-19",
+  "bloodType": "A",
+  "height": "155",
+  "weight": "",
+  "threeSize": "90 - 57 - 89",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2018-11-15",
+  "agency": "{{plainlist|",
+  "social": {
+    "x": "minamo0212",
+    "instagram": "minamotan0212",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "永瀬みなも",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

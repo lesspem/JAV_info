@@ -1,0 +1,31 @@
+{
+  "nameJa": "潮美舞",
+  "nameZh": "潮美舞",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%BD%AE%E7%BE%8E%E8%88%9E.jpg",
+  "birth": "1999-07-14",
+  "bloodType": "",
+  "height": "154",
+  "weight": "",
+  "threeSize": "83 - 56 - 82",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2020",
+  "agency": "S1",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "潮美舞",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

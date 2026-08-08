@@ -1,0 +1,31 @@
+{
+  "nameJa": "さとう白音",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E3%81%95%E3%81%A8%E3%81%86%E7%99%BD%E9%9F%B3.jpg",
+  "birth": "1991-12-30",
+  "bloodType": "",
+  "height": "164",
+  "weight": "",
+  "threeSize": "92 - 58 - 86",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2020",
+  "agency": "マドンナ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "さとう白音",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

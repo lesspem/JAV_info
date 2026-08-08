@@ -1,4 +1,35 @@
 {
+  "ひなたまりん": {
+    "nameJa": "ひなたまりん",
+    "nameZh": "日向真凜",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E3%81%B2%E3%81%AA%E3%81%9F%E3%81%BE%E3%82%8A%E3%82%93.jpg",
+    "birth": "1994-07-07",
+    "bloodType": "A",
+    "height": "171",
+    "weight": "",
+    "threeSize": "86 - 60 - 93",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2023",
+    "debut": "2019",
+    "agency": "PREMIUM",
+    "social": {
+      "x": "_mariiin_07",
+      "instagram": "_mariiin_07",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "ひなたまりん",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "みなみあすか": {
     "nameJa": "みなみあすか",
     "nameZh": "",
@@ -30,6 +61,40 @@
       "cup"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "るるちゃ。": {
+    "nameJa": "るるちゃ。",
+    "nameZh": "",
+    "aliases": [
+      "有栖",
+      "るる"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E3%82%8B%E3%82%8B%E3%81%A1%E3%82%83%E3%80%82.jpg",
+    "birth": "1998-01-11",
+    "bloodType": "O",
+    "height": "147",
+    "weight": "",
+    "threeSize": "82 - 53 - 84",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2020-02-22",
+    "debut": "2018",
+    "agency": "kawaii*",
+    "social": {
+      "x": "_ru_ru_x_",
+      "instagram": "ru_ru_x_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "るるちゃ。",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "一ノ瀬あきら": {
     "nameJa": "一ノ瀬あきら",
@@ -92,6 +157,68 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "伊織羽音": {
+    "nameJa": "伊織羽音",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E4%BC%8A%E7%B9%94%E7%BE%BD%E9%9F%B3.jpg",
+    "birth": "2000-04-04",
+    "bloodType": "",
+    "height": "155",
+    "weight": "",
+    "threeSize": "95 - 60 - 90",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2023",
+    "debut": "2022-02-01",
+    "agency": "Fitch",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "伊織羽音",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  "佐田茉莉子": {
+    "nameJa": "佐田茉莉子",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E4%BD%90%E7%94%B0%E8%8C%89%E8%8E%89%E5%AD%90.jpg",
+    "birth": "1981-11-02",
+    "bloodType": "",
+    "height": "162",
+    "weight": "",
+    "threeSize": "85 - 58 - 88",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2020",
+    "agency": "マドンナ",
+    "social": {
+      "x": "Mariko_sata",
+      "instagram": "mariko_sata",
+      "tiktok": "mariko_sata"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "佐田茉莉子",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "倉木華": {
     "nameJa": "倉木華",
@@ -186,6 +313,70 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "唯月優花": {
+    "nameJa": "唯月優花",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Cmore/%E5%94%AF%E6%9C%88%E5%84%AA%E8%8A%B1.jpg",
+    "birth": "1997-04-06",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "",
+    "threeSize": "90 - 59 - 90",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2020",
+    "agency": "プレステージ",
+    "social": {
+      "x": "yuzuki_cmore",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "唯月優花",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  "堀内美香": {
+    "nameJa": "堀内美香",
+    "nameZh": "",
+    "aliases": [
+      "堀内",
+      "未果子"
+    ],
+    "avatar": "",
+    "birth": "1995-02-28",
+    "bloodType": "",
+    "height": "163",
+    "weight": "",
+    "threeSize": "84 - 58 - 82",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2024",
+    "debut": "2021",
+    "agency": "",
+    "social": {
+      "x": "mikafanza",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "堀内美香",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "夏目響": {
     "nameJa": "夏目響",
@@ -312,6 +503,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "時田亜美": {
+    "nameJa": "時田亜美",
+    "nameZh": "時田亞美",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%99%82%E7%94%B0%E4%BA%9C%E7%BE%8E.jpg",
+    "birth": "2001-10-10",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "83 - 56 - 86",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2021",
+    "agency": "AV女優期間 FALENO star",
+    "social": {
+      "x": "ami__t1010",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "時田亜美",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "月島なるみ": {
     "nameJa": "月島なるみ",
@@ -471,6 +693,40 @@
       "cup"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "瀬乃ひなた": {
+    "nameJa": "瀬乃ひなた",
+    "nameZh": "",
+    "aliases": [
+      "ひより",
+      "葉音"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E7%80%AC%E4%B9%83%E3%81%B2%E3%81%AA%E3%81%9F.jpg",
+    "birth": "1995-12-09",
+    "bloodType": "",
+    "height": "162",
+    "weight": "",
+    "threeSize": "85 - 60 - 90",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2016",
+    "agency": "",
+    "social": {
+      "x": "seno_hinata",
+      "instagram": "senohinata",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "瀬乃ひなた",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "琴音華": {
     "nameJa": "琴音華",

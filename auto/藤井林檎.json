@@ -1,0 +1,31 @@
+{
+  "nameJa": "藤井林檎",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E8%97%A4%E4%BA%95%E6%9E%97%E6%AA%8E.jpg",
+  "birth": "1995-11-28",
+  "bloodType": "",
+  "height": "150",
+  "weight": "",
+  "threeSize": "76 - 58 - 93",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2019",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "藤井林檎",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

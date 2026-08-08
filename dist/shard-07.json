@@ -1,4 +1,70 @@
 {
+  "かさいあみ": {
+    "nameJa": "かさいあみ",
+    "nameZh": "河西亚美",
+    "aliases": [
+      "杏あづさ",
+      "来栖千夏"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E3%81%8B%E3%81%95%E3%81%84%E3%81%82%E3%81%BF.jpg",
+    "birth": "1987-05-17",
+    "bloodType": "A",
+    "height": "152",
+    "weight": "48kg",
+    "threeSize": "88 - 60 - 88",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2009",
+    "agency": "",
+    "social": {
+      "x": "andu072",
+      "instagram": "ami_kasai_japan",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "かさいあみ",
+    "missing": [],
+    "updatedAt": "2026-08-08"
+  },
+  "さくらみゆき": {
+    "nameJa": "さくらみゆき",
+    "nameZh": "櫻美雪",
+    "aliases": [
+      "さくら",
+      "みゆき"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E3%81%95%E3%81%8F%E3%82%89%E3%81%BF%E3%82%86%E3%81%8D.jpg",
+    "birth": "1991-12-01",
+    "bloodType": "AB",
+    "height": "155",
+    "weight": "",
+    "threeSize": "85 - 60 - 93",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2022-08-24",
+    "debut": "2016",
+    "agency": "本中",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "さくらみゆき",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "つぼみ": {
     "nameJa": "つぼみ",
     "nameZh": "",
@@ -125,6 +191,38 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "夢見照うた": {
+    "nameJa": "夢見照うた",
+    "nameZh": "",
+    "aliases": [
+      "夢美弖",
+      "うた"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%A4%A2%E8%A6%8B%E7%85%A7%E3%81%86%E3%81%9F.jpg",
+    "birth": "1998-12-05",
+    "bloodType": "",
+    "height": "148",
+    "weight": "32kg",
+    "threeSize": "83 - 62 - 84",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2019",
+    "agency": "million",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "夢見照うた",
+    "missing": [],
+    "updatedAt": "2026-08-08"
   },
   "天月あず": {
     "nameJa": "天月あず",
@@ -256,6 +354,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "川原かなえ": {
+    "nameJa": "川原かなえ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E5%B7%9D%E5%8E%9F%E3%81%8B%E3%81%AA%E3%81%88.jpg",
+    "birth": "1995-03-14",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "95 - 63 - 109",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2019",
+    "agency": "Fitch",
+    "social": {
+      "x": "kawahara_kanae",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "川原かなえ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "川村朋美": {
     "nameJa": "川村朋美",
     "nameZh": "",
@@ -350,6 +479,41 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "志恩まこ": {
+    "nameJa": "志恩まこ",
+    "nameZh": "",
+    "aliases": [
+      "遠藤",
+      "あさみ"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%BF%97%E6%81%A9%E3%81%BE%E3%81%93.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "88 - 58 - 86",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2023-07-17",
+    "debut": "2020",
+    "agency": "",
+    "social": {
+      "x": "shion_mako",
+      "instagram": "shion_mako",
+      "tiktok": "onmako_"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "志恩まこ",
+    "missing": [
+      "birth",
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "松永あかり": {
     "nameJa": "松永あかり",
@@ -539,6 +703,37 @@
     "name": "片岡なぎさ",
     "missing": [],
     "updatedAt": "2026-08-07"
+  },
+  "白花こう": {
+    "nameJa": "白花こう",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E7%99%BD%E8%8A%B1%E3%81%93%E3%81%86.jpg",
+    "birth": "1991-08-07",
+    "bloodType": "",
+    "height": "166",
+    "weight": "",
+    "threeSize": "82 - 59 - 90",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2023",
+    "debut": "2022",
+    "agency": "マドンナ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": "gg_kou_shirahana"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "白花こう",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "白鳥さくら": {
     "nameJa": "白鳥さくら",

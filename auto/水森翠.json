@@ -1,0 +1,31 @@
+{
+  "nameJa": "水森翠",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E6%B0%B4%E6%A3%AE%E7%BF%A0.jpg",
+  "birth": "1996-12-21",
+  "bloodType": "",
+  "height": "165",
+  "weight": "",
+  "threeSize": "80 - 54 - 82",
+  "cup": "B-65",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2019",
+  "agency": "",
+  "social": {
+    "x": "suisui_mizumori",
+    "instagram": "xiang_suisui",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "水森翠",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

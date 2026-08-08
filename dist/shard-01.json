@@ -61,6 +61,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "ジューン・ラブジョイ": {
+    "nameJa": "ジューン・ラブジョイ",
+    "nameZh": "瓊·洛夫喬伊",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%A9%E3%83%96%E3%82%B8%E3%83%A7%E3%82%A4.jpg",
+    "birth": "1994-12-01",
+    "bloodType": "O",
+    "height": "171",
+    "weight": "",
+    "threeSize": "98 - 66 - 113",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2026",
+    "debut": "2020",
+    "agency": "",
+    "social": {
+      "x": "June__Lovejoy",
+      "instagram": "junelovejoyy",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "ジューン・ラブジョイ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "八乃つばさ": {
     "nameJa": "八乃つばさ",
     "nameZh": "八乃翼",
@@ -122,6 +153,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "喜多方涼": {
+    "nameJa": "喜多方涼",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%96%9C%E5%A4%9A%E6%96%B9%E6%B6%BC.jpg",
+    "birth": "1992-12-04",
+    "bloodType": "A",
+    "height": "150",
+    "weight": "",
+    "threeSize": "88 - 66 - 89",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2018",
+    "agency": "マキシング",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "喜多方涼",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "大空あかね": {
     "nameJa": "大空あかね",
@@ -476,6 +538,38 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "涼宮琴音": {
+    "nameJa": "涼宮琴音",
+    "nameZh": "涼宮琴音",
+    "aliases": [
+      "香椎みなみ",
+      "白咲"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-Diaz/%E6%B6%BC%E5%AE%AE%E7%90%B4%E9%9F%B3.jpg",
+    "birth": "1992-06-27",
+    "bloodType": "A",
+    "height": "159",
+    "weight": "44kg",
+    "threeSize": "84 - 55 - 80",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2012",
+    "agency": "マックス・エー",
+    "social": {
+      "x": "suzumiya_Kotone",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "涼宮琴音",
+    "missing": [],
+    "updatedAt": "2026-08-08"
+  },
   "清水优空": {
     "nameJa": "清水优空",
     "nameZh": "",
@@ -507,6 +601,37 @@
       "cup"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "生田みく": {
+    "nameJa": "生田みく",
+    "nameZh": "生田未來",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%94%9F%E7%94%B0%E3%81%BF%E3%81%8F.jpg",
+    "birth": "1998-02-14",
+    "bloodType": "",
+    "height": "145",
+    "weight": "",
+    "threeSize": "78 - 59 - 82",
+    "cup": "D-65",
+    "retired": true,
+    "retiredAt": "2023-02-28",
+    "debut": "2017",
+    "agency": "SOD",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "生田みく",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "白桃はな": {
     "nameJa": "白桃はな",

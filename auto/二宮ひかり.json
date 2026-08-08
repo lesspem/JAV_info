@@ -1,0 +1,31 @@
+{
+  "nameJa": "二宮ひかり",
+  "nameZh": "二宮光",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E4%BA%8C%E5%AE%AE%E3%81%B2%E3%81%8B%E3%82%8A.jpg",
+  "birth": "1999-03-15",
+  "bloodType": "",
+  "height": "156",
+  "weight": "",
+  "threeSize": "85 - 59 - 88",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2024-10-01",
+  "debut": "2018",
+  "agency": "マドンナ",
+  "social": {
+    "x": "hikari_ninomiya",
+    "instagram": "hikari_ninomiya_",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "二宮ひかり",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

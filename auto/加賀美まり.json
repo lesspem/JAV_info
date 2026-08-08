@@ -1,0 +1,31 @@
+{
+  "nameJa": "加賀美まり",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%8A%A0%E8%B3%80%E7%BE%8E%E3%81%BE%E3%82%8A.jpg",
+  "birth": "2001-03-29",
+  "bloodType": "B",
+  "height": "165",
+  "weight": "",
+  "threeSize": "82 - 60 - 88",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2025-03-31",
+  "debut": "2019",
+  "agency": "",
+  "social": {
+    "x": "kagami_mari",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "加賀美まり",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

@@ -159,6 +159,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "三浜唯": {
+    "nameJa": "三浜唯",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E4%B8%89%E6%B5%9C%E5%94%AF.jpg",
+    "birth": "2002-06-24",
+    "bloodType": "",
+    "height": "152",
+    "weight": "",
+    "threeSize": "77 - 57 - 82",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2024",
+    "debut": "2023-10-03",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "三浜唯",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "三田真鈴": {
     "nameJa": "三田真鈴",
     "nameZh": "三田真铃",
@@ -250,6 +281,37 @@
       "cup"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "吉岡ひより": {
+    "nameJa": "吉岡ひより",
+    "nameZh": "吉岡日和",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%90%89%E5%B2%A1%E3%81%B2%E3%82%88%E3%82%8A.jpg",
+    "birth": "1999-08-08",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "",
+    "threeSize": "83 - 57 - 86",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2019-10-19",
+    "agency": "FALENO",
+    "social": {
+      "x": "y_hiyori88",
+      "instagram": "y_hiyori88",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "吉岡ひより",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "大島薫": {
     "nameJa": "大島薫",
@@ -371,6 +433,38 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "小西まりえ": {
+    "nameJa": "小西まりえ",
+    "nameZh": "小西真理惠",
+    "aliases": [
+      "藤間",
+      "みう"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%B0%8F%E8%A5%BF%E3%81%BE%E3%82%8A%E3%81%88.jpg",
+    "birth": "1992-03-01",
+    "bloodType": "A",
+    "height": "148",
+    "weight": "50kg",
+    "threeSize": "79 - 57 - 87",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2013",
+    "agency": "",
+    "social": {
+      "x": "konishi_marie",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "小西まりえ",
+    "missing": [],
+    "updatedAt": "2026-08-08"
   },
   "希咲エマ": {
     "nameJa": "希咲エマ",
@@ -823,6 +917,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "美竹すず": {
+    "nameJa": "美竹すず",
+    "nameZh": "美竹鈴",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E7%BE%8E%E7%AB%B9%E3%81%99%E3%81%9A.jpg",
+    "birth": "1994-09-23",
+    "bloodType": "O",
+    "height": "161",
+    "weight": "",
+    "threeSize": "92 - 57 - 85",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2015",
+    "agency": "S1",
+    "social": {
+      "x": "mitakesuzu",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "美竹すず",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "胡桃沢まり奈": {
     "nameJa": "胡桃沢まり奈",

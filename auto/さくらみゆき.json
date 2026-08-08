@@ -1,0 +1,34 @@
+{
+  "nameJa": "さくらみゆき",
+  "nameZh": "櫻美雪",
+  "aliases": [
+    "さくら",
+    "みゆき"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E3%81%95%E3%81%8F%E3%82%89%E3%81%BF%E3%82%86%E3%81%8D.jpg",
+  "birth": "1991-12-01",
+  "bloodType": "AB",
+  "height": "155",
+  "weight": "",
+  "threeSize": "85 - 60 - 93",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2022-08-24",
+  "debut": "2016",
+  "agency": "本中",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "さくらみゆき",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

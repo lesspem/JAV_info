@@ -1,0 +1,31 @@
+{
+  "nameJa": "三浜唯",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E4%B8%89%E6%B5%9C%E5%94%AF.jpg",
+  "birth": "2002-06-24",
+  "bloodType": "",
+  "height": "152",
+  "weight": "",
+  "threeSize": "77 - 57 - 82",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2024",
+  "debut": "2023-10-03",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "三浜唯",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

@@ -1,4 +1,66 @@
 {
+  "仲沢ももか": {
+    "nameJa": "仲沢ももか",
+    "nameZh": "",
+    "aliases": [
+      "ももか"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%BB%B2%E6%B2%A2%E3%82%82%E3%82%82%E3%81%8B.jpg",
+    "birth": "2000-10-13",
+    "bloodType": "",
+    "height": "155",
+    "weight": "",
+    "threeSize": "88 - 58 - 88",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2020",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "仲沢ももか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
+  "伊賀まこ": {
+    "nameJa": "伊賀まこ",
+    "nameZh": "伊賀真子",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-%E6%9C%AA%E6%BA%80/%E4%BC%8A%E8%B3%80%E3%81%BE%E3%81%93.jpg",
+    "birth": "1997-11-11",
+    "bloodType": "B",
+    "height": "161",
+    "weight": "42kg",
+    "threeSize": "82 - 57 - 83",
+    "cup": "D-65",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2019",
+    "agency": "月 -",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "伊賀まこ",
+    "missing": [],
+    "updatedAt": "2026-08-08"
+  },
   "南梨央奈": {
     "nameJa": "南梨央奈",
     "nameZh": "南梨央奈",
@@ -62,6 +124,37 @@
       "cup"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "堀北わん": {
+    "nameJa": "堀北わん",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%A0%80%E5%8C%97%E3%82%8F%E3%82%93.jpg",
+    "birth": "2000-01-04",
+    "bloodType": "",
+    "height": "150",
+    "weight": "",
+    "threeSize": "78 - 54 - 84",
+    "cup": "B-65",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2020",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "堀北わん",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
   },
   "天宮かのん": {
     "nameJa": "天宮かのん",
@@ -316,6 +409,35 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "新海咲": {
+    "nameJa": "新海咲",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E6%96%B0%E6%B5%B7%E5%92%B2.jpg",
+    "birth": "2000-05-13",
+    "bloodType": "A",
+    "height": "175",
+    "weight": "61kg",
+    "threeSize": "86 - 60 - 87",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "2023",
+    "debut": "2022-12-26",
+    "agency": "SOD",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "新海咲",
+    "missing": [],
+    "updatedAt": "2026-08-08"
+  },
   "星空もあ": {
     "nameJa": "星空もあ",
     "nameZh": "",
@@ -417,6 +539,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "槙いずな": {
+    "nameJa": "槙いずな",
+    "nameZh": "槙泉奈",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E6%A7%99%E3%81%84%E3%81%9A%E3%81%AA.jpg",
+    "birth": "2001-01-27",
+    "bloodType": "",
+    "height": "148",
+    "weight": "",
+    "threeSize": "80 - 55 - 84",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2020",
+    "agency": "S1",
+    "social": {
+      "x": "maki_izuna",
+      "instagram": "maki.izuna",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "槙いずな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-08"
+  },
   "橘メアリー": {
     "nameJa": "橘メアリー",
     "nameZh": "橘瑪麗",
@@ -450,6 +603,35 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "水川潤": {
+    "nameJa": "水川潤",
+    "nameZh": "水川潤",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Dahlia/%E6%B0%B4%E5%B7%9D%E6%BD%A4.jpg",
+    "birth": "1993-02-12",
+    "bloodType": "A",
+    "height": "161",
+    "weight": "45kg",
+    "threeSize": "86 - 62 - 95",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2011-09-22",
+    "agency": "DAHLIA",
+    "social": {
+      "x": "junmizukawa0",
+      "instagram": "junmizukawa0",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "水川潤",
+    "missing": [],
+    "updatedAt": "2026-08-08"
   },
   "浅田ちち": {
     "nameJa": "浅田ちち",
@@ -741,6 +923,35 @@
       "cup"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "美谷朱音": {
+    "nameJa": "美谷朱音",
+    "nameZh": "美谷朱音",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E7%BE%8E%E8%B0%B7%E6%9C%B1%E9%9F%B3.jpg",
+    "birth": "1996-05-25",
+    "bloodType": "A",
+    "height": "166",
+    "weight": "57kg",
+    "threeSize": "83 - 58 - 96",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2017",
+    "agency": "ダスッ!",
+    "social": {
+      "x": "akari_mitani17",
+      "instagram": "akanemitani0415",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "美谷朱音",
+    "missing": [],
+    "updatedAt": "2026-08-08"
   },
   "花柳杏奈": {
     "nameJa": "花柳杏奈",

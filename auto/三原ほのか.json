@@ -1,0 +1,31 @@
+{
+  "nameJa": "三原ほのか",
+  "nameZh": "三原穗花",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%B8%89%E5%8E%9F%E3%81%BB%E3%81%AE%E3%81%8B.jpg",
+  "birth": "1994-05-01",
+  "bloodType": "A",
+  "height": "156",
+  "weight": "",
+  "threeSize": "90 - 58 - 85",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2015",
+  "agency": "マキシング",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "三原ほのか",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}

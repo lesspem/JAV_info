@@ -1,0 +1,31 @@
+{
+  "nameJa": "小宵こなん",
+  "nameZh": "小宵虎南",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%B0%8F%E5%AE%B5%E3%81%93%E3%81%AA%E3%82%93.jpg",
+  "birth": "1999-04-02",
+  "bloodType": "B",
+  "height": "164",
+  "weight": "",
+  "threeSize": "100 - 59 - 92",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "2024",
+  "debut": "2021-05-19",
+  "agency": "S1",
+  "social": {
+    "x": "konankoyoiiii",
+    "instagram": "konankoyoiii",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "小宵こなん",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-08"
+}
