@@ -649,6 +649,43 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "市来まひろ": {
+    "nameJa": "市来まひろ",
+    "nameZh": "竹田夢",
+    "aliases": [
+      "市来",
+      "まひろ",
+      "竹田",
+      "ゆめ"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%B8%82%E6%9D%A5%E3%81%BE%E3%81%B2%E3%82%8D.jpg",
+    "birth": "1995-07-20",
+    "bloodType": "O",
+    "height": "155",
+    "weight": "",
+    "threeSize": "81 - 58 - 81",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "マドンナ",
+    "social": {
+      "x": "ichikimahiro",
+      "instagram": "bochi_chan_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia",
+      "gfriends"
+    ],
+    "name": "市来まひろ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-07"
+  },
   "悠月アイシャ": {
     "nameJa": "悠月アイシャ",
     "nameZh": "",
