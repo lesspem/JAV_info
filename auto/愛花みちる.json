@@ -1,0 +1,34 @@
+{
+  "nameJa": "愛花みちる",
+  "nameZh": "",
+  "aliases": [
+    "立花",
+    "優花"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%84%9B%E8%8A%B1%E3%81%BF%E3%81%A1%E3%82%8B.jpg",
+  "birth": "1994-01-17",
+  "bloodType": "O",
+  "height": "158",
+  "weight": "",
+  "threeSize": "95 - 62 - 88",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2026",
+  "debut": "2017",
+  "agency": "SOD",
+  "social": {
+    "x": "mioka_satomi",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "愛花みちる",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

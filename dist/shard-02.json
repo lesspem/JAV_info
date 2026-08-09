@@ -681,38 +681,6 @@
     ],
     "updatedAt": "2026-08-08"
   },
-  "幸村泉希天海翼": {
-    "nameJa": "幸村泉希天海翼",
-    "nameZh": "",
-    "aliases": [],
-    "avatar": "",
-    "birth": "",
-    "bloodType": "",
-    "height": "",
-    "weight": "",
-    "threeSize": "",
-    "cup": "",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "",
-    "agency": "",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [],
-    "name": "幸村泉希天海翼",
-    "missing": [
-      "birth",
-      "height",
-      "weight",
-      "threeSize",
-      "cup"
-    ],
-    "updatedAt": "2026-08-09"
-  },
   "愛乃澪": {
     "nameJa": "愛乃澪",
     "nameZh": "",
@@ -720,7 +688,7 @@
       "笹本",
       "結愛"
     ],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Digigra/%E6%B5%85%E8%A6%8B%E3%81%9B%E3%81%AA.jpg",
     "birth": "1994-10-14",
     "bloodType": "",
     "height": "163",
@@ -738,7 +706,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "愛乃澪",
     "missing": [

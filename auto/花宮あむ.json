@@ -1,0 +1,31 @@
+{
+  "nameJa": "花宮あむ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E8%8A%B1%E5%AE%AE%E3%81%82%E3%82%80.jpg",
+  "birth": "1999-09-03",
+  "bloodType": "",
+  "height": "171",
+  "weight": "",
+  "threeSize": "95 - 60 - 93",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2020",
+  "agency": "エスワン",
+  "social": {
+    "x": "mina_cha_0",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "花宮あむ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -5,7 +5,7 @@
     "笹本",
     "結愛"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Digigra/%E6%B5%85%E8%A6%8B%E3%81%9B%E3%81%AA.jpg",
   "birth": "1994-10-14",
   "bloodType": "",
   "height": "163",
@@ -23,7 +23,8 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "愛乃澪",
   "missing": [

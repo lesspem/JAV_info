@@ -1102,37 +1102,5 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
-  },
-  "鳳みゆ愛花みちる": {
-    "nameJa": "鳳みゆ愛花みちる",
-    "nameZh": "",
-    "aliases": [],
-    "avatar": "",
-    "birth": "",
-    "bloodType": "",
-    "height": "",
-    "weight": "",
-    "threeSize": "",
-    "cup": "",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "",
-    "agency": "",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [],
-    "name": "鳳みゆ愛花みちる",
-    "missing": [
-      "birth",
-      "height",
-      "weight",
-      "threeSize",
-      "cup"
-    ],
-    "updatedAt": "2026-08-08"
   }
 }

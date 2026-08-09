@@ -5418,6 +5418,34 @@
     "updatedAt": "2026-08-09"
   },
   {
+    "nameJa": "南つかさ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%8D%97%E3%81%A4%E3%81%8B%E3%81%95.jpg",
+    "birth": "1986-02-14",
+    "bloodType": "O",
+    "height": "157",
+    "weight": "",
+    "threeSize": "95 - 58 - 98",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2006-01-01",
+    "agency": "ダスッ!",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "南つかさ",
+    "updatedAt": "2026-08-09"
+  },
+  {
     "nameJa": "南條加奈",
     "nameZh": "",
     "aliases": [],
@@ -6308,7 +6336,7 @@
       "堀内",
       "未果子"
     ],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/020/389470.jpg?new",
     "birth": "1995-02-28",
     "bloodType": "",
     "height": "163",
@@ -6326,7 +6354,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "堀内美香",
     "updatedAt": "2026-08-08"
@@ -8253,31 +8282,6 @@
     "updatedAt": "2026-08-08"
   },
   {
-    "nameJa": "小日向あき花宮あむ",
-    "nameZh": "",
-    "aliases": [],
-    "avatar": "",
-    "birth": "",
-    "bloodType": "",
-    "height": "",
-    "weight": "",
-    "threeSize": "",
-    "cup": "",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "",
-    "agency": "",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [],
-    "name": "小日向あき花宮あむ",
-    "updatedAt": "2026-08-09"
-  },
-  {
     "nameJa": "小日向みゆう",
     "nameZh": "",
     "aliases": [],
@@ -9857,31 +9861,6 @@
     "updatedAt": "2026-08-09"
   },
   {
-    "nameJa": "幸村泉希天海翼",
-    "nameZh": "",
-    "aliases": [],
-    "avatar": "",
-    "birth": "",
-    "bloodType": "",
-    "height": "",
-    "weight": "",
-    "threeSize": "",
-    "cup": "",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "",
-    "agency": "",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [],
-    "name": "幸村泉希天海翼",
-    "updatedAt": "2026-08-09"
-  },
-  {
     "nameJa": "広瀬なるみ",
     "nameZh": "",
     "aliases": [],
@@ -9913,7 +9892,7 @@
     "nameJa": "広瀬美結",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/022/910903.jpg?new",
     "birth": "1996-11-15",
     "bloodType": "B",
     "height": "162",
@@ -9931,7 +9910,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "広瀬美結",
     "updatedAt": "2026-08-07"
@@ -10454,7 +10434,7 @@
       "笹本",
       "結愛"
     ],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Digigra/%E6%B5%85%E8%A6%8B%E3%81%9B%E3%81%AA.jpg",
     "birth": "1994-10-14",
     "bloodType": "",
     "height": "163",
@@ -10472,7 +10452,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "愛乃澪",
     "updatedAt": "2026-08-07"
@@ -10787,6 +10768,37 @@
       "gfriends"
     ],
     "name": "愛玲",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "nameJa": "愛花みちる",
+    "nameZh": "",
+    "aliases": [
+      "立花",
+      "優花"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%84%9B%E8%8A%B1%E3%81%BF%E3%81%A1%E3%82%8B.jpg",
+    "birth": "1994-01-17",
+    "bloodType": "O",
+    "height": "158",
+    "weight": "",
+    "threeSize": "95 - 62 - 88",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2026",
+    "debut": "2017",
+    "agency": "SOD",
+    "social": {
+      "x": "mioka_satomi",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "愛花みちる",
     "updatedAt": "2026-08-09"
   },
   {
@@ -12523,7 +12535,7 @@
     "nameJa": "月野ゆりね",
     "nameZh": "",
     "aliases": [],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/023/489920.jpg?new",
     "birth": "1973-01-24",
     "bloodType": "A",
     "height": "158",
@@ -12541,7 +12553,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "月野ゆりね",
     "updatedAt": "2026-08-07"
@@ -18251,7 +18264,7 @@
       "高橋",
       "りほ"
     ],
-    "avatar": "",
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/021/122227.jpg?new",
     "birth": "2001-10-15",
     "bloodType": "O",
     "height": "155",
@@ -18269,7 +18282,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "minnano-av"
     ],
     "name": "白橋りほ",
     "updatedAt": "2026-08-07"
@@ -21693,6 +21707,34 @@
       "gfriends"
     ],
     "name": "花守夏歩",
+    "updatedAt": "2026-08-09"
+  },
+  {
+    "nameJa": "花宮あむ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E8%8A%B1%E5%AE%AE%E3%81%82%E3%82%80.jpg",
+    "birth": "1999-09-03",
+    "bloodType": "",
+    "height": "171",
+    "weight": "",
+    "threeSize": "95 - 60 - 93",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2020",
+    "agency": "エスワン",
+    "social": {
+      "x": "mina_cha_0",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "花宮あむ",
     "updatedAt": "2026-08-09"
   },
   {
@@ -25130,7 +25172,7 @@
       "青山",
       "ひより"
     ],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%97%A5%E9%AB%98%E3%82%86%E3%82%8A%E3%81%82.jpg",
     "birth": "1983-09-04",
     "bloodType": "A",
     "height": "150",
@@ -25148,7 +25190,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "青山ひより",
     "updatedAt": "2026-08-07"
@@ -26119,31 +26162,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "nameJa": "鳳みゆ愛花みちる",
-    "nameZh": "",
-    "aliases": [],
-    "avatar": "",
-    "birth": "",
-    "bloodType": "",
-    "height": "",
-    "weight": "",
-    "threeSize": "",
-    "cup": "",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "",
-    "agency": "",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [],
-    "name": "鳳みゆ愛花みちる",
-    "updatedAt": "2026-08-08"
-  },
-  {
     "nameJa": "鷲尾めい",
     "nameZh": "鷲尾芽衣",
     "aliases": [
@@ -26172,31 +26190,6 @@
       "gfriends"
     ],
     "name": "鷲尾めい",
-    "updatedAt": "2026-08-09"
-  },
-  {
-    "nameJa": "鷲尾めい南つかさ",
-    "nameZh": "",
-    "aliases": [],
-    "avatar": "",
-    "birth": "",
-    "bloodType": "",
-    "height": "",
-    "weight": "",
-    "threeSize": "",
-    "cup": "",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "",
-    "agency": "",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [],
-    "name": "鷲尾めい南つかさ",
     "updatedAt": "2026-08-09"
   },
   {

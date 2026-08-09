@@ -5,7 +5,7 @@
     "青山",
     "ひより"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%97%A5%E9%AB%98%E3%82%86%E3%82%8A%E3%81%82.jpg",
   "birth": "1983-09-04",
   "bloodType": "A",
   "height": "150",
@@ -23,7 +23,8 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "青山ひより",
   "missing": [

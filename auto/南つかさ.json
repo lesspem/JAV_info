@@ -1,0 +1,31 @@
+{
+  "nameJa": "南つかさ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%8D%97%E3%81%A4%E3%81%8B%E3%81%95.jpg",
+  "birth": "1986-02-14",
+  "bloodType": "O",
+  "height": "157",
+  "weight": "",
+  "threeSize": "95 - 58 - 98",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2006-01-01",
+  "agency": "ダスッ!",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "南つかさ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}
