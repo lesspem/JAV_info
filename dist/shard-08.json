@@ -93,6 +93,37 @@
     "missing": [],
     "updatedAt": "2026-08-08"
   },
+  "並木優": {
+    "nameJa": "並木優",
+    "nameZh": "並木優",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E4%B8%A6%E6%9C%A8%E5%84%AA.jpg",
+    "birth": "1989-03-03",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "",
+    "threeSize": "83 - 58 - 85",
+    "cup": "E-65",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2008-03-14",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "並木優",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "中条りの": {
     "nameJa": "中条りの",
     "nameZh": "",
@@ -692,6 +723,36 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "新道亞里沙": {
+    "nameJa": "新道亞里沙",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1996-08-04",
+    "bloodType": "O",
+    "height": "161",
+    "weight": "",
+    "threeSize": "83 - 55 - 82",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2015",
+    "agency": "IdeaPocket",
+    "social": {
+      "x": "sindoarisa",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "新道亞里沙",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "早坂ひめ": {
     "nameJa": "早坂ひめ",
@@ -1337,6 +1398,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "黑崎美嘉": {
+    "nameJa": "黑崎美嘉",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "166",
+    "weight": "",
+    "threeSize": "88 - 57 - 86",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "",
+    "social": {
+      "x": "mika_krsk2525",
+      "instagram": "niconico_mikachan",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "黑崎美嘉",
+    "missing": [
+      "birth",
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "黒崎みか": {
     "nameJa": "黒崎みか",

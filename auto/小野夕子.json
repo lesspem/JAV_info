@@ -1,0 +1,33 @@
+{
+  "nameJa": "小野夕子",
+  "nameZh": "小野夕子",
+  "aliases": [
+    "葵"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E5%B0%8F%E9%87%8E%E5%A4%95%E5%AD%90.jpg",
+  "birth": "1994-12-03",
+  "bloodType": "O",
+  "height": "160",
+  "weight": "",
+  "threeSize": "92 - 56 - 88",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "2019",
+  "debut": "2014",
+  "agency": "DAHLIA",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "小野夕子",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,30 @@
+{
+  "nameJa": "雪白柑菜",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1995-11-01",
+  "bloodType": "A",
+  "height": "163",
+  "weight": "",
+  "threeSize": "87 - 58 - 88",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2016",
+  "agency": "PRESTIGE",
+  "social": {
+    "x": "yukishiro_kanna",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "雪白柑菜",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

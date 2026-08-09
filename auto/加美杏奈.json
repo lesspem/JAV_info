@@ -1,0 +1,31 @@
+{
+  "nameJa": "加美杏奈",
+  "nameZh": "加美杏奈",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E5%8A%A0%E7%BE%8E%E6%9D%8F%E5%A5%88.jpg",
+  "birth": "1996-09-01",
+  "bloodType": "",
+  "height": "161",
+  "weight": "",
+  "threeSize": "89 - 56 - 95",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2023-09-08",
+  "debut": "2020",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "kamianna_",
+    "instagram": "anna.kami3",
+    "tiktok": "anna_kami3"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "加美杏奈",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

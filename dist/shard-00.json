@@ -192,6 +192,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "亞矢瀨萌奈": {
+    "nameJa": "亞矢瀨萌奈",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "A",
+    "height": "159",
+    "weight": "",
+    "threeSize": "84 - 53 - 86",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "IdeaPocket",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "亞矢瀨萌奈",
+    "missing": [
+      "birth",
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "伊織羽音": {
     "nameJa": "伊織羽音",
     "nameZh": "",
@@ -571,6 +602,38 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "星美梨香": {
+    "nameJa": "星美梨香",
+    "nameZh": "",
+    "aliases": [
+      "星美梨香"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Virgin_concerto_20191005_151219.jpg?width=200",
+    "birth": "1990-09-20",
+    "bloodType": "A",
+    "height": "150",
+    "weight": "",
+    "threeSize": "83 - 59 - 80",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2011",
+    "agency": "IdeaPocket",
+    "social": {
+      "x": "hoshimirika",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "星美梨香",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "時田亜美": {
     "nameJa": "時田亜美",
@@ -955,6 +1018,36 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "百合咲润美": {
+    "nameJa": "百合咲润美",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1993|生月=11|生日=30|AV出演期間=2016年 -|専属契約=File:Maza sirdute.pngIdeaPocket|血液型=A型|時点=2016年  |身長=158|バスト=86|ウエスト=58|ヒップ=88|カップ=D|ジャンル=AV女优}}-11|生日=30|AV出演期間=2016年 -|専属契約=File:Maza sirdute.pngIdeaPocket|血液型=A型|時点=2016年  |身長=158|バスト=86|ウエスト=58|ヒップ=88|カップ=D|ジャンル=AV女优}}-30|AV出演期間=2016年 -|専属契約=File:Maza sirdute.pngIdeaPocket|血液型=A型|時点=2016年  |身長=158|バスト=86|ウエスト=58|ヒップ=88|カップ=D|ジャンル=AV女优}}",
+    "bloodType": "A",
+    "height": "158",
+    "weight": "",
+    "threeSize": "86 - 58 - 88",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2016",
+    "agency": "IdeaPocket|血液型=A型|時点=|身長=158|バスト=86|ウエスト=58|ヒップ=88|カップ=D|ジャンル=AV女优",
+    "social": {
+      "x": "y_urumi",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "百合咲润美",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "石川澪": {
     "nameJa": "石川澪",

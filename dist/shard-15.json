@@ -251,6 +251,39 @@
     ],
     "updatedAt": "2026-08-08"
   },
+  "今永紗奈": {
+    "nameJa": "今永紗奈",
+    "nameZh": "",
+    "aliases": [
+      "松永",
+      "さな"
+    ],
+    "avatar": "",
+    "birth": "1996-02-09",
+    "bloodType": "",
+    "height": "164",
+    "weight": "",
+    "threeSize": "89 - 58 - 88",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "溜池ゴロー",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "今永紗奈",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "前乃菜々": {
     "nameJa": "前乃菜々",
     "nameZh": "前乃菜菜",
@@ -284,6 +317,36 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "吉岡日和": {
+    "nameJa": "吉岡日和",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1999-08-08",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "",
+    "threeSize": "83 - 57 - 86",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "FALENO",
+    "social": {
+      "x": "yoshiokahiyorin",
+      "instagram": "yoshiokahiyorin",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "吉岡日和",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "大橋未久": {
     "nameJa": "大橋未久",
@@ -477,6 +540,36 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "有原步美": {
+    "nameJa": "有原步美",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1992-11-02",
+    "bloodType": "O",
+    "height": "170",
+    "weight": "",
+    "threeSize": "85 - 60 - 90",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "",
+    "social": {
+      "x": "arihara1102",
+      "instagram": "arihara_1102",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "有原步美",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "有坂真宵": {
     "nameJa": "有坂真宵",

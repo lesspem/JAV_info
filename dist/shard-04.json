@@ -195,6 +195,36 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "八乃翼": {
+    "nameJa": "八乃翼",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1995-09-30",
+    "bloodType": "A",
+    "height": "156",
+    "weight": "",
+    "threeSize": "88 - 58 - 83",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "TsubasaHachino",
+      "instagram": "tsubasahachino",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "八乃翼",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "初川みなみ": {
     "nameJa": "初川みなみ",
     "nameZh": "初川南",
@@ -417,6 +447,36 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "希岛爱理": {
+    "nameJa": "希岛爱理",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1988-12-24",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "",
+    "threeSize": "85 - 58 - 87",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2013",
+    "agency": "Premium",
+    "social": {
+      "x": "airi_kijima",
+      "instagram": "airi_kijima",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "希岛爱理",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "愛世くらら": {
     "nameJa": "愛世くらら",
@@ -796,6 +856,39 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "松本芽衣": {
+    "nameJa": "松本芽衣",
+    "nameZh": "",
+    "aliases": [
+      "松本ローラ(松本蘿拉",
+      "Matsumoto)"
+    ],
+    "avatar": "",
+    "birth": "1993-11-03",
+    "bloodType": "A",
+    "height": "153",
+    "weight": "",
+    "threeSize": "90 - 59 - 86",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2012",
+    "agency": "Wanz Factory",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "松本芽衣",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "桜ゆの": {
     "nameJa": "桜ゆの",
     "nameZh": "",
@@ -1058,6 +1151,36 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "神宮寺奈緒": {
+    "nameJa": "神宮寺奈緒",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/TRE20250810Videoframe_477481.png?width=200",
+    "birth": "1997-02-15",
+    "bloodType": "B",
+    "height": "160",
+    "weight": "",
+    "threeSize": "86 - 61 - 88",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "nao_jinguji",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "神宮寺奈緒",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "神谷沙織": {
     "nameJa": "神谷沙織",
     "nameZh": "",
@@ -1182,6 +1305,39 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "葵伊吹": {
+    "nameJa": "葵伊吹",
+    "nameZh": "",
+    "aliases": [
+      "翼",
+      "あおい"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Kindai_Mahjong_Tokonatsu_Festival_(October_25%2C_2025)IMG_9036.jpg?width=200",
+    "birth": "2001-05-18",
+    "bloodType": "",
+    "height": "162",
+    "weight": "",
+    "threeSize": "86 - 58 - 88",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "aoi__ibuki",
+      "instagram": "aoi__ibuki",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "葵伊吹",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "鈴香音色": {
     "nameJa": "鈴香音色",

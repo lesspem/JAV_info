@@ -1,0 +1,31 @@
+{
+  "nameJa": "織田真子",
+  "nameZh": "織田真子",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E7%B9%94%E7%94%B0%E7%9C%9F%E5%AD%90.jpg",
+  "birth": "1983-12-17",
+  "bloodType": "B",
+  "height": "151",
+  "weight": "",
+  "threeSize": "100 - 60 - 92",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2006",
+  "agency": "アリスJAPAN",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "織田真子",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -66,6 +66,38 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "一心惠里香": {
+    "nameJa": "一心惠里香",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "165",
+    "weight": "",
+    "threeSize": "",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2023",
+    "agency": "MOODYZ|日文名=一心えりか|假名=いちごえりか|上圍=93|腰圍=55|下圍=91|民族=大和民族|其他職業=女仆|其他資料=|國籍=日本|拍攝類型=性交、口交、乳交",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "一心惠里香",
+    "missing": [
+      "birth",
+      "weight",
+      "threeSize"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "佐山愛": {
     "nameJa": "佐山愛",
     "nameZh": "佐山愛",
@@ -383,6 +415,39 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "小野夕子": {
+    "nameJa": "小野夕子",
+    "nameZh": "小野夕子",
+    "aliases": [
+      "葵"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E5%B0%8F%E9%87%8E%E5%A4%95%E5%AD%90.jpg",
+    "birth": "1994-12-03",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "",
+    "threeSize": "92 - 56 - 88",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2019",
+    "debut": "2014",
+    "agency": "DAHLIA",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "小野夕子",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "小野寺梨紗": {
     "nameJa": "小野寺梨紗",
     "nameZh": "小野寺梨纱",
@@ -473,6 +538,36 @@
       "gfriends"
     ],
     "name": "希美まゆ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "庵姬花": {
+    "nameJa": "庵姬花",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "2002-03-07",
+    "bloodType": "",
+    "height": "153",
+    "weight": "",
+    "threeSize": "100 - 57 - 89",
+    "cup": "L",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2022",
+    "agency": "マドンナ",
+    "social": {
+      "x": "Himeka_lifepro",
+      "instagram": "himeka.lifepro",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "庵姬花",
     "missing": [
       "weight"
     ],
@@ -667,6 +762,36 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "木下和津實": {
+    "nameJa": "木下和津實",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1993-06-08",
+    "bloodType": "O",
+    "height": "158",
+    "weight": "",
+    "threeSize": "90 - 57 - 88",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2012",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "木下和津實",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "桃尻かなめ": {
     "nameJa": "桃尻かなめ",
     "nameZh": "",
@@ -697,6 +822,34 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "樱空桃": {
+    "nameJa": "樱空桃",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(September_27%2C_2025)IMG_2521.jpg?width=200",
+    "birth": "1996-12-03",
+    "bloodType": "",
+    "height": "160",
+    "weight": "44kg",
+    "threeSize": "90 - 55 - 86",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "IdeaPocket",
+    "social": {
+      "x": "sakumomo1203",
+      "instagram": "sakuramomo_official",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "樱空桃",
+    "missing": [],
+    "updatedAt": "2026-08-09"
   },
   "水野朝陽": {
     "nameJa": "水野朝陽",

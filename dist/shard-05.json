@@ -439,6 +439,38 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "小野坂唯花": {
+    "nameJa": "小野坂唯花",
+    "nameZh": "",
+    "aliases": [
+      "おのゆい"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Trend_Girls_Photo_Session_(May_4%2C_2025)IMG_3236.jpg?width=200",
+    "birth": "2002-02-09",
+    "bloodType": "A",
+    "height": "164",
+    "weight": "",
+    "threeSize": "97 - 72 - 106",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024",
+    "agency": "IdeaPocket",
+    "social": {
+      "x": "yuika_onosaka",
+      "instagram": "yuika_onosaka",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "小野坂唯花",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "岡本百合": {
     "nameJa": "岡本百合",
     "nameZh": "",
@@ -469,6 +501,36 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "川北明沙": {
+    "nameJa": "川北明沙",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "2000-07-21",
+    "bloodType": "A",
+    "height": "154",
+    "weight": "",
+    "threeSize": "85 - 57 - 85",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "FALENO",
+    "social": {
+      "x": "meisa_kawakita",
+      "instagram": "meisa_kawakita",
+      "tiktok": "meisa_official"
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "川北明沙",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "川越にこ": {
     "nameJa": "川越にこ",

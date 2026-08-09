@@ -99,6 +99,64 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "丘咲愛米莉": {
+    "nameJa": "丘咲愛米莉",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1991-04-10",
+    "bloodType": "A",
+    "height": "165",
+    "weight": "42kg",
+    "threeSize": "87 - 56 - 87",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2011",
+    "agency": "kira☆kira",
+    "social": {
+      "x": "okaemiri",
+      "instagram": "emiri.okazaki_official",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "丘咲愛米莉",
+    "missing": [],
+    "updatedAt": "2026-08-09"
+  },
+  "二宮光": {
+    "nameJa": "二宮光",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1999-03-15",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "85 - 59 - 88",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "Attackers",
+    "social": {
+      "x": "hikari_ninomiya",
+      "instagram": "hikari_ninomiya_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "二宮光",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "京花萌": {
     "nameJa": "京花萌",
     "nameZh": "京花萌",
@@ -161,6 +219,66 @@
     ],
     "updatedAt": "2026-08-09"
   },
+  "冬月楓": {
+    "nameJa": "冬月楓",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "1988-09-14",
+    "bloodType": "A",
+    "height": "163",
+    "weight": "",
+    "threeSize": "84 - 58 - 84",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "kaede_fuyutsuki",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "冬月楓",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "初川南": {
+    "nameJa": "初川南",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/%E5%88%9D%E5%B7%9D%E3%81%BF%E3%81%AA%E3%81%BFCIMG4158.jpg?width=200",
+    "birth": "1995-01-19",
+    "bloodType": "O",
+    "height": "156",
+    "weight": "",
+    "threeSize": "86 - 59 - 88",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2014",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "hatsukawa_mnm",
+      "instagram": "hatsukaw_aminami",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "初川南",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "前田美波": {
     "nameJa": "前田美波",
     "nameZh": "",
@@ -191,6 +309,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "加美杏奈": {
+    "nameJa": "加美杏奈",
+    "nameZh": "加美杏奈",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E5%8A%A0%E7%BE%8E%E6%9D%8F%E5%A5%88.jpg",
+    "birth": "1996-09-01",
+    "bloodType": "",
+    "height": "161",
+    "weight": "",
+    "threeSize": "89 - 56 - 95",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2023-09-08",
+    "debut": "2020",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "kamianna_",
+      "instagram": "anna.kami3",
+      "tiktok": "anna_kami3"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "加美杏奈",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "北原夏美": {
     "nameJa": "北原夏美",
@@ -826,6 +975,36 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "沙月惠奈": {
+    "nameJa": "沙月惠奈",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/Enako_presents_Muse_Photoshoot_(June_21%2C_2025)IMG_8319.jpg?width=200",
+    "birth": "1999-06-11",
+    "bloodType": "A",
+    "height": "152",
+    "weight": "",
+    "threeSize": "85 - 58 - 86",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "FALENO",
+    "social": {
+      "x": "satsukiena",
+      "instagram": "satsukiena",
+      "tiktok": "ena.satsuki"
+    },
+    "works": "",
+    "sources": [
+      "zh.wikipedia"
+    ],
+    "name": "沙月惠奈",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "浅間るい": {
     "nameJa": "浅間るい",
