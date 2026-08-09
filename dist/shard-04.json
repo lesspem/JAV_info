@@ -844,17 +844,19 @@
     "updatedAt": "2026-08-07"
   },
   "希岛爱理": {
-    "nameJa": "希岛爱理",
-    "nameZh": "",
-    "aliases": [],
-    "avatar": "",
+    "nameJa": "希島あいり",
+    "nameZh": "希岛爱理",
+    "aliases": [
+      "希島愛裏"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E5%B8%8C%E5%B3%B6%E3%81%82%E3%81%84%E3%82%8A.jpg",
     "birth": "1988-12-24",
     "bloodType": "O",
     "height": "160",
     "weight": "",
     "threeSize": "85 - 58 - 87",
     "cup": "C",
-    "retired": false,
+    "retired": true,
     "retiredAt": "",
     "debut": "2013",
     "agency": "Premium",
