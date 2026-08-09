@@ -1,0 +1,36 @@
+{
+  "nameJa": "真白真緒",
+  "nameZh": "真白真緒",
+  "aliases": [
+    "三浦",
+    "るい"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%9C%9F%E7%99%BD%E7%9C%9F%E7%B7%92.jpg",
+  "birth": "1997-11-08",
+  "bloodType": "AB",
+  "height": "163",
+  "weight": "",
+  "threeSize": "96 - 56 - 91",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2019",
+  "agency": "エスワン",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "真白真緒",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

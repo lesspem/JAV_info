@@ -61,6 +61,71 @@
     "missing": [],
     "updatedAt": "2026-08-08"
   },
+  "兒玉七海": {
+    "nameJa": "兒玉七海",
+    "nameZh": "",
+    "aliases": [
+      "小倉七海",
+      "おぐらななみ"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E5%85%92%E7%8E%89%E4%B8%83%E6%B5%B7.jpg",
+    "birth": "2002-06-22",
+    "bloodType": "B",
+    "height": "161",
+    "weight": "",
+    "threeSize": "92 - 58 - 88",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2021-09-10",
+    "agency": "S1",
+    "social": {
+      "x": "_KodamaNanami_",
+      "instagram": "nn_0622",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "兒玉七海",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "初乃ふみか": {
+    "nameJa": "初乃ふみか",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%88%9D%E4%B9%83%E3%81%B5%E3%81%BF%E3%81%8B.jpg",
+    "birth": "1998-12-08",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "86 - 57 - 83",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "初乃ふみか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "南梨央奈": {
     "nameJa": "南梨央奈",
     "nameZh": "南梨央奈",
@@ -538,6 +603,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "桜乃りの": {
+    "nameJa": "桜乃りの",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E6%A1%9C%E4%B9%83%E3%82%8A%E3%81%AE.jpg",
+    "birth": "2004-11-12",
+    "bloodType": "A",
+    "height": "156",
+    "weight": "",
+    "threeSize": "85 - 56 - 83",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2025-03-11",
+    "agency": "S1",
+    "social": {
+      "x": "sakurano_rino",
+      "instagram": "sakurano_rino",
+      "tiktok": "user4osedk1gr6"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "桜乃りの",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "槙いずな": {
     "nameJa": "槙いずな",
@@ -1083,6 +1179,71 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "風間リナ": {
+    "nameJa": "風間リナ",
+    "nameZh": "",
+    "aliases": [
+      "きみの",
+      "雫"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E9%A2%A8%E9%96%93%E3%83%AA%E3%83%8A.jpg",
+    "birth": "1993-08-22",
+    "bloodType": "",
+    "height": "165",
+    "weight": "",
+    "threeSize": "88 - 58 - 89",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "風間リナ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "香水じゅん": {
+    "nameJa": "香水じゅん",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E9%A6%99%E6%B0%B4%E3%81%98%E3%82%85%E3%82%93.jpg",
+    "birth": "2001-03-30",
+    "bloodType": "",
+    "height": "157",
+    "weight": "",
+    "threeSize": "82 - 55 - 85",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021-07-07",
+    "agency": "S1 本中",
+    "social": {
+      "x": "jun_kasui",
+      "instagram": "jun_kasui_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "香水じゅん",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "麻美ゆま": {
     "nameJa": "麻美ゆま",

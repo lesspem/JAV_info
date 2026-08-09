@@ -1,0 +1,34 @@
+{
+  "nameJa": "菜々葉",
+  "nameZh": "菜菜葉",
+  "aliases": [
+    "愛羽",
+    "なな"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E8%8F%9C%E3%80%85%E8%91%89.jpg",
+  "birth": "1991-12-05",
+  "bloodType": "A",
+  "height": "153",
+  "weight": "",
+  "threeSize": "83 - 56 - 81",
+  "cup": "E-65",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2015",
+  "agency": "エスワン",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "菜々葉",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

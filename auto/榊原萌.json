@@ -1,0 +1,31 @@
+{
+  "nameJa": "榊原萌",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%A6%8A%E5%8E%9F%E8%90%8C.jpg",
+  "birth": "2004-07-07",
+  "bloodType": "O",
+  "height": "158",
+  "weight": "",
+  "threeSize": "86 - 55 - 83",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024-09-24",
+  "agency": "S1",
+  "social": {
+    "x": "moe_millky",
+    "instagram": "moe._.nyanvv",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "榊原萌",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "川越にこ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%B7%9D%E8%B6%8A%E3%81%AB%E3%81%93.jpg",
+  "birth": "2003-04-23",
+  "bloodType": "AB",
+  "height": "150",
+  "weight": "",
+  "threeSize": "85 - 55 - 80",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024-02-13",
+  "agency": "エスワン",
+  "social": {
+    "x": "kawagoeniko",
+    "instagram": "kawagoeniko",
+    "tiktok": "kawagoeniko"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "川越にこ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

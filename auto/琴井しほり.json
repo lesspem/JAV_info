@@ -1,0 +1,31 @@
+{
+  "nameJa": "琴井しほり",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%90%B4%E4%BA%95%E3%81%97%E3%81%BB%E3%82%8A.jpg",
+  "birth": "1992-04-07",
+  "bloodType": "",
+  "height": "153",
+  "weight": "",
+  "threeSize": "82 - 56 - 85",
+  "cup": "D-65",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2019",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "kotoi_shihori",
+    "instagram": "shihori_kotoi",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "琴井しほり",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

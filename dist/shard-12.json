@@ -63,6 +63,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "かすみりさ": {
+    "nameJa": "かすみりさ",
+    "nameZh": "霞理沙",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E3%81%8B%E3%81%99%E3%81%BF%E3%82%8A%E3%81%95.jpg",
+    "birth": "1984-05-31",
+    "bloodType": "O",
+    "height": "170",
+    "weight": "",
+    "threeSize": "90 - 58 - 85",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007",
+    "agency": "SOD",
+    "social": {
+      "x": "risa_kasumi",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "かすみりさ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "さくら奈々": {
     "nameJa": "さくら奈々",
     "nameZh": "",
@@ -373,6 +404,40 @@
     "name": "天使もえ",
     "missing": [],
     "updatedAt": "2026-08-07"
+  },
+  "天音まひな": {
+    "nameJa": "天音まひな",
+    "nameZh": "天音真比奈",
+    "aliases": [
+      "天音",
+      "まひな"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%A4%A9%E9%9F%B3%E3%81%BE%E3%81%B2%E3%81%AA.jpg",
+    "birth": "1999-07-16",
+    "bloodType": "A",
+    "height": "143",
+    "weight": "",
+    "threeSize": "79 - 57 - 82",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "S1",
+    "social": {
+      "x": "maria_hoshi_8",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "天音まひな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "奏音かのん": {
     "nameJa": "奏音かのん",
@@ -853,6 +918,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "瀬野みやび": {
+    "nameJa": "瀬野みやび",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-%E6%9C%AA%E6%BA%80/%E7%80%AC%E9%87%8E%E3%81%BF%E3%82%84%E3%81%B3.jpg",
+    "birth": "1996-12-08",
+    "bloodType": "",
+    "height": "153",
+    "weight": "",
+    "threeSize": "83 - 56 - 85",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "S1",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "瀬野みやび",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "白石かんな": {
     "nameJa": "白石かんな",
     "nameZh": "",
@@ -917,6 +1013,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "神楽ももか": {
+    "nameJa": "神楽ももか",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%A5%9E%E6%A5%BD%E3%82%82%E3%82%82%E3%81%8B.jpg",
+    "birth": "1999-05-01",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "108 - 59 - 93",
+    "cup": "K",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2023",
+    "agency": "S1",
+    "social": {
+      "x": "kagura_momoka",
+      "instagram": "kagmomo",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "神楽ももか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "美竹すず": {
     "nameJa": "美竹すず",

@@ -193,6 +193,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "初音みのり": {
+    "nameJa": "初音みのり",
+    "nameZh": "初音實",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E5%88%9D%E9%9F%B3%E3%81%BF%E3%81%AE%E3%82%8A.jpg",
+    "birth": "1987-12-10",
+    "bloodType": "A",
+    "height": "158",
+    "weight": "",
+    "threeSize": "95 - 70 - 95",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007-10-19",
+    "agency": "マドンナ",
+    "social": {
+      "x": "hatsune_minori",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "初音みのり",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "可愛手翔": {
     "nameJa": "可愛手翔",
     "nameZh": "",
@@ -378,6 +409,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "川越にこ": {
+    "nameJa": "川越にこ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%B7%9D%E8%B6%8A%E3%81%AB%E3%81%93.jpg",
+    "birth": "2003-04-23",
+    "bloodType": "AB",
+    "height": "150",
+    "weight": "",
+    "threeSize": "85 - 55 - 80",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024-02-13",
+    "agency": "エスワン",
+    "social": {
+      "x": "kawagoeniko",
+      "instagram": "kawagoeniko",
+      "tiktok": "kawagoeniko"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "川越にこ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "希崎ジェシカ": {
     "nameJa": "希崎ジェシカ",
@@ -757,6 +819,71 @@
     "name": "瀬田一花",
     "missing": [],
     "updatedAt": "2026-08-08"
+  },
+  "琴井しほり": {
+    "nameJa": "琴井しほり",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%90%B4%E4%BA%95%E3%81%97%E3%81%BB%E3%82%8A.jpg",
+    "birth": "1992-04-07",
+    "bloodType": "",
+    "height": "153",
+    "weight": "",
+    "threeSize": "82 - 56 - 85",
+    "cup": "D-65",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2019",
+    "agency": "アタッカーズ",
+    "social": {
+      "x": "kotoi_shihori",
+      "instagram": "shihori_kotoi",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "琴井しほり",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "白葉りこ": {
+    "nameJa": "白葉りこ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%99%BD%E8%91%89%E3%82%8A%E3%81%93.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "168",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2019",
+    "agency": "エスワン",
+    "social": {
+      "x": "riko4shiraha8",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "白葉りこ",
+    "missing": [
+      "birth",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "白鳥寿美礼": {
     "nameJa": "白鳥寿美礼",
@@ -1244,6 +1371,38 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "長谷川モニカ": {
+    "nameJa": "長谷川モニカ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E9%95%B7%E8%B0%B7%E5%B7%9D%E3%83%A2%E3%83%8B%E3%82%AB.jpg",
+    "birth": "1995-11-30",
+    "bloodType": "",
+    "height": "164",
+    "weight": "",
+    "threeSize": "84 - 58 - 89",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2015",
+    "agency": "エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "長谷川モニカ",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "雨宮琴音": {
     "nameJa": "雨宮琴音",

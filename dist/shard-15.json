@@ -349,6 +349,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "安達夕莉": {
+    "nameJa": "安達夕莉",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%AE%89%E9%81%94%E5%A4%95%E8%8E%89.jpg",
+    "birth": "2002-01-24",
+    "bloodType": "O",
+    "height": "152",
+    "weight": "",
+    "threeSize": "87 - 56 - 83",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2024",
+    "debut": "2022",
+    "agency": "S1",
+    "social": {
+      "x": "yuuri_adachi",
+      "instagram": "yuuri_adachi",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "安達夕莉",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "峰田ななみ": {
     "nameJa": "峰田ななみ",
     "nameZh": "",
@@ -763,6 +794,38 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "渚あいか": {
+    "nameJa": "渚あいか",
+    "nameZh": "",
+    "aliases": [
+      "渚あいり"
+    ],
+    "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/August_15%2C_2024%2C_%E2%80%9CModern_Mahjong_Academy%E2%80%9D%2C_Konosu_City%2C_Saitama_Prefecture_IMG_6918.jpg?width=200",
+    "birth": "2004-07-27",
+    "bloodType": "A",
+    "height": "153",
+    "weight": "",
+    "threeSize": "89 - 58 - 92",
+    "cup": "D-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024-03-26",
+    "agency": "エスワン",
+    "social": {
+      "x": "nagisa_airi",
+      "instagram": "",
+      "tiktok": "airi.nagisa"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia"
+    ],
+    "name": "渚あいか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "猫宮ひかる": {
     "nameJa": "猫宮ひかる",
     "nameZh": "",
@@ -955,6 +1018,38 @@
       "cup"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "鷲尾めい": {
+    "nameJa": "鷲尾めい",
+    "nameZh": "鷲尾芽衣",
+    "aliases": [
+      "筧",
+      "ジュン"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E9%B7%B2%E5%B0%BE%E3%82%81%E3%81%84.jpg",
+    "birth": "1997-10-20",
+    "bloodType": "A",
+    "height": "164",
+    "weight": "60kg",
+    "threeSize": "104 - 59 - 89",
+    "cup": "L",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "S1",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "鷲尾めい",
+    "missing": [],
+    "updatedAt": "2026-08-09"
   },
   "麻倉まみ": {
     "nameJa": "麻倉まみ",

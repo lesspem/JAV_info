@@ -1,0 +1,34 @@
+{
+  "nameJa": "花アリス",
+  "nameZh": "",
+  "aliases": [
+    "悠紗",
+    "ありす"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E8%8A%B1%E3%82%A2%E3%83%AA%E3%82%B9.jpg",
+  "birth": "2001-12-12",
+  "bloodType": "",
+  "height": "162",
+  "weight": "",
+  "threeSize": "88 - 58 - 90",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2022-05-24",
+  "agency": "エスワン",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "花アリス",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

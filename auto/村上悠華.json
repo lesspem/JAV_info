@@ -1,0 +1,31 @@
+{
+  "nameJa": "村上悠華",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%9D%91%E4%B8%8A%E6%82%A0%E8%8F%AF.jpg",
+  "birth": "2003-01-30",
+  "bloodType": "",
+  "height": "163",
+  "weight": "",
+  "threeSize": "85 - 59 - 88",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023-12-11",
+  "agency": "エスワン",
+  "social": {
+    "x": "murakami_yuka_",
+    "instagram": "murakami_yuka_",
+    "tiktok": "murakami_yuka"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "村上悠華",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

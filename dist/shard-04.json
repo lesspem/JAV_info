@@ -32,6 +32,40 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "乾りっか": {
+    "nameJa": "乾りっか",
+    "nameZh": "",
+    "aliases": [
+      "乾りっか"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E4%B9%BE%E3%82%8A%E3%81%A3%E3%81%8B.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "170",
+    "weight": "",
+    "threeSize": "83 - 53 - 85",
+    "cup": "F",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "エスワン",
+    "social": {
+      "x": "tsubaki_mashiro",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "乾りっか",
+    "missing": [
+      "birth",
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "佐久良咲希": {
     "nameJa": "佐久良咲希",
     "nameZh": "",
@@ -257,6 +291,40 @@
     ],
     "updatedAt": "2026-08-08"
   },
+  "天国るる": {
+    "nameJa": "天国るる",
+    "nameZh": "",
+    "aliases": [
+      "新名",
+      "あみん"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E5%A4%A9%E5%9B%BD%E3%82%8B%E3%82%8B.jpg",
+    "birth": "1997-12-25",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "85 - 55 - 87",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019-08-17",
+    "agency": "FALENO",
+    "social": {
+      "x": "ruru_amakuni",
+      "instagram": "ruru_amakuni",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "天国るる",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "安城アンナ": {
     "nameJa": "安城アンナ",
     "nameZh": "安城安娜",
@@ -287,6 +355,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "小日向みゆう": {
+    "nameJa": "小日向みゆう",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E5%B0%8F%E6%97%A5%E5%90%91%E3%81%BF%E3%82%86%E3%81%86.jpg",
+    "birth": "2002-07-10",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "95 - 58 - 87",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2023",
+    "agency": "S1",
+    "social": {
+      "x": "miyu_kohinata",
+      "instagram": "miyu__kohinata",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "小日向みゆう",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "工藤まなみ": {
     "nameJa": "工藤まなみ",
@@ -669,6 +768,71 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "水城奈緒": {
+    "nameJa": "水城奈緒",
+    "nameZh": "水城奈緒",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E6%B0%B4%E5%9F%8E%E5%A5%88%E7%B7%92.jpg",
+    "birth": "1984-09-18",
+    "bloodType": "B",
+    "height": "160",
+    "weight": "",
+    "threeSize": "90 - 65 - 95",
+    "cup": "H",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2007",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "NAOKITINOMORI",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "水城奈緒",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "浅野こころ": {
+    "nameJa": "浅野こころ",
+    "nameZh": "",
+    "aliases": [
+      "歌野こころ",
+      "こころ"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%B5%85%E9%87%8E%E3%81%93%E3%81%93%E3%82%8D.jpg",
+    "birth": "2002-06-11",
+    "bloodType": "O",
+    "height": "156",
+    "weight": "",
+    "threeSize": "83 - 59 - 85",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2023",
+    "agency": "エスワン",
+    "social": {
+      "x": "korokorococoroo",
+      "instagram": "kkorokorococoroo",
+      "tiktok": "korokorococoroo"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "浅野こころ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "深田えいみ": {
     "nameJa": "深田えいみ",
     "nameZh": "深田詠美",
@@ -704,6 +868,38 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "畑めい": {
+    "nameJa": "畑めい",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E7%95%91%E3%82%81%E3%81%84.jpg",
+    "birth": "1999-06-30",
+    "bloodType": "",
+    "height": "159",
+    "weight": "",
+    "threeSize": "85 - 57 - 87",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "畑めい",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "白石透羽": {
     "nameJa": "白石透羽",

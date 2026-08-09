@@ -1,0 +1,31 @@
+{
+  "nameJa": "河西れおな",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Capsule/%E6%B2%B3%E8%A5%BF%E3%82%8C%E3%81%8A%E3%81%AA.jpg",
+  "birth": "2002-09-15",
+  "bloodType": "",
+  "height": "157",
+  "weight": "",
+  "threeSize": "85 - 58 - 87",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "S1",
+  "social": {
+    "x": "kasaireona",
+    "instagram": "kasaireona",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "河西れおな",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

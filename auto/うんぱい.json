@@ -1,0 +1,34 @@
+{
+  "nameJa": "うんぱい",
+  "nameZh": "",
+  "aliases": [
+    "いとうさやか"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E3%81%86%E3%82%93%E3%81%B1%E3%81%84.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "165",
+  "weight": "",
+  "threeSize": "92 - 59 - 98",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022-01-25",
+  "agency": "S1 MOODYZ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "うんぱい",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

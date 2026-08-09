@@ -1,0 +1,31 @@
+{
+  "nameJa": "望月つぼみ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%9C%9B%E6%9C%88%E3%81%A4%E3%81%BC%E3%81%BF.jpg",
+  "birth": "2002-11-16",
+  "bloodType": "",
+  "height": "150",
+  "weight": "",
+  "threeSize": "82 - 54 - 80",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023-05-09",
+  "agency": "S1",
+  "social": {
+    "x": "Tsubomi_Mochi",
+    "instagram": "tsubomi_mochi",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "望月つぼみ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

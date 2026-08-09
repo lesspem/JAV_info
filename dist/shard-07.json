@@ -130,6 +130,37 @@
     "missing": [],
     "updatedAt": "2026-08-07"
   },
+  "児玉れな": {
+    "nameJa": "児玉れな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%85%90%E7%8E%89%E3%82%8C%E3%81%AA.jpg",
+    "birth": "1999-12-12",
+    "bloodType": "O",
+    "height": "168",
+    "weight": "",
+    "threeSize": "88 - 61 - 87",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "マドンナ",
+    "social": {
+      "x": "kodama_rena",
+      "instagram": "kodama_rena12.12",
+      "tiktok": "rena12.12"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "児玉れな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "前田美波": {
     "nameJa": "前田美波",
     "nameZh": "",
@@ -191,6 +222,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "夕美しおん": {
+    "nameJa": "夕美しおん",
+    "nameZh": "夕美紫苑",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%A4%95%E7%BE%8E%E3%81%97%E3%81%8A%E3%82%93.jpg",
+    "birth": "1999-04-07",
+    "bloodType": "",
+    "height": "149",
+    "weight": "",
+    "threeSize": "102 - 63 - 95",
+    "cup": "J",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "OPPAI",
+    "social": {
+      "x": "__SHl0N",
+      "instagram": "shion_yumi_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "夕美しおん",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "夢見照うた": {
     "nameJa": "夢見照うた",
@@ -256,6 +318,40 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "安位薫": {
+    "nameJa": "安位薫",
+    "nameZh": "",
+    "aliases": [
+      "安位",
+      "カヲル"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-MUTEKI/%E5%AE%89%E4%BD%8D%E8%96%AB.jpg",
+    "birth": "1999-12-01",
+    "bloodType": "A",
+    "height": "165",
+    "weight": "",
+    "threeSize": "98 - 63 - 95",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021-12-29",
+    "agency": "アタッカーズ",
+    "social": {
+      "x": "kaoru2dive",
+      "instagram": "kaoru_yasuiii",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "安位薫",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "小川桃果": {
     "nameJa": "小川桃果",
@@ -576,6 +672,37 @@
     "missing": [],
     "updatedAt": "2026-08-07"
   },
+  "榊原萌": {
+    "nameJa": "榊原萌",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%A6%8A%E5%8E%9F%E8%90%8C.jpg",
+    "birth": "2004-07-07",
+    "bloodType": "O",
+    "height": "158",
+    "weight": "",
+    "threeSize": "86 - 55 - 83",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024-09-24",
+    "agency": "S1",
+    "social": {
+      "x": "moe_millky",
+      "instagram": "moe._.nyanvv",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "榊原萌",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "水卜さくら": {
     "nameJa": "水卜さくら",
     "nameZh": "水卜櫻",
@@ -674,6 +801,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "涼宮のん": {
+    "nameJa": "涼宮のん",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%B6%BC%E5%AE%AE%E3%81%AE%E3%82%93.jpg",
+    "birth": "1996-11-30",
+    "bloodType": "A",
+    "height": "157",
+    "weight": "",
+    "threeSize": "84 - 57 - 83",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2015",
+    "agency": "エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "涼宮のん",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "片岡なぎさ": {
     "nameJa": "片岡なぎさ",
@@ -964,6 +1122,39 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "逢沢みゆ": {
+    "nameJa": "逢沢みゆ",
+    "nameZh": "逢澤美優",
+    "aliases": [
+      "坂本マリア"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E9%80%A2%E6%B2%A2%E3%81%BF%E3%82%86.jpg",
+    "birth": "2001-01-25",
+    "bloodType": "B",
+    "height": "155",
+    "weight": "",
+    "threeSize": "90 - 56 - 88",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2023-11-06",
+    "agency": "エスワン",
+    "social": {
+      "x": "Aizawa_miyu03",
+      "instagram": "miyumiyu_ai",
+      "tiktok": "miyu_aizawa"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "逢沢みゆ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "黒木アリサ": {
     "nameJa": "黒木アリサ",

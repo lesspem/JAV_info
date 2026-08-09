@@ -1,0 +1,34 @@
+{
+  "nameJa": "浅野こころ",
+  "nameZh": "",
+  "aliases": [
+    "歌野こころ",
+    "こころ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%B5%85%E9%87%8E%E3%81%93%E3%81%93%E3%82%8D.jpg",
+  "birth": "2002-06-11",
+  "bloodType": "O",
+  "height": "156",
+  "weight": "",
+  "threeSize": "83 - 59 - 85",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "エスワン",
+  "social": {
+    "x": "korokorococoroo",
+    "instagram": "kkorokorococoroo",
+    "tiktok": "korokorococoroo"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "浅野こころ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

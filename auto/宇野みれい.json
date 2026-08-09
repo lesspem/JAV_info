@@ -1,0 +1,34 @@
+{
+  "nameJa": "宇野みれい",
+  "nameZh": "",
+  "aliases": [
+    "東雲",
+    "みれい"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%AE%87%E9%87%8E%E3%81%BF%E3%82%8C%E3%81%84.jpg",
+  "birth": "2001-08-26",
+  "bloodType": "O",
+  "height": "158",
+  "weight": "",
+  "threeSize": "85 - 53 - 86",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2024",
+  "debut": "2022",
+  "agency": "S1",
+  "social": {
+    "x": "mirei_uno",
+    "instagram": "mirei__uno",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "宇野みれい",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

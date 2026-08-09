@@ -1,4 +1,38 @@
 {
+  "うんぱい": {
+    "nameJa": "うんぱい",
+    "nameZh": "",
+    "aliases": [
+      "いとうさやか"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E3%81%86%E3%82%93%E3%81%B1%E3%81%84.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "165",
+    "weight": "",
+    "threeSize": "92 - 59 - 98",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2022-01-25",
+    "agency": "S1 MOODYZ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "うんぱい",
+    "missing": [
+      "birth",
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "ひなたまりん": {
     "nameJa": "ひなたまりん",
     "nameZh": "日向真凜",
@@ -442,6 +476,40 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "宇野みれい": {
+    "nameJa": "宇野みれい",
+    "nameZh": "",
+    "aliases": [
+      "東雲",
+      "みれい"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%AE%87%E9%87%8E%E3%81%BF%E3%82%8C%E3%81%84.jpg",
+    "birth": "2001-08-26",
+    "bloodType": "O",
+    "height": "158",
+    "weight": "",
+    "threeSize": "85 - 53 - 86",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2024",
+    "debut": "2022",
+    "agency": "S1",
+    "social": {
+      "x": "mirei_uno",
+      "instagram": "mirei__uno",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "宇野みれい",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "小泉麻由": {
     "nameJa": "小泉麻由",
     "nameZh": "",
@@ -694,6 +762,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "河西れおな": {
+    "nameJa": "河西れおな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Capsule/%E6%B2%B3%E8%A5%BF%E3%82%8C%E3%81%8A%E3%81%AA.jpg",
+    "birth": "2002-09-15",
+    "bloodType": "",
+    "height": "157",
+    "weight": "",
+    "threeSize": "85 - 58 - 87",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2023",
+    "agency": "S1",
+    "social": {
+      "x": "kasaireona",
+      "instagram": "kasaireona",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "河西れおな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "瀬乃ひなた": {
     "nameJa": "瀬乃ひなた",
     "nameZh": "",
@@ -852,6 +951,71 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "紫堂るい": {
+    "nameJa": "紫堂るい",
+    "nameZh": "紫堂留衣",
+    "aliases": [
+      "流川",
+      "ゆうり"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%B4%AB%E5%A0%82%E3%82%8B%E3%81%84.jpg",
+    "birth": "1999-05-29",
+    "bloodType": "A",
+    "height": "158",
+    "weight": "",
+    "threeSize": "90 - 60 - 90",
+    "cup": "I",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2025-06-30",
+    "agency": "MUTEKI エスワン",
+    "social": {
+      "x": "rui_shido",
+      "instagram": "rui_shido",
+      "tiktok": "rui_shido"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "紫堂るい",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "結月りあ": {
+    "nameJa": "結月りあ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E7%B5%90%E6%9C%88%E3%82%8A%E3%81%82.jpg",
+    "birth": "2002-06-13",
+    "bloodType": "O",
+    "height": "153",
+    "weight": "",
+    "threeSize": "85 - 62 - 88",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2023-06-27",
+    "agency": "アタッカーズ",
+    "social": {
+      "x": "yuzuki_ria",
+      "instagram": "yuzuki_ria",
+      "tiktok": "yuzuki_ria"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "結月りあ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "緒川凛": {
     "nameJa": "緒川凛",
     "nameZh": "",
@@ -886,6 +1050,74 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "花アリス": {
+    "nameJa": "花アリス",
+    "nameZh": "",
+    "aliases": [
+      "悠紗",
+      "ありす"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E8%8A%B1%E3%82%A2%E3%83%AA%E3%82%B9.jpg",
+    "birth": "2001-12-12",
+    "bloodType": "",
+    "height": "162",
+    "weight": "",
+    "threeSize": "88 - 58 - 90",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2022-05-24",
+    "agency": "エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "花アリス",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "菜々葉": {
+    "nameJa": "菜々葉",
+    "nameZh": "菜菜葉",
+    "aliases": [
+      "愛羽",
+      "なな"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E8%8F%9C%E3%80%85%E8%91%89.jpg",
+    "birth": "1991-12-05",
+    "bloodType": "A",
+    "height": "153",
+    "weight": "",
+    "threeSize": "83 - 56 - 81",
+    "cup": "E-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2015",
+    "agency": "エスワン",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "菜々葉",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "藍山みなみ": {
     "nameJa": "藍山みなみ",
     "nameZh": "蓝山南",
@@ -914,6 +1146,40 @@
     "name": "藍山みなみ",
     "missing": [],
     "updatedAt": "2026-08-07"
+  },
+  "藤井レイラ": {
+    "nameJa": "藤井レイラ",
+    "nameZh": "",
+    "aliases": [
+      "椿",
+      "あいの"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Digigra/%E8%97%A4%E4%BA%95%E3%83%AC%E3%82%A4%E3%83%A9.jpg",
+    "birth": "1992-09-30",
+    "bloodType": "",
+    "height": "155",
+    "weight": "",
+    "threeSize": "90 - 62 - 88",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2015",
+    "agency": "エスワン",
+    "social": {
+      "x": "fujii_reira2",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "藤井レイラ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "藤森里穂": {
     "nameJa": "藤森里穂",

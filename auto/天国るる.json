@@ -1,0 +1,34 @@
+{
+  "nameJa": "天国るる",
+  "nameZh": "",
+  "aliases": [
+    "新名",
+    "あみん"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E5%A4%A9%E5%9B%BD%E3%82%8B%E3%82%8B.jpg",
+  "birth": "1997-12-25",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "85 - 55 - 87",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2019-08-17",
+  "agency": "FALENO",
+  "social": {
+    "x": "ruru_amakuni",
+    "instagram": "ruru_amakuni",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "天国るる",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

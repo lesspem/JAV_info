@@ -1,0 +1,31 @@
+{
+  "nameJa": "安達夕莉",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%AE%89%E9%81%94%E5%A4%95%E8%8E%89.jpg",
+  "birth": "2002-01-24",
+  "bloodType": "O",
+  "height": "152",
+  "weight": "",
+  "threeSize": "87 - 56 - 83",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2024",
+  "debut": "2022",
+  "agency": "S1",
+  "social": {
+    "x": "yuuri_adachi",
+    "instagram": "yuuri_adachi",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "安達夕莉",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

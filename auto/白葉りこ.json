@@ -1,0 +1,34 @@
+{
+  "nameJa": "白葉りこ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%99%BD%E8%91%89%E3%82%8A%E3%81%93.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "168",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2019",
+  "agency": "エスワン",
+  "social": {
+    "x": "riko4shiraha8",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "白葉りこ",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

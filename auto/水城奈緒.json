@@ -1,0 +1,31 @@
+{
+  "nameJa": "水城奈緒",
+  "nameZh": "水城奈緒",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E6%B0%B4%E5%9F%8E%E5%A5%88%E7%B7%92.jpg",
+  "birth": "1984-09-18",
+  "bloodType": "B",
+  "height": "160",
+  "weight": "",
+  "threeSize": "90 - 65 - 95",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2007",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "NAOKITINOMORI",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "水城奈緒",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}
