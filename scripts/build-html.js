@@ -63,6 +63,7 @@ function buildHTML(data) {
 <title>女优信息总表</title>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { overscroll-behavior-x: none; }
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; color: #333; padding: 20px; }
 .header { max-width: 1600px; margin: 0 auto 20px; }
 .title-row { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 12px; }
@@ -76,7 +77,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-
 .controls input { width: 168px; text-align: center; }
 .controls select { min-width: 100px; }
 .stats { font-size: 13px; color: #888; margin-left: auto; }
-.table-wrap { max-width: 1600px; margin: 0 auto; overflow-x: auto; }
+.table-wrap { max-width: 1600px; margin: 0 auto; overflow-x: auto; overscroll-behavior-x: contain; }
 table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
 thead { background: #fafafa; position: sticky; top: 0; z-index: 1; }
 th, td { padding: 10px 8px; text-align: left; border-bottom: 1px solid #f0f0f0; font-size: 13px; white-space: nowrap; vertical-align: middle; }

@@ -85,6 +85,7 @@ function buildHTML(data) {
 <title>数据编辑器 - 女优信息总表</title>
 <style>
 * { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { overscroll-behavior-x: none; }
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; color: #333; padding: 16px; }
 .bar { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
 h1 { font-size: 20px; margin-right: 10px; }
@@ -95,7 +96,7 @@ button.ghost { background: #fff; color: #333; border: 1px solid #ddd; }
 .stat { font-size: 13px; color: #888; margin-left: auto; }
 .hint { background: #fffbe6; border: 1px solid #ffe58f; border-radius: 6px; padding: 10px 12px; font-size: 13px; margin-bottom: 12px; line-height: 1.7; }
 .hint b { color: #d46b08; }
-.wrap { overflow: auto; max-height: calc(100vh - 200px); background: #fff; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.wrap { overflow: auto; overscroll-behavior-x: contain; max-height: calc(100vh - 200px); background: #fff; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
 table { border-collapse: collapse; font-size: 12px; }
 th, td { border: 1px solid #f0f0f0; padding: 0; white-space: nowrap; }
 th { background: #fafafa; padding: 8px 6px; font-weight: 600; color: #555; position: sticky; top: 0; z-index: 2; font-size: 12px; }
