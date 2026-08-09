@@ -1,0 +1,32 @@
+{
+  "nameJa": "矢吹杏",
+  "nameZh": "矢吹杏",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E7%9F%A2%E5%90%B9%E6%9D%8F.jpg",
+  "birth": "1990-03-01",
+  "bloodType": "B",
+  "height": "164",
+  "weight": "",
+  "threeSize": "93 - 58 - 86",
+  "cup": "C",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2010",
+  "agency": "",
+  "social": {
+    "x": "yabukiann",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "矢吹杏",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

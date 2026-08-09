@@ -1,0 +1,32 @@
+{
+  "nameJa": "上木奈央",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E4%B8%8A%E6%9C%A8%E5%A5%88%E5%A4%AE.jpg",
+  "birth": "1990-08-20",
+  "bloodType": "",
+  "height": "161",
+  "weight": "",
+  "threeSize": "88 - 59 - 85",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2010",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "上木奈央",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

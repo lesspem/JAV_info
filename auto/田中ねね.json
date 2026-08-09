@@ -1,0 +1,33 @@
+{
+  "nameJa": "田中ねね",
+  "nameZh": "",
+  "aliases": [
+    "ねね"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E7%94%B0%E4%B8%AD%E3%81%AD%E3%81%AD.jpg",
+  "birth": "1999-09-20",
+  "bloodType": "",
+  "height": "151",
+  "weight": "",
+  "threeSize": "97 - 60 - 90",
+  "cup": "I",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020-10-08",
+  "agency": "SOD",
+  "social": {
+    "x": "Nene55437135",
+    "instagram": "tanaka_nene0920",
+    "tiktok": "tanaka_nene0920"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "田中ねね",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,32 @@
+{
+  "nameJa": "八神さおり",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%85%AB%E7%A5%9E%E3%81%95%E3%81%8A%E3%82%8A.jpg",
+  "birth": "1990-08-08",
+  "bloodType": "",
+  "height": "155",
+  "weight": "",
+  "threeSize": "96 - 60 - 88",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2017",
+  "debut": "2016",
+  "agency": "マドンナ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "八神さおり",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

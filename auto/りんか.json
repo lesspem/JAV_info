@@ -1,0 +1,37 @@
+{
+  "nameJa": "りんか",
+  "nameZh": "梨花 (模特兒)",
+  "aliases": [
+    "根中",
+    "千恵子"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E3%82%8A%E3%82%93%E3%81%8B.jpg",
+  "birth": "1973-05-21",
+  "bloodType": "O",
+  "height": "165",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "スターダストプロモーション",
+  "social": {
+    "x": "",
+    "instagram": "rinchan521",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "りんか",
+  "missing": [
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

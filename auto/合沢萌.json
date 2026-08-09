@@ -1,0 +1,32 @@
+{
+  "nameJa": "合沢萌",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E5%90%88%E6%B2%A2%E8%90%8C.jpg",
+  "birth": "1981-05-15",
+  "bloodType": "O",
+  "height": "165",
+  "weight": "",
+  "threeSize": "85 - 58 - 86",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2007",
+  "agency": "",
+  "social": {
+    "x": "aizawamoe0515",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "合沢萌",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

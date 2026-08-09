@@ -1,0 +1,35 @@
+{
+  "nameJa": "櫻茉日",
+  "nameZh": "",
+  "aliases": [
+    "櫻",
+    "まひる"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E6%AB%BB%E8%8C%89%E6%97%A5.jpg",
+  "birth": "",
+  "bloodType": "O",
+  "height": "160",
+  "weight": "",
+  "threeSize": "98 - 62 - 98",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "E-BODY",
+  "social": {
+    "x": "mikuru_horikita",
+    "instagram": "mikuru_horikita",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "櫻茉日",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

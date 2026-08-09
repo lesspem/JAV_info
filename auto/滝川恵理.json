@@ -1,0 +1,33 @@
+{
+  "nameJa": "滝川恵理",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-Arrows/%E6%BB%9D%E5%B7%9D%E6%81%B5%E7%90%86.jpg",
+  "birth": "1984-12-19",
+  "bloodType": "O",
+  "height": "158",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "トミーズアーティストカンパニー",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "滝川恵理",
+  "missing": [
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

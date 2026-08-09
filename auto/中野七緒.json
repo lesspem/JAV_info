@@ -1,0 +1,31 @@
+{
+  "nameJa": "中野七緒",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E4%B8%AD%E9%87%8E%E4%B8%83%E7%B7%92.jpg",
+  "birth": "1980-10-18",
+  "bloodType": "A",
+  "height": "151",
+  "weight": "",
+  "threeSize": "95 - 56 - 84",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2019",
+  "agency": "OPPAI",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "中野七緒",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

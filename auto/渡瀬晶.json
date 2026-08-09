@@ -1,0 +1,31 @@
+{
+  "nameJa": "渡瀬晶",
+  "nameZh": "渡瀨晶",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E6%B8%A1%E7%80%AC%E6%99%B6.jpg",
+  "birth": "1980-07-02",
+  "bloodType": "O",
+  "height": "168",
+  "weight": "",
+  "threeSize": "88 - 60 - 86",
+  "cup": "D-70",
+  "retired": true,
+  "retiredAt": "2005",
+  "debut": "2000-05-28",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "渡瀬晶",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

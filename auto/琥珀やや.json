@@ -1,0 +1,31 @@
+{
+  "nameJa": "琥珀やや",
+  "nameZh": "",
+  "aliases": [
+    "日向ひかげ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/v-Attackers/%E7%90%A5%E7%8F%80%E3%82%84%E3%82%84.jpg",
+  "birth": "2002-03-07",
+  "bloodType": "O",
+  "height": "165",
+  "weight": "47kg",
+  "threeSize": "87 - 59 - 90",
+  "cup": "F-65",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "無垢",
+  "social": {
+    "x": "KohakuYayasan",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "琥珀やや",
+  "missing": [],
+  "updatedAt": "2026-08-09"
+}

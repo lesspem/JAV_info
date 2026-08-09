@@ -1,0 +1,33 @@
+{
+  "nameJa": "弥生みづき",
+  "nameZh": "彌生美月",
+  "aliases": [
+    "みづき"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%BC%A5%E7%94%9F%E3%81%BF%E3%81%A5%E3%81%8D.jpg",
+  "birth": "1998-12-07",
+  "bloodType": "A",
+  "height": "157",
+  "weight": "",
+  "threeSize": "89 - 60 - 94",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2019",
+  "agency": "million",
+  "social": {
+    "x": "y_mizuki127",
+    "instagram": "mizuki_yayoi",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "弥生みづき",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

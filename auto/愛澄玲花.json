@@ -1,0 +1,31 @@
+{
+  "nameJa": "愛澄玲花",
+  "nameZh": "愛澄玲花",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E6%84%9B%E6%BE%84%E7%8E%B2%E8%8A%B1.jpg",
+  "birth": "1975-04-19",
+  "bloodType": "A",
+  "height": "168",
+  "weight": "",
+  "threeSize": "86 - 60 - 84",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "愛澄玲花",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

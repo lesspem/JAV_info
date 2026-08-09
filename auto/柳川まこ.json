@@ -1,0 +1,36 @@
+{
+  "nameJa": "柳川まこ",
+  "nameZh": "",
+  "aliases": [
+    "山本",
+    "咲良"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%9F%B3%E5%B7%9D%E3%81%BE%E3%81%93.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "155",
+  "weight": "",
+  "threeSize": "85 - 56 - 78",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2019",
+  "debut": "2018",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "柳川まこ",
+  "missing": [
+    "birth",
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

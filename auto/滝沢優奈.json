@@ -1,0 +1,32 @@
+{
+  "nameJa": "滝沢優奈",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E6%BB%9D%E6%B2%A2%E5%84%AA%E5%A5%88.jpg",
+  "birth": "1985-03-25",
+  "bloodType": "A",
+  "height": "156",
+  "weight": "",
+  "threeSize": "85 - 58 - 86",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2004",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "滝沢優奈",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

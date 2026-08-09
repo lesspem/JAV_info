@@ -39,6 +39,7 @@ const STUDIOS = [
   { name: 'Attackers', base: 'https://attackers.net/actress' },
   { name: 'PREMIUM', base: 'https://premium-beauty.com/actress' },
   { name: '本中', base: 'https://honnaka.jp/actress' },
+  { name: 'OPPAI', base: 'https://www.oppai-av.com/actress' },
 ];
 
 async function fetchText(url) {

@@ -1,0 +1,33 @@
+{
+  "nameJa": "安岡たまき",
+  "nameZh": "",
+  "aliases": [
+    "たまき"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%AE%89%E5%B2%A1%E3%81%9F%E3%81%BE%E3%81%8D.jpg",
+  "birth": "1972-04-23",
+  "bloodType": "",
+  "height": "155",
+  "weight": "",
+  "threeSize": "122 - 84 - 117",
+  "cup": "M",
+  "retired": true,
+  "retiredAt": "2011",
+  "debut": "2009",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "安岡たまき",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,33 @@
+{
+  "nameJa": "桜咲ひな",
+  "nameZh": "",
+  "aliases": [
+    "桜咲ひな"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E6%A1%9C%E5%92%B2%E3%81%B2%E3%81%AA.jpg",
+  "birth": "1992-04-10",
+  "bloodType": "",
+  "height": "154",
+  "weight": "",
+  "threeSize": "94 - 58 - 89",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "2015",
+  "debut": "2011",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "桜咲ひな",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

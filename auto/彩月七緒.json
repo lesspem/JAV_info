@@ -1,0 +1,31 @@
+{
+  "nameJa": "彩月七緒",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E5%BD%A9%E6%9C%88%E4%B8%83%E7%B7%92.jpg",
+  "birth": "2002-06-16",
+  "bloodType": "O",
+  "height": "164",
+  "weight": "",
+  "threeSize": "92 - 59 - 89",
+  "cup": "I",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024-01-25",
+  "agency": "",
+  "social": {
+    "x": "nao_satsuki",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "彩月七緒",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

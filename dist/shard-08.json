@@ -1,4 +1,38 @@
 {
+  "あいだ飛鳥": {
+    "nameJa": "あいだ飛鳥",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E3%81%82%E3%81%84%E3%81%A0%E9%A3%9B%E9%B3%A5.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "gfriends"
+    ],
+    "name": "あいだ飛鳥",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "かぐやりん": {
     "nameJa": "かぐやりん",
     "nameZh": "",
@@ -646,6 +680,40 @@
     ],
     "updatedAt": "2026-08-09"
   },
+  "叶ユリア": {
+    "nameJa": "叶ユリア",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E5%8F%B6%E3%83%A6%E3%83%AA%E3%82%A2.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "gfriends"
+    ],
+    "name": "叶ユリア",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "咲美りんね": {
     "nameJa": "咲美りんね",
     "nameZh": "",
@@ -898,6 +966,37 @@
       "weight",
       "threeSize",
       "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "愛澄玲花": {
+    "nameJa": "愛澄玲花",
+    "nameZh": "愛澄玲花",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E6%84%9B%E6%BE%84%E7%8E%B2%E8%8A%B1.jpg",
+    "birth": "1975-04-19",
+    "bloodType": "A",
+    "height": "168",
+    "weight": "",
+    "threeSize": "86 - 60 - 84",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "愛澄玲花",
+    "missing": [
+      "weight"
     ],
     "updatedAt": "2026-08-09"
   },
@@ -1247,6 +1346,69 @@
     ],
     "updatedAt": "2026-08-09"
   },
+  "松すみれ": {
+    "nameJa": "松すみれ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E6%9D%BE%E3%81%99%E3%81%BF%E3%82%8C.jpg",
+    "birth": "1989-12-12",
+    "bloodType": "O",
+    "height": "162",
+    "weight": "50kg",
+    "threeSize": "95 - 58 - 87",
+    "cup": "I",
+    "retired": true,
+    "retiredAt": "2014",
+    "debut": "2009-09-01",
+    "agency": "",
+    "social": {
+      "x": "omatsu_dayo",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "松すみれ",
+    "missing": [],
+    "updatedAt": "2026-08-09"
+  },
+  "松嶋葵": {
+    "nameJa": "松嶋葵",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E6%9D%BE%E5%B6%8B%E8%91%B5.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "gfriends"
+    ],
+    "name": "松嶋葵",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "松本梨穂": {
     "nameJa": "松本梨穂",
     "nameZh": "",
@@ -1312,6 +1474,40 @@
     ],
     "updatedAt": "2026-08-08"
   },
+  "柳朋子": {
+    "nameJa": "柳朋子",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E6%9F%B3%E6%9C%8B%E5%AD%90.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "gfriends"
+    ],
+    "name": "柳朋子",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "楪カレン": {
     "nameJa": "楪カレン",
     "nameZh": "楪可怜",
@@ -1342,6 +1538,136 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "橘なお": {
+    "nameJa": "橘なお",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Honnaka/%E6%A9%98%E3%81%AA%E3%81%8A.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "gfriends"
+    ],
+    "name": "橘なお",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "永崎麗香": {
+    "nameJa": "永崎麗香",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/638/810638.jpg?new",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "minnano-av"
+    ],
+    "name": "永崎麗香",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "流川純": {
+    "nameJa": "流川純",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E6%B5%81%E5%B7%9D%E7%B4%94.jpg",
+    "birth": "1975-11-24",
+    "bloodType": "",
+    "height": "163",
+    "weight": "",
+    "threeSize": "92 - 60 - 89",
+    "cup": "F-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "流川純",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "滝沢麻美": {
+    "nameJa": "滝沢麻美",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E6%BB%9D%E6%B2%A2%E9%BA%BB%E7%BE%8E.jpg",
+    "birth": "1987-07-02",
+    "bloodType": "A",
+    "height": "154",
+    "weight": "",
+    "threeSize": "85 - 57 - 82",
+    "cup": "C-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2007",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "滝沢麻美",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "白羅冬萌": {
     "nameJa": "白羅冬萌",
@@ -1376,6 +1702,70 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "矢吹杏": {
+    "nameJa": "矢吹杏",
+    "nameZh": "矢吹杏",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E7%9F%A2%E5%90%B9%E6%9D%8F.jpg",
+    "birth": "1990-03-01",
+    "bloodType": "B",
+    "height": "164",
+    "weight": "",
+    "threeSize": "93 - 58 - 86",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2010",
+    "agency": "",
+    "social": {
+      "x": "yabukiann",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia",
+      "gfriends"
+    ],
+    "name": "矢吹杏",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "秋月夕": {
+    "nameJa": "秋月夕",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [],
+    "name": "秋月夕",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "稲森美優": {
     "nameJa": "稲森美優",
     "nameZh": "稻森美優",
@@ -1406,6 +1796,37 @@
     ],
     "name": "稲森美優",
     "missing": [],
+    "updatedAt": "2026-08-09"
+  },
+  "舞田奈美": {
+    "nameJa": "舞田奈美",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E8%88%9E%E7%94%B0%E5%A5%88%E7%BE%8E.jpg",
+    "birth": "1977-09-20",
+    "bloodType": "A",
+    "height": "151",
+    "weight": "",
+    "threeSize": "86 - 59 - 88",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "1999",
+    "debut": "1998-02-20",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "舞田奈美",
+    "missing": [
+      "weight"
+    ],
     "updatedAt": "2026-08-09"
   },
   "花井ゆり": {
@@ -1737,6 +2158,72 @@
     "missing": [
       "weight"
     ],
+    "updatedAt": "2026-08-09"
+  },
+  "長瀬あずさ": {
+    "nameJa": "長瀬あずさ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E9%95%B7%E7%80%AC%E3%81%82%E3%81%9A%E3%81%95.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "gfriends"
+    ],
+    "name": "長瀬あずさ",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "長瀬麻美": {
+    "nameJa": "長瀬麻美",
+    "nameZh": "長瀨麻美",
+    "aliases": [
+      "水谷",
+      "彩也加"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-Diaz/%E9%95%B7%E7%80%AC%E9%BA%BB%E7%BE%8E.jpg",
+    "birth": "1992-06-06",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "45kg",
+    "threeSize": "94 - 62 - 90",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2014-04-01",
+    "agency": "マックス・エー",
+    "social": {
+      "x": "nagasemami66",
+      "instagram": "nagasemami66",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "長瀬麻美",
+    "missing": [],
     "updatedAt": "2026-08-09"
   },
   "風間ﾘﾅ": {

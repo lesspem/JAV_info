@@ -1,0 +1,31 @@
+{
+  "nameJa": "貝満ひとみ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E8%B2%9D%E6%BA%80%E3%81%B2%E3%81%A8%E3%81%BF.jpg",
+  "birth": "1969-12-24",
+  "bloodType": "O",
+  "height": "158",
+  "weight": "",
+  "threeSize": "86 - 61 - 89",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "1990-09-21",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "貝満ひとみ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "中森玲子",
+  "nameZh": "中森玲子",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E4%B8%AD%E6%A3%AE%E7%8E%B2%E5%AD%90.jpg",
+  "birth": "1978-05-25",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "100 - 60 - 93",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2008",
+  "agency": "",
+  "social": {
+    "x": "NakamoriReiko",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "中森玲子",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

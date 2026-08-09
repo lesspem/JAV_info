@@ -1,0 +1,31 @@
+{
+  "nameJa": "舞田奈美",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E8%88%9E%E7%94%B0%E5%A5%88%E7%BE%8E.jpg",
+  "birth": "1977-09-20",
+  "bloodType": "A",
+  "height": "151",
+  "weight": "",
+  "threeSize": "86 - 59 - 88",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "1999",
+  "debut": "1998-02-20",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "舞田奈美",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,33 @@
+{
+  "nameJa": "酒井ちなみ",
+  "nameZh": "酒井千波",
+  "aliases": [
+    "紫葵"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E9%85%92%E4%BA%95%E3%81%A1%E3%81%AA%E3%81%BF.jpg",
+  "birth": "1977-02-04",
+  "bloodType": "O",
+  "height": "170",
+  "weight": "",
+  "threeSize": "100 - 60 - 96",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2000",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "酒井ちなみ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

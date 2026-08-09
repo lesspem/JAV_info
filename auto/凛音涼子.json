@@ -1,0 +1,31 @@
+{
+  "nameJa": "凛音涼子",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%87%9B%E9%9F%B3%E6%B6%BC%E5%AD%90.jpg",
+  "birth": "1987-06-05",
+  "bloodType": "",
+  "height": "167",
+  "weight": "",
+  "threeSize": "90 - 59 - 86",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2008",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "凛音涼子",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

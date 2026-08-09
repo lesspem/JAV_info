@@ -1,0 +1,31 @@
+{
+  "nameJa": "徠夢",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E5%BE%A0%E5%A4%A2.jpg",
+  "birth": "1989-03-28",
+  "bloodType": "A",
+  "height": "162",
+  "weight": "",
+  "threeSize": "94 - 64 - 93",
+  "cup": "H-70",
+  "retired": true,
+  "retiredAt": "2010",
+  "debut": "2009",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "徠夢",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

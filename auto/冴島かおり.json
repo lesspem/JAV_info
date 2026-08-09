@@ -1,0 +1,31 @@
+{
+  "nameJa": "冴島かおり",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%86%B4%E5%B3%B6%E3%81%8B%E3%81%8A%E3%82%8A.jpg",
+  "birth": "1989-08-16",
+  "bloodType": "A",
+  "height": "156",
+  "weight": "",
+  "threeSize": "88 - 58 - 87",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2012",
+  "agency": "マダムス",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "冴島かおり",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

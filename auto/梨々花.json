@@ -1,0 +1,35 @@
+{
+  "nameJa": "梨々花",
+  "nameZh": "",
+  "aliases": [
+    "山村",
+    "梨花"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A2%A8%E3%80%85%E8%8A%B1.jpg",
+  "birth": "1995-10-23",
+  "bloodType": "",
+  "height": "158",
+  "weight": "",
+  "threeSize": "90 - 60 - 90",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2018",
+  "agency": "SOD",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "梨々花",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

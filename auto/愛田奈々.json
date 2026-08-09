@@ -1,0 +1,31 @@
+{
+  "nameJa": "愛田奈々",
+  "nameZh": "愛田奈奈",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E6%84%9B%E7%94%B0%E5%A5%88%E3%80%85.jpg",
+  "birth": "1980-11-14",
+  "bloodType": "",
+  "height": "166",
+  "weight": "",
+  "threeSize": "83 - 60 - 89",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2011",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "愛田奈々",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

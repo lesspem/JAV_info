@@ -1,0 +1,32 @@
+{
+  "nameJa": "零忍",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E9%9B%B6%E5%BF%8D.jpg",
+  "birth": "1981-12-29",
+  "bloodType": "O",
+  "height": "156",
+  "weight": "",
+  "threeSize": "85 - 60 - 86",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2006",
+  "debut": "2000",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "零忍",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

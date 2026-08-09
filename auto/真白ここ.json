@@ -1,0 +1,34 @@
+{
+  "nameJa": "真白ここ",
+  "nameZh": "",
+  "aliases": [
+    "太田",
+    "新葉"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%9C%9F%E7%99%BD%E3%81%93%E3%81%93.jpg",
+  "birth": "1996-12-04",
+  "bloodType": "O",
+  "height": "149",
+  "weight": "",
+  "threeSize": "93 - 57 - 83",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2017-09-28",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "真白ここ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

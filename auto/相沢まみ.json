@@ -1,0 +1,31 @@
+{
+  "nameJa": "相沢まみ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E7%9B%B8%E6%B2%A2%E3%81%BE%E3%81%BF.jpg",
+  "birth": "1978-10-04",
+  "bloodType": "A",
+  "height": "162",
+  "weight": "",
+  "threeSize": "86 - 60 - 88",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2000",
+  "debut": "1999",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "相沢まみ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

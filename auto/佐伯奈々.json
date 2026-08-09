@@ -1,0 +1,31 @@
+{
+  "nameJa": "佐伯奈々",
+  "nameZh": "佐伯奈奈",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E4%BD%90%E4%BC%AF%E5%A5%88%E3%80%85.jpg",
+  "birth": "1985-12-29",
+  "bloodType": "O",
+  "height": "170",
+  "weight": "",
+  "threeSize": "90 - 63 - 90",
+  "cup": "G-75",
+  "retired": true,
+  "retiredAt": "2009-09-30",
+  "debut": "2007",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "佐伯奈々",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

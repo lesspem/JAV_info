@@ -1,0 +1,34 @@
+{
+  "nameJa": "羽田カイラ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/119/936119.jpg?new",
+  "birth": "",
+  "bloodType": "",
+  "height": "",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "minnano-av"
+  ],
+  "name": "羽田カイラ",
+  "missing": [
+    "birth",
+    "height",
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}
