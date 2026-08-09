@@ -89,7 +89,8 @@ html, body { overscroll-behavior-x: none; }
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #f5f5f5; color: #333; padding: 16px; }
 .bar { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; margin-bottom: 12px; }
 h1 { font-size: 20px; margin-right: 10px; }
-input.search { padding: 7px 11px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; width: 200px; }
+input.search { padding: 7px 11px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; width: 180px; }
+select { padding: 7px 10px; border: 1px solid #ddd; border-radius: 6px; font-size: 13px; background: #fff; min-width: 100px; }
 button { padding: 7px 14px; border: none; border-radius: 6px; font-size: 14px; cursor: pointer; background: #1890ff; color: #fff; }
 button:hover { opacity: .9; }
 button.ghost { background: #fff; color: #333; border: 1px solid #ddd; }
@@ -112,7 +113,10 @@ td.changed input { background: #fffbe6; font-weight: 600; }
 
 <div class="bar">
   <h1>数据编辑器</h1>
-  <input class="search" id="search" placeholder="搜索名字定位" autocomplete="off">
+  <input class="search" id="search" placeholder="搜索名字" autocomplete="off">
+  <select id="filterAgency"><option value="">全部公司</option></select>
+  <select id="filterRetired"><option value="">全部状态</option><option value="TRUE">引退</option><option value="FALSE">现役</option></select>
+  <select id="filterNoAvatar"><option value="">头像</option><option value="no">无头像</option><option value="yes">有头像</option></select>
   <button id="download">下载修改后的 CSV</button>
   <button class="ghost" id="copyJson">复制当前行 JSON</button>
   <button class="ghost" id="reset">撤销全部修改</button>
@@ -147,15 +151,32 @@ let DATA = JSON.parse(JSON.stringify(ORIGINAL));
 const tbody = document.getElementById('tbody');
 const stat = document.getElementById('stat');
 const search = document.getElementById('search');
+const filterAgency = document.getElementById('filterAgency');
+const filterRetired = document.getElementById('filterRetired');
+const filterNoAvatar = document.getElementById('filterNoAvatar');
 let currentRow = -1;
+
+// 构建公司筛选选项（按数据里出现的公司去重）
+[...new Set(DATA.map(d => d.agency).filter(Boolean))].sort().forEach(a => {
+  const o = document.createElement('option');
+  o.value = a; o.textContent = a;
+  filterAgency.appendChild(o);
+});
 
 function render() {
   const q = search.value.trim().toLowerCase();
+  const ag = filterAgency.value;
+  const rt = filterRetired.value;
+  const av = filterNoAvatar.value;
   tbody.innerHTML = '';
   let shown = 0;
   DATA.forEach((row, i) => {
     const hay = (row.name + row.nameZh + row.nameJa + row.aliases).toLowerCase();
     if (q && !hay.includes(q)) return;
+    if (ag && row.agency !== ag) return;
+    if (rt && row.retired !== rt) return;
+    if (av === 'no' && row.avatar) return;
+    if (av === 'yes' && !row.avatar) return;
     shown++;
     const tr = document.createElement('tr');
     tr.innerHTML = '<td class="idx">' + (i + 1) + '</td>' +
@@ -250,6 +271,9 @@ document.getElementById('reset').addEventListener('click', () => {
 });
 
 search.addEventListener('input', render);
+filterAgency.addEventListener('change', render);
+filterRetired.addEventListener('change', render);
+filterNoAvatar.addEventListener('change', render);
 render();
 </script>
 </body>
