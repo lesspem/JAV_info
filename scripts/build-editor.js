@@ -116,7 +116,8 @@ td.changed input { background: #fffbe6; font-weight: 600; }
   <input class="search" id="search" placeholder="搜索名字" autocomplete="off">
   <select id="filterAgency"><option value="">全部公司</option></select>
   <select id="filterRetired"><option value="">全部状态</option><option value="TRUE">引退</option><option value="FALSE">现役</option></select>
-  <select id="filterNoAvatar"><option value="">头像</option><option value="no">无头像</option><option value="yes">有头像</option></select>
+  <select id="filterField"><option value="">选字段…</option></select>
+  <select id="filterHas"><option value="">有/无数据</option><option value="no">无数据</option><option value="yes">有数据</option></select>
   <button id="download">下载修改后的 CSV</button>
   <button class="ghost" id="copyJson">复制当前行 JSON</button>
   <button class="ghost" id="reset">撤销全部修改</button>
@@ -128,7 +129,8 @@ td.changed input { background: #fffbe6; font-weight: 600; }
   把下载的文件<b>上传替换</b> <code>data/edit.csv</code>（GitHub 网页 Add file → Upload files）→
   自动同步工作流会在 1-2 分钟内更新所有数据和网页。<br>
   <b>或者：</b>点某一行任意格子后点「复制当前行 JSON」，粘贴到 <code>manual/&lt;名字&gt;.json</code> 里也能生效。<br>
-  <b>注意：</b>第一列「名字(主键)」不可改；曾用名多个用顿号 <code>、</code> 分隔；引退填 TRUE/FALSE。
+  <b>注意：</b>第一列「名字(主键)」不可改；曾用名多个用顿号 <code>、</code> 分隔；引退填 TRUE/FALSE。<br>
+  <b>筛选缺失数据：</b>「选字段…」挑一个字段（如 体重）＋「无数据」，即可只看该字段为空的人，方便批量补。
 </div>
 
 <div class="wrap">
@@ -153,7 +155,8 @@ const stat = document.getElementById('stat');
 const search = document.getElementById('search');
 const filterAgency = document.getElementById('filterAgency');
 const filterRetired = document.getElementById('filterRetired');
-const filterNoAvatar = document.getElementById('filterNoAvatar');
+const filterField = document.getElementById('filterField');
+const filterHas = document.getElementById('filterHas');
 let currentRow = -1;
 
 // 构建公司筛选选项（按数据里出现的公司去重）
@@ -163,11 +166,20 @@ let currentRow = -1;
   filterAgency.appendChild(o);
 });
 
+// 构建"字段"下拉：除主键/删除标记外的所有字段都可选
+const HAS_FIELDS = FIELDS.filter(f => !f.readonly && f.key !== '_delete');
+HAS_FIELDS.forEach(f => {
+  const o = document.createElement('option');
+  o.value = f.key; o.textContent = f.label;
+  filterField.appendChild(o);
+});
+
 function render() {
   const q = search.value.trim().toLowerCase();
   const ag = filterAgency.value;
   const rt = filterRetired.value;
-  const av = filterNoAvatar.value;
+  const field = filterField.value;
+  const has = filterHas.value;
   tbody.innerHTML = '';
   let shown = 0;
   DATA.forEach((row, i) => {
@@ -175,8 +187,12 @@ function render() {
     if (q && !hay.includes(q)) return;
     if (ag && row.agency !== ag) return;
     if (rt && row.retired !== rt) return;
-    if (av === 'no' && row.avatar) return;
-    if (av === 'yes' && !row.avatar) return;
+    // 有/无数据筛选：针对选中的字段
+    if (field && has) {
+      const empty = !String(row[field] || '').trim();
+      if (has === 'no' && !empty) return;   // 只看该字段为空的
+      if (has === 'yes' && empty) return;    // 只看该字段有值的
+    }
     shown++;
     const tr = document.createElement('tr');
     tr.innerHTML = '<td class="idx">' + (i + 1) + '</td>' +
@@ -273,7 +289,8 @@ document.getElementById('reset').addEventListener('click', () => {
 search.addEventListener('input', render);
 filterAgency.addEventListener('change', render);
 filterRetired.addEventListener('change', render);
-filterNoAvatar.addEventListener('change', render);
+filterField.addEventListener('change', render);
+filterHas.addEventListener('change', render);
 render();
 </script>
 </body>
