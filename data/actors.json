@@ -28,6 +28,33 @@
     "updatedAt": "2026-08-07"
   },
   {
+    "nameJa": "NAO",
+    "nameZh": "Nao",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/w-OPPAI/NAO.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "gfriends"
+    ],
+    "name": "NAO",
+    "updatedAt": "2026-08-09"
+  },
+  {
     "nameJa": "安齋らら",
     "nameZh": "安齋拉拉",
     "aliases": [
@@ -2028,6 +2055,34 @@
     "updatedAt": "2026-08-07"
   },
   {
+    "nameJa": "上羽絢",
+    "nameZh": "上羽絢",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E4%B8%8A%E7%BE%BD%E7%B5%A2.jpg",
+    "birth": "1988-11-25",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "100 - 55 - 85",
+    "cup": "J",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2022",
+    "agency": "マドンナ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "上羽絢",
+    "updatedAt": "2026-08-09"
+  },
+  {
     "nameJa": "与田りん",
     "nameZh": "",
     "aliases": [],
@@ -3149,7 +3204,7 @@
   },
   {
     "nameJa": "二階堂夢",
-    "nameZh": "本鄉愛",
+    "nameZh": "",
     "aliases": [
       "二階堂",
       "夢"
@@ -7463,7 +7518,7 @@
   },
   {
     "nameJa": "坂井美桜",
-    "nameZh": "IdeaPocket",
+    "nameZh": "",
     "aliases": [],
     "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E5%9D%82%E4%BA%95%E7%BE%8E%E6%A1%9C.jpg",
     "birth": "",
@@ -9701,6 +9756,37 @@
     "updatedAt": "2026-08-09"
   },
   {
+    "nameJa": "小春まり",
+    "nameZh": "",
+    "aliases": [
+      "上戸",
+      "まり"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%B0%8F%E6%98%A5%E3%81%BE%E3%82%8A.jpg",
+    "birth": "1991-12-13",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "80 - 58 - 85",
+    "cup": "A",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2022-07-07",
+    "agency": "マドンナ",
+    "social": {
+      "x": "Mari_Koharu",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "小春まり",
+    "updatedAt": "2026-08-09"
+  },
+  {
     "nameJa": "小松本果",
     "nameZh": "",
     "aliases": [],
@@ -10462,7 +10548,7 @@
   },
   {
     "nameJa": "山城みずほ",
-    "nameZh": "加藤綾野",
+    "nameZh": "",
     "aliases": [
       "山城",
       "みずほ"
@@ -11241,36 +11327,6 @@
       "gfriends"
     ],
     "name": "市来まひろ",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "nameJa": "希咲エマ",
-    "nameZh": "",
-    "aliases": [
-      "{{plainlist|"
-    ],
-    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E5%B8%8C%E5%92%B2%E3%82%A8%E3%83%9E.jpg",
-    "birth": "1989-08-30",
-    "bloodType": "A",
-    "height": "152",
-    "weight": "",
-    "threeSize": "95 - 56 - 85",
-    "cup": "H",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "2009-03-01",
-    "agency": "",
-    "social": {
-      "x": "emakisaki",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [
-      "ja.wikipedia",
-      "gfriends"
-    ],
-    "name": "希咲エマ",
     "updatedAt": "2026-08-07"
   },
   {
@@ -15891,37 +15947,6 @@
     "updatedAt": "2026-08-07"
   },
   {
-    "nameJa": "松永さな",
-    "nameZh": "今永紗奈",
-    "aliases": [
-      "松永",
-      "さな"
-    ],
-    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E6%9D%BE%E6%B0%B8%E3%81%95%E3%81%AA.jpg",
-    "birth": "1996-02-09",
-    "bloodType": "O",
-    "height": "164",
-    "weight": "",
-    "threeSize": "89 - 58 - 88",
-    "cup": "G",
-    "retired": true,
-    "retiredAt": "2020",
-    "debut": "2016",
-    "agency": "溜池ゴロー",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [
-      "ja.wikipedia",
-      "gfriends"
-    ],
-    "name": "松永さな",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "nameJa": "林愛菜",
     "nameZh": "",
     "aliases": [
@@ -17943,37 +17968,6 @@
       "gfriends"
     ],
     "name": "樹花凜",
-    "updatedAt": "2026-08-07"
-  },
-  {
-    "nameJa": "橋本ありな",
-    "nameZh": "新有菜",
-    "aliases": [
-      "新有菜",
-      "橋本ありな"
-    ],
-    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%A9%8B%E6%9C%AC%E3%81%82%E3%82%8A%E3%81%AA.jpg",
-    "birth": "1996-12-15",
-    "bloodType": "A",
-    "height": "167",
-    "weight": "44kg",
-    "threeSize": "84 - 58 - 84",
-    "cup": "C-65",
-    "retired": true,
-    "retiredAt": "2025",
-    "debut": "2016-10-03",
-    "agency": "",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [
-      "ja.wikipedia",
-      "gfriends"
-    ],
-    "name": "橋本ありな",
     "updatedAt": "2026-08-07"
   },
   {
@@ -21608,7 +21602,7 @@
   },
   {
     "nameJa": "由愛可奈",
-    "nameZh": "水川潤",
+    "nameZh": "",
     "aliases": [],
     "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Juicy-Honey/%E7%94%B1%E6%84%9B%E5%8F%AF%E5%A5%88.jpg",
     "birth": "1993-02-12",
@@ -22885,7 +22879,7 @@
   },
   {
     "nameJa": "真田美樹",
-    "nameZh": "真田紗奈",
+    "nameZh": "",
     "aliases": [
       "真田みづ稀",
       "真田美樹"
@@ -23849,6 +23843,33 @@
     "updatedAt": "2026-08-07"
   },
   {
+    "nameJa": "神木蘭",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E7%A5%9E%E6%9C%A8%E8%98%AD.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "gfriends"
+    ],
+    "name": "神木蘭",
+    "updatedAt": "2026-08-09"
+  },
+  {
     "nameJa": "神楽ももか",
     "nameZh": "",
     "aliases": [],
@@ -24531,23 +24552,20 @@
     "updatedAt": "2026-08-09"
   },
   {
-    "nameJa": "筧ジュン",
-    "nameZh": "鷲尾芽衣",
-    "aliases": [
-      "筧",
-      "ジュン"
-    ],
-    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%AD%A7%E3%82%B8%E3%83%A5%E3%83%B3.jpg",
-    "birth": "1997-10-20",
-    "bloodType": "A",
-    "height": "164",
-    "weight": "60kg",
-    "threeSize": "104 - 59 - 89",
-    "cup": "L",
+    "nameJa": "笹本ゆう",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/026/971505.jpg?new",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
     "retired": false,
     "retiredAt": "",
-    "debut": "2019",
-    "agency": "S1",
+    "debut": "",
+    "agency": "",
     "social": {
       "x": "",
       "instagram": "",
@@ -24555,10 +24573,9 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia",
-      "gfriends"
+      "minnano-av"
     ],
-    "name": "筧ジュン",
+    "name": "笹本ゆう",
     "updatedAt": "2026-08-09"
   },
   {
@@ -25342,34 +25359,6 @@
     "updatedAt": "2026-08-09"
   },
   {
-    "nameJa": "美谷朱里",
-    "nameZh": "美谷朱音",
-    "aliases": [],
-    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E7%BE%8E%E8%B0%B7%E6%9C%B1%E9%87%8C.jpg",
-    "birth": "1996-05-25",
-    "bloodType": "A",
-    "height": "166",
-    "weight": "57kg",
-    "threeSize": "83 - 58 - 96",
-    "cup": "E",
-    "retired": true,
-    "retiredAt": "2025",
-    "debut": "2017",
-    "agency": "ダスッ!",
-    "social": {
-      "x": "akari_mitani17",
-      "instagram": "akanemitani0415",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [
-      "ja.wikipedia",
-      "gfriends"
-    ],
-    "name": "美谷朱里",
-    "updatedAt": "2026-08-07"
-  },
-  {
     "nameJa": "美谷朱音",
     "nameZh": "美谷朱音",
     "aliases": [],
@@ -25424,37 +25413,6 @@
     ],
     "name": "羽咲みはる",
     "updatedAt": "2026-08-08"
-  },
-  {
-    "nameJa": "羽月希",
-    "nameZh": "羽田希",
-    "aliases": [
-      "井上",
-      "まさみ"
-    ],
-    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%BE%BD%E6%9C%88%E5%B8%8C.jpg",
-    "birth": "1988-07-31",
-    "bloodType": "A",
-    "height": "154",
-    "weight": "",
-    "threeSize": "88 - 60 - 84",
-    "cup": "F-65",
-    "retired": true,
-    "retiredAt": "2022-07-16",
-    "debut": "2008",
-    "agency": "",
-    "social": {
-      "x": "haneda_nozomi",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [
-      "ja.wikipedia",
-      "gfriends"
-    ],
-    "name": "羽月希",
-    "updatedAt": "2026-08-09"
   },
   {
     "nameJa": "羽月果音",
@@ -26027,7 +25985,7 @@
   },
   {
     "nameJa": "花咲澪",
-    "nameZh": "IdeaPocket",
+    "nameZh": "",
     "aliases": [],
     "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E8%8A%B1%E5%92%B2%E6%BE%AA.jpg",
     "birth": "",
@@ -28699,7 +28657,7 @@
   },
   {
     "nameJa": "辻みいな",
-    "nameZh": "IdeaPocket",
+    "nameZh": "",
     "aliases": [],
     "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E8%BE%BB%E3%81%BF%E3%81%84%E3%81%AA.jpg",
     "birth": "",

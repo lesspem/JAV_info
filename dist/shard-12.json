@@ -1,4 +1,38 @@
 {
+  "NAO": {
+    "nameJa": "NAO",
+    "nameZh": "Nao",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/w-OPPAI/NAO.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "gfriends"
+    ],
+    "name": "NAO",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "Tia": {
     "nameJa": "Tia",
     "nameZh": "Tia",
@@ -789,39 +823,6 @@
     "missing": [],
     "updatedAt": "2026-08-08"
   },
-  "希咲エマ": {
-    "nameJa": "希咲エマ",
-    "nameZh": "",
-    "aliases": [
-      "{{plainlist|"
-    ],
-    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E5%B8%8C%E5%92%B2%E3%82%A8%E3%83%9E.jpg",
-    "birth": "1989-08-30",
-    "bloodType": "A",
-    "height": "152",
-    "weight": "",
-    "threeSize": "95 - 56 - 85",
-    "cup": "H",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "2009-03-01",
-    "agency": "",
-    "social": {
-      "x": "emakisaki",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [
-      "ja.wikipedia",
-      "gfriends"
-    ],
-    "name": "希咲エマ",
-    "missing": [
-      "weight"
-    ],
-    "updatedAt": "2026-08-07"
-  },
   "幸村泉希": {
     "nameJa": "幸村泉希",
     "nameZh": "",
@@ -1505,7 +1506,7 @@
   },
   "真田美樹": {
     "nameJa": "真田美樹",
-    "nameZh": "真田紗奈",
+    "nameZh": "",
     "aliases": [
       "真田みづ稀",
       "真田美樹"

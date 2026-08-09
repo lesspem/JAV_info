@@ -872,7 +872,7 @@
   },
   "山城みずほ": {
     "nameJa": "山城みずほ",
-    "nameZh": "加藤綾野",
+    "nameZh": "",
     "aliases": [
       "山城",
       "みずほ"
@@ -2038,7 +2038,7 @@
   },
   "由愛可奈": {
     "nameJa": "由愛可奈",
-    "nameZh": "水川潤",
+    "nameZh": "",
     "aliases": [],
     "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Juicy-Honey/%E7%94%B1%E6%84%9B%E5%8F%AF%E5%A5%88.jpg",
     "birth": "1993-02-12",
@@ -2099,6 +2099,40 @@
     ],
     "updatedAt": "2026-08-09"
   },
+  "神木蘭": {
+    "nameJa": "神木蘭",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E7%A5%9E%E6%9C%A8%E8%98%AD.jpg",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "gfriends"
+    ],
+    "name": "神木蘭",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "竹内有紀": {
     "nameJa": "竹内有紀",
     "nameZh": "竹內有紀",
@@ -2127,6 +2161,40 @@
     "name": "竹内有紀",
     "missing": [
       "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "笹本ゆう": {
+    "nameJa": "笹本ゆう",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://www.minnano-av.com/p_actress_125_125/026/971505.jpg?new",
+    "birth": "",
+    "bloodType": "",
+    "height": "",
+    "weight": "",
+    "threeSize": "",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "minnano-av"
+    ],
+    "name": "笹本ゆう",
+    "missing": [
+      "birth",
+      "height",
+      "weight",
+      "threeSize",
+      "cup"
     ],
     "updatedAt": "2026-08-09"
   },

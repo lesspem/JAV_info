@@ -1,8 +1,8 @@
 {
-  "nameJa": "辻みいな",
-  "nameZh": "",
+  "nameJa": "NAO",
+  "nameZh": "Nao",
   "aliases": [],
-  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E8%BE%BB%E3%81%BF%E3%81%84%E3%81%AA.jpg",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/w-OPPAI/NAO.jpg",
   "birth": "",
   "bloodType": "",
   "height": "",
@@ -22,7 +22,7 @@
   "sources": [
     "gfriends"
   ],
-  "name": "辻みいな",
+  "name": "NAO",
   "missing": [
     "birth",
     "height",

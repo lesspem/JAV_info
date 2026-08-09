@@ -1,0 +1,31 @@
+{
+  "nameJa": "上羽絢",
+  "nameZh": "上羽絢",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E4%B8%8A%E7%BE%BD%E7%B5%A2.jpg",
+  "birth": "1988-11-25",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "100 - 55 - 85",
+  "cup": "J",
+  "retired": true,
+  "retiredAt": "2025",
+  "debut": "2022",
+  "agency": "マドンナ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "上羽絢",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}
