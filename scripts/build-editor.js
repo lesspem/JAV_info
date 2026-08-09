@@ -97,7 +97,10 @@ button.ghost { background: #fff; color: #333; border: 1px solid #ddd; }
 .stat { font-size: 13px; color: #888; margin-left: auto; }
 .hint { background: #fffbe6; border: 1px solid #ffe58f; border-radius: 6px; padding: 10px 12px; font-size: 13px; margin-bottom: 12px; line-height: 1.7; }
 .hint b { color: #d46b08; }
-.wrap { overflow: auto; overscroll-behavior-x: contain; max-height: calc(100vh - 200px); background: #fff; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+.hint summary { cursor: pointer; font-weight: 600; color: #d46b08; outline: none; }
+.hint[open] summary { margin-bottom: 6px; }
+/* 底部留出横向滚动条的空间，避免最后一行被滚动条盖住 */
+.wrap { overflow: auto; overscroll-behavior-x: contain; max-height: calc(100vh - 190px); background: #fff; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.08); padding-bottom: 18px; }
 table { border-collapse: collapse; font-size: 12px; }
 th, td { border: 1px solid #f0f0f0; padding: 0; white-space: nowrap; }
 th { background: #fafafa; padding: 8px 6px; font-weight: 600; color: #555; position: sticky; top: 0; z-index: 2; font-size: 12px; }
@@ -124,14 +127,15 @@ td.changed input { background: #fffbe6; font-weight: 600; }
   <span class="stat" id="stat"></span>
 </div>
 
-<div class="hint">
+<details class="hint">
+  <summary>使用说明（点击展开）</summary>
   <b>怎么用：</b>直接点格子修改（改过的格子会变黄）→ 点「下载修改后的 CSV」→
   把下载的文件<b>上传替换</b> <code>data/edit.csv</code>（GitHub 网页 Add file → Upload files）→
   自动同步工作流会在 1-2 分钟内更新所有数据和网页。<br>
   <b>或者：</b>点某一行任意格子后点「复制当前行 JSON」，粘贴到 <code>manual/&lt;名字&gt;.json</code> 里也能生效。<br>
   <b>注意：</b>第一列「名字(主键)」不可改；曾用名多个用顿号 <code>、</code> 分隔；引退填 TRUE/FALSE。<br>
   <b>筛选缺失数据：</b>「选字段…」挑一个字段（如 体重）＋「无数据」，即可只看该字段为空的人，方便批量补。
-</div>
+</details>
 
 <div class="wrap">
   <table>
@@ -180,7 +184,8 @@ function render() {
   const rt = filterRetired.value;
   const field = filterField.value;
   const has = filterHas.value;
-  tbody.innerHTML = '';
+  // 用 DocumentFragment 批量插入，比逐行拼字符串再 innerHTML 快
+  const parts = [];
   let shown = 0;
   DATA.forEach((row, i) => {
     const hay = (row.name + row.nameZh + row.nameJa + row.aliases).toLowerCase();
@@ -194,8 +199,7 @@ function render() {
       if (has === 'yes' && empty) return;    // 只看该字段有值的
     }
     shown++;
-    const tr = document.createElement('tr');
-    tr.innerHTML = '<td class="idx">' + (i + 1) + '</td>' +
+    parts.push('<tr>' + '<td class="idx">' + (i + 1) + '</td>' +
       FIELDS.map(f => {
         const val = row[f.key] || '';
         const orig = ORIGINAL[i][f.key] || '';
@@ -208,9 +212,9 @@ function render() {
         }
         return '<td class="' + cls + '"><input value="' + String(val).replace(/"/g, '&quot;') + '"' +
           ' data-row="' + i + '" data-key="' + f.key + '"' + (f.readonly ? ' readonly' : '') + '></td>';
-      }).join('');
-    tbody.appendChild(tr);
+      }).join('') + '</tr>');
   });
+  tbody.innerHTML = parts.join('');
   const changed = DATA.filter((r, i) => FIELDS.some(f => (r[f.key] || '') !== (ORIGINAL[i][f.key] || ''))).length;
   stat.textContent = '显示 ' + shown + ' / ' + DATA.length + ' 人｜已修改 ' + changed + ' 人';
 }
@@ -286,7 +290,12 @@ document.getElementById('reset').addEventListener('click', () => {
   render();
 });
 
-search.addEventListener('input', render);
+// 搜索防抖：输入停 250ms 后才渲染（1000+条时避免逐字卡顿）
+let searchTimer = null;
+search.addEventListener('input', () => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(render, 250);
+});
 filterAgency.addEventListener('change', render);
 filterRetired.addEventListener('change', render);
 filterField.addEventListener('change', render);
