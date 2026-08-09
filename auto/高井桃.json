@@ -1,0 +1,33 @@
+{
+  "nameJa": "高井桃",
+  "nameZh": "",
+  "aliases": [
+    "美香"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E9%AB%98%E4%BA%95%E6%A1%83.jpg",
+  "birth": "1982-05-08",
+  "bloodType": "A",
+  "height": "154",
+  "weight": "",
+  "threeSize": "87 - 58 - 84",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2006",
+  "debut": "2003",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "高井桃",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

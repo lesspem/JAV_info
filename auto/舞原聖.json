@@ -1,0 +1,34 @@
+{
+  "nameJa": "舞原聖",
+  "nameZh": "",
+  "aliases": [
+    "川瀬",
+    "麻衣"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E8%88%9E%E5%8E%9F%E8%81%96.jpg",
+  "birth": "1985-03-30",
+  "bloodType": "O",
+  "height": "159",
+  "weight": "",
+  "threeSize": "83 - 60 - 90",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2017",
+  "debut": "2015",
+  "agency": "マドンナ",
+  "social": {
+    "x": "hijiri_hibari",
+    "instagram": "maihara_hijiri",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "舞原聖",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

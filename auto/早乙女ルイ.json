@@ -1,0 +1,31 @@
+{
+  "nameJa": "早乙女ルイ",
+  "nameZh": "早乙女露依",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%97%A9%E4%B9%99%E5%A5%B3%E3%83%AB%E3%82%A4.jpg",
+  "birth": "1988-06-26",
+  "bloodType": "A",
+  "height": "153",
+  "weight": "",
+  "threeSize": "85 - 57 - 82",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2012",
+  "debut": "2007",
+  "agency": "h.m.p",
+  "social": {
+    "x": "RuiSaotome",
+    "instagram": "rui_parfait",
+    "tiktok": "rui_parfait"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "早乙女ルイ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

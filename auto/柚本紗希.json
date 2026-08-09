@@ -1,0 +1,31 @@
+{
+  "nameJa": "柚本紗希",
+  "nameZh": "柚本紗希",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E6%9F%9A%E6%9C%AC%E7%B4%97%E5%B8%8C.jpg",
+  "birth": "1989-03-14",
+  "bloodType": "O",
+  "height": "152",
+  "weight": "",
+  "threeSize": "85 - 57 - 85",
+  "cup": "C",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2010",
+  "agency": "",
+  "social": {
+    "x": "SAKIDESUYO",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "柚本紗希",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

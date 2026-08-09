@@ -1,0 +1,34 @@
+{
+  "nameJa": "ティア",
+  "nameZh": "TEAR",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E3%83%86%E3%82%A3%E3%82%A2.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "gfriends"
+  ],
+  "name": "ティア",
+  "missing": [
+    "birth",
+    "height",
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

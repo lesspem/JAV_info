@@ -1,0 +1,34 @@
+{
+  "nameJa": "仲村りお",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E4%BB%B2%E6%9D%91%E3%82%8A%E3%81%8A.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "gfriends"
+  ],
+  "name": "仲村りお",
+  "missing": [
+    "birth",
+    "height",
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

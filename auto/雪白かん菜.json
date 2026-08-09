@@ -1,0 +1,31 @@
+{
+  "nameJa": "雪白かん菜",
+  "nameZh": "雪白柑菜",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E9%9B%AA%E7%99%BD%E3%81%8B%E3%82%93%E8%8F%9C.jpg",
+  "birth": "1995-11-01",
+  "bloodType": "A",
+  "height": "163",
+  "weight": "",
+  "threeSize": "87 - 58 - 88",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2017",
+  "debut": "2016",
+  "agency": "プレステージ",
+  "social": {
+    "x": "yukishiro_kanna",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "雪白かん菜",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

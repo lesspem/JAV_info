@@ -1,0 +1,34 @@
+{
+  "nameJa": "安位カヲル",
+  "nameZh": "",
+  "aliases": [
+    "安位",
+    "カヲル"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-MUTEKI/%E5%AE%89%E4%BD%8D%E3%82%AB%E3%83%B2%E3%83%AB.jpg",
+  "birth": "1999-12-01",
+  "bloodType": "A",
+  "height": "165",
+  "weight": "",
+  "threeSize": "98 - 63 - 95",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021-12-29",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "kaoru2dive",
+    "instagram": "kaoru_yasuiii",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "安位カヲル",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "愛内希",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%84%9B%E5%86%85%E5%B8%8C.jpg",
+  "birth": "1992-07-03",
+  "bloodType": "B",
+  "height": "162",
+  "weight": "",
+  "threeSize": "80 - 57 - 83",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2013",
+  "debut": "2011",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "愛内希",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

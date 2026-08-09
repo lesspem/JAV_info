@@ -1,0 +1,33 @@
+{
+  "nameJa": "立花美涼",
+  "nameZh": "立花美涼",
+  "aliases": [
+    "雪乃ほたる"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E7%AB%8B%E8%8A%B1%E7%BE%8E%E6%B6%BC.jpg",
+  "birth": "1988-05-15",
+  "bloodType": "AB",
+  "height": "161",
+  "weight": "",
+  "threeSize": "88 - 56 - 85",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2011",
+  "agency": "プレステージ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "立花美涼",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

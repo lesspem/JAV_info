@@ -1,0 +1,31 @@
+{
+  "nameJa": "羽田あい",
+  "nameZh": "羽田愛",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-Allpro/%E7%BE%BD%E7%94%B0%E3%81%82%E3%81%84.jpg",
+  "birth": "1989-09-22",
+  "bloodType": "O",
+  "height": "170",
+  "weight": "",
+  "threeSize": "87 - 55 - 85",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2014",
+  "debut": "2010-02-18",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "hanedaai",
+    "instagram": "ai_haneda0922",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "羽田あい",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

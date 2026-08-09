@@ -1,0 +1,33 @@
+{
+  "nameJa": "佳苗るか",
+  "nameZh": "佳苗琉花",
+  "aliases": [
+    "フェアリー佳苗"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%BD%B3%E8%8B%97%E3%82%8B%E3%81%8B.jpg",
+  "birth": "1993-03-04",
+  "bloodType": "O",
+  "height": "150",
+  "weight": "",
+  "threeSize": "84 - 59 - 85",
+  "cup": "E-65",
+  "retired": true,
+  "retiredAt": "2018",
+  "debut": "2012",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "rukaKANAE",
+    "instagram": "ruka_kanae",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "佳苗るか",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

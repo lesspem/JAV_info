@@ -1,0 +1,33 @@
+{
+  "nameJa": "浅野えみ",
+  "nameZh": "",
+  "aliases": [
+    "浅野えみ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%B5%85%E9%87%8E%E3%81%88%E3%81%BF.jpg",
+  "birth": "1990-06-03",
+  "bloodType": "AB",
+  "height": "156",
+  "weight": "",
+  "threeSize": "88 - 60 - 88",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2015-07-17",
+  "debut": "2013",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "asano_emi0603",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "浅野えみ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

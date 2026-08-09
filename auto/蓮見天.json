@@ -1,0 +1,32 @@
+{
+  "nameJa": "蓮見天",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%93%AE%E8%A6%8B%E5%A4%A9.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "152",
+  "weight": "",
+  "threeSize": "75 - 52 - 75",
+  "cup": "C",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "SOD・青春時代",
+  "social": {
+    "x": "",
+    "instagram": "hasumiten",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "蓮見天",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

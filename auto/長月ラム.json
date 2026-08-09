@@ -1,0 +1,31 @@
+{
+  "nameJa": "長月ラム",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E9%95%B7%E6%9C%88%E3%83%A9%E3%83%A0.jpg",
+  "birth": "1987-10-28",
+  "bloodType": "A",
+  "height": "153",
+  "weight": "",
+  "threeSize": "83 - 58 - 83",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2008",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "長月ラム",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "矢藤あき",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%9F%A2%E8%97%A4%E3%81%82%E3%81%8D.jpg",
+  "birth": "1985-06-16",
+  "bloodType": "O",
+  "height": "156",
+  "weight": "",
+  "threeSize": "88 - 58 - 88",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2007",
+  "debut": "2004",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "矢藤あき",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "茜あずさ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%8C%9C%E3%81%82%E3%81%9A%E3%81%95.jpg",
+  "birth": "1994-03-14",
+  "bloodType": "B",
+  "height": "160",
+  "weight": "",
+  "threeSize": "86 - 58 - 85",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2014",
+  "debut": "2013",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "茜あずさ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

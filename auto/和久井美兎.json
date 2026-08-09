@@ -1,0 +1,31 @@
+{
+  "nameJa": "和久井美兎",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%92%8C%E4%B9%85%E4%BA%95%E7%BE%8E%E5%85%8E.jpg",
+  "birth": "2000-12-26",
+  "bloodType": "A",
+  "height": "155",
+  "weight": "",
+  "threeSize": "88 - 57 - 86",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "プレステージ",
+  "social": {
+    "x": "wakui_mito_",
+    "instagram": "wakui_mito",
+    "tiktok": "wakui_mito_"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "和久井美兎",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

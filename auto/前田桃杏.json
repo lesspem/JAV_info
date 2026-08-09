@@ -1,0 +1,31 @@
+{
+  "nameJa": "前田桃杏",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%89%8D%E7%94%B0%E6%A1%83%E6%9D%8F.jpg",
+  "birth": "1999-10-07",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "98 - 59 - 92",
+  "cup": "I",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "その他レーベル",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "前田桃杏",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

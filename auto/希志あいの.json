@@ -1,0 +1,31 @@
+{
+  "nameJa": "希志あいの",
+  "nameZh": "希志愛野",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%B8%8C%E5%BF%97%E3%81%82%E3%81%84%E3%81%AE.jpg",
+  "birth": "1988-02-01",
+  "bloodType": "AB",
+  "height": "157",
+  "weight": "",
+  "threeSize": "85 - 57 - 83",
+  "cup": "C-65",
+  "retired": true,
+  "retiredAt": "2015-04-29",
+  "debut": "2008-03-16",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "kishi_aino",
+    "instagram": "aino_kishi",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "希志あいの",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

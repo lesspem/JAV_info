@@ -1,0 +1,33 @@
+{
+  "nameJa": "西條るり",
+  "nameZh": "西条琉璃",
+  "aliases": [
+    "西條琉璃"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-Allpro/%E8%A5%BF%E6%A2%9D%E3%82%8B%E3%82%8A.jpg",
+  "birth": "1990-03-01",
+  "bloodType": "O",
+  "height": "155",
+  "weight": "",
+  "threeSize": "111 - 57 - 85",
+  "cup": "M",
+  "retired": true,
+  "retiredAt": "2016",
+  "debut": "2010",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "saijou_ruri",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "西條るり",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

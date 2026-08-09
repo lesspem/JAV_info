@@ -1,0 +1,33 @@
+{
+  "nameJa": "リリー・ハート",
+  "nameZh": "莉莉·哈特",
+  "aliases": [
+    "エマ・ローレンス"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E3%83%AA%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%88.jpg",
+  "birth": "1997-03-11",
+  "bloodType": "A",
+  "height": "175",
+  "weight": "",
+  "threeSize": "86 - 60 - 95",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "マドンナ",
+  "social": {
+    "x": "Lily___Hart",
+    "instagram": "lily__hart_",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "リリー・ハート",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

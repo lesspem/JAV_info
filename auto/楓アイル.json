@@ -1,0 +1,34 @@
+{
+  "nameJa": "楓アイル",
+  "nameZh": "",
+  "aliases": [
+    "里山",
+    "加与"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A5%93%E3%82%A2%E3%82%A4%E3%83%AB.jpg",
+  "birth": "1986-03-05",
+  "bloodType": "A",
+  "height": "165",
+  "weight": "",
+  "threeSize": "82 - 57 - 83",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2007",
+  "debut": "2004",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "楓アイル",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

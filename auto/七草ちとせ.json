@@ -1,0 +1,32 @@
+{
+  "nameJa": "七草ちとせ",
+  "nameZh": "由來千歲",
+  "aliases": [
+    "七草",
+    "ちとせ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E4%B8%83%E8%8D%89%E3%81%A1%E3%81%A8%E3%81%9B.jpg",
+  "birth": "1991-10-10",
+  "bloodType": "",
+  "height": "168",
+  "weight": "70kg",
+  "threeSize": "110 - 70 - 111",
+  "cup": "J",
+  "retired": true,
+  "retiredAt": "2018",
+  "debut": "2014",
+  "agency": "",
+  "social": {
+    "x": "saegusa_yura",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "七草ちとせ",
+  "missing": [],
+  "updatedAt": "2026-08-09"
+}

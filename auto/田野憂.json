@@ -1,0 +1,31 @@
+{
+  "nameJa": "田野憂",
+  "nameZh": "田野憂",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E7%94%B0%E9%87%8E%E6%86%82.jpg",
+  "birth": "2003-12-24",
+  "bloodType": "B",
+  "height": "158",
+  "weight": "",
+  "threeSize": "110 - 56 - 89",
+  "cup": "L",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024-10-15",
+  "agency": "S1",
+  "social": {
+    "x": "_yu_8_8",
+    "instagram": "tan0.chan",
+    "tiktok": "_yu_8_8"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "田野憂",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

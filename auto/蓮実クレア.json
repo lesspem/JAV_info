@@ -1,0 +1,31 @@
+{
+  "nameJa": "蓮実クレア",
+  "nameZh": "蓮實克蕾雅",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%93%AE%E5%AE%9F%E3%82%AF%E3%83%AC%E3%82%A2.jpg",
+  "birth": "1991-12-03",
+  "bloodType": "A",
+  "height": "158",
+  "weight": "",
+  "threeSize": "85 - 58 - 85",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2012",
+  "agency": "WILLグループ",
+  "social": {
+    "x": "kurea_hasumi",
+    "instagram": "hasumi_kurea",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "蓮実クレア",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

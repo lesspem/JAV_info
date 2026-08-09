@@ -1,0 +1,31 @@
+{
+  "nameJa": "安原真美",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%AE%89%E5%8E%9F%E7%9C%9F%E7%BE%8E.jpg",
+  "birth": "1983-04-20",
+  "bloodType": "A",
+  "height": "157",
+  "weight": "",
+  "threeSize": "96 - 59 - 82",
+  "cup": "H",
+  "retired": true,
+  "retiredAt": "2006",
+  "debut": "2003",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "安原真美",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

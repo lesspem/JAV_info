@@ -1,0 +1,31 @@
+{
+  "nameJa": "立花さや",
+  "nameZh": "立花紗耶",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%AB%8B%E8%8A%B1%E3%81%95%E3%82%84.jpg",
+  "birth": "1989-09-18",
+  "bloodType": "A",
+  "height": "159",
+  "weight": "",
+  "threeSize": "85 - 57 - 88",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2014",
+  "debut": "2010-12-31",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "saya_tachibana",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "立花さや",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

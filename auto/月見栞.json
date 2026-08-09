@@ -1,0 +1,30 @@
+{
+  "nameJa": "月見栞",
+  "nameZh": "月見栞",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-MUTEKI/%E6%9C%88%E8%A6%8B%E6%A0%9E.jpg",
+  "birth": "1986-04-16",
+  "bloodType": "O",
+  "height": "170",
+  "weight": "49kg",
+  "threeSize": "93 - 54 - 85",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2009-04-01",
+  "agency": "",
+  "social": {
+    "x": "tsukimishiori",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "月見栞",
+  "missing": [],
+  "updatedAt": "2026-08-09"
+}

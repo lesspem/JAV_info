@@ -1,0 +1,31 @@
+{
+  "nameJa": "若菜ひかる",
+  "nameZh": "若菜光",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E8%8B%A5%E8%8F%9C%E3%81%B2%E3%81%8B%E3%82%8B.jpg",
+  "birth": "1985-03-06",
+  "bloodType": "O",
+  "height": "159",
+  "weight": "",
+  "threeSize": "91 - 58 - 85",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2008",
+  "debut": "2006",
+  "agency": "kawaii*",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "若菜ひかる",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

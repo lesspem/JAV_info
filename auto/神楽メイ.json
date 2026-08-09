@@ -1,0 +1,32 @@
+{
+  "nameJa": "神楽メイ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E7%A5%9E%E6%A5%BD%E3%83%A1%E3%82%A4.jpg",
+  "birth": "",
+  "bloodType": "AB",
+  "height": "168",
+  "weight": "",
+  "threeSize": "89 - 62 - 90",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2006",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "神楽メイ",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

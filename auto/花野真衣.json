@@ -1,0 +1,34 @@
+{
+  "nameJa": "花野真衣",
+  "nameZh": "黑木麻衣",
+  "aliases": [
+    "花野",
+    "真衣"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E8%8A%B1%E9%87%8E%E7%9C%9F%E8%A1%A3.jpg",
+  "birth": "1983-10-21",
+  "bloodType": "B",
+  "height": "170",
+  "weight": "",
+  "threeSize": "90 - 57 - 88",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2010",
+  "debut": "2004",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "花野真衣",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

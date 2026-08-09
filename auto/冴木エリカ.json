@@ -1,0 +1,31 @@
+{
+  "nameJa": "冴木エリカ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%86%B4%E6%9C%A8%E3%82%A8%E3%83%AA%E3%82%AB.jpg",
+  "birth": "1997-03-27",
+  "bloodType": "",
+  "height": "155",
+  "weight": "",
+  "threeSize": "88 - 60 - 88",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2018",
+  "debut": "2017",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "冴木エリカ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

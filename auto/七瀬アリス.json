@@ -1,0 +1,33 @@
+{
+  "nameJa": "七瀬アリス",
+  "nameZh": "七瀨愛麗絲",
+  "aliases": [
+    "市島亜美"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-Allpro/%E4%B8%83%E7%80%AC%E3%82%A2%E3%83%AA%E3%82%B9.jpg",
+  "birth": "1997-02-25",
+  "bloodType": "B",
+  "height": "155",
+  "weight": "",
+  "threeSize": "88 - 58 - 86",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020-02-25",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "alice_nanase_",
+    "instagram": "nanase_alice_all",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "七瀬アリス",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

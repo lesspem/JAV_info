@@ -1,0 +1,31 @@
+{
+  "nameJa": "舞咲みくに",
+  "nameZh": "舞咲美娜",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E8%88%9E%E5%92%B2%E3%81%BF%E3%81%8F%E3%81%AB.jpg",
+  "birth": "1991-09-02",
+  "bloodType": "O",
+  "height": "160",
+  "weight": "",
+  "threeSize": "85 - 59 - 87",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2012",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "mikuni0920",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "舞咲みくに",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

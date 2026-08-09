@@ -1,0 +1,31 @@
+{
+  "nameJa": "若葉くるみ",
+  "nameZh": "若葉胡桃",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E8%8B%A5%E8%91%89%E3%81%8F%E3%82%8B%E3%81%BF.jpg",
+  "birth": "1990-12-15",
+  "bloodType": "O",
+  "height": "161",
+  "weight": "",
+  "threeSize": "84 - 58 - 83",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2011",
+  "debut": "2010",
+  "agency": "",
+  "social": {
+    "x": "kurumi_wakaba",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "若葉くるみ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

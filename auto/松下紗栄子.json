@@ -1,0 +1,32 @@
+{
+  "nameJa": "松下紗栄子",
+  "nameZh": "松下紗榮子",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%9D%BE%E4%B8%8B%E7%B4%97%E6%A0%84%E5%AD%90.jpg",
+  "birth": "1990-09-30",
+  "bloodType": "A",
+  "height": "165",
+  "weight": "",
+  "threeSize": "90 - 56 - 86",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2015",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "松下紗栄子",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

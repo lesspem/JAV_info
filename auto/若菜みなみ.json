@@ -1,0 +1,31 @@
+{
+  "nameJa": "若菜みなみ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E8%8B%A5%E8%8F%9C%E3%81%BF%E3%81%AA%E3%81%BF.jpg",
+  "birth": "1993-03-12",
+  "bloodType": "A",
+  "height": "155",
+  "weight": "",
+  "threeSize": "83 - 61 - 86",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2014-07-11",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "若菜みなみ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "花狩まい",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%8A%B1%E7%8B%A9%E3%81%BE%E3%81%84.jpg",
+  "birth": "2000-11-20",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "77 - 60 - 83",
+  "cup": "C",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "",
+  "social": {
+    "x": "maikagari_life",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "花狩まい",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}
