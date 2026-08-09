@@ -2110,9 +2110,9 @@
     "weight": "",
     "threeSize": "",
     "cup": "",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "",
+    "retired": true,
+    "retiredAt": "2025-09-08",
+    "debut": "2022-09-08",
     "agency": "",
     "social": {
       "x": "",

@@ -13,7 +13,7 @@
     "weight": "59kg",
     "threeSize": "115 - 63 - 92",
     "cup": "K",
-    "retired": false,
+    "retired": true,
     "retiredAt": "",
     "debut": "",
     "agency": "S1",
