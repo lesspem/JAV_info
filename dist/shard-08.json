@@ -30,6 +30,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "三田サクラ": {
+    "nameJa": "三田サクラ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%B8%89%E7%94%B0%E3%82%B5%E3%82%AF%E3%83%A9.jpg",
+    "birth": "1995-04-19",
+    "bloodType": "B",
+    "height": "160",
+    "weight": "",
+    "threeSize": "98 - 60 - 95",
+    "cup": "I",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021-03-31",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "mitasakura_",
+      "instagram": "mitasakura.fs",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "三田サクラ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "三田杏": {
     "nameJa": "三田杏",
     "nameZh": "三田杏",
@@ -318,6 +349,35 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "前田かおり": {
+    "nameJa": "前田かおり",
+    "nameZh": "前田香织",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E5%89%8D%E7%94%B0%E3%81%8B%E3%81%8A%E3%82%8A.jpg",
+    "birth": "1990-09-08",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "42kg",
+    "threeSize": "84 - 56 - 80",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2011",
+    "agency": "アイデアポケット、アタッカーズ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "前田かおり",
+    "missing": [],
+    "updatedAt": "2026-08-09"
+  },
   "加藤あやの": {
     "nameJa": "加藤あやの",
     "nameZh": "加藤綾野",
@@ -351,6 +411,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "堀北さくら": {
+    "nameJa": "堀北さくら",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E5%A0%80%E5%8C%97%E3%81%95%E3%81%8F%E3%82%89.jpg",
+    "birth": "1995-09-15",
+    "bloodType": "B",
+    "height": "152",
+    "weight": "",
+    "threeSize": "85 - 58 - 84",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2016",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "horikita_sakura",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "堀北さくら",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "夢乃あいか": {
     "nameJa": "夢乃あいか",
@@ -475,6 +566,38 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "小梅えな": {
+    "nameJa": "小梅えな",
+    "nameZh": "小梅惠奈",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E5%B0%8F%E6%A2%85%E3%81%88%E3%81%AA.jpg",
+    "birth": "1999-11-30",
+    "bloodType": "A",
+    "height": "160",
+    "weight": "",
+    "threeSize": "105 - 64 - 105",
+    "cup": "K",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "koume_ena",
+      "instagram": "ena__koume",
+      "tiktok": "koume_ena"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia",
+      "gfriends"
+    ],
+    "name": "小梅えな",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "愛音ゆう": {
     "nameJa": "愛音ゆう",
@@ -854,6 +977,38 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "稲森美優": {
+    "nameJa": "稲森美優",
+    "nameZh": "稻森美優",
+    "aliases": [
+      "稲森",
+      "美憂"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-Lovepop/%E7%A8%B2%E6%A3%AE%E7%BE%8E%E5%84%AA.jpg",
+    "birth": "1988-11-07",
+    "bloodType": "O",
+    "height": "170",
+    "weight": "54kg",
+    "threeSize": "84 - 60 - 88",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021-10-12",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "inamorimiyuu",
+      "instagram": "miyuuinamori",
+      "tiktok": "miyumaru1107"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "稲森美優",
+    "missing": [],
+    "updatedAt": "2026-08-09"
+  },
   "花井ゆり": {
     "nameJa": "花井ゆり",
     "nameZh": "",
@@ -921,6 +1076,39 @@
       "cup"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "華嶋れい菜": {
+    "nameJa": "華嶋れい菜",
+    "nameZh": "華嶋玲菜",
+    "aliases": [
+      "きみかわ",
+      "結衣"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E8%8F%AF%E5%B6%8B%E3%82%8C%E3%81%84%E8%8F%9C.jpg",
+    "birth": "1996-04-22",
+    "bloodType": "O",
+    "height": "172",
+    "weight": "46kg",
+    "threeSize": "88 - 56 - 86",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "プレステージ",
+    "social": {
+      "x": "kashima_reina",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia",
+      "gfriends"
+    ],
+    "name": "華嶋れい菜",
+    "missing": [],
+    "updatedAt": "2026-08-09"
   },
   "藤井林檎": {
     "nameJa": "藤井林檎",

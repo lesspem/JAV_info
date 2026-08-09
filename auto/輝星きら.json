@@ -1,0 +1,31 @@
+{
+  "nameJa": "輝星きら",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E8%BC%9D%E6%98%9F%E3%81%8D%E3%82%89.jpg",
+  "birth": "2004-03-03",
+  "bloodType": "",
+  "height": "158",
+  "weight": "",
+  "threeSize": "83 - 55 - 82",
+  "cup": "C",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "kira_kira0303",
+    "instagram": "kirakirachan0303",
+    "tiktok": "kirakirachan0303"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "輝星きら",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,4 +1,66 @@
 {
+  "上坂めい": {
+    "nameJa": "上坂めい",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%B8%8A%E5%9D%82%E3%82%81%E3%81%84.jpg",
+    "birth": "2002-04-20",
+    "bloodType": "",
+    "height": "153",
+    "weight": "",
+    "threeSize": "85 - 57 - 88",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "2025",
+    "debut": "2021-12-14",
+    "agency": "本中",
+    "social": {
+      "x": "kamisaka_mei",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "上坂めい",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "与田りん": {
+    "nameJa": "与田りん",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E4%B8%8E%E7%94%B0%E3%82%8A%E3%82%93.jpg",
+    "birth": "2003-11-08",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "86 - 57 - 90",
+    "cup": "F-70",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024-08-22",
+    "agency": "DAHLIA",
+    "social": {
+      "x": "_yodarin_",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "与田りん",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "仲沢ももか": {
     "nameJa": "仲沢ももか",
     "nameZh": "",
@@ -60,6 +122,38 @@
     "name": "伊賀まこ",
     "missing": [],
     "updatedAt": "2026-08-08"
+  },
+  "佐々木さき": {
+    "nameJa": "佐々木さき",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E4%BD%90%E3%80%85%E6%9C%A8%E3%81%95%E3%81%8D.jpg",
+    "birth": "",
+    "bloodType": "A",
+    "height": "150",
+    "weight": "39kg",
+    "threeSize": "84 - 58 - 85",
+    "cup": "",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2023-11-14",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "_Sasaki_Saki_",
+      "instagram": "_sasaki_saki_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "佐々木さき",
+    "missing": [
+      "birth",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "兒玉七海": {
     "nameJa": "兒玉七海",
@@ -345,6 +439,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "尾崎ののか": {
+    "nameJa": "尾崎ののか",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E5%B0%BE%E5%B4%8E%E3%81%AE%E3%81%AE%E3%81%8B.jpg",
+    "birth": "1997-12-25",
+    "bloodType": "",
+    "height": "149",
+    "weight": "",
+    "threeSize": "78 - 58 - 80",
+    "cup": "B",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2016",
+    "agency": "E-BODY",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "尾崎ののか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "広瀬美結": {
     "nameJa": "広瀬美結",
@@ -635,6 +760,35 @@
     ],
     "updatedAt": "2026-08-09"
   },
+  "椎名そら": {
+    "nameJa": "椎名そら",
+    "nameZh": "椎名空",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A4%8E%E5%90%8D%E3%81%9D%E3%82%89.jpg",
+    "birth": "1994-07-07",
+    "bloodType": "O",
+    "height": "155",
+    "weight": "41kg",
+    "threeSize": "88 - 58 - 83",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2015-10-25",
+    "agency": "FALENO",
+    "social": {
+      "x": "shiina_sora712",
+      "instagram": "shiina_san0712",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "椎名そら",
+    "missing": [],
+    "updatedAt": "2026-08-09"
+  },
   "槙いずな": {
     "nameJa": "槙いずな",
     "nameZh": "槙泉奈",
@@ -793,6 +947,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "玉城マイ": {
+    "nameJa": "玉城マイ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%8E%89%E5%9F%8E%E3%83%9E%E3%82%A4.jpg",
+    "birth": "1992-02-11",
+    "bloodType": "AB",
+    "height": "160",
+    "weight": "",
+    "threeSize": "83 - 58 - 84",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2014",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "tamagame777",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "玉城マイ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "白坂みあん": {
     "nameJa": "白坂みあん",

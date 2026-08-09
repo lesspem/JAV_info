@@ -1,0 +1,34 @@
+{
+  "nameJa": "本郷愛",
+  "nameZh": "本鄉愛",
+  "aliases": [
+    "二階堂",
+    "夢"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%9C%AC%E9%83%B7%E6%84%9B.jpg",
+  "birth": "1999-10-28",
+  "bloodType": "",
+  "height": "158",
+  "weight": "",
+  "threeSize": "85 - 53 - 85",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2025",
+  "debut": "2020",
+  "agency": "S1",
+  "social": {
+    "x": "ai_hongo_",
+    "instagram": "ai_hongo_",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "本郷愛",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

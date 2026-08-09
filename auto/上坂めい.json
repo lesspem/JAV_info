@@ -1,0 +1,31 @@
+{
+  "nameJa": "上坂めい",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%B8%8A%E5%9D%82%E3%82%81%E3%81%84.jpg",
+  "birth": "2002-04-20",
+  "bloodType": "",
+  "height": "153",
+  "weight": "",
+  "threeSize": "85 - 57 - 88",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2025",
+  "debut": "2021-12-14",
+  "agency": "本中",
+  "social": {
+    "x": "kamisaka_mei",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "上坂めい",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

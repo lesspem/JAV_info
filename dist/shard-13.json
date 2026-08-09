@@ -97,6 +97,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "中山ふみか": {
+    "nameJa": "中山ふみか",
+    "nameZh": "中山文香",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E4%B8%AD%E5%B1%B1%E3%81%B5%E3%81%BF%E3%81%8B.jpg",
+    "birth": "1997-09-05",
+    "bloodType": "O",
+    "height": "150",
+    "weight": "",
+    "threeSize": "93 - 60 - 87",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "OPPAI",
+    "social": {
+      "x": "nakayama_fumika",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "中山ふみか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "五十嵐なつ": {
     "nameJa": "五十嵐なつ",
     "nameZh": "",
@@ -127,6 +158,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-08"
+  },
+  "五十嵐清華": {
+    "nameJa": "五十嵐清華",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%BA%94%E5%8D%81%E5%B5%90%E6%B8%85%E8%8F%AF.jpg",
+    "birth": "2001-10-08",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "80 - 56 - 83",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2022",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "igarashi_kiyoka",
+      "instagram": "igarashi_kiyoka_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "五十嵐清華",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "京野美沙": {
     "nameJa": "京野美沙",
@@ -253,6 +315,37 @@
     "name": "北川瞳",
     "missing": [],
     "updatedAt": "2026-08-07"
+  },
+  "吉岡なつみ": {
+    "nameJa": "吉岡なつみ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%90%89%E5%B2%A1%E3%81%AA%E3%81%A4%E3%81%BF.jpg",
+    "birth": "1986-03-14",
+    "bloodType": "O",
+    "height": "154",
+    "weight": "",
+    "threeSize": "83 - 58 - 85",
+    "cup": "C-70",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2004",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "吉岡なつみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "吉沢梨亜": {
     "nameJa": "吉沢梨亜",
@@ -797,6 +890,36 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "栗林里莉": {
+    "nameJa": "栗林里莉",
+    "nameZh": "栗林里莉",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A0%97%E6%9E%97%E9%87%8C%E8%8E%89.jpg",
+    "birth": "1987-04-16",
+    "bloodType": "O",
+    "height": "153",
+    "weight": "43kg",
+    "threeSize": "83 - 58 - 80",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2008-10-01",
+    "agency": "MAX-A、アイデアポケット、SOD",
+    "social": {
+      "x": "kuririn0416",
+      "instagram": "riri_kuribayashi_official",
+      "tiktok": "riri_kuribayashi4"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia",
+      "gfriends"
+    ],
+    "name": "栗林里莉",
+    "missing": [],
+    "updatedAt": "2026-08-09"
+  },
   "桐谷まつり": {
     "nameJa": "桐谷まつり",
     "nameZh": "桐谷茉莉",
@@ -890,6 +1013,37 @@
     "name": "桜井あゆ",
     "missing": [],
     "updatedAt": "2026-08-07"
+  },
+  "椿井えみ": {
+    "nameJa": "椿井えみ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E6%A4%BF%E4%BA%95%E3%81%88%E3%81%BF.jpg",
+    "birth": "1993-06-04",
+    "bloodType": "",
+    "height": "150",
+    "weight": "",
+    "threeSize": "78 - 60 - 80",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "Tubai25",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "椿井えみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "水川スミレ": {
     "nameJa": "水川スミレ",
@@ -1178,6 +1332,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "蜜美杏": {
+    "nameJa": "蜜美杏",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E8%9C%9C%E7%BE%8E%E6%9D%8F.jpg",
+    "birth": "2000-11-15",
+    "bloodType": "O",
+    "height": "170",
+    "weight": "",
+    "threeSize": "86 - 58 - 89",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "2022",
+    "debut": "2020",
+    "agency": "FALENO",
+    "social": {
+      "x": "ranran_ru808",
+      "instagram": "ran_ran_ru34",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "蜜美杏",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "青田悠華": {
     "nameJa": "青田悠華",

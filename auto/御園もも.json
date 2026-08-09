@@ -1,0 +1,31 @@
+{
+  "nameJa": "御園もも",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E5%BE%A1%E5%9C%92%E3%82%82%E3%82%82.jpg",
+  "birth": "2003-01-21",
+  "bloodType": "",
+  "height": "153",
+  "weight": "",
+  "threeSize": "86 - 56 - 83",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024",
+  "agency": "FALENO",
+  "social": {
+    "x": "misono_cmore",
+    "instagram": "misono_momo",
+    "tiktok": "momo_misono"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "御園もも",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

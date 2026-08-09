@@ -1,0 +1,31 @@
+{
+  "nameJa": "月乃さくら",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%9C%88%E4%B9%83%E3%81%95%E3%81%8F%E3%82%89.jpg",
+  "birth": "1997-12-12",
+  "bloodType": "",
+  "height": "161",
+  "weight": "",
+  "threeSize": "81 - 58 - 80",
+  "cup": "C-65",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "FALENO",
+  "social": {
+    "x": "sakuratsukino12",
+    "instagram": "sakura_tsukino12",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "月乃さくら",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

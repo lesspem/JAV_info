@@ -1,0 +1,31 @@
+{
+  "nameJa": "泉ももか",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E6%B3%89%E3%82%82%E3%82%82%E3%81%8B.jpg",
+  "birth": "2002-10-25",
+  "bloodType": "",
+  "height": "156",
+  "weight": "",
+  "threeSize": "87 - 56 - 88",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024-09-03",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "momoca_izm",
+    "instagram": "momoca_izm",
+    "tiktok": "momoca_izm"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "泉ももか",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "我妻里帆",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Dahlia/%E6%88%91%E5%A6%BB%E9%87%8C%E5%B8%86.jpg",
+  "birth": "1989-08-01",
+  "bloodType": "",
+  "height": "153",
+  "weight": "",
+  "threeSize": "90 - 55 - 86",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2019",
+  "agency": "DAHLIA",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "我妻里帆",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

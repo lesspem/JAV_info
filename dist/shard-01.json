@@ -379,6 +379,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "御園もも": {
+    "nameJa": "御園もも",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E5%BE%A1%E5%9C%92%E3%82%82%E3%82%82.jpg",
+    "birth": "2003-01-21",
+    "bloodType": "",
+    "height": "153",
+    "weight": "",
+    "threeSize": "86 - 56 - 83",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024",
+    "agency": "FALENO",
+    "social": {
+      "x": "misono_cmore",
+      "instagram": "misono_momo",
+      "tiktok": "momo_misono"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "御園もも",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "月乃しずく": {
     "nameJa": "月乃しずく",
     "nameZh": "",
@@ -799,6 +830,37 @@
     ],
     "updatedAt": "2026-08-09"
   },
+  "立川理恵": {
+    "nameJa": "立川理恵",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E7%AB%8B%E5%B7%9D%E7%90%86%E6%81%B5.jpg",
+    "birth": "1993-03-07",
+    "bloodType": "",
+    "height": "155",
+    "weight": "",
+    "threeSize": "90 - 57 - 88",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "",
+    "agency": "ROOKIE",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "立川理恵",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "紺野みいな": {
     "nameJa": "紺野みいな",
     "nameZh": "",
@@ -829,6 +891,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "花守夏歩": {
+    "nameJa": "花守夏歩",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E8%8A%B1%E5%AE%88%E5%A4%8F%E6%AD%A9.jpg",
+    "birth": "2004-10-27",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "87 - 59 - 89",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2025-02-11",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "hanamorikaho",
+      "instagram": "hanamori_kaho",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "花守夏歩",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "蒼乃美月": {
     "nameJa": "蒼乃美月",
@@ -892,6 +985,39 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "虹村ゆみ": {
+    "nameJa": "虹村ゆみ",
+    "nameZh": "",
+    "aliases": [
+      "安藤季世"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E8%99%B9%E6%9D%91%E3%82%86%E3%81%BF.jpg",
+    "birth": "2003-07-10",
+    "bloodType": "",
+    "height": "164",
+    "weight": "",
+    "threeSize": "85 - 63 - 87",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024",
+    "agency": "本中",
+    "social": {
+      "x": "nijimurayumi710",
+      "instagram": "nijimurayumi710",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "虹村ゆみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "逢田梨香子": {
     "nameJa": "逢田梨香子",

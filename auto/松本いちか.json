@@ -1,0 +1,33 @@
+{
+  "nameJa": "松本いちか",
+  "nameZh": "松本一香",
+  "aliases": [
+    "五木あいみ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%9D%BE%E6%9C%AC%E3%81%84%E3%81%A1%E3%81%8B.jpg",
+  "birth": "2000-02-19",
+  "bloodType": "A",
+  "height": "153",
+  "weight": "",
+  "threeSize": "68 - 58 - 86",
+  "cup": "A",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2019-07-23",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "MatuMoto_Ich1ka",
+    "instagram": "verseau_219",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "松本いちか",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

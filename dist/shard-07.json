@@ -576,6 +576,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "役野満里奈": {
+    "nameJa": "役野満里奈",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E5%BD%B9%E9%87%8E%E6%BA%80%E9%87%8C%E5%A5%88.jpg",
+    "birth": "2004-07-24",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "92 - 58 - 83",
+    "cup": "H",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024-12-16",
+    "agency": "OPPAI",
+    "social": {
+      "x": "yakuno_marina",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "役野満里奈",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "志恩まこ": {
     "nameJa": "志恩まこ",
     "nameZh": "",
@@ -610,6 +641,68 @@
       "weight"
     ],
     "updatedAt": "2026-08-08"
+  },
+  "志田雪奈": {
+    "nameJa": "志田雪奈",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%BF%97%E7%94%B0%E9%9B%AA%E5%A5%88.jpg",
+    "birth": "1998-11-30",
+    "bloodType": "B",
+    "height": "162",
+    "weight": "",
+    "threeSize": "85 - 58 - 87",
+    "cup": "E-65",
+    "retired": true,
+    "retiredAt": "2021",
+    "debut": "2018-11-30",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "yukina__shida",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "志田雪奈",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "斎藤あみり": {
+    "nameJa": "斎藤あみり",
+    "nameZh": "齋藤亞美里",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%96%8E%E8%97%A4%E3%81%82%E3%81%BF%E3%82%8A.jpg",
+    "birth": "1999-03-08",
+    "bloodType": "A",
+    "height": "161",
+    "weight": "",
+    "threeSize": "84 - 52 - 81",
+    "cup": "E",
+    "retired": true,
+    "retiredAt": "2025-03-09",
+    "debut": "2019",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "amirichan123",
+      "instagram": "amirichan123",
+      "tiktok": "amirichan123"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "斎藤あみり",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "松永あかり": {
     "nameJa": "松永あかり",
@@ -861,6 +954,40 @@
     "name": "片岡なぎさ",
     "missing": [],
     "updatedAt": "2026-08-07"
+  },
+  "白石あこ": {
+    "nameJa": "白石あこ",
+    "nameZh": "",
+    "aliases": [
+      "平沢",
+      "すず"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%99%BD%E7%9F%B3%E3%81%82%E3%81%93.jpg",
+    "birth": "1997-12-22",
+    "bloodType": "",
+    "height": "163",
+    "weight": "",
+    "threeSize": "85 - 59 - 90",
+    "cup": "D",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2018",
+    "agency": "プレステージ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "白石あこ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "白花こう": {
     "nameJa": "白花こう",

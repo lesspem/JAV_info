@@ -1,0 +1,31 @@
+{
+  "nameJa": "志田雪奈",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%BF%97%E7%94%B0%E9%9B%AA%E5%A5%88.jpg",
+  "birth": "1998-11-30",
+  "bloodType": "B",
+  "height": "162",
+  "weight": "",
+  "threeSize": "85 - 58 - 87",
+  "cup": "E-65",
+  "retired": true,
+  "retiredAt": "2021",
+  "debut": "2018-11-30",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "yukina__shida",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "志田雪奈",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "藍芽みずき",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E8%97%8D%E8%8A%BD%E3%81%BF%E3%81%9A%E3%81%8D.jpg",
+  "birth": "2000-06-28",
+  "bloodType": "",
+  "height": "158",
+  "weight": "",
+  "threeSize": "85 - 57 - 85",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2019",
+  "agency": "MOODYZ SOD",
+  "social": {
+    "x": "aiga_mizuki",
+    "instagram": "aiga_mizuki",
+    "tiktok": "aiga__mizuki"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "藍芽みずき",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

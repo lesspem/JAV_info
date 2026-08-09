@@ -1,0 +1,31 @@
+{
+  "nameJa": "玉城マイ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%8E%89%E5%9F%8E%E3%83%9E%E3%82%A4.jpg",
+  "birth": "1992-02-11",
+  "bloodType": "AB",
+  "height": "160",
+  "weight": "",
+  "threeSize": "83 - 58 - 84",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2014",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "tamagame777",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "玉城マイ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

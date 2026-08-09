@@ -1,0 +1,31 @@
+{
+  "nameJa": "蜜美杏",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E8%9C%9C%E7%BE%8E%E6%9D%8F.jpg",
+  "birth": "2000-11-15",
+  "bloodType": "O",
+  "height": "170",
+  "weight": "",
+  "threeSize": "86 - 58 - 89",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2020",
+  "agency": "FALENO",
+  "social": {
+    "x": "ranran_ru808",
+    "instagram": "ran_ran_ru34",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "蜜美杏",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

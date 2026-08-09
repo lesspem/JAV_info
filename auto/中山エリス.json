@@ -1,0 +1,31 @@
+{
+  "nameJa": "中山エリス",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%B8%AD%E5%B1%B1%E3%82%A8%E3%83%AA%E3%82%B9.jpg",
+  "birth": "1990-05-25",
+  "bloodType": "B",
+  "height": "155",
+  "weight": "",
+  "threeSize": "78 - 59 - 90",
+  "cup": "B",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2009-12-01",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "中山エリス",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

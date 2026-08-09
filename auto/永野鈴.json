@@ -1,0 +1,31 @@
+{
+  "nameJa": "永野鈴",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%B0%B8%E9%87%8E%E9%88%B4.jpg",
+  "birth": "2003-09-19",
+  "bloodType": "",
+  "height": "161",
+  "weight": "",
+  "threeSize": "83 - 58 - 82",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "FALENO",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": "naganosuzu"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "永野鈴",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

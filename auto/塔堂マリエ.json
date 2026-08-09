@@ -1,0 +1,31 @@
+{
+  "nameJa": "塔堂マリエ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E5%A1%94%E5%A0%82%E3%83%9E%E3%83%AA%E3%82%A8.jpg",
+  "birth": "1992-09-13",
+  "bloodType": "O",
+  "height": "152",
+  "weight": "36kg",
+  "threeSize": "83 - 58 - 81",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2014",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "toudoumarie913",
+    "instagram": "marie_toudou",
+    "tiktok": "marie_toudou13"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "塔堂マリエ",
+  "missing": [
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

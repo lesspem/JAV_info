@@ -154,6 +154,35 @@
     ],
     "updatedAt": "2026-08-08"
   },
+  "九重かんな": {
+    "nameJa": "九重かんな",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E4%B9%9D%E9%87%8D%E3%81%8B%E3%82%93%E3%81%AA.jpg",
+    "birth": "1997-09-09",
+    "bloodType": "",
+    "height": "154",
+    "weight": "48kg",
+    "threeSize": "75 - 53 - 80",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "九重かんな",
+    "missing": [],
+    "updatedAt": "2026-08-09"
+  },
   "二階堂夢": {
     "nameJa": "二階堂夢",
     "nameZh": "本鄉愛",
@@ -220,6 +249,40 @@
       "birth"
     ],
     "updatedAt": "2026-08-08"
+  },
+  "古乃ほの": {
+    "nameJa": "古乃ほの",
+    "nameZh": "",
+    "aliases": [
+      "古川",
+      "ほのか"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E5%8F%A4%E4%B9%83%E3%81%BB%E3%81%AE.jpg",
+    "birth": "2001-08-10",
+    "bloodType": "O",
+    "height": "160",
+    "weight": "",
+    "threeSize": "83 - 58 - 84",
+    "cup": "C",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2022-12-22",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "furuno_hono",
+      "instagram": "furuhono_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "古乃ほの",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "塔乃花鈴": {
     "nameJa": "塔乃花鈴",
@@ -799,6 +862,38 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "沙月恵奈": {
+    "nameJa": "沙月恵奈",
+    "nameZh": "沙月惠奈",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%B2%99%E6%9C%88%E6%81%B5%E5%A5%88.jpg",
+    "birth": "1999-06-11",
+    "bloodType": "A",
+    "height": "152",
+    "weight": "",
+    "threeSize": "85 - 67 - 95",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "Million",
+    "social": {
+      "x": "satsukiena",
+      "instagram": "satsukiena",
+      "tiktok": "ena.satsuki"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "zh.wikipedia",
+      "gfriends"
+    ],
+    "name": "沙月恵奈",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "河井リオ": {
     "nameJa": "河井リオ",
     "nameZh": "",
@@ -829,6 +924,37 @@
       "cup"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "泉ももか": {
+    "nameJa": "泉ももか",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E6%B3%89%E3%82%82%E3%82%82%E3%81%8B.jpg",
+    "birth": "2002-10-25",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "87 - 56 - 88",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024-09-03",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "momoca_izm",
+      "instagram": "momoca_izm",
+      "tiktok": "momoca_izm"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "泉ももか",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "浜辺やよい": {
     "nameJa": "浜辺やよい",
@@ -1016,6 +1142,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "藍芽みずき": {
+    "nameJa": "藍芽みずき",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E8%97%8D%E8%8A%BD%E3%81%BF%E3%81%9A%E3%81%8D.jpg",
+    "birth": "2000-06-28",
+    "bloodType": "",
+    "height": "158",
+    "weight": "",
+    "threeSize": "85 - 57 - 85",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "MOODYZ SOD",
+    "social": {
+      "x": "aiga_mizuki",
+      "instagram": "aiga_mizuki",
+      "tiktok": "aiga__mizuki"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "藍芽みずき",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "設楽ゆうひ": {
     "nameJa": "設楽ゆうひ",

@@ -1,0 +1,33 @@
+{
+  "nameJa": "幸村泉希",
+  "nameZh": "",
+  "aliases": [
+    "いつき"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E5%B9%B8%E6%9D%91%E6%B3%89%E5%B8%8C.jpg",
+  "birth": "2000-12-28",
+  "bloodType": "",
+  "height": "156",
+  "weight": "",
+  "threeSize": "83 - 58 - 85",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2025-09-02",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "ituki_yukimura",
+    "instagram": "yukimura_itsuki",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "幸村泉希",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

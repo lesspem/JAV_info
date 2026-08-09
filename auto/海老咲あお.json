@@ -1,0 +1,31 @@
+{
+  "nameJa": "海老咲あお",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E6%B5%B7%E8%80%81%E5%92%B2%E3%81%82%E3%81%8A.jpg",
+  "birth": "2000-09-15",
+  "bloodType": "AB",
+  "height": "151",
+  "weight": "",
+  "threeSize": "89 - 57 - 92",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024",
+  "agency": "|15x15px]] Fitch",
+  "social": {
+    "x": "piyomaru_cmore",
+    "instagram": "ebisaki_ao",
+    "tiktok": "ebisakiao"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "海老咲あお",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

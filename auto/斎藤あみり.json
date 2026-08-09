@@ -1,0 +1,31 @@
+{
+  "nameJa": "斎藤あみり",
+  "nameZh": "齋藤亞美里",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%96%8E%E8%97%A4%E3%81%82%E3%81%BF%E3%82%8A.jpg",
+  "birth": "1999-03-08",
+  "bloodType": "A",
+  "height": "161",
+  "weight": "",
+  "threeSize": "84 - 52 - 81",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2025-03-09",
+  "debut": "2019",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "amirichan123",
+    "instagram": "amirichan123",
+    "tiktok": "amirichan123"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "斎藤あみり",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

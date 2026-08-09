@@ -128,6 +128,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "乃坂ひより": {
+    "nameJa": "乃坂ひより",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E4%B9%83%E5%9D%82%E3%81%B2%E3%82%88%E3%82%8A.jpg",
+    "birth": "2005-01-01",
+    "bloodType": "",
+    "height": "160",
+    "weight": "",
+    "threeSize": "90 - 53 - 85",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024",
+    "agency": "エスワン MOODYZ",
+    "social": {
+      "x": "nozaka_hiyori",
+      "instagram": "nozaka_hiyori",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "乃坂ひより",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "井上もも": {
     "nameJa": "井上もも",
     "nameZh": "",
@@ -222,6 +253,35 @@
     "missing": [
       "weight"
     ],
+    "updatedAt": "2026-08-09"
+  },
+  "北野未奈": {
+    "nameJa": "北野未奈",
+    "nameZh": "北野未奈",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%8C%97%E9%87%8E%E6%9C%AA%E5%A5%88.jpg",
+    "birth": "2000-05-20",
+    "bloodType": "O",
+    "height": "162",
+    "weight": "51kg",
+    "threeSize": "95 - 58 - 90",
+    "cup": "G",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2021",
+    "agency": "",
+    "social": {
+      "x": "kitano_mina",
+      "instagram": "kitano_mina_",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "北野未奈",
+    "missing": [],
     "updatedAt": "2026-08-09"
   },
   "可愛手翔": {
@@ -470,6 +530,37 @@
     "missing": [],
     "updatedAt": "2026-08-07"
   },
+  "広瀬なるみ": {
+    "nameJa": "広瀬なるみ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%BA%83%E7%80%AC%E3%81%AA%E3%82%8B%E3%81%BF.jpg",
+    "birth": "1999-03-23",
+    "bloodType": "",
+    "height": "165",
+    "weight": "",
+    "threeSize": "90 - 62 - 90",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "narumi_hirose",
+      "instagram": "hirose_narumi",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "広瀬なるみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "後藤里香": {
     "nameJa": "後藤里香",
     "nameZh": "",
@@ -568,6 +659,39 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "有原あゆみ": {
+    "nameJa": "有原あゆみ",
+    "nameZh": "有原步美",
+    "aliases": [
+      "花咲亜弥"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%9C%89%E5%8E%9F%E3%81%82%E3%82%86%E3%81%BF.jpg",
+    "birth": "1992-11-02",
+    "bloodType": "O",
+    "height": "170",
+    "weight": "",
+    "threeSize": "85 - 60 - 90",
+    "cup": "D",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "プレステージ",
+    "social": {
+      "x": "arihara1102",
+      "instagram": "arihara_1102",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "有原あゆみ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "有栖もな": {
     "nameJa": "有栖もな",
@@ -819,6 +943,37 @@
     "name": "瀬田一花",
     "missing": [],
     "updatedAt": "2026-08-08"
+  },
+  "瀬緒凛": {
+    "nameJa": "瀬緒凛",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E7%80%AC%E7%B7%92%E5%87%9B.jpg",
+    "birth": "2003-04-02",
+    "bloodType": "A",
+    "height": "149",
+    "weight": "",
+    "threeSize": "85 - 55 - 84",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2024",
+    "agency": "アイデアポケット",
+    "social": {
+      "x": "seorin_oqoz",
+      "instagram": "",
+      "tiktok": "piyo___rin"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "瀬緒凛",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "琴井しほり": {
     "nameJa": "琴井しほり",

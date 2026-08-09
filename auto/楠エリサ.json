@@ -1,0 +1,33 @@
+{
+  "nameJa": "楠エリサ",
+  "nameZh": "",
+  "aliases": [
+    "寿エリカ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%A5%A0%E3%82%A8%E3%83%AA%E3%82%B5.jpg",
+  "birth": "1993-03-17",
+  "bloodType": "A",
+  "height": "163",
+  "weight": "",
+  "threeSize": "88 - 58 - 89",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2023-07-22",
+  "agency": "",
+  "social": {
+    "x": "erisa_kusunoki",
+    "instagram": "erisa_kusunoki",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "楠エリサ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

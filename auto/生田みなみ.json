@@ -1,0 +1,32 @@
+{
+  "nameJa": "生田みなみ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E7%94%9F%E7%94%B0%E3%81%BF%E3%81%AA%E3%81%BF.jpg",
+  "birth": "2000-03-17",
+  "bloodType": "",
+  "height": "156",
+  "weight": "",
+  "threeSize": "86 - 58 - 85",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2019",
+  "agency": "FALENO",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "生田みなみ",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-09"
+}

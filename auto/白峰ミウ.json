@@ -1,0 +1,31 @@
+{
+  "nameJa": "白峰ミウ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-Allpro/%E7%99%BD%E5%B3%B0%E3%83%9F%E3%82%A6.jpg",
+  "birth": "1997-02-16",
+  "bloodType": "AB",
+  "height": "170",
+  "weight": "",
+  "threeSize": "90 - 60 - 94",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021-01-13",
+  "agency": "PREMIUM",
+  "social": {
+    "x": "shiromine_miu",
+    "instagram": "miu_shiromine",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "白峰ミウ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

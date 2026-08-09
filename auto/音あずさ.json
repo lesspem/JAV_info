@@ -1,0 +1,32 @@
+{
+  "nameJa": "音あずさ",
+  "nameZh": "音梓",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E9%9F%B3%E3%81%82%E3%81%9A%E3%81%95.jpg",
+  "birth": "",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "42kg",
+  "threeSize": "83 - 55 - 83",
+  "cup": "C",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2018",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "otoazusa",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "音あずさ",
+  "missing": [
+    "birth"
+  ],
+  "updatedAt": "2026-08-09"
+}

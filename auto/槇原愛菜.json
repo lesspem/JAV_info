@@ -1,0 +1,31 @@
+{
+  "nameJa": "槇原愛菜",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E6%A7%87%E5%8E%9F%E6%84%9B%E8%8F%9C.jpg",
+  "birth": "1995-03-30",
+  "bloodType": "A",
+  "height": "163",
+  "weight": "",
+  "threeSize": "88 - 58 - 86",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2013",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "makiharamana",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "槇原愛菜",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

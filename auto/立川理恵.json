@@ -1,0 +1,31 @@
+{
+  "nameJa": "立川理恵",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E7%AB%8B%E5%B7%9D%E7%90%86%E6%81%B5.jpg",
+  "birth": "1993-03-07",
+  "bloodType": "",
+  "height": "155",
+  "weight": "",
+  "threeSize": "90 - 57 - 88",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "ROOKIE",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "立川理恵",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-09"
+}

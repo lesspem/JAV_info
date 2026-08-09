@@ -95,6 +95,68 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "中山エリス": {
+    "nameJa": "中山エリス",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%B8%AD%E5%B1%B1%E3%82%A8%E3%83%AA%E3%82%B9.jpg",
+    "birth": "1990-05-25",
+    "bloodType": "B",
+    "height": "155",
+    "weight": "",
+    "threeSize": "78 - 59 - 90",
+    "cup": "B",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2009-12-01",
+    "agency": "MOODYZ",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "中山エリス",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
+  "二葉エマ": {
+    "nameJa": "二葉エマ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E4%BA%8C%E8%91%89%E3%82%A8%E3%83%9E.jpg",
+    "birth": "1998-08-07",
+    "bloodType": "A",
+    "height": "149",
+    "weight": "",
+    "threeSize": "89 - 54 - 86",
+    "cup": "F",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "アタッカーズ",
+    "social": {
+      "x": "futaba_ema_LIFE",
+      "instagram": "futaba_ema",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "二葉エマ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "亜紗美": {
     "nameJa": "亜紗美",
     "nameZh": "",
@@ -726,6 +788,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "栗山莉緒": {
+    "nameJa": "栗山莉緒",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/%E6%A0%97%E5%B1%B1%E8%8E%89%E7%B7%92.jpg",
+    "birth": "1998-08-02",
+    "bloodType": "",
+    "height": "148",
+    "weight": "",
+    "threeSize": "85 - 54 - 83",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020-10-13",
+    "agency": "アタッカーズ",
+    "social": {
+      "x": "Kuriyama_Rio",
+      "instagram": "rio_kuriyama",
+      "tiktok": "kuriyama_rio"
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "栗山莉緒",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "桐嶋ひな": {
     "nameJa": "桐嶋ひな",
     "nameZh": "",
@@ -859,6 +952,39 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "楠エリサ": {
+    "nameJa": "楠エリサ",
+    "nameZh": "",
+    "aliases": [
+      "寿エリカ"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%A5%A0%E3%82%A8%E3%83%AA%E3%82%B5.jpg",
+    "birth": "1993-03-17",
+    "bloodType": "A",
+    "height": "163",
+    "weight": "",
+    "threeSize": "88 - 58 - 89",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2023-07-22",
+    "agency": "",
+    "social": {
+      "x": "erisa_kusunoki",
+      "instagram": "erisa_kusunoki",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "楠エリサ",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "永瀬みなも": {
     "nameJa": "永瀬みなも",
@@ -1017,6 +1143,38 @@
       "cup"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "生田みなみ": {
+    "nameJa": "生田みなみ",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E7%94%9F%E7%94%B0%E3%81%BF%E3%81%AA%E3%81%BF.jpg",
+    "birth": "2000-03-17",
+    "bloodType": "",
+    "height": "156",
+    "weight": "",
+    "threeSize": "86 - 58 - 85",
+    "cup": "",
+    "retired": true,
+    "retiredAt": "2020",
+    "debut": "2019",
+    "agency": "FALENO",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "生田みなみ",
+    "missing": [
+      "weight",
+      "cup"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "逢坂瞳": {
     "nameJa": "逢坂瞳",

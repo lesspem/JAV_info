@@ -418,6 +418,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "愛世くらら": {
+    "nameJa": "愛世くらら",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E6%84%9B%E4%B8%96%E3%81%8F%E3%82%89%E3%82%89.jpg",
+    "birth": "1993-11-19",
+    "bloodType": "",
+    "height": "163",
+    "weight": "",
+    "threeSize": "85 - 56 - 88",
+    "cup": "E",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2017",
+    "agency": "プレステージ",
+    "social": {
+      "x": "manase_kurara",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "愛世くらら",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "愛代さやか": {
     "nameJa": "愛代さやか",
     "nameZh": "愛代沙也加",
@@ -483,6 +514,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "我妻里帆": {
+    "nameJa": "我妻里帆",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Dahlia/%E6%88%91%E5%A6%BB%E9%87%8C%E5%B8%86.jpg",
+    "birth": "1989-08-01",
+    "bloodType": "",
+    "height": "153",
+    "weight": "",
+    "threeSize": "90 - 55 - 86",
+    "cup": "G",
+    "retired": true,
+    "retiredAt": "",
+    "debut": "2019",
+    "agency": "DAHLIA",
+    "social": {
+      "x": "",
+      "instagram": "",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "我妻里帆",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
   },
   "斉藤帆夏": {
     "nameJa": "斉藤帆夏",
@@ -608,6 +670,37 @@
     ],
     "updatedAt": "2026-08-07"
   },
+  "月乃さくら": {
+    "nameJa": "月乃さくら",
+    "nameZh": "",
+    "aliases": [],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%9C%88%E4%B9%83%E3%81%95%E3%81%8F%E3%82%89.jpg",
+    "birth": "1997-12-12",
+    "bloodType": "",
+    "height": "161",
+    "weight": "",
+    "threeSize": "81 - 58 - 80",
+    "cup": "C-65",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "FALENO",
+    "social": {
+      "x": "sakuratsukino12",
+      "instagram": "sakura_tsukino12",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "月乃さくら",
+    "missing": [
+      "weight"
+    ],
+    "updatedAt": "2026-08-09"
+  },
   "月野江すい": {
     "nameJa": "月野江すい",
     "nameZh": "",
@@ -638,6 +731,37 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
+  },
+  "杏羽かれん": {
+    "nameJa": "杏羽かれん",
+    "nameZh": "",
+    "aliases": [
+      "かれん"
+    ],
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E6%9D%8F%E7%BE%BD%E3%81%8B%E3%82%8C%E3%82%93.jpg",
+    "birth": "1997-09-15",
+    "bloodType": "",
+    "height": "149",
+    "weight": "38kg",
+    "threeSize": "82 - 55 - 83",
+    "cup": "C",
+    "retired": false,
+    "retiredAt": "",
+    "debut": "2020",
+    "agency": "FALENO",
+    "social": {
+      "x": "karenchandayoo",
+      "instagram": "karenchandayoo",
+      "tiktok": ""
+    },
+    "works": "",
+    "sources": [
+      "ja.wikipedia",
+      "gfriends"
+    ],
+    "name": "杏羽かれん",
+    "missing": [],
+    "updatedAt": "2026-08-09"
   },
   "松岡すず": {
     "nameJa": "松岡すず",
