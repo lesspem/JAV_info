@@ -74,10 +74,21 @@ function merge() {
   // 3. 分片
   const shards = Array.from({ length: SHARD_COUNT }, () => ({}));
   const index = {};
+  // 反查表：nameZh / nameJa / 曾用名 → 主键 name
+  // 让消费端不需要加载分片就能按中文名/曾用名反查到分片号
+  const reverse = {};
   for (const [name, data] of Object.entries(merged)) {
     const sid = hashShard(name);
     shards[sid][name] = data;
     index[name] = sid;
+    // 反查表：把该人的所有别名指到主键
+    const addAlias = (alt) => {
+      if (!alt || alt === name || reverse[alt] || index[alt]) return;
+      reverse[alt] = name;
+    };
+    addAlias(data.nameZh);
+    addAlias(data.nameJa);
+    (data.aliases || []).forEach(addAlias);
   }
 
   // 清理旧 dist
@@ -96,8 +107,8 @@ function merge() {
     console.log(`  ${fname}: ${count} 条`);
   }
 
-  // 写入索引
-  const indexData = { shardCount: SHARD_COUNT, actors: index };
+  // 写入索引（actors: 主键→分片号；aliases: 别名→主键）
+  const indexData = { shardCount: SHARD_COUNT, actors: index, aliases: reverse };
   fs.writeFileSync(
     path.join(DIST_DIR, 'index.json'),
     JSON.stringify(indexData, null, 2) + '\n',
