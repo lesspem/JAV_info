@@ -743,7 +743,7 @@
       "小俣",
       "わかめ（おまた"
     ],
-    "avatar": "",
+    "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E8%91%89%E5%B1%B1%E3%81%8F%E3%81%BF%E3%81%93.jpg",
     "birth": "1985-10-02",
     "bloodType": "A",
     "height": "162",
@@ -761,7 +761,8 @@
     },
     "works": "",
     "sources": [
-      "ja.wikipedia"
+      "ja.wikipedia",
+      "gfriends"
     ],
     "name": "小俣わかめ",
     "missing": [
@@ -2802,7 +2803,7 @@
     "retired": false,
     "retiredAt": "",
     "debut": "",
-    "agency": "C-more ENTERTAINMENT",
+    "agency": "C-more",
     "social": {
       "x": "aozora_pikakin",
       "instagram": "aozora_cmore",

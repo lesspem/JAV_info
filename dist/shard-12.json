@@ -1664,8 +1664,8 @@
     "weight": "55kg",
     "threeSize": "87 - 57 - 86",
     "cup": "E",
-    "retired": true,
-    "retiredAt": "",
+    "retired": false,
+    "retiredAt": "至今",
     "debut": "2018-05-12",
     "agency": "S1 NO.1 STYLE",
     "social": {

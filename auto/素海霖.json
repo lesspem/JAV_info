@@ -5,7 +5,7 @@
     "素海霖",
     "蘇凱琳"
   ],
-  "avatar": "",
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E7%B5%B5%E9%BA%97%E5%A5%88.jpg",
   "birth": "1997-02-09",
   "bloodType": "",
   "height": "163",
@@ -23,7 +23,8 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "gfriends"
   ],
   "name": "素海霖",
   "missing": [

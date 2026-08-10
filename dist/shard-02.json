@@ -1,36 +1,4 @@
 {
-  "BRW108": {
-    "nameJa": "BRW108",
-    "nameZh": "BRW108",
-    "aliases": [],
-    "avatar": "",
-    "birth": "",
-    "bloodType": "",
-    "height": "",
-    "weight": "",
-    "threeSize": "",
-    "cup": "",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "",
-    "agency": "",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [],
-    "name": "BRW108",
-    "missing": [
-      "birth",
-      "height",
-      "weight",
-      "threeSize",
-      "cup"
-    ],
-    "updatedAt": "2026-08-10"
-  },
   "たかなし愛": {
     "nameJa": "たかなし愛",
     "nameZh": "",
@@ -1044,36 +1012,6 @@
       "weight"
     ],
     "updatedAt": "2026-08-07"
-  },
-  "安齋拉拉": {
-    "nameJa": "安齋拉拉",
-    "nameZh": "",
-    "aliases": [
-      "宇都宮しをん"
-    ],
-    "avatar": "https://raw.githubusercontent.com/lesspem/JAV_info/main/assets/avatars/%E5%AE%89%E9%BD%8B%E6%8B%89%E6%8B%89.jpg",
-    "birth": "1994-03-01",
-    "bloodType": "",
-    "height": "161",
-    "weight": "59kg",
-    "threeSize": "115 - 63 - 92",
-    "cup": "K",
-    "retired": false,
-    "retiredAt": "",
-    "debut": "",
-    "agency": "",
-    "social": {
-      "x": "",
-      "instagram": "",
-      "tiktok": ""
-    },
-    "works": "",
-    "sources": [
-      "zh.wikipedia"
-    ],
-    "name": "安齋拉拉",
-    "missing": [],
-    "updatedAt": "2026-08-10"
   },
   "宝部ゆき": {
     "nameJa": "宝部ゆき",
@@ -2099,7 +2037,7 @@
       "める"
     ],
     "avatar": "",
-    "birth": "1997|生月=7|生日=4|没年=|没月=|没日=|出身地=・愛知県名古屋市|血液型=O型|瞳の色=|毛髪の色=|時点=2019年|身長=153|体重=|バスト=85|ウエスト=58|ヒップ=86|カップ=D|靴=24|身体備考=|ジャンル=アダルトビデオ|AV出演期間=2019年 - 2023年|専属契約=SODstar|活動備考=|他の活動=}}石原夢月（石原 める，）是日本的偶像與前AV女演员，爱知县出身，經紀公司是Bstar   Smart FLASH[光文社週刊誌] |url=https://smart-flash.jp/night/85875/ |website=Smart FLASH[光文社週刊誌]スマフラ／スマートフラッシュ |date=2019-11-15 |language=ja |access-date=2019-11-30}}  。-7|生日=4|没年=|没月=|没日=|出身地=・愛知県名古屋市|血液型=O型|瞳の色=|毛髪の色=|時点=2019年|身長=153|体重=|バスト=85|ウエスト=58|ヒップ=86|カップ=D|靴=24|身体備考=|ジャンル=アダルトビデオ|AV出演期間=2019年 - 2023年|専属契約=SODstar|活動備考=|他の活動=}}石原夢月（石原 める，）是日本的偶像與前AV女演员，爱知县出身，經紀公司是Bstar   Smart FLASH[光文社週刊誌] |url=https://smart-flash.jp/night/85875/ |website=Smart FLASH[光文社週刊誌]スマフラ／スマートフラッシュ |date=2019-11-15 |language=ja |access-date=2019-11-30}}  。-4|没年=|没月=|没日=|出身地=・愛知県名古屋市|血液型=O型|瞳の色=|毛髪の色=|時点=2019年|身長=153|体重=|バスト=85|ウエスト=58|ヒップ=86|カップ=D|靴=24|身体備考=|ジャンル=アダルトビデオ|AV出演期間=2019年 - 2023年|専属契約=SODstar|活動備考=|他の活動=}}石原夢月（石原 める，）是日本的偶像與前AV女演员，爱知县出身，經紀公司是Bstar   Smart FLASH[光文社週刊誌] |url=https://smart-flash.jp/night/85875/ |website=Smart FLASH[光文社週刊誌]スマフラ／スマートフラッシュ |date=2019-11-15 |language=ja |access-date=2019-11-30}}  。",
+    "birth": "1997-07-04",
     "bloodType": "O",
     "height": "153",
     "weight": "85kg",
@@ -2108,7 +2046,7 @@
     "retired": true,
     "retiredAt": "2023",
     "debut": "2019",
-    "agency": "SOD|活動備考=|他の活動=石原夢月是日本的偶像與前AV女演员，爱知县出身，經紀公司是Bstar Smart FLASH[光文社週刊誌] |url=https://smart-flash.jp/night/85875/ |website=Smart FLASH[光文社週刊誌]スマフラ／スマートフラッシュ |date=-15 |language=ja |access-date=-30 。",
+    "agency": "SOD",
     "social": {
       "x": "meru_ishihara",
       "instagram": "meru.ishihara",
@@ -2564,7 +2502,7 @@
     "retired": true,
     "retiredAt": "2022",
     "debut": "2021",
-    "agency": "kawaii*",
+    "agency": "kawaii",
     "social": {
       "x": "mochinoyomo",
       "instagram": "",

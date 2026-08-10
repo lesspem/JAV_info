@@ -5,7 +5,7 @@
     "星野",
     "飛鳥"
   ],
-  "avatar": "",
+  "avatar": "https://www.minnano-av.com/p_actress_125_125/009/73560.jpg?new",
   "birth": "1986-12-05",
   "bloodType": "AB",
   "height": "152",
@@ -23,7 +23,8 @@
   },
   "works": "",
   "sources": [
-    "ja.wikipedia"
+    "ja.wikipedia",
+    "minnano-av"
   ],
   "name": "星野飛鳥",
   "missing": [
