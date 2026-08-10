@@ -1,0 +1,30 @@
+{
+  "nameJa": "淺田Chichi",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1986-04-25",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "",
+  "threeSize": "100 - 60 - 87",
+  "cup": "K",
+  "retired": true,
+  "retiredAt": "2009",
+  "debut": "2008",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "淺田Chichi",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

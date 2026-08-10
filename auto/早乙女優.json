@@ -1,0 +1,31 @@
+{
+  "nameJa": "早乙女優",
+  "nameZh": "早乙女優",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E6%97%A9%E4%B9%99%E5%A5%B3%E5%84%AA.jpg",
+  "birth": "1983-08-15",
+  "bloodType": "",
+  "height": "166",
+  "weight": "",
+  "threeSize": "82 - 58 - 85",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2007",
+  "debut": "2006-04-21",
+  "agency": "レアル・ワークス",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "早乙女優",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

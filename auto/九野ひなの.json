@@ -1,0 +1,31 @@
+{
+  "nameJa": "九野ひなの",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E4%B9%9D%E9%87%8E%E3%81%B2%E3%81%AA%E3%81%AE.jpg",
+  "birth": "2001-05-25",
+  "bloodType": "A",
+  "height": "157",
+  "weight": "",
+  "threeSize": "90 - 60 - 88",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "hinano_kuno0525",
+    "instagram": "hinano_kuno0525",
+    "tiktok": "kuno_hinano"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "九野ひなの",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "豊崎みさと",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E8%B1%8A%E5%B4%8E%E3%81%BF%E3%81%95%E3%81%A8.jpg",
+  "birth": "1995-01-16",
+  "bloodType": "A",
+  "height": "158",
+  "weight": "",
+  "threeSize": "88 - 59 - 88",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "マドンナ",
+  "social": {
+    "x": "toyosakimisato",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "豊崎みさと",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

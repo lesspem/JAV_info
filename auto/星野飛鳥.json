@@ -1,0 +1,33 @@
+{
+  "nameJa": "星野飛鳥",
+  "nameZh": "星野飛鳥",
+  "aliases": [
+    "星野",
+    "飛鳥"
+  ],
+  "avatar": "",
+  "birth": "1986-12-05",
+  "bloodType": "AB",
+  "height": "152",
+  "weight": "",
+  "threeSize": "80 - 56 - 80",
+  "cup": "A",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "オリジン・エンタテインメント",
+  "social": {
+    "x": "asukapiyon",
+    "instagram": "asukapiyon1205",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia"
+  ],
+  "name": "星野飛鳥",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

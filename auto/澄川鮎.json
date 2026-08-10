@@ -1,0 +1,33 @@
+{
+  "nameJa": "澄川鮎",
+  "nameZh": "澄川鮎",
+  "aliases": [
+    "熊野あゆ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E6%BE%84%E5%B7%9D%E9%AE%8E.jpg",
+  "birth": "1996-05-25",
+  "bloodType": "",
+  "height": "161",
+  "weight": "",
+  "threeSize": "72 - 59 - 92",
+  "cup": "AA",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2016-10-21",
+  "agency": "",
+  "social": {
+    "x": "AyuKumano0525",
+    "instagram": "ayu_kumano",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "澄川鮎",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

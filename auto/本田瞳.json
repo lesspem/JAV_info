@@ -1,0 +1,31 @@
+{
+  "nameJa": "本田瞳",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%9C%AC%E7%94%B0%E7%9E%B3.jpg",
+  "birth": "1992-08-04",
+  "bloodType": "",
+  "height": "156",
+  "weight": "",
+  "threeSize": "87 - 60 - 88",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "マドンナ",
+  "social": {
+    "x": "Honda_Hitomi84",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "本田瞳",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

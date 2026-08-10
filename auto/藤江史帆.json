@@ -1,0 +1,31 @@
+{
+  "nameJa": "藤江史帆",
+  "nameZh": "藤江史帆",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E8%97%A4%E6%B1%9F%E5%8F%B2%E5%B8%86.jpg",
+  "birth": "1996-07-17",
+  "bloodType": "O",
+  "height": "160",
+  "weight": "",
+  "threeSize": "83 - 59 - 90",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2019",
+  "debut": "2018",
+  "agency": "プレステージ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "藤江史帆",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "佐久間泉",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E4%BD%90%E4%B9%85%E9%96%93%E6%B3%89.jpg",
+  "birth": "1985-12-18",
+  "bloodType": "",
+  "height": "163",
+  "weight": "",
+  "threeSize": "95 - 65 - 95",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "マドンナ",
+  "social": {
+    "x": "izumi_sakuma12",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "佐久間泉",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

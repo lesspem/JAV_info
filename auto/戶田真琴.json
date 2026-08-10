@@ -1,0 +1,32 @@
+{
+  "nameJa": "戶田真琴",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "A",
+  "height": "152",
+  "weight": "",
+  "threeSize": "",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "toda_makoto",
+    "instagram": "toda_makoto",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "戶田真琴",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

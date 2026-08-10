@@ -1,0 +1,32 @@
+{
+  "nameJa": "Himari",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Mines/Himari.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "128 - 63 - 108",
+  "cup": "R",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024-04-08",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "himari_hp",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "Himari",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

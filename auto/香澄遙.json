@@ -1,0 +1,32 @@
+{
+  "nameJa": "香澄遙",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "",
+  "height": "164",
+  "weight": "",
+  "threeSize": "",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "T-POWERS",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "香澄遙",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

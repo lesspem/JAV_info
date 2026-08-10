@@ -1,0 +1,31 @@
+{
+  "nameJa": "吉川萌",
+  "nameZh": "吉川萌",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E5%90%89%E5%B7%9D%E8%90%8C.jpg",
+  "birth": "1985-09-18",
+  "bloodType": "O",
+  "height": "158",
+  "weight": "",
+  "threeSize": "85 - 58 - 88",
+  "cup": "D-70",
+  "retired": true,
+  "retiredAt": "2008",
+  "debut": "2006",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "吉川萌",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

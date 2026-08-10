@@ -1,0 +1,31 @@
+{
+  "nameJa": "五日市芽依",
+  "nameZh": "五日市芽依",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E4%BA%94%E6%97%A5%E5%B8%82%E8%8A%BD%E4%BE%9D.jpg",
+  "birth": "2000-09-18",
+  "bloodType": "B",
+  "height": "163",
+  "weight": "",
+  "threeSize": "88 - 56 - 87",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023-07-04",
+  "agency": "ワンズファクトリー",
+  "social": {
+    "x": "5may_itsukaichi",
+    "instagram": "5may_itsukaichi",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "五日市芽依",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "藤澤美羽",
+  "nameZh": "藤澤美羽",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E8%97%A4%E6%BE%A4%E7%BE%8E%E7%BE%BD.jpg",
+  "birth": "1991-08-10",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "83 - 58 - 85",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2013",
+  "debut": "2012",
+  "agency": "プレステージ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "藤澤美羽",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

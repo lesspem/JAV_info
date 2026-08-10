@@ -1,0 +1,31 @@
+{
+  "nameJa": "北岡果林",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/4-Kawaii/%E5%8C%97%E5%B2%A1%E6%9E%9C%E6%9E%97.jpg",
+  "birth": "2003-09-19",
+  "bloodType": "B",
+  "height": "160",
+  "weight": "",
+  "threeSize": "86 - 57 - 84",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "karin_kitaoka_",
+    "instagram": "karin_kitaoka_0",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "北岡果林",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

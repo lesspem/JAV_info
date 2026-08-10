@@ -1,0 +1,35 @@
+{
+  "nameJa": "竹内乃愛",
+  "nameZh": "",
+  "aliases": [
+    "岡田真希"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-AVDBS/%E7%AB%B9%E5%86%85%E4%B9%83%E6%84%9B.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "155",
+  "weight": "",
+  "threeSize": "",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "竹内乃愛",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

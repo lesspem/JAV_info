@@ -1,0 +1,32 @@
+{
+  "nameJa": "夕美紫苑",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "",
+  "height": "149",
+  "weight": "",
+  "threeSize": "",
+  "cup": "I",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "L-Promotion",
+  "social": {
+    "x": "__SHl0N",
+    "instagram": "shion_yumi_",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "夕美紫苑",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

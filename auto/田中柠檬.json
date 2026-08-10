@@ -1,0 +1,30 @@
+{
+  "nameJa": "田中柠檬",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1999-08-25",
+  "bloodType": "O",
+  "height": "162",
+  "weight": "",
+  "threeSize": "82 - 59 - 81",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2022",
+  "debut": "2018",
+  "agency": "",
+  "social": {
+    "x": "honmononokaren",
+    "instagram": "kaedekaren0825",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "田中柠檬",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

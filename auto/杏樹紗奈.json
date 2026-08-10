@@ -1,0 +1,33 @@
+{
+  "nameJa": "杏樹紗奈",
+  "nameZh": "杏樹紗奈",
+  "aliases": [
+    "くるみひな"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%9D%8F%E6%A8%B9%E7%B4%97%E5%A5%88.jpg",
+  "birth": "1989-01-14",
+  "bloodType": "O",
+  "height": "150",
+  "weight": "",
+  "threeSize": "86 - 56 - 83",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2012",
+  "debut": "2008-12-05",
+  "agency": "S1",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "杏樹紗奈",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,34 @@
+{
+  "nameJa": "原明奈",
+  "nameZh": "原明奈",
+  "aliases": [
+    "工藤",
+    "あさみ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%8E%9F%E6%98%8E%E5%A5%88.jpg",
+  "birth": "1989-05-24",
+  "bloodType": "A",
+  "height": "158",
+  "weight": "",
+  "threeSize": "84 - 58 - 86",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2010",
+  "debut": "2008-05-25",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "原明奈",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

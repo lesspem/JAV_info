@@ -1,0 +1,31 @@
+{
+  "nameJa": "麻川麗",
+  "nameZh": "麻川麗",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E9%BA%BB%E5%B7%9D%E9%BA%97.jpg",
+  "birth": "1983-12-08",
+  "bloodType": "A",
+  "height": "154",
+  "weight": "",
+  "threeSize": "84 - 57 - 88",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2006",
+  "debut": "2004",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "麻川麗",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

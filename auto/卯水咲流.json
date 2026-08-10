@@ -1,0 +1,36 @@
+{
+  "nameJa": "卯水咲流",
+  "nameZh": "卯水咲流",
+  "aliases": [
+    "森山",
+    "綾乃"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-Diaz/%E5%8D%AF%E6%B0%B4%E5%92%B2%E6%B5%81.jpg",
+  "birth": "1985-12-25",
+  "bloodType": "O",
+  "height": "169",
+  "weight": "",
+  "threeSize": "84 - 59 - 87",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2013-02-01",
+  "agency": "",
+  "social": {
+    "x": "usui_saryu",
+    "instagram": "saryu_usui",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "卯水咲流",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "鈴木真夕",
+  "nameZh": "鈴木真夕",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E9%88%B4%E6%9C%A8%E7%9C%9F%E5%A4%95.jpg",
+  "birth": "1994-03-16",
+  "bloodType": "A",
+  "height": "159",
+  "weight": "",
+  "threeSize": "87 - 60 - 85",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2015",
+  "agency": "E-BODY",
+  "social": {
+    "x": "suzuchan316",
+    "instagram": "suzukimayu1",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "鈴木真夕",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

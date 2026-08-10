@@ -1,0 +1,33 @@
+{
+  "nameJa": "赤西涼",
+  "nameZh": "赤西涼",
+  "aliases": [
+    "まひる"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%B5%A4%E8%A5%BF%E6%B6%BC.jpg",
+  "birth": "1989-04-14",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "",
+  "threeSize": "88 - 60 - 84",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2007-06-01",
+  "agency": "浅草ロック座",
+  "social": {
+    "x": "akanishi_414",
+    "instagram": "ryon.hpthp",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "赤西涼",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

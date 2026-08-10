@@ -1,0 +1,31 @@
+{
+  "nameJa": "夕樹舞子",
+  "nameZh": "夕樹舞子",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%A4%95%E6%A8%B9%E8%88%9E%E5%AD%90.jpg",
+  "birth": "1977-01-30",
+  "bloodType": "B",
+  "height": "158",
+  "weight": "",
+  "threeSize": "83 - 58 - 84",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "1995-04-22",
+  "agency": "",
+  "social": {
+    "x": "maikoyuki130",
+    "instagram": "yuukimaiko",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "夕樹舞子",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

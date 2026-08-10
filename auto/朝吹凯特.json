@@ -1,0 +1,33 @@
+{
+  "nameJa": "朝吹凯特",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1962-07-03",
+  "bloodType": "",
+  "height": "",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "朝吹凯特",
+  "missing": [
+    "height",
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

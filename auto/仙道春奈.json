@@ -1,0 +1,31 @@
+{
+  "nameJa": "仙道春奈",
+  "nameZh": "仙道春奈",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E4%BB%99%E9%81%93%E6%98%A5%E5%A5%88.jpg",
+  "birth": "1985-08-05",
+  "bloodType": "",
+  "height": "161",
+  "weight": "",
+  "threeSize": "81 - 62 - 86",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2007",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "仙道春奈",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

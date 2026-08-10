@@ -1,0 +1,31 @@
+{
+  "nameJa": "辻本杏",
+  "nameZh": "辻本杏",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E8%BE%BB%E6%9C%AC%E6%9D%8F.jpg",
+  "birth": "1993-12-23",
+  "bloodType": "O",
+  "height": "155",
+  "weight": "",
+  "threeSize": "82 - 57 - 80",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2018-07-19",
+  "debut": "2014",
+  "agency": "teamZERO",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "辻本杏",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "唯川純",
+  "nameZh": "唯川純",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%94%AF%E5%B7%9D%E7%B4%94.jpg",
+  "birth": "1984-12-15",
+  "bloodType": "A",
+  "height": "164",
+  "weight": "",
+  "threeSize": "82 - 60 - 89",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2004-03-31",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "唯川純",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

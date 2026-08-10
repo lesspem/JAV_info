@@ -1,0 +1,32 @@
+{
+  "nameJa": "川上奈奈實",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "O",
+  "height": "160",
+  "weight": "",
+  "threeSize": "",
+  "cup": "B",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "Attackers",
+  "social": {
+    "x": "nanamikawakami",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "川上奈奈實",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

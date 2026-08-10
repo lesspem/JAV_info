@@ -1,0 +1,30 @@
+{
+  "nameJa": "奏音花音",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "2000-05-09",
+  "bloodType": "",
+  "height": "166",
+  "weight": "",
+  "threeSize": "86 - 59 - 85",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2019",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "奏音花音",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

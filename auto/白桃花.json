@@ -1,0 +1,32 @@
+{
+  "nameJa": "白桃花",
+  "nameZh": "桃",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "",
+  "height": "",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [],
+  "name": "白桃花",
+  "missing": [
+    "birth",
+    "height",
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

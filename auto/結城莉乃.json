@@ -1,0 +1,32 @@
+{
+  "nameJa": "結城莉乃",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "",
+  "height": "151",
+  "weight": "",
+  "threeSize": "",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "Bambi Promotion",
+  "social": {
+    "x": "rino_yuuki00",
+    "instagram": "yuki_rino1",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "結城莉乃",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

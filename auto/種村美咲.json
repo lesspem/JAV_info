@@ -1,0 +1,31 @@
+{
+  "nameJa": "種村美咲",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E7%A8%AE%E6%9D%91%E7%BE%8E%E5%92%B2.jpg",
+  "birth": "1990-11-07",
+  "bloodType": "O",
+  "height": "157",
+  "weight": "",
+  "threeSize": "83 - 57 - 82",
+  "cup": "B",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "種村美咲",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

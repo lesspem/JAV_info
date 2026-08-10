@@ -1,0 +1,31 @@
+{
+  "nameJa": "純白彩永",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%B4%94%E7%99%BD%E5%BD%A9%E6%B0%B8.jpg",
+  "birth": "2005-02-20",
+  "bloodType": "O",
+  "height": "165",
+  "weight": "",
+  "threeSize": "93 - 57 - 86",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2025-07-01",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "mashiro__sana",
+    "instagram": "mashiro__sana",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "純白彩永",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "白木優子",
+  "nameZh": "白木優子",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E7%99%BD%E6%9C%A8%E5%84%AA%E5%AD%90.jpg",
+  "birth": "1976-01-25",
+  "bloodType": "A",
+  "height": "150",
+  "weight": "",
+  "threeSize": "84 - 59 - 85",
+  "cup": "E-65",
+  "retired": true,
+  "retiredAt": "2025",
+  "debut": "2012-07-22",
+  "agency": "RUBY",
+  "social": {
+    "x": "shiraki_yuuko",
+    "instagram": "yuko_shiraki_official",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "白木優子",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

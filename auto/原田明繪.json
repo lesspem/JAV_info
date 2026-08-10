@@ -1,0 +1,31 @@
+{
+  "nameJa": "原田明繪",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1987-01-22",
+  "bloodType": "B",
+  "height": "148",
+  "weight": "",
+  "threeSize": "82 - 60 - 81",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2012",
+  "debut": "2010",
+  "agency": "",
+  "social": {
+    "x": "piggy_111",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "原田明繪",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

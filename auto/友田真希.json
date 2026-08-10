@@ -1,0 +1,31 @@
+{
+  "nameJa": "友田真希",
+  "nameZh": "友田真希",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%8F%8B%E7%94%B0%E7%9C%9F%E5%B8%8C.jpg",
+  "birth": "1972-08-20",
+  "bloodType": "O",
+  "height": "160",
+  "weight": "",
+  "threeSize": "90 - 59 - 88",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2010",
+  "debut": "2002",
+  "agency": "マドンナ",
+  "social": {
+    "x": "maki_tomoda",
+    "instagram": "maki_tomoda_",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "友田真希",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "白石美咲",
+  "nameZh": "白石美咲",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%99%BD%E7%9F%B3%E7%BE%8E%E5%92%B2.jpg",
+  "birth": "1986-08-08",
+  "bloodType": "O",
+  "height": "170",
+  "weight": "",
+  "threeSize": "90 - 62 - 80",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2009",
+  "agency": "",
+  "social": {
+    "x": "misaking0808",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "白石美咲",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

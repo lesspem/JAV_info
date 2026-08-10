@@ -1,0 +1,31 @@
+{
+  "nameJa": "宮西ひかる",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E5%AE%AE%E8%A5%BF%E3%81%B2%E3%81%8B%E3%82%8B.jpg",
+  "birth": "1999-08-22",
+  "bloodType": "",
+  "height": "161",
+  "weight": "",
+  "threeSize": "88 - 61 - 86",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "miyanishihikaru",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "宮西ひかる",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

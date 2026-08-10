@@ -1,0 +1,32 @@
+{
+  "nameJa": "四葉麗",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1997-11-06",
+  "bloodType": "",
+  "height": "",
+  "weight": "",
+  "threeSize": "88 - 56 - 86",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2018",
+  "debut": "2017",
+  "agency": "kawaii*",
+  "social": {
+    "x": "428urr",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "四葉麗",
+  "missing": [
+    "height",
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

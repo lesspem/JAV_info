@@ -1,0 +1,31 @@
+{
+  "nameJa": "吉川蓮",
+  "nameZh": "吉川蓮",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E5%90%89%E5%B7%9D%E8%93%AE.jpg",
+  "birth": "1996-05-15",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "",
+  "threeSize": "86 - 58 - 84",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2015",
+  "agency": "プレステージ",
+  "social": {
+    "x": "kinakomochiiy",
+    "instagram": "kinakomochiiy",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "吉川蓮",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

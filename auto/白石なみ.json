@@ -1,0 +1,33 @@
+{
+  "nameJa": "白石なみ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%99%BD%E7%9F%B3%E3%81%AA%E3%81%BF.jpg",
+  "birth": "2005-05-30",
+  "bloodType": "",
+  "height": "148",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2025",
+  "agency": "MOODYZ",
+  "social": {
+    "x": "naminamisira",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "白石なみ",
+  "missing": [
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,33 @@
+{
+  "nameJa": "神河美音",
+  "nameZh": "神河美音",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%A5%9E%E6%B2%B3%E7%BE%8E%E9%9F%B3.jpg",
+  "birth": "1989-05-06",
+  "bloodType": "O",
+  "height": "158",
+  "weight": "",
+  "threeSize": "81 - 58 - 83",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2011",
+  "debut": "2010",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "神河美音",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

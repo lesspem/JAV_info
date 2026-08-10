@@ -1,0 +1,34 @@
+{
+  "nameJa": "麻倉憂",
+  "nameZh": "麻倉憂",
+  "aliases": [
+    "浅井優子",
+    "ゆみ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E9%BA%BB%E5%80%89%E6%86%82.jpg",
+  "birth": "1989-12-24",
+  "bloodType": "O",
+  "height": "160",
+  "weight": "",
+  "threeSize": "85 - 56 - 85",
+  "cup": "C-65",
+  "retired": true,
+  "retiredAt": "2013",
+  "debut": "2009",
+  "agency": "",
+  "social": {
+    "x": "yuu__u",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "麻倉憂",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

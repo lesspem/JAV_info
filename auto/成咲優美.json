@@ -1,0 +1,32 @@
+{
+  "nameJa": "成咲優美",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E6%88%90%E5%92%B2%E5%84%AA%E7%BE%8E.jpg",
+  "birth": "",
+  "bloodType": "",
+  "height": "162",
+  "weight": "",
+  "threeSize": "92 - 64 - 95",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "マドンナ",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "成咲優美",
+  "missing": [
+    "birth",
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

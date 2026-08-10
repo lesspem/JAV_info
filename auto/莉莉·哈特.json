@@ -1,0 +1,35 @@
+{
+  "nameJa": "莉莉·哈特",
+  "nameZh": "",
+  "aliases": [
+    "艾瑪·勞倫斯",
+    "}}"
+  ],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "A",
+  "height": "175",
+  "weight": "",
+  "threeSize": "",
+  "cup": "E-70",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "Madonna",
+  "social": {
+    "x": "Lily___Hart",
+    "instagram": "lily__hart_",
+    "tiktok": "lily__hart"
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "莉莉·哈特",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

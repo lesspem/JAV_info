@@ -1,0 +1,31 @@
+{
+  "nameJa": "青山葵",
+  "nameZh": "青山葵",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E9%9D%92%E5%B1%B1%E8%91%B5.jpg",
+  "birth": "1979-08-08",
+  "bloodType": "B",
+  "height": "174",
+  "weight": "",
+  "threeSize": "102 - 64 - 96",
+  "cup": "I",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2011",
+  "agency": "",
+  "social": {
+    "x": "aoao_aoyamaaoi",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "青山葵",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

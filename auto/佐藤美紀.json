@@ -1,0 +1,34 @@
+{
+  "nameJa": "佐藤美紀",
+  "nameZh": "佐藤美紀",
+  "aliases": [
+    "鈴木",
+    "志帆"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E4%BD%90%E8%97%A4%E7%BE%8E%E7%B4%80.jpg",
+  "birth": "1978-08-28",
+  "bloodType": "B",
+  "height": "160",
+  "weight": "",
+  "threeSize": "95 - 62 - 88",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2000",
+  "debut": "1999",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "佐藤美紀",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

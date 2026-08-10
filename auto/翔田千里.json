@@ -1,0 +1,31 @@
+{
+  "nameJa": "翔田千里",
+  "nameZh": "翔田千里",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E7%BF%94%E7%94%B0%E5%8D%83%E9%87%8C.jpg",
+  "birth": "1968-04-11",
+  "bloodType": "",
+  "height": "163",
+  "weight": "",
+  "threeSize": "86 - 63 - 90",
+  "cup": "D-70",
+  "retired": true,
+  "retiredAt": "2010",
+  "debut": "2005",
+  "agency": "",
+  "social": {
+    "x": "chisato_shoda",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "翔田千里",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "豊崎清香",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/y-Minnano/%E8%B1%8A%E5%B4%8E%E6%B8%85%E9%A6%99.jpg",
+  "birth": "1978-10-17",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "",
+  "threeSize": "88 - 65 - 90",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "マドンナ",
+  "social": {
+    "x": "toyosakikiyoka",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "豊崎清香",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,33 @@
+{
+  "nameJa": "川峰櫻",
+  "nameZh": "",
+  "aliases": [
+    "川峰さくら",
+    "川峯さくら"
+  ],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "B",
+  "height": "167",
+  "weight": "66kg",
+  "threeSize": "106 - 63 - 90",
+  "cup": "J",
+  "retired": true,
+  "retiredAt": "2010",
+  "debut": "2006",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "川峰櫻",
+  "missing": [
+    "birth"
+  ],
+  "updatedAt": "2026-08-10"
+}

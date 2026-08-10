@@ -1,0 +1,34 @@
+{
+  "nameJa": "小室友里",
+  "nameZh": "小室友里",
+  "aliases": [
+    "小室",
+    "友里"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E5%B0%8F%E5%AE%A4%E5%8F%8B%E9%87%8C.jpg",
+  "birth": "1975-07-28",
+  "bloodType": "O",
+  "height": "157",
+  "weight": "",
+  "threeSize": "88 - 61 - 90",
+  "cup": "F",
+  "retired": true,
+  "retiredAt": "2000",
+  "debut": "1996",
+  "agency": "",
+  "social": {
+    "x": "yuriwan0728",
+    "instagram": "komuroyuri0728",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "小室友里",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

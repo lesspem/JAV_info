@@ -1,0 +1,34 @@
+{
+  "nameJa": "石川鈴華",
+  "nameZh": "石川鈴華",
+  "aliases": [
+    "橘",
+    "ミオン"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E7%9F%B3%E5%B7%9D%E9%88%B4%E8%8F%AF.jpg",
+  "birth": "1988-01-15",
+  "bloodType": "O",
+  "height": "160",
+  "weight": "",
+  "threeSize": "90 - 50 - 79",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2008",
+  "agency": "クリスタル映像",
+  "social": {
+    "x": "suzukaishikawa",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "石川鈴華",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,33 @@
+{
+  "nameJa": "上原杏美",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1984-04-10",
+  "bloodType": "",
+  "height": "",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "LOOP",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "上原杏美",
+  "missing": [
+    "height",
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

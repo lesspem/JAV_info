@@ -1,0 +1,32 @@
+{
+  "nameJa": "亞須希",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1996-12-05",
+  "bloodType": "",
+  "height": "143",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "亞須希",
+  "missing": [
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

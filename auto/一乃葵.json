@@ -1,0 +1,30 @@
+{
+  "nameJa": "一乃葵",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1989-09-16",
+  "bloodType": "B",
+  "height": "165",
+  "weight": "",
+  "threeSize": "93 - 59 - 90",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "Madonna",
+  "social": {
+    "x": "ichino_aoi",
+    "instagram": "ichino_aoi",
+    "tiktok": "ichino_aoi"
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "一乃葵",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

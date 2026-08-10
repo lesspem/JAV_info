@@ -1,0 +1,30 @@
+{
+  "nameJa": "篠惠美",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1990-09-08",
+  "bloodType": "A",
+  "height": "163",
+  "weight": "",
+  "threeSize": "80 - 58 - 85",
+  "cup": "B",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2009",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "篠惠美",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

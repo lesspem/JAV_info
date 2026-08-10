@@ -1,0 +1,34 @@
+{
+  "nameJa": "神納花",
+  "nameZh": "神納花",
+  "aliases": [
+    "管野",
+    "しずか"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E7%A5%9E%E7%B4%8D%E8%8A%B1.jpg",
+  "birth": "1987-11-13",
+  "bloodType": "O",
+  "height": "162",
+  "weight": "",
+  "threeSize": "84 - 62 - 92",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "2015",
+  "debut": "2009-05-07",
+  "agency": "",
+  "social": {
+    "x": "HanaKano_tdoR",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "神納花",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

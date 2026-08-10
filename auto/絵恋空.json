@@ -1,0 +1,33 @@
+{
+  "nameJa": "絵恋空",
+  "nameZh": "",
+  "aliases": [
+    "ぽこまる"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-FALENO/%E7%B5%B5%E6%81%8B%E7%A9%BA.jpg",
+  "birth": "2004-01-12",
+  "bloodType": "",
+  "height": "158",
+  "weight": "",
+  "threeSize": "85 - 57 - 84",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023-10-14",
+  "agency": "",
+  "social": {
+    "x": "eren_cmore",
+    "instagram": "erensora_official",
+    "tiktok": "3saki77"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "絵恋空",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

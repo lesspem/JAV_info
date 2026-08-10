@@ -1,0 +1,31 @@
+{
+  "nameJa": "鈴木麻奈美",
+  "nameZh": "鈴木麻奈美",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E9%88%B4%E6%9C%A8%E9%BA%BB%E5%A5%88%E7%BE%8E.jpg",
+  "birth": "1977-09-09",
+  "bloodType": "",
+  "height": "162",
+  "weight": "",
+  "threeSize": "82 - 58 - 83",
+  "cup": "B-70",
+  "retired": true,
+  "retiredAt": "2006",
+  "debut": "1998-03-15",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "鈴木麻奈美",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

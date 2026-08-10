@@ -1,0 +1,31 @@
+{
+  "nameJa": "七嶋舞",
+  "nameZh": "七嶋舞",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E4%B8%83%E5%B6%8B%E8%88%9E.jpg",
+  "birth": "2000-09-02",
+  "bloodType": "A",
+  "height": "160",
+  "weight": "",
+  "threeSize": "84 - 58 - 85",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "プレステージ",
+  "social": {
+    "x": "nanashima_mai",
+    "instagram": "nanashima_mai",
+    "tiktok": "nanashima_mai"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "七嶋舞",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

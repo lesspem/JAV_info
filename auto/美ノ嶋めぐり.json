@@ -1,0 +1,31 @@
+{
+  "nameJa": "美ノ嶋めぐり",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Premium/%E7%BE%8E%E3%83%8E%E5%B6%8B%E3%82%81%E3%81%90%E3%82%8A.jpg",
+  "birth": "2001-12-08",
+  "bloodType": "B",
+  "height": "156",
+  "weight": "",
+  "threeSize": "86 - 58 - 85",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "minoshimameguri",
+    "instagram": "minoshimameguri",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "美ノ嶋めぐり",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

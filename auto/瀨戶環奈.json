@@ -1,0 +1,32 @@
+{
+  "nameJa": "瀨戶環奈",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "",
+  "height": "170",
+  "weight": "",
+  "threeSize": "",
+  "cup": "J",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "Bstar",
+  "social": {
+    "x": "kanna_seto0510",
+    "instagram": "setokanna_",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "瀨戶環奈",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

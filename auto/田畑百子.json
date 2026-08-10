@@ -1,0 +1,37 @@
+{
+  "nameJa": "田畑百子",
+  "nameZh": "田畑百子",
+  "aliases": [
+    "田端",
+    "百子"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E7%94%B0%E7%95%91%E7%99%BE%E5%AD%90.jpg",
+  "birth": "1979-07-28",
+  "bloodType": "B",
+  "height": "",
+  "weight": "",
+  "threeSize": "78 - 56 - 83",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2004",
+  "debut": "2001",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "田畑百子",
+  "missing": [
+    "height",
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "宮城りえ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E5%AE%AE%E5%9F%8E%E3%82%8A%E3%81%88.jpg",
+  "birth": "2002-07-31",
+  "bloodType": "",
+  "height": "161",
+  "weight": "",
+  "threeSize": "86 - 62 - 95",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022-11-08",
+  "agency": "S1 本中",
+  "social": {
+    "x": "rie_miyagi",
+    "instagram": "miyagi_rie_",
+    "tiktok": "rie_miyagi"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "宮城りえ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

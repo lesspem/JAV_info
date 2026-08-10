@@ -1,0 +1,32 @@
+{
+  "nameJa": "鈴乃広香",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E9%88%B4%E4%B9%83%E5%BA%83%E9%A6%99.jpg",
+  "birth": "1984-05-30",
+  "bloodType": "",
+  "height": "",
+  "weight": "",
+  "threeSize": "86 - 61 - 91",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "2021-04-02",
+  "debut": "2020",
+  "agency": "マドンナ",
+  "social": {
+    "x": "suzuno_hiroka",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "鈴乃広香",
+  "missing": [
+    "height",
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

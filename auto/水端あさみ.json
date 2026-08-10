@@ -1,0 +1,31 @@
+{
+  "nameJa": "水端あさみ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Honnaka/%E6%B0%B4%E7%AB%AF%E3%81%82%E3%81%95%E3%81%BF.jpg",
+  "birth": "1990-12-09",
+  "bloodType": "",
+  "height": "165",
+  "weight": "",
+  "threeSize": "85 - 58 - 88",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2022",
+  "agency": "マドンナ",
+  "social": {
+    "x": "mizuhata_asami",
+    "instagram": "mizuhata_asami",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "水端あさみ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

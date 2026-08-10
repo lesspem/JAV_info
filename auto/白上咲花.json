@@ -1,0 +1,31 @@
+{
+  "nameJa": "白上咲花",
+  "nameZh": "白上咲花",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%99%BD%E4%B8%8A%E5%92%B2%E8%8A%B1.jpg",
+  "birth": "2003-12-27",
+  "bloodType": "",
+  "height": "168",
+  "weight": "",
+  "threeSize": "83 - 57 - 89",
+  "cup": "C",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2024-04-23",
+  "agency": "S1",
+  "social": {
+    "x": "emika_shirakami",
+    "instagram": "emika_shirakami",
+    "tiktok": "emika_shirakami"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "白上咲花",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

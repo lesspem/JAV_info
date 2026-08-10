@@ -1,0 +1,33 @@
+{
+  "nameJa": "山崎亞美",
+  "nameZh": "",
+  "aliases": [
+    "千夏"
+  ],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "A",
+  "height": "163",
+  "weight": "45kg",
+  "threeSize": "",
+  "cup": "D",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "山崎亞美",
+  "missing": [
+    "birth",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

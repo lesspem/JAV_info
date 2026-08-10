@@ -1,0 +1,31 @@
+{
+  "nameJa": "石田佳蓮",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E7%9F%B3%E7%94%B0%E4%BD%B3%E8%93%AE.jpg",
+  "birth": "1996-08-06",
+  "bloodType": "A",
+  "height": "161",
+  "weight": "",
+  "threeSize": "72 - 56 - 79",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2024-10-08",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "ISHIDA_KAREN_",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "石田佳蓮",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

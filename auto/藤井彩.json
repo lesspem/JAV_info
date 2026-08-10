@@ -1,0 +1,31 @@
+{
+  "nameJa": "藤井彩",
+  "nameZh": "藤井彩",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E8%97%A4%E4%BA%95%E5%BD%A9.jpg",
+  "birth": "1984-05-29",
+  "bloodType": "A",
+  "height": "156",
+  "weight": "",
+  "threeSize": "85 - 58 - 89",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2008",
+  "debut": "2003",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "藤井彩",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

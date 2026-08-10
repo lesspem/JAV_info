@@ -1,0 +1,31 @@
+{
+  "nameJa": "志村玲子",
+  "nameZh": "志村玲子",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E5%BF%97%E6%9D%91%E7%8E%B2%E5%AD%90.jpg",
+  "birth": "1971-03-24",
+  "bloodType": "",
+  "height": "162",
+  "weight": "",
+  "threeSize": "95 - 67 - 98",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2006",
+  "agency": "",
+  "social": {
+    "x": "shimurei0324",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "志村玲子",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

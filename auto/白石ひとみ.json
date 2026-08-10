@@ -1,0 +1,38 @@
+{
+  "nameJa": "白石ひとみ",
+  "nameZh": "白石瞳",
+  "aliases": [
+    "落合",
+    "雪恵",
+    "白石",
+    "ひとみ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-Derekhsu/%E7%99%BD%E7%9F%B3%E3%81%B2%E3%81%A8%E3%81%BF.jpg",
+  "birth": "1971-12-25",
+  "bloodType": "A",
+  "height": "159",
+  "weight": "",
+  "threeSize": "82 - 58 - 85",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "1994",
+  "debut": "1990",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "白石ひとみ",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

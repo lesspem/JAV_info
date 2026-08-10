@@ -1,0 +1,31 @@
+{
+  "nameJa": "高原智美",
+  "nameZh": "高原智美",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-Javrave/%E9%AB%98%E5%8E%9F%E6%99%BA%E7%BE%8E.jpg",
+  "birth": "1984-10-07",
+  "bloodType": "",
+  "height": "155",
+  "weight": "",
+  "threeSize": "86 - 57 - 90",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2007",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "高原智美",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

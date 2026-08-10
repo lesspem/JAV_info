@@ -1,0 +1,32 @@
+{
+  "nameJa": "唯井真尋",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "AB",
+  "height": "156",
+  "weight": "",
+  "threeSize": "",
+  "cup": "E",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "マインズ",
+  "social": {
+    "x": "tadai_mahiro",
+    "instagram": "tadai_mahiro",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "唯井真尋",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

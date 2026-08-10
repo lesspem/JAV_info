@@ -1,0 +1,31 @@
+{
+  "nameJa": "逢見梨花",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "A",
+  "height": "145",
+  "weight": "38kg",
+  "threeSize": "",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "Madonna",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "逢見梨花",
+  "missing": [
+    "birth",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

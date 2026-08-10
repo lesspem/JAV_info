@@ -1,0 +1,31 @@
+{
+  "nameJa": "岸和水",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E5%B2%B8%E5%92%8C%E6%B0%B4.jpg",
+  "birth": "2000-04-11",
+  "bloodType": "",
+  "height": "158",
+  "weight": "",
+  "threeSize": "98 - 65 - 96",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "マドンナ",
+  "social": {
+    "x": "kishi_nagomi",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "岸和水",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

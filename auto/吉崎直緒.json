@@ -1,0 +1,31 @@
+{
+  "nameJa": "吉崎直緒",
+  "nameZh": "吉崎直緒",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Warashi/%E5%90%89%E5%B4%8E%E7%9B%B4%E7%B7%92.jpg",
+  "birth": "1985-12-20",
+  "bloodType": "A",
+  "height": "163",
+  "weight": "",
+  "threeSize": "87 - 57 - 85",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2009",
+  "debut": "2005-05-30",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "吉崎直緒",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

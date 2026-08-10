@@ -1,0 +1,31 @@
+{
+  "nameJa": "杏ここ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E6%9D%8F%E3%81%93%E3%81%93.jpg",
+  "birth": "2004-02-02",
+  "bloodType": "",
+  "height": "157",
+  "weight": "",
+  "threeSize": "85 - 56 - 84",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "coco_an_8",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "杏ここ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

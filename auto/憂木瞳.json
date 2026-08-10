@@ -1,0 +1,35 @@
+{
+  "nameJa": "憂木瞳",
+  "nameZh": "憂木瞳",
+  "aliases": [
+    "中山",
+    "アンナ"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Madonna/%E6%86%82%E6%9C%A8%E7%9E%B3.jpg",
+  "birth": "1973-08-31",
+  "bloodType": "",
+  "height": "163",
+  "weight": "42kg",
+  "threeSize": "83 - 58 - 83",
+  "cup": "",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "1992",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "憂木瞳",
+  "missing": [
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,31 @@
+{
+  "nameJa": "美月優芽",
+  "nameZh": "美月優芽",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-Ebody/%E7%BE%8E%E6%9C%88%E5%84%AA%E8%8A%BD.jpg",
+  "birth": "1991-08-09",
+  "bloodType": "",
+  "height": "153",
+  "weight": "",
+  "threeSize": "93 - 60 - 92",
+  "cup": "G-65",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2012",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "美月優芽",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

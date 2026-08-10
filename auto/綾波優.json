@@ -1,0 +1,31 @@
+{
+  "nameJa": "綾波優",
+  "nameZh": "綾波優",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E7%B6%BE%E6%B3%A2%E5%84%AA.jpg",
+  "birth": "1989-04-01",
+  "bloodType": "O",
+  "height": "167",
+  "weight": "",
+  "threeSize": "83 - 58 - 83",
+  "cup": "C-70",
+  "retired": true,
+  "retiredAt": "2009",
+  "debut": "2007-11-16",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "綾波優",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

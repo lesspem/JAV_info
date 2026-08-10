@@ -1,0 +1,32 @@
+{
+  "nameJa": "篠原杏",
+  "nameZh": "篠原杏",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E7%AF%A0%E5%8E%9F%E6%9D%8F.jpg",
+  "birth": "1991-04-21",
+  "bloodType": "O",
+  "height": "157",
+  "weight": "",
+  "threeSize": "100 - 62 - 89",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2012-11-15",
+  "debut": "2010",
+  "agency": "",
+  "social": {
+    "x": "aki_mzs777",
+    "instagram": "aki_mizusa777",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "篠原杏",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

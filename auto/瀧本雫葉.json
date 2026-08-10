@@ -1,0 +1,31 @@
+{
+  "nameJa": "瀧本雫葉",
+  "nameZh": "瀧本雫葉",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/6-Tpowers/%E7%80%A7%E6%9C%AC%E9%9B%AB%E8%91%89.jpg",
+  "birth": "1999-05-08",
+  "bloodType": "A",
+  "height": "166",
+  "weight": "",
+  "threeSize": "90 - 57 - 90",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "プレステージ",
+  "social": {
+    "x": "shizuhatakimoto",
+    "instagram": "shizuha_takimoto",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "瀧本雫葉",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

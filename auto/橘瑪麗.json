@@ -1,0 +1,31 @@
+{
+  "nameJa": "橘瑪麗",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%A9%98%E7%91%AA%E9%BA%97.jpg",
+  "birth": "1993-07-07",
+  "bloodType": "",
+  "height": "168",
+  "weight": "",
+  "threeSize": "99 - 63 - 94",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2014",
+  "agency": "",
+  "social": {
+    "x": "mary_tachibana",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "橘瑪麗",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

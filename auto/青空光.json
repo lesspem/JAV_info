@@ -1,0 +1,32 @@
+{
+  "nameJa": "青空光",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "",
+  "height": "153",
+  "weight": "",
+  "threeSize": "",
+  "cup": "D",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "C-more ENTERTAINMENT",
+  "social": {
+    "x": "aozora_pikakin",
+    "instagram": "aozora_cmore",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "青空光",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

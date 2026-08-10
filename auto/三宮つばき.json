@@ -1,0 +1,31 @@
+{
+  "nameJa": "三宮つばき",
+  "nameZh": "三宮椿",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-S1/%E4%B8%89%E5%AE%AE%E3%81%A4%E3%81%B0%E3%81%8D.jpg",
+  "birth": "1998-05-04",
+  "bloodType": "A",
+  "height": "150",
+  "weight": "",
+  "threeSize": "89 - 54 - 83",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "",
+  "debut": "2020-07-07",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "tsubaki_s_cmore",
+    "instagram": "tsubaki_s_cmore",
+    "tiktok": "sannomiya_cmore"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "三宮つばき",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

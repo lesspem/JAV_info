@@ -1,0 +1,31 @@
+{
+  "nameJa": "鈴木杏里",
+  "nameZh": "鈴木杏里",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E9%88%B4%E6%9C%A8%E6%9D%8F%E9%87%8C.jpg",
+  "birth": "1985-12-11",
+  "bloodType": "O",
+  "height": "167",
+  "weight": "",
+  "threeSize": "88 - 59 - 87",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2005-03-19",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "鈴木杏里",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

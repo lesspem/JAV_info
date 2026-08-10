@@ -1,0 +1,31 @@
+{
+  "nameJa": "三澄寧々",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/8-Ideapocket/%E4%B8%89%E6%BE%84%E5%AF%A7%E3%80%85.jpg",
+  "birth": "2001-06-17",
+  "bloodType": "",
+  "height": "160",
+  "weight": "",
+  "threeSize": "92 - 56 - 86",
+  "cup": "H",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2025",
+  "agency": "アイデアポケット",
+  "social": {
+    "x": "misumi_nene",
+    "instagram": "misumi_nene",
+    "tiktok": "misumi_nene"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "三澄寧々",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

@@ -1,0 +1,30 @@
+{
+  "nameJa": "飛鳥鈴",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1997-01-08",
+  "bloodType": "A",
+  "height": "150",
+  "weight": "",
+  "threeSize": "86 - 54 - 85",
+  "cup": "E-65",
+  "retired": true,
+  "retiredAt": "2020",
+  "debut": "2016",
+  "agency": "",
+  "social": {
+    "x": "asukarin0108",
+    "instagram": "asuka_rin0108",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "飛鳥鈴",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

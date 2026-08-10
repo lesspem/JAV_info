@@ -1,0 +1,31 @@
+{
+  "nameJa": "加藤結衣",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E5%8A%A0%E8%97%A4%E7%B5%90%E8%A1%A3.jpg",
+  "birth": "1993-12-16",
+  "bloodType": "O",
+  "height": "156",
+  "weight": "",
+  "threeSize": "86 - 57 - 83",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "kato_yui_",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "加藤結衣",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

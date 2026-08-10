@@ -1,0 +1,31 @@
+{
+  "nameJa": "伊賀真子",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "B",
+  "height": "161",
+  "weight": "42kg",
+  "threeSize": "",
+  "cup": "D-65",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "",
+  "agency": "Prime Agency",
+  "social": {
+    "x": "mako_iga",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "伊賀真子",
+  "missing": [
+    "birth",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

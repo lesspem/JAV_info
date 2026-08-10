@@ -1,0 +1,32 @@
+{
+  "nameJa": "三田真铃",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "",
+  "bloodType": "",
+  "height": "157",
+  "weight": "",
+  "threeSize": "",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2023",
+  "agency": "S1",
+  "social": {
+    "x": "mitamarin0628",
+    "instagram": "mitamarin0628",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "三田真铃",
+  "missing": [
+    "birth",
+    "weight",
+    "threeSize"
+  ],
+  "updatedAt": "2026-08-10"
+}

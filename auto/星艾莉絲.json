@@ -1,0 +1,30 @@
+{
+  "nameJa": "星艾莉絲",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "",
+  "birth": "1983-09-12",
+  "bloodType": "B",
+  "height": "162",
+  "weight": "",
+  "threeSize": "100 - 63 - 88",
+  "cup": "I",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2003",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "星艾莉絲",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

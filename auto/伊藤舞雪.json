@@ -1,0 +1,31 @@
+{
+  "nameJa": "伊藤舞雪",
+  "nameZh": "伊藤舞雪",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E4%BC%8A%E8%97%A4%E8%88%9E%E9%9B%AA.jpg",
+  "birth": "1997-11-30",
+  "bloodType": "O",
+  "height": "160",
+  "weight": "",
+  "threeSize": "88 - 54 - 89",
+  "cup": "F",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2018",
+  "agency": "kawaii*",
+  "social": {
+    "x": "mayukiito",
+    "instagram": "myk__gram",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "伊藤舞雪",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

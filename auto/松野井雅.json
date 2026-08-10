@@ -1,0 +1,34 @@
+{
+  "nameJa": "松野井雅",
+  "nameZh": "松野井雅",
+  "aliases": [
+    "七海",
+    "まい"
+  ],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/0-Hand-Storage/%E6%9D%BE%E9%87%8E%E4%BA%95%E9%9B%85.jpg",
+  "birth": "1988-01-01",
+  "bloodType": "O",
+  "height": "165",
+  "weight": "",
+  "threeSize": "85 - 58 - 85",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2011",
+  "debut": "2009-01-22",
+  "agency": "SOD",
+  "social": {
+    "x": "MIYAVI_MATSUNOI",
+    "instagram": "miyavimatsunoi",
+    "tiktok": "miyavi_matsunoi"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "松野井雅",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

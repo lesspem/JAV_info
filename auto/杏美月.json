@@ -1,0 +1,31 @@
+{
+  "nameJa": "杏美月",
+  "nameZh": "杏美月",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E6%9D%8F%E7%BE%8E%E6%9C%88.jpg",
+  "birth": "1987-09-15",
+  "bloodType": "O",
+  "height": "163",
+  "weight": "",
+  "threeSize": "111 - 64 - 98",
+  "cup": "J",
+  "retired": true,
+  "retiredAt": "2016",
+  "debut": "2006",
+  "agency": "",
+  "social": {
+    "x": "himan_mitsuki",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "杏美月",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

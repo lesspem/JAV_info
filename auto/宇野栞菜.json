@@ -1,0 +1,31 @@
+{
+  "nameJa": "宇野栞菜",
+  "nameZh": "宇野栞菜",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/1-Diaz/%E5%AE%87%E9%87%8E%E6%A0%9E%E8%8F%9C.jpg",
+  "birth": "1992-11-17",
+  "bloodType": "A",
+  "height": "153",
+  "weight": "",
+  "threeSize": "80 - 59 - 81",
+  "cup": "B-70",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2017-11-01",
+  "agency": "",
+  "social": {
+    "x": "kannaimai",
+    "instagram": "kanna_imai",
+    "tiktok": "kannauno"
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "宇野栞菜",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

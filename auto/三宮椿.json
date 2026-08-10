@@ -1,0 +1,30 @@
+{
+  "nameJa": "三宮椿",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://commons.wikimedia.org/wiki/Special:FilePath/TsubakiSannomiya.jpeg?width=200",
+  "birth": "1998-05-04",
+  "bloodType": "A",
+  "height": "150",
+  "weight": "",
+  "threeSize": "89 - 54 - 83",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2020",
+  "agency": "Attackers",
+  "social": {
+    "x": "tsubaki_s_cmore",
+    "instagram": "tsubaki_s_cmore",
+    "tiktok": "sannomiya_cmore"
+  },
+  "works": "",
+  "sources": [
+    "zh.wikipedia"
+  ],
+  "name": "三宮椿",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

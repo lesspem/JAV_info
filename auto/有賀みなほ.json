@@ -1,0 +1,31 @@
+{
+  "nameJa": "有賀みなほ",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/9-AVDBS/%E6%9C%89%E8%B3%80%E3%81%BF%E3%81%AA%E3%81%BB.jpg",
+  "birth": "1988-08-24",
+  "bloodType": "B",
+  "height": "156",
+  "weight": "",
+  "threeSize": "84 - 54 - 89",
+  "cup": "G",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "minaho_ariga",
+    "instagram": "arigaminaho",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "有賀みなほ",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

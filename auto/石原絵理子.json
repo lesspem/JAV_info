@@ -1,0 +1,34 @@
+{
+  "nameJa": "石原絵理子",
+  "nameZh": "石原繪理子",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/z-DMM(%E9%AA%91)/%E7%9F%B3%E5%8E%9F%E7%B5%B5%E7%90%86%E5%AD%90.jpg",
+  "birth": "1983-05-16",
+  "bloodType": "O",
+  "height": "149",
+  "weight": "",
+  "threeSize": "",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2004",
+  "debut": "2000",
+  "agency": "81プロデュース",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "石原絵理子",
+  "missing": [
+    "weight",
+    "threeSize",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

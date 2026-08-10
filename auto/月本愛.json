@@ -1,0 +1,31 @@
+{
+  "nameJa": "月本愛",
+  "nameZh": "月本愛",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/2-Nanairo/%E6%9C%88%E6%9C%AC%E6%84%9B.jpg",
+  "birth": "1994-12-09",
+  "bloodType": "O",
+  "height": "154",
+  "weight": "",
+  "threeSize": "90 - 60 - 86",
+  "cup": "G",
+  "retired": true,
+  "retiredAt": "2018",
+  "debut": "2015",
+  "agency": "",
+  "social": {
+    "x": "tsukimoto_ai",
+    "instagram": "tsukimotoai",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "月本愛",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

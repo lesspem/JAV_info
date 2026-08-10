@@ -1,0 +1,31 @@
+{
+  "nameJa": "山川青空",
+  "nameZh": "山川青空",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/5-%E7%97%B4%E5%A5%B3%E5%A4%A9%E5%A0%82/%E5%B1%B1%E5%B7%9D%E9%9D%92%E7%A9%BA.jpg",
+  "birth": "1992-06-01",
+  "bloodType": "A",
+  "height": "165",
+  "weight": "",
+  "threeSize": "88 - 58 - 84",
+  "cup": "E",
+  "retired": true,
+  "retiredAt": "2014",
+  "debut": "2012",
+  "agency": "美",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "山川青空",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}

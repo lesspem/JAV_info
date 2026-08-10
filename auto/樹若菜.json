@@ -1,0 +1,33 @@
+{
+  "nameJa": "樹若菜",
+  "nameZh": "樹若菜",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/7-Moodyz/%E6%A8%B9%E8%8B%A5%E8%8F%9C.jpg",
+  "birth": "1983-02-03",
+  "bloodType": "AB",
+  "height": "148",
+  "weight": "",
+  "threeSize": "82 - 57 - 83",
+  "cup": "",
+  "retired": true,
+  "retiredAt": "2003",
+  "debut": "2001",
+  "agency": "",
+  "social": {
+    "x": "",
+    "instagram": "",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "zh.wikipedia",
+    "gfriends"
+  ],
+  "name": "樹若菜",
+  "missing": [
+    "weight",
+    "cup"
+  ],
+  "updatedAt": "2026-08-10"
+}

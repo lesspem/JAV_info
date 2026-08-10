@@ -1,0 +1,31 @@
+{
+  "nameJa": "岡田ひなの",
+  "nameZh": "",
+  "aliases": [],
+  "avatar": "https://raw.githubusercontent.com/gfriends/gfriends/master/Content/3-Allpro/%E5%B2%A1%E7%94%B0%E3%81%B2%E3%81%AA%E3%81%AE.jpg",
+  "birth": "1994-12-25",
+  "bloodType": "A",
+  "height": "158",
+  "weight": "",
+  "threeSize": "86 - 56 - 86",
+  "cup": "C",
+  "retired": false,
+  "retiredAt": "",
+  "debut": "2021",
+  "agency": "アタッカーズ",
+  "social": {
+    "x": "OkadaHinano_all",
+    "instagram": "okadahinano_all",
+    "tiktok": ""
+  },
+  "works": "",
+  "sources": [
+    "ja.wikipedia",
+    "gfriends"
+  ],
+  "name": "岡田ひなの",
+  "missing": [
+    "weight"
+  ],
+  "updatedAt": "2026-08-10"
+}
